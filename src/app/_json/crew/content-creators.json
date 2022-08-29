@@ -75,12 +75,12 @@
         "name": "aleya",
         "yt": "Link",
         "twitch": "Link",
-        "ytlink": "",
+        "ytlink": "https://www.youtube.com/user/Klaubent1/videos",
         "twitchlink": "https://www.twitch.tv/aleyaa__",
         "rank": "Unranked Content Creator",
         "rankimg": "unranked",
         "rankclass": "unranked",
-        "ytclass": "display-none",
+        "ytclass": "yt-link",
         "twitchclass": "twitch-link"
     }
 ]
