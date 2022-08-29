@@ -47,11 +47,10 @@
     align-items: center;
 }
 
-.special-item-gif {
+.special-item video {
     max-width: 100%;
     max-height: 100%;
     padding-inline: 1em;
-    width: 800px;
 }
 .special-item-container img {
     max-width: 36px;
@@ -60,6 +59,11 @@
 
 .purple-clr {
     color: var(--void-clr);
+}
+
+.special-item-container {
+    text-align: center;
+    padding-inline: 3em;
 }
 
 /* Media queries */
