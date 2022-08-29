@@ -1,0 +1,68 @@
+[
+    {
+        "location": "Citadel NPCs",
+        "npcs": [
+            {
+                "name": "Achievement NPC",
+                "info": "You can use your Achievement Unlockers"
+            },
+            {
+                "name": "Costumes NPC",
+                "info": "You can use your Costume Pieces"
+            },
+            {
+                "name": "Dragon Gem NPC",
+                "info": "You can trade your Bloody Red Rubies vs Dragon Gems"
+            },
+            {
+                "name": "Elemental Gemstones NPC",
+                "info": "You can craft your +20 SP effect"
+            },
+            {
+                "name": "Essences NPCs",
+                "info": "You can trade your raid essences"
+            },
+            {
+                "name": "Fortune Box NPC",
+                "info": "You can trade your Caligor's Spirits"
+            },
+            {
+                "name": "Lost War Helmet NPC",
+                "info": "You can trade your Lost War Helmets"
+            },
+            {
+                "name": "Marriage Box NPC",
+                "info": "You can craft a Marriage Box"
+            }            
+        ]
+    },
+    {
+        "location": "Bitoren Tundra NPCs",
+        "npcs": [
+            {
+                "name": "Books NPC",
+                "info": "You can craft your Act4 Books"
+            },
+            {
+                "name": "Dailies Act4 NPC",
+                "info": "You can take your Daily and Monthly Quests"
+            },
+            {
+                "name": "Fairies NPC",
+                "info": "You can craft your Infinite Fernon Fairies"
+            },
+            {
+                "name": "Marto's NPC",
+                "info": "Once per day, you can get Marto's buff (7% chance to get an additional box after Caligor or Act4 Raid)"
+            },
+            {
+                "name": "Monthly NPC",
+                "info": "You can craft the monthly items"
+            },
+            {
+                "name": "Useful Stuff NPC",
+                "info": "You can craft : Zephyr, Onyx, Crystal Wings, Change SP Item, Change Skin 3 & Fafnir Special Treasure Chest. You also can trade your Holy Light in Bloody Red Ruby and vice-versa."
+            }     
+        ]
+    }
+]

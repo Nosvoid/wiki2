@@ -1,0 +1,192 @@
+[
+    {
+        "title": "Daily Quests",
+        "quests": [
+            {
+                "name": "Nosville Daily Quests",
+                "npc": "p0_daily_quests_npc",
+                "todo": [
+                    {
+                        "name": "Draco, Glacerus and Laurena",
+                        "complete": "Complete 7x Draco, Glacerus and Laurena raids",
+                        "rewards": [{ "reward": "7x Random Amulet Box (Raid Quest)" }]
+                    },
+                    {
+                        "name": "Zenas, Erenia and Fernon",
+                        "complete": "Complete 7x Zenas, Erenia and Fernon raids",
+                        "rewards": [{ "reward": "7x Random Amulet Box (Raid Quest)"}]
+                    }
+                ]
+            },
+            {
+                "name": "Prestige 7 Daily Quests",
+                "npc": "p7_quests_npc",
+                "todo": [
+                    {
+                        "name": "Pure Beast and Kirollas",
+                        "complete": "Complete 7x Pure Beast and Kirollas raids",
+                        "rewards": [{ "reward": "14x Random Amulet Box (Raid Quest)"}]
+                    },
+                    {
+                        "name": "Pure Beast and Kirollas 2",
+                        "complete": "Complete 7x Pure Beast and Kirollas raids",
+                        "rewards": [{ "reward": "1x Golden Powder and 1x Black Powder"}]
+                    },
+                    {
+                        "name": "Clear Tower 1",
+                        "complete": "Kill 30x Rock Golem and 30x Belial's Dark Knight",
+                        "rewards": [{ "reward": "7x Tower Boxes"}]
+                    },
+                    {
+                        "name": "Clear Tower 2",
+                        "complete": "Kill 30x Chief Tator and 30x Hellbeast",
+                        "rewards": [{ "reward": "7x Tower Boxes"}]
+                    }
+                ]
+            },
+            {
+                "name": "Prestige 8 Daily Quests",
+                "npc": "p8_quests_npc",
+                "todo": [
+                    {
+                        "name": "Paimon",
+                        "complete": "Complete 7x Paimon raid",
+                        "rewards": [{ "reward": "1x Soul Silver"}]
+                    },
+                    {
+                        "name": "Belial",
+                        "complete": "Complete 7x Belial raid",
+                        "rewards": [{ "reward": "1x Brass Coin"}]
+                    },
+                    {
+                        "name": "Devil of Olorun",
+                        "complete": "Complete 5x Pure Beast, Kirollas, Paimon and Belial raids",
+                        "rewards": [{ "reward": "5x Random Amulet Box (Raid Quest)"}]
+                    },
+                    {
+                        "name": "Little Help",
+                        "complete": "First Step : Kill 50x Black Bushi and Bull Bushi. Second step : Kill 40x Belial's Armoured Knight in Belial raid",
+                        "rewards": [{ "reward": "60x Orc Hero's Jewel"}]
+                    },
+                    {
+                        "name": "Hardcore 1",
+                        "complete": "Complete 5x Hardcore raid",
+                        "rewards": [{ "reward": "5x Random Amulet Box (Raid Quest)"}]
+                    },
+                    {
+                        "name": "Hardcore 2",
+                        "complete": "Complete 3x Hardcore raid",
+                        "rewards": [{ "reward": "1x Dragon's Wing"}]
+                    },
+                    {
+                        "name": "Hardcore Time Space",
+                        "complete": "Complete 10x Hardcore Time Space",
+                        "rewards": [{ "reward": "1x Fernon's Energy"}]
+                    }
+                ]
+            },
+            {
+                "name": "Prestige 8.1 Daily Quests",
+                "npc": "p81_quests_npc",
+                "todo": [
+                    {
+                        "name": "Ibrahim",
+                        "complete": "Complete 5x Ibrahim raid",
+                        "rewards": [
+                            { "reward": "8x Random Amulet Box (Raid Quest)"},
+                            { "reward": "5x Akamur Coupon"},
+                            { "reward": "1x Ibrahim's Dark Key"}
+                        ]
+                    },
+                    {
+                        "name": "Sandstorm",
+                        "complete": "Complete 10x Sandstorm raid",
+                        "rewards": [
+                            { "reward": "8x Random Amulet Box (Raid Quest)"},
+                            { "reward": "1x Lich Energy Ring"}
+                    ]
+                    },
+                    {
+                        "name": "Sandstorm 2",
+                        "complete": "Complete 15x Sandstorm raid",
+                        "rewards": [
+                            { "reward": "1x Ibrahim's Bag"},
+                            { "reward": "15x Hot Fabric"},
+                            { "reward": "15x Fire Slade's Glowing Heart"},
+                            { "reward": "2x Cellon (Lv 10)"}
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Act 4 Daily Quest",
+                "npc": "a4_quests_npc",
+                "todo": [
+                    {
+                        "name": "Frozen Quest",
+                        "complete": "First step : Kill 15x players in Act4. Second step : Kill 10x Frosty Ghost Stag and Yeti.",
+                        "rewards": [{ "reward": "1x Frozen Spear"}]
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "title": "Marathon Quests",
+        "quests": [
+            {
+                "name": "NosVille Marathon Quests",
+                "npc": "p0_mara_quests_npc",
+                "todo": [
+                    {
+                        "name": "Zenas Marathon",
+                        "complete": "Complete 200x Zenas raid (Can be done once per char)",
+                        "rewards": [{ "reward": "King of Zenas Title"}]
+                    },
+                    {
+                        "name": "Erenia Marathon",
+                        "complete": "Complete 300x Erenia raid (Can be done once per char)",
+                        "rewards": [{ "reward": "King of Erenia Title"}]
+                    },
+                    {
+                        "name": "Fernon Marathon",
+                        "complete": "Complete 400x Fernon raid (Can be done once per char)",
+                        "rewards": [{ "reward": "King of Fernon Title"}]
+                    },
+                    {
+                        "name": "Zenas Marathon 2",
+                        "complete": "Complete 600x Zenas raid",
+                        "rewards": [{ "reward": "Mini Zenas Pet"}]
+                    },
+                    {
+                        "name": "Erenia Marathon 2",
+                        "complete": "Complete 700x Erenia raid",
+                        "rewards": [{ "reward": "Mini Erenia Pet"}]
+                    },
+                    {
+                        "name": "Fernon Marathon 2",
+                        "complete": "Complete 900x Fernon raid",
+                        "rewards": [{ "reward": "Mini Fernon Pet"}]
+                    }
+                    
+                ]
+            }
+        ]
+    }, 
+    {
+        "title": "Monthly Quest",
+        "quests": [
+            {
+                "name": "Act 4 Monthly Quest",
+                "npc": "a4_quests_npc",
+                "todo": [
+                    {
+                        "name": "Act4 Kills",
+                        "complete": "Kill 750x players in Act4",
+                        "rewards": [{ "reward": "1x Butcher's Soul-Spirit"}]
+                    }
+                ]
+            }
+        ]
+    }
+]

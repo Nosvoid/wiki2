@@ -1,0 +1,15 @@
+<div class="d-flex justify-content-center">
+    <section class="obtaining">
+        <h1 class="obtaining-title">Obtaining SPs</h1>
+        
+        <div class="sps-container">
+            <div class="sp-container" *ngFor="let sp of obtaining">
+                <h2 class="sp-title">{{sp.name}}</h2>
+                <p class="sp-location w-75">{{sp.location}}</p>
+                <div class="{{sp.class}}">
+                    <img src="../../assets/img/specialists/obtaining/{{icon.icon}}.png" *ngFor="let icon of sp.img" alt="">
+                </div>
+            </div>
+        </div>
+    </section>
+</div>

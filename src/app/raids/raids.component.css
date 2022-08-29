@@ -1,0 +1,83 @@
+.raids {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-block: 3em;
+    color: white;
+    background-color: rgba(0, 0, 0, .8);
+    border-radius: 20px;
+    width: 100%;
+    padding: 3em 0;
+}
+
+.raid-container {
+    padding: 1em;
+}
+
+.raid-container img {
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 10px;
+}
+
+/* Titles */
+
+.raid-name, .raids-title {
+    font-family: 'Edu SA Beginner', cursive;
+    display: flex;
+    justify-content: center;
+    font-size: 2rem;
+}
+
+.raids-title {
+    font-size: 3rem;
+    margin-bottom: 1em;
+}
+
+.raid-location {
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+.raid {
+    font-size: 1.2rem;
+    line-height: 1.5em;
+    display: flex;
+    gap: 1em;
+    margin-bottom: .5em;
+}
+
+.raid-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.raid-box img {
+    max-height: 36px;
+    max-width: 37px;
+}
+
+.raid-box h3 {
+    font-size: 1.2rem;
+}
+
+.raid-list {
+    align-items: flex-start;
+    justify-content: flex-start !important;
+    padding: 0;
+}
+
+/* Media queries */
+@media all and (min-width: 1140px) {
+    .raids-container {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        padding: 2em;
+    }
+
+    .raids {
+        width: 75%;
+    }
+}

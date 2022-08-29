@@ -1,0 +1,82 @@
+.rules {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-block: 3em;
+    color: white;
+    background-color: rgba(0, 0, 0, .8);
+    border-radius: 20px;
+    width: 100%;
+    padding: 3em 0;
+}
+
+.rules-title {
+    font-family: 'Edu SA Beginner', cursive;
+    display: flex;
+    justify-content: center;
+    font-size: 3rem;
+    margin-bottom: 1em;
+}
+
+.rules-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 2em;
+}
+
+.open-rule {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: .5em 1em;
+    background-color: var(--void-clr);
+    border: none;
+    font-weight: bold;
+    border-radius: 10px;
+    color: white;
+    font-size: 1.2rem;
+    line-height: 1.5em;
+}
+
+.rule-number {
+    background-color: white;
+    color: var(--void-clr);
+    padding: .3em;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+.rule-list {
+    margin-left: 0;
+    background-color: var(--void-clr);
+    border-radius: 10px;
+    margin-top: 2em;
+    padding: 1em;
+    font-size: 1.1rem;
+}
+
+.rule-list li {
+    padding: .3em;
+    margin-bottom: 1em;
+    line-height: 2em;
+}
+
+.red-color {
+    color: red;
+}
+
+.rule-title {
+    text-align: start;
+}
+
+/* Media queries */
+@media all and (min-width: 1140px) {
+    .rules {
+        width: 75%;
+    }
+}

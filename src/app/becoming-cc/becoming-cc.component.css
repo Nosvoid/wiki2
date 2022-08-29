@@ -1,0 +1,167 @@
+.become-cc {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-block: 3em;
+    color: white;
+    background-color: rgba(0, 0, 0, .8);
+    border-radius: 20px;
+    width: 100%;
+    padding: 3em 0;
+}
+
+.become-cc-title-1,
+.become-cc-title-2,
+.become-cc-title-3 {
+    font-family: 'Edu SA Beginner', cursive;
+}
+
+.become-cc-title-1 {
+    font-size: 3rem;
+    margin-bottom: 1em;
+}
+
+.become-cc-title-2 {
+    font-size: 2.5rem;
+    margin-top: 1em;
+}
+
+.become-cc-title-3 {
+    font-size: 2rem;
+    line-height: 1.3em;
+}
+
+.become-cc-title-4 {
+    font-size: 1.3rem;
+    line-height: 1.3em;
+    display: flex;
+    gap: .5em;
+    justify-content: center;
+    align-items: center;
+}
+
+.become-cc-title-4 img {
+    max-width: 100%;
+    max-height: 100%;
+    width: 24px;
+    height: 24px;
+}
+
+.become-cc-text {
+    font-size: 1.1rem;
+    line-height: 1.5em;
+}
+
+.become-cc {
+    text-align: center;
+    width: 75%;
+}
+
+.cc-ranks,
+.yt-views,
+.twitch-views,
+.cc-rules,
+.cc-rewards {
+    display: flex;
+    justify-content: center;
+}
+
+.cc-ranks-list,
+.cc-views-list,
+.cc-rules-list,
+.cc-rewards-list {
+    text-align: start;
+}
+
+.cc-rank {
+    font-size: 1.1rem;
+    line-height: 2em;
+    display: flex;
+    align-items: center;
+    gap: .5em;
+}
+
+.cc-rank img {
+    max-width: 100%;
+    max-height: 100%;
+    width: 24px;
+    height: 24px;
+}
+
+.void-clr {
+    color: var(--void-clr);
+}
+
+.views {
+    gap: 1em;
+}
+
+.yt-views {
+    flex-direction: column;
+    border: 2px solid var(--yt-clr);
+    border-radius: 10px;
+    padding: 1em 1em;
+}
+
+.twitch-views {
+    flex-direction: column;
+    border: 2px solid var(--twitch-clr);
+    border-radius: 10px;
+    padding: 1em 1em;
+}
+
+.cc-views-list {
+    padding: 0;
+    margin: 0;
+}
+
+.cc-view,
+.cc-rule  {
+    font-size: 1.1rem;
+    line-height: 2em;
+}
+
+.cc-rules,
+.cc-rewards {
+    flex-direction: column;
+    align-items: center;
+}
+
+.cc-rules-list,
+.cc-rewards-list {
+    width: 75%;
+}
+
+/* CC colors */
+
+.bronze {
+    color: var(--bronze-cc-clr);
+}
+.silver {
+    color: var(--silver-cc-clr);
+}
+.gold {
+    color: var(--gold-cc-clr);
+}
+.plat {
+    color: var(--plat-cc-clr);
+}
+.diamond {
+    color: var(--diamond-cc-clr);
+}
+.master {
+    color: var(--master-cc-clr);
+}
+
+/* Media queries */
+@media all and (min-width: 1140px) {
+    .become-cc-content {
+        width: 75%;
+    }
+    .views {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        padding: 2em;
+    }
+}

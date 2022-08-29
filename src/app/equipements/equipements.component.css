@@ -1,0 +1,72 @@
+.equipements {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-block: 3em;
+    color: white;
+    background-color: rgba(0, 0, 0, .8);
+    border-radius: 20px;
+    width: 100%;
+    padding: 3em 0;
+}
+
+.eqs {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2em;
+    padding: 2em 4em;
+    border-bottom: 1px solid white;
+    margin-inline: 3em;
+}
+
+.equipements-title {
+    font-size: 2rem;
+}
+
+.eqs-title {
+    font-size: 1.75rem;
+    margin-top: 1em;
+}
+
+.crafting-items-title {
+    text-align: center;
+    font-size: 1.75rem;
+}
+
+.crafting-item {
+    font-size: 1.2rem;
+    line-height: 1.5em;
+}
+
+.c60-scroll {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.crafting-scroll {
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+.equipements-title, 
+.eqs-title, 
+.crafting-items-title {
+    font-family: 'Edu SA Beginner', cursive;
+}
+
+@media all and (min-width: 1140px) {
+    .eqs {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        justify-items: center;
+        gap: 0;
+    }
+
+    .equipements {
+        width: 75%;
+    }
+}

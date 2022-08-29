@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Laurena's Set",
+        "location": "You can get this set in Accessory Raid at $warp p3",
+        "buff": "laurena_set",
+        "class": "pvp"
+    },
+    {
+        "name": "Lich Set",
+        "location": "You can get this set in $warp p8.1 quests, events and raids",
+        "buff": "licht_set",
+        "class": "pvp"
+    },
+    {
+        "name": "Loa Set",
+        "location": "You can get this set in Accessory Raid at $warp p3",
+        "buff": "old_pvp_set",
+        "class": "pvp"
+    },
+    {
+        "name": "Tower",
+        "location": "You can craft this set at Tower NPC $warp p7",
+        "buff": "tower_set",
+        "class": "raid"
+    },
+    {
+        "name": "Act4 Bracelet, Betting Necklace, Raid Ring",
+        "location": "You can get them in the Fortune Wheel and during the Evolution Event",
+        "buff": "wheel_set",
+        "class": "raid"
+    }
+]

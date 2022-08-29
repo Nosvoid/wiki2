@@ -1,0 +1,40 @@
+.whitelist {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-block: 3em;
+    color: white;
+    background-color: rgba(0, 0, 0, .8);
+    border-radius: 20px;
+    width: 100%;
+    padding: 3em 0;
+}
+
+.whitelist-title {
+    font-size: 3rem;
+    margin-bottom: 1em;
+}
+
+.fix-error-title {
+    font-size: 2rem;
+    margin-block: 1em;
+}
+
+.whitelist-title,
+.fix-error-title {
+    font-family: 'Edu SA Beginner', cursive;
+}
+
+.whitelist li, 
+.whitelist p {
+    font-size: 1.1rem;
+    margin-block: 1em;
+}
+
+/* Media queries */
+@media all and (min-width: 1140px) {
+    .whitelist {
+        width: 75%;
+    }
+}

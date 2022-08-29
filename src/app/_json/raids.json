@@ -1,0 +1,346 @@
+[
+    {
+        "name": "Accessory",
+        "location": "$warp p3",
+        "box": "accessory_box",
+        "rewards": [
+            { "reward": "- 1x Laurena's Bracelet" },
+            { "reward": "- 1x Laurena's Ring" },
+            { "reward": "- 1x Laurena's Necklace" },
+            { "reward": "- 50x Robber Gang Gold Coins" },
+            { "reward": "- 80x Full Moon Crystal" },
+            { "reward": "- 80x Angel's Feather" },
+            { "reward": "- Raid Ticket" },
+            { "reward": "- 2x Cellon (Lv 8)" },
+            { "reward": "- 2x Cellon (Lv 9)" },
+            { "reward": "- 2x Cellon (Lv 10)" },
+            { "reward": "- 1x Silence Mask A" },
+            { "reward": "- 1x Silence Mask B" },
+            { "reward": "- 1x Silence Mask C" },
+            { "reward": "- 1x X Mask" },
+            { "reward": "- 1x Snake Loa Bracelet" },
+            { "reward": "- 1x Jade Spirit Ring" },
+            { "reward": "- 1x Occult Necklace" }
+        ]
+    },
+    {
+        "name": "Belial",
+        "location": "$warp p8",
+        "box": "belial_box",
+        "rewards": [
+            { "reward": "- 1x Ancient Orc Statue" },
+            { "reward": "- 5x Ancient Hero's Soul" },
+            { "reward": "- 2x Gleaming Ancient Hero's Soul" },
+            { "reward": "- 30x Orc Hero's Jewel" },
+            { "reward": "- 7x Orc Soulstone" },
+            { "reward": "- 70x Angel's Feather" },
+            { "reward": "- 70x Full Moon Crystal" },
+            { "reward": "- 3x Large Lump of Gold" },
+            { "reward": "- 1x Fairy Booster" }
+        ]
+    },
+    {
+        "name": "Lord Draco",
+        "location": "$warp raidarea",
+        "box": "draco_box",
+        "rewards": [
+            { "reward": "- 50x Full Moon Crystal" },
+            { "reward": "- 50x Angel's Feather" },
+            { "reward": "- 50x Seed of Power" },
+            { "reward": "- 1x Fire Cannoneer Specialist Card" },
+            { "reward": "- 1x Gladiator Specialist Card" },
+            { "reward": "- 1x Volcano Specialist Card" },
+            { "reward": "- 2x Large Lump of Gold" },
+            { "reward": "- 1x Grail's Pattern" },
+            { "reward": "- 1x Rarify Item" }
+        ]
+    },
+    {
+        "name": "Erenia",
+        "location": "$warp p3",
+        "box": "erenia_box",
+        "rewards": [
+            { "reward": "- 200x Angel's Feather" },
+            { "reward": "- 1x Erenia (Fire)" },
+            { "reward": "- 1x Erenia (Water)" },
+            { "reward": "- 1x Erenia (Shadow)" },
+            { "reward": "- 1x Erenia (Light)" },
+            { "reward": "- 1x Erenia's Necklace" },
+            { "reward": "- 1x Erenia's Ring" },
+            { "reward": "- 1x Erenia's Bracelet" },
+            { "reward": "- 1x Sealed Hellord Gloves" },
+            { "reward": "- 1x Sealed Hellord Shoes" },
+            { "reward": "- 1x The Elementary Book of Adventurer" },
+            { "reward": "- 1x Upgrade Item" },
+            { "reward": "- 1x Soul of Erenia" }
+        ]
+    },
+    {
+        "name": "Fernon",
+        "location": "$warp p5",
+        "box": "fernon_box",
+        "rewards": [
+            { "reward": "- 100x Full Moon Crystal" },
+            { "reward": "- 100x Angel's Feather" },
+            { "reward": "- 100x Cella Powder" },
+            { "reward": "- Archer's c50 eqs" },
+            { "reward": "- Swordman's c50 eqs" },
+            { "reward": "- Mage's c50 eqs" },
+            { "reward": "- MA's c50 eqs" },
+            { "reward": "- 3x Small Lump of Gold" },
+            { "reward": "- 1x Random Amulet Box (1x)" },
+            { "reward": "- 1x Fernon's Gloves" },
+            { "reward": "- 1x Fernon's Shoes" },
+            { "reward": "- 3x Raid Ticket" },
+            { "reward": "- 1x Upgrade Item" },
+            { "reward": "- 1x Azrael Mask" },
+            { "reward": "- 1x Soul of Fernon" }
+        ]
+    },
+    {
+        "name": "Foxy",
+        "location": "$warp p6",
+        "box": "foxy_box",
+        "rewards": [
+            { "reward": "- 1x Raid Ticket" },
+            { "reward": "- 1x [Advanced] PVP Damage Boost" },
+            { "reward": "- 1x [Advanced] PVP Defence Boost" },
+            { "reward": "- 1x Journal of the Forgotten Hero D (2)" },
+            { "reward": "- 1x Journal of the Forgotten Hero J (2)" },
+            { "reward": "- 1x Journal of the Forgotten Hero M (2)" },
+            { "reward": "- 1x Journal of the Forgotten Hero S (1)" },
+            { "reward": "- 1x Fairy Affinity (1)" },
+            { "reward": "- 1x Aurelius Roshu's Primordial History (1)" },
+            { "reward": "- 5x Large Lump of Gold" },
+            { "reward": "- 150x Angel's Feather" },
+            { "reward": "- 150x Full Moon Crystal" }
+        ]
+    },
+    {
+        "name": "Glacerus",
+        "location": "$warp raidarea",
+        "box": "glacerus_box",
+        "rewards": [
+            { "reward": "- 50x Full Moon Crystal" },
+            { "reward": "- 50x Angel's Feather" },
+            { "reward": "- 50x Seed of Power" },
+            { "reward": "- 1x Scout Specialist Card" },
+            { "reward": "- 1x Battle Monk Specialist Card" },
+            { "reward": "- 1x Tide Lord Specialist Card" },
+            { "reward": "- 1x Broken Key" },
+            { "reward": "- 1x Rarify Item" }
+        ]
+    },
+    {
+        "name": "Hardcore",
+        "location": "$warp p8",
+        "box": "hardcore_box",
+        "rewards": [
+            { "reward": "- 1x Holy Light" },
+            { "reward": "- 1x Broken Yertirand Wand" },
+            { "reward": "- 1x Winter Costume Box" },
+            { "reward": "- 3x Rarify Upgrade" },
+            { "reward": "- 1x Upgrade Item" },
+            { "reward": "- 1x Partner Ticket Skill (All)" },
+            { "reward": "- 30x Giant Lump of Gold" },
+            { "reward": "- 10x Black Titanium Bar" }
+        ]
+    },
+    {
+        "name": "High Tier Books",
+        "location": "$warp p4",
+        "box": "high_tier_books_box",
+        "rewards": [
+            { "reward": "- 1x Raid Ticket" },
+            { "reward": "- 1x [Intermediate] PVP Damage Boost" },
+            { "reward": "- 1x [Intermediate] PVP Defence Boost" },
+            { "reward": "- 1x Journal of the Forgotten Hero J (1)" },
+            { "reward": "- 1x Journal of the Forgotten Hero M (1)" },
+            { "reward": "- 1x Journal of the Unknown Hero (1)" },
+            { "reward": "- 1x Journal of the Forgotten Hero S (1)" },
+            { "reward": "- 1x Defensive Strategy of Lord Cuarry's Knights" },
+            { "reward": "- 1x Attack Strategy of Lord Cuarry's Knights" },
+            { "reward": "- 50x Cella Powder" },
+            { "reward": "- 100x Seed of Power" },
+            { "reward": "- 100x Angel's Feather" },
+            { "reward": "- 100x Full Moon Crystal" }
+        ]
+    },
+    {
+        "name": "Ibrahim",
+        "location": "$warp p8.1",
+        "box": "ibrahim_box",
+        "rewards": [
+            { "reward": "- 1x Licht Energy Ring" },
+            { "reward": "- 7x Upgrade Item" },
+            { "reward": "- 100x Giant Lump of Gold" },
+            { "reward": "- 10x Random Amulet Box (x4 Amu)" },
+            { "reward": "- 10x Perfection" },
+            { "reward": "- 3x Robbery Coin (50kk NPC Price)" }
+        ]
+    },
+    {
+        "name": "Kirollas",
+        "location": "$warp p7",
+        "box": "kirollas_box",
+        "rewards": [
+            { "reward": "- 150x Angel's Feather" },
+            { "reward": "- 150x Full Moon Crystal" },
+            { "reward": "- 150x Cella Powder" },
+            { "reward": "- 1x Ancient Bow" },
+            { "reward": "- 1x Ancient Dagger" },
+            { "reward": "- 1x Ancient Armour" },
+            { "reward": "- 1x Ancient Sword" },
+            { "reward": "- 1x Ancient Crossbow" },
+            { "reward": "- 1x Ancient Wand" },
+            { "reward": "- 1x Ancient Spell Gun" },
+            { "reward": "- 1x Ancient Gauntlet" },
+            { "reward": "- 1x Ancient Token" },
+            { "reward": "- 1x Random Amulet Box (1x)" }
+        ]
+    },
+    {
+        "name": "Laurena",
+        "location": "$warp raidarea",
+        "box": "laurena_box",
+        "rewards": [
+            { "reward": "- 75x Angel's Feather" },
+            { "reward": "- 75x Full Moon Crystal" },
+            { "reward": "- 75x Seed of Power" },
+            { "reward": "- 1x Avenging Angel Specialists Cardr" },
+            { "reward": "- 1x Renegade Specialists Card" },
+            { "reward": "- 1x Archmage Specialist Card" },
+            { "reward": "- 1x Demon Hunter Specialists Card" },
+            { "reward": "- 1x Death Reaper Specialists Card" },
+            { "reward": "- 1x Seer Specialists Card" },
+            { "reward": "- 3x Large Lump of Gold" },
+            { "reward": "- 2x Raid Ticket" },
+            { "reward": "- 1x Rarify Item" },
+            { "reward": "- 1x Soul of Innocence" }
+        ]
+    },
+    {
+        "name": "Low Tier Books",
+        "location": "$warp p1",
+        "box": "low_tier_books_box",
+        "rewards": [
+            { "reward": "- 1x Raid Ticket" },
+            { "reward": "- 1x [Beginner] PVP Damage Boost" },
+            { "reward": "- 1x [Beginner] PVP Defence Boost" },
+            { "reward": "- 1x Journal of the Forgotten Hero J (1)" },
+            { "reward": "- 1x Fairy Affinity (1)" },
+            { "reward": "- 1x Aurelius Roshu's Primordial History (1)" },
+            { "reward": "- 1x Journal of the Akamur Merchants (1)" },
+            { "reward": "- 100x Cella Powder" },
+            { "reward": "- 100x Seed of Power" },
+            { "reward": "- 70x Angel's Feather" },
+            { "reward": "- 70x Full Moon Crystal" }
+        ]
+    },
+    {
+        "name": "Maru",
+        "location": "$warp raidarea",
+        "box": "maru_box",
+        "rewards": [
+            { "reward": "- 5x Large Lump of Gold" },
+            { "reward": "- 50x Angel's Feather" },
+            { "reward": "- 50x Full Moon Crystal" },
+            { "reward": "- 50x Seed of Power" },
+            { "reward": "- 3x Lower SP Protection Scrolls" },
+            { "reward": "- 3x High SP Protection Scrolls" },
+            { "reward": "- 2x Golden Equipment Protection Scrolls" },
+            { "reward": "- 3x Perfections" },
+            { "reward": "- 2x Raid Ticket" },
+            { "reward": "- 1x Rarify Item" },
+            { "reward": "- 1x Upgrade Stone" }
+        ]
+    },
+    {
+        "name": "Paimon",
+        "location": "$warp p8",
+        "box": "paimon_box",
+        "rewards": [
+            { "reward": "- 1x Sunchaser Specialist Card" },
+            { "reward": "- 1x Waterfall Berserker Specialist Card" },
+            { "reward": "- 1x Flame Druid Specialist Card" },
+            { "reward": "- 1x Voodoo Priest Specialist Card" },
+            { "reward": "- 1x Paimon's Cursed Soul" },
+            { "reward": "- 1x Perfection 2" },
+            { "reward": "- 30x Orc Hero's Jewels" },
+            { "reward": "- 1x Ancient Orc Statues" },
+            { "reward": "- 1x Orc Weapon" },
+            { "reward": "- 30x Angel's Feather" },
+            { "reward": "- 30x Full Moon Crystal" },
+            { "reward": "- 3x Large Lump of Gold" },
+            { "reward": "- 1x Fairy Booster" }
+        ]
+    },
+    {
+        "name": "Pure Beast",
+        "location": "$warp p7",
+        "box": "pure_beast_box",
+        "rewards": [
+            { "reward": "- 150x Angel's Feather" },
+            { "reward": "- 150x Full Moon Crystal" },
+            { "reward": "- 200x Cella Powder" },
+            { "reward": "- 1x Archer's Aura" },
+            { "reward": "- 1x Swordsman's Aura" },
+            { "reward": "- 1x Mage's Aura" },
+            { "reward": "- 1x Martial's Aura" },
+            { "reward": "- 1x Obsidian" },
+            { "reward": "- 1x Magical Fang" },
+            { "reward": "- 1x Wolf Foot Print" }
+        ]
+    },
+    {
+        "name": "Sandstorm",
+        "location": "$warp p8.1",
+        "box": "sandstorm_box",
+        "rewards": [
+            { "reward": "- 1x Soul of Sandstorm" },
+            { "reward": "- 150x Angel's Feather" },
+            { "reward": "- 1x Upgrade Item" },
+            { "reward": "- 1x Rarify Item" },
+            { "reward": "- 1x Licht Energy Necklace" },
+            { "reward": "- 3x Cellon (Lv 8)" },
+            { "reward": "- 2x Cellon (Lv 9)" },
+            { "reward": "- 1x Cellon (Lv 10)" },
+            { "reward": "- 2x Akamur Ticket" },
+            { "reward": "- 2x Hot Fabric" },
+            { "reward": "- 2x Flame Giant's Heart" },
+            { "reward": "- 2x Magical Camel Parchment Scroll" },
+            { "reward": "- 15x Ancient Orc Gold Coin" }
+        ]
+    },
+    {
+        "name": "Zenas",
+        "location": "$warp p2",
+        "box": "zenas_box",
+        "rewards": [
+            { "reward": "- 200x Angel's Feather" },
+            { "reward": "- 1x Zenas (Fire)" },
+            { "reward": "- 1x Zenas (Water)" },
+            { "reward": "- 1x Zenas (Shadow)" },
+            { "reward": "- 1x Zenas (Light)" },
+            { "reward": "- 1x Zenas' Necklace" },
+            { "reward": "- 1x Zenas' Ring" },
+            { "reward": "- 1x Zenas' Bracelet" },
+            { "reward": "- 1x Sealed Heavenly Gloves" },
+            { "reward": "- 1x Sealed Heavenly Shoes" },
+            { "reward": "- 1x Moth Powder" },
+            { "reward": "- 1x Upgrade Item" },
+            { "reward": "- 1x Random Amulet Box (1x)" },
+            { "reward": "- 1x Soul of Zenas" }
+        ]
+    },
+    {
+        "name": "92-93 Eqs Raid",
+        "location": "$warp p1",
+        "box": "92_93_box",
+        "rewards": [
+            { "reward": "- 2x Torn Pages" },
+            { "reward": "- 50x Angel's Feather" },
+            { "reward": "- 50x Full Moon Crystal" }
+        ]
+    }
+]

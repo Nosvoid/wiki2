@@ -1,0 +1,162 @@
+[
+    {
+        "name": "Aegir",
+        "partner": "Can be used on Ragnar",
+        "location": "Can be obtained during Christmas Event and in Fortune Wheel",
+        "buff": "aegir",
+        "skin": "aegir",
+        "class": "pvp"
+    },
+    {
+        "name": "Akhenaton",
+        "partner": "Can be used on Ragnar",
+        "location": "Can be obtained at Desert Rewards NPC $warp p8.1",
+        "buff": "akhenaton",
+        "skin": "akhenaton",
+        "class": "raid"
+    },
+    {
+        "name": "Amora",
+        "partner": "Can be used on Jennifer/Leona",
+        "location": "Can be obtained during Summer Event, in Fortune Wheel and in VoidMall for 500 coins",
+        "buff": "amora",
+        "skin": "amora",
+        "class": "pvp"
+    },
+    {
+        "name": "Archangel Lucifer",
+        "partner": "Can be used on Jennifer/Leona",
+        "location": "Can be obtained at Monthly Rewards NPC Act4 and in Fortune Wheel ",
+        "buff": "archangel_lucifer",
+        "skin": "archangel_lucifer",
+        "class": "pvp"
+    },
+    {
+        "name": "Barni",
+        "partner": "Can be used on Jennifer/Leona",
+        "location": "Can be obtained during Chirstmas Event and in Fortune Wheel",
+        "buff": "barni",
+        "skin": "barni",
+        "class": "pvp"
+    },
+    {
+        "name": "Cowgirl Chloe",
+        "partner": "Can be used on Jennifer/Leona",
+        "location": "Can be obtained during Summer Event, Talent Arena NPC and in Fortune Wheel",
+        "buff": "cowgirl_chloe",
+        "skin": "cowgirl_chloe",
+        "class": "pvp"
+    },
+    {
+        "name": "Daniel Ducat's",
+        "partner": "Can be used on Jennifer/Leona",
+        "location": "Can be obtained during Christmas Event and Hardcore Reward NPC",
+        "buff": "daniel_ducat",
+        "skin": "daniel_ducat",
+        "class": "fish"
+    },
+    {
+        "name": "Eliza",
+        "partner": "Can be used on Yertirand",
+        "location": "Can be obtained during Summer Event and Craft Stuff NPC $warp p8",
+        "buff": "eliza",
+        "skin": "eliza",
+        "class": "raid"
+    },
+    {
+        "name": "Fiona",
+        "partner": "Can be used on Ragnar",
+        "location": "Can be obtained at Craft Stuff NPC $warp p8",
+        "buff": "fiona",
+        "skin": "fiona",
+        "class": "pvp"
+    },
+    {
+        "name": "Frankestein",
+        "partner": "Can be used on Ragnar",
+        "location": "Can be obtained during Halloween Event, in Fortune Wheel and in VoidMall for 900 coins",
+        "buff": "frankestein",
+        "skin": "frankestein",
+        "class": "raid"
+    },
+    {
+        "name": "Freya",
+        "partner": "Can be used on Yertirand",
+        "location": "Can be obtained during Christmas Event and in Fortune Wheel",
+        "buff": "freya",
+        "skin": "freya",
+        "class": "pvp"
+    },
+    {
+        "name": "Hongbi",
+        "partner": "Can be used on Ragnar",
+        "location": "Can be obtained during Summer Event and in VoidMall for 900 coins",
+        "buff": "hongbi",
+        "skin": "hongbi",
+        "class": "pvp"
+    },
+    {
+        "name": "Lucy Lopears'",
+        "partner": "Can be used on Ragnar",
+        "location": "Can be obtained during Easter Event",
+        "buff": "lucy",
+        "skin": "lucy",
+        "class": "raid"
+    },
+    {
+        "name": "Mad March Hare",
+        "partner": "Can be used on Jennifer/Leona",
+        "location": "Can be obtained during Easter Event",
+        "buff": "mad_march",
+        "skin": "mad_march",
+        "class": "gold"
+    },
+    {
+        "name": "Maru",
+        "partner": "Can be used on Ragnar",
+        "location": "Can be obtained during Summer Event and Rainbow Battle Exchange NPC",
+        "buff": "maru",
+        "skin": "maru",
+        "class": "pvp"
+    },
+    {
+        "name": "Nelia",
+        "partner": "Can be used on Jennifer/Leona",
+        "location": "Can be obtained in VoidMall for 600 coins",
+        "buff": "nelia",
+        "skin": "nelia",
+        "class": "pvp"
+    },
+    {
+        "name": "Perti",
+        "partner": "Can be used on Ragnar",
+        "location": "Can be obtained in Fortune Wheel",
+        "buff": "perti",
+        "skin": "perti",
+        "class": "pvp"
+    },
+    {
+        "name": "Sheriff Chloe",
+        "partner": "Can be used on Jennifer/Leona",
+        "location": "Can be obtained during Summer Event",
+        "buff": "sheriff_chloe",
+        "skin": "sheriff_chloe",
+        "class": "gold"
+    },
+    {
+        "name": "Venus",
+        "partner": "Can be used on Ragnar",
+        "location": "Can be obtained during Easter Event, in Fortune Wheel and in VoidMall for 900",
+        "buff": "venus",
+        "skin": "venus",
+        "class": "raid"
+    },
+    {
+        "name": "Yuna",
+        "partner": "Can be used on Yertirand",
+        "location": "Can be obtained in VoidMall for 1200 coins",
+        "buff": "yuna",
+        "skin": "yuna",
+        "class": "pvp"
+    }
+]

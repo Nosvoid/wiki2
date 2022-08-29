@@ -1,0 +1,24 @@
+<div class="d-flex justify-content-center align-items-center">
+    <div class="crew">
+        <h1 class="crew-title">NosVoid Team Members</h1>
+
+        <table class="crew-table">
+            <thead>
+                <tr>
+                    <th class="crew-th">Names</th>
+                    <th class="crew-th">Languages</th>
+                    <th class="crew-th">Roles</th>
+                    <th class="crew-th"><img src="../../assets/img/crew/void_logo.png" alt=""></th>
+                </tr>
+            </thead>
+            <tbody *ngFor="let item of staffmembers">
+                <tr>
+                    <td class="crew-td {{item.class}}">{{item.name}}</td>
+                    <td class="crew-td {{item.class}}">{{item.language}}</td>
+                    <td class="crew-td {{item.class}}">{{item.role}}</td>
+                    <td class="crew-td {{item.class}}"><img src="../../assets/img/crew/{{item.logo}}.png" alt="Role Logo"></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

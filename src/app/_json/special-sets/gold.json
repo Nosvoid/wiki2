@@ -1,0 +1,109 @@
+[
+    {
+        "type": "Equipments",
+        "items": [
+            {
+                "name": "Candy Skin",
+                "img": "candy_skin"
+            },
+            {
+                "name": "Shell",
+                "img": "gold_shell"
+            },
+            {
+                "name": "Masks",
+                "img": "masks"
+            }, 
+            {
+                "name": "Obsidian Necklace",
+                "img": "obsidian_necklace"
+            }
+        ]
+    },
+    {
+        "type": "Costumes",
+        "items": [
+            {
+                "name": "Desert Hat",
+                "img": "desert_hat"
+            },
+            {
+                "name": "Illusionist's Hat",
+                "img": "illusionist_hat"
+            },
+            {
+                "name": "Wonderland Hat",
+                "img": "wonderland_hat"
+            },
+            {
+                "name": "Winter Costume",
+                "img": "winter_costume"
+            }
+        ]
+    },
+    {
+        "type": "Items",
+        "items": [
+            {
+                "name": "Gold Potion",
+                "img": "gold_potion"
+            }, 
+            {
+                "name": "Mother Nature's Tree Rune",
+                "img": "rune"
+            }
+        ]
+    },
+    {
+        "type": "Pets",
+        "items": [
+            {
+                "name": "Fortune Bushtails",
+                "img": "fortune_bushtails"
+            },
+            {
+                "name": "Seraphim",
+                "img": "seraphim"
+            }
+        ]
+    },
+    {
+        "type": "PSPs",
+        "items": [
+            {
+                "name": "Mad March Hare",
+                "img": "mad_march"
+            },
+            {
+                "name": "Sheriff Chloe",
+                "img": "sheriff_chloe"
+            }
+        ]
+    },
+    {
+        "type": "Titles",
+        "items": [
+            {
+                "name": "Bomb Runner",
+                "img": "bomb_runner"
+            },
+            {
+                "name": "Fox Lady",
+                "img": "fox_lady"
+            }
+        ]
+    },
+    {
+        "type": "Specialist",
+        "items": [
+            {
+                "name": "Golden Wings",
+                "img": "golden_wings"
+            },
+            {
+                "name": "Wedding SP Buff",
+                "img": "wedding_buff"
+            }
+        ]
+    }
+]

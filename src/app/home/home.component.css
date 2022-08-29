@@ -1,0 +1,73 @@
+.wiki-home {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-block: 3em;
+    color: white;
+    background-color: rgba(0, 0, 0, .8);
+    border-radius: 20px;
+    width: 100%;
+    padding: 3em 0;
+}
+
+.wiki-home img {
+    max-width: 290px;
+}
+
+.home-title,
+.home-join,
+.join-button {
+    font-family: 'Edu SA Beginner', cursive;
+}
+
+.home-title {
+    font-size: 3rem;
+    margin-bottom: 1em;
+    text-align: center;
+    line-height: 1.1em;
+}
+
+.home-join {
+    font-size: 2rem;
+}
+
+.join-buttons {
+    display: flex;
+    gap: 2em;
+}
+
+.join-button {
+    display: flex;
+    align-items: center;
+    gap: .3em;
+    text-decoration: none;
+    padding: .5em 1em;
+    background-color: var(--void-clr);
+    border-radius: 50px;
+    color: black;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.join-button:hover {
+    background-color: var(--void-clr-active);
+}
+
+.join-button img {
+    max-height: 36px;
+}
+
+/* Media queries */
+@media all and (max-width: 1140px) {
+    .join-buttons {
+        flex-direction: column;
+    }
+}
+
+/* Media queries */
+@media all and (min-width: 1140px) {
+    .wiki-home {
+        width: 75%;
+    }
+}

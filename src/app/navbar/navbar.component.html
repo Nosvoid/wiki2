@@ -1,0 +1,146 @@
+<nav class="wiki-navbar" id="wiki-navbar">
+    <div class="wiki-navbar-logo">
+        <a routerLink="/" class="video-logo">
+          <video playsinline autoplay muted loop>
+            <source src="../../assets/img/baner_video.webm">
+          </video>
+        </a>
+        <a routerLink="/" class="responsive-logo">
+          <img src="../../assets/img/void_logo.png" alt="">
+          nosvoid
+        </a>
+    </div>
+
+    <div class="wiki-navbar-toggle" onclick="burgerMenu()">
+        <i class="fa fa-bars bars-icon" aria-hidden="true" id="burger"></i>
+        <i class="fa fa-times close-icon" aria-hidden="true" id="close"></i>
+    </div>
+
+    <ul class="wiki-navbar-menu" id="wiki-navbar-menu">
+            <div class="dropdown" data-dropdown>
+              <button class="link" data-dropdown-button>
+                In Game Content
+                <i class="fa fa-angle-down" aria-hidden="true"></i>
+            </button>
+              <div class="dropdown-menu information-grid">
+                <div>
+                  <div class="dropdown-heading">Costumes & Skins</div>
+                  <div class="dropdown-links">
+                    <a routerLink="/all-sets" class="link" (click)="closeMenuLink()">All Sets</a>
+                    <a routerLink="/costumes" class="link" (click)="closeMenuLink()">Costumes</a>
+                    <a routerLink="/costume-wings" class="link" (click)="closeMenuLink()">Costume Wings</a>
+                    <a routerLink="/hats" class="link" (click)="closeMenuLink()">Hats</a>
+                    <a routerLink="/weapon-skins" class="link" (click)="closeMenuLink()">Weapon Skins</a>
+                  </div>
+                </div>
+                <div>
+                  <div class="dropdown-heading">Equipments</div>
+                  <div class="dropdown-links">
+                    <a routerLink="/accessories" class="link" (click)="closeMenuLink()">Accessories</a>
+                    <a routerLink="/badges" class="link" (click)="closeMenuLink()">Badges</a>
+                    <a routerLink="/books" class="link" (click)="closeMenuLink()">Books</a>
+                    <a routerLink="/equipements" class="link" (click)="closeMenuLink()">Equipments</a>
+                    <a routerLink="/fairies" class="link" (click)="closeMenuLink()">Fairies</a>
+                    <a routerLink="/helmets-masks" class="link" (click)="closeMenuLink()">Helmets & Masks</a>
+                    <a routerLink="/resistances" class="link" (click)="closeMenuLink()">Resistances</a>
+                  </div>
+                </div>
+                <div>
+                  <div class="dropdown-heading">Pets, Partners <br> & PSPs</div>
+                  <div class="dropdown-links">
+                    <a routerLink="/partners" class="link" (click)="closeMenuLink()">Partners</a>
+                    <a routerLink="/pets" class="link" (click)="closeMenuLink()">Pets</a>
+                    <a routerLink="/psps" class="link" (click)="closeMenuLink()">PSPs</a>
+                  </div>
+                </div>
+                <div>
+                  <div class="dropdown-heading">Others</div>
+                  <div class="dropdown-links">
+                    <a routerLink="/daily-quests" class="link" (click)="closeMenuLink()">Daily & Marathon <br> Quests</a>
+                    <a routerLink="/raids" class="link" (click)="closeMenuLink()">Raids</a>
+                    <a routerLink="/tattoos-carves" class="link" (click)="closeMenuLink()">Tattoo & Carve</a>
+                    <a routerLink="/titles" class="link" (click)="closeMenuLink()">Titles</a>
+                  </div>
+                </div>
+                
+              </div>
+            </div>
+            <!-- <li routerLink="/current-event" (click)="closeMenuLink()">Current Event</li> -->
+            <div class="dropdown" data-dropdown>
+                <button class="link" data-dropdown-button>
+                    Guides
+                    <i class="fa fa-angle-down" aria-hidden="true"></i>
+                </button>
+                <div class="dropdown-menu information-grid guides-dropdown dropdown-responsive">
+
+                <div>
+                    <div class="dropdown-heading">Important</div>
+                    <div class="dropdown-links">
+                      <a routerLink="/features" class="link" (click)="closeMenuLink()">Features</a>
+                      <a routerLink="/special-items" class="link" (click)="closeMenuLink()">Special Items</a>
+                      <a routerLink="/ticket-system" class="link" (click)="closeMenuLink()">Ticket System</a>
+                      <a routerLink="/whitelist-dll" class="link" (click)="closeMenuLink()">Whitelist DLL</a>
+                    </div>
+                </div>
+                <div>
+                    <div class="dropdown-heading">Special Sets</div>
+                    <div class="dropdown-links">
+                      <a routerLink="/double-box" class="link" (click)="closeMenuLink()">Double Box Set</a>
+                      <a routerLink="/gold-set" class="link" (click)="closeMenuLink()">Gold Set</a>
+                      <a routerLink="/raid-set" class="link" (click)="closeMenuLink()">Raid Damage Set</a>
+                      <a routerLink="/reputation-set" class="link" (click)="closeMenuLink()">Reputation Set</a>
+                    </div>
+                </div>
+               
+                <div>
+                  <div class="dropdown-heading">SP Cards</div>
+                  <div class="dropdown-links">
+                    <a routerLink="/sp-obtaining" class="link" (click)="closeMenuLink()">Obtaining</a>
+                    <a routerLink="/sp-perfection" class="link" (click)="closeMenuLink()">SP Perfection</a>
+                    <a routerLink="/sp-upgrade" class="link" (click)="closeMenuLink()">SP Upgrade</a>
+                    <a routerLink="/sp-wings" class="link" (click)="closeMenuLink()">SP Wings</a>
+                  </div>
+                </div>
+                <div>
+                  <div class="dropdown-heading">Others</div>
+                  <div class="dropdown-links">
+                    <a routerLink="/act4" class="link" (click)="closeMenuLink()">Act 4</a>
+                    <a routerLink="/battle-pass" class="link" (click)="closeMenuLink()">Battle Pass</a>
+                    <a routerLink="/fish-system" class="link" (click)="closeMenuLink()">Fish System</a>
+                    <a routerLink="/prestige-system" class="link" (click)="closeMenuLink()">Prestige System</a>
+                    <a routerLink="/world-bosses" class="link" (click)="closeMenuLink()">World Bosses</a>
+                  </div>
+                </div>
+                </div>
+            </div>
+            <div class="dropdown" data-dropdown>
+                <button class="link" data-dropdown-button>
+                    Crew
+                    <i class="fa fa-angle-down" aria-hidden="true"></i>
+                </button>
+                <div class="dropdown-menu information-grid-crew dropdown-responsive">
+                    <div class="dropdown-links">
+                      <a routerLink="/staff-members" class="link link-crew" (click)="closeMenuLink()">Staff Members</a>
+                      <a routerLink="/content-creators" class="link link-crew" (click)="closeMenuLink()">Content Creators</a>
+                      <a routerLink="/becoming-content-creator" class="link link-crew" (click)="closeMenuLink()">How to become Content Creator ?</a>
+                    </div>
+                </div>
+            </div>
+            <div class="dropdown" data-dropdown>
+                <button class="link" data-dropdown-button>
+                    Updates
+                    <i class="fa fa-angle-down" aria-hidden="true"></i>
+                </button>
+                <div class="dropdown-menu information-grid-updates dropdown-responsive">
+                    <div class="dropdown-links">
+                      <a routerLink="/patch-notes" class="link link-crew" (click)="closeMenuLink()">Patch Notes</a>
+                      <a routerLink="/shop-updates" class="link link-crew" (click)="closeMenuLink()">Shop Updates</a>
+                    </div>
+                </div>
+            </div>
+
+        <!-- <li>Current Event</li> -->
+        <li routerLink="/schedule" (click)="closeMenuLink()">Schedule</li>
+        <li routerLink="/rules" (click)="closeMenuLink()">Rules</li>
+    </ul>
+</nav>

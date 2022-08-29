@@ -1,0 +1,17 @@
+<div class="d-flex justify-content-center">
+    <section class="gold">
+        <h1 class="gold-title-1">Gold Set</h1>
+
+        <div class="gold-system" *ngFor="let type of gold">
+            <h2 class="gold-title-2">{{type.type}}</h2>
+            <div class="gold-items">
+                <div class="p-3" *ngFor="let items of type.items">
+                    <h3 class="gold-title-3">{{items.name}}</h3>
+                    <a href="../../assets/img/special-sets/gold/{{items.img}}.png" target="_blank">
+                        <img src="../../assets/img/special-sets/gold/{{items.img}}.png" alt="">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>

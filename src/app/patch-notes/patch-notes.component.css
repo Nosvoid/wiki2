@@ -1,0 +1,110 @@
+.patch-notes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-block: 3em;
+    color: white;
+    background-color: rgba(0, 0, 0, .8);
+    border-radius: 20px;
+    width: 100%;
+    padding: 3em 0;
+    text-align: center;
+}
+
+.patch-notes-title-1,
+.patch-notes-title-2 {
+    font-family: 'Edu SA Beginner', cursive;
+}
+
+.patch-notes-title-1 {
+    font-size: 3rem;
+    margin-bottom: 1em;
+}
+
+.patch-notes-title-2 {
+    font-size: 2rem;
+    margin-top: 1em;
+}
+
+.patch-notes-title-3 {
+    font-size: 1.25rem;
+    line-height: 1.3em;
+    font-weight: bold;
+    color: var(--void-clr);
+}
+
+.patch-notes-text {
+    font-size: 1.1rem;
+    line-height: 1.5em;
+}
+
+.patch-notes-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 2em;
+    width: 75%;
+}
+
+.open-patch-notes {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: .5em 1em;
+    background-color: var(--void-clr);
+    border: none;
+    font-weight: bold;
+    border-radius: 10px;
+    color: white;
+    font-size: 1.2rem;
+}
+
+.quest-container, .rewards-container {
+    padding: 1em;
+}
+
+.open-patch-notes p {
+    margin: 0;
+}
+
+.patch-notes-date {
+    display: flex;
+    gap: 1em;
+}
+
+.patch-notes-pagination ::ng-deep .ngx-pagination {
+    font-size: 1.1rem;
+}
+
+.patch-notes-pagination ::ng-deep .ngx-pagination .current {
+    color: black;
+    background-color: var(--void-clr);
+    border-radius: 20px;
+}
+
+.patch-notes-pagination ::ng-deep .ngx-pagination :hover {
+    background-color: var(--void-clr);
+    color: black;
+    border-radius: 10px;
+}
+
+.patch-notes-change {
+    font-size: 1.1rem;
+    line-height: 1.5em;
+    text-align: justify;
+}
+
+@media all and (min-width: 1140px) {
+    .patch-notes-infos,
+    .patch-notes-topics {
+        grid-template-columns: repeat(2, 1fr);
+        padding: 2em;
+    }
+
+    .patch-notes {
+        width: 75%;
+    }
+}

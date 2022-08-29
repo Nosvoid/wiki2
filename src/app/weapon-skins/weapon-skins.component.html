@@ -1,0 +1,31 @@
+<div class="d-flex justify-content-center align-items-center">
+    <section class="weapons">
+        <h1 class="weapons-title">Weapon Skins</h1>
+
+        <div class="select-container">
+            <select name="filter" id="weapon-filter" class="weapons-select">
+                <option>All</option>
+                <option class="selectPve">Raid/PVE</option>
+                <option class="selectPvp">PVP</option>
+                <option class="selectFish">Fish</option>
+            </select>
+        </div>
+
+        <div class="weapons-container container">
+            <div class="weapon-container" class="{{item.class}}" *ngFor="let item of weaponSkins">
+                <div class="d-flex justify-content-between align-items-center flex-column h-100">
+                    <div>
+                        <h2 class="weapon-name">{{item.name}}</h2>
+                        <p class="weapon-location text-center">{{item.location}}</p>
+                    </div>
+                    <div>
+                        <p class="weapon-upgrade text-center">{{item.upgrade}}</p>
+                        <a href="../assets/img/costumes/weapon-skins/{{item.buff}}.png" target="_blank">
+                            <img src="../assets/img/costumes/weapon-skins/{{item.buff}}.png">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>

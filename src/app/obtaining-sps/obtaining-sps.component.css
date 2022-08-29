@@ -1,0 +1,67 @@
+.obtaining {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-block: 3em;
+    color: white;
+    background-color: rgba(0, 0, 0, .8);
+    border-radius: 20px;
+    width: 100%;
+    padding: 3em 0;
+}
+
+.obtaining-title {
+    font-size: 3rem;
+    margin-bottom: 1em;
+}
+
+.sp-title {
+    font-size: 2rem;
+}
+
+.obtaining-title,
+.sp-title {
+    font-family: 'Edu SA Beginner', cursive;
+}
+
+.sp-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 3em;
+}
+
+.sp-location {
+    font-size: 1.1rem;
+    text-align: center;
+}
+
+.four-icons {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    align-items: center;
+    justify-items: center;
+    gap: .3em;
+}
+
+.three-icons {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    align-items: center;
+    justify-items: center;
+    gap: .3em;
+}
+
+/* Media queries */
+@media all and (min-width: 1140px) {
+    .sps-container {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        padding: 1em;
+    }
+
+    .obtaining {
+        width: 75%;
+    }
+}

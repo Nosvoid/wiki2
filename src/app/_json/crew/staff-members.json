@@ -1,0 +1,163 @@
+[
+    {
+        "name": "Oge",
+        "language": "TR/ENG",
+        "role": "Game Designer",
+        "logo": "lead_team",
+        "class": "lead-team"
+    },
+    {
+        "name": "Purge",
+        "language": "TR/ENG",
+        "role": "Client Modder / Community Manager",
+        "logo": "lead_team",
+        "class": "lead-team"
+    },
+    {
+        "name": "Revox",
+        "language": "PL/ENG",
+        "role": "Client Modder",
+        "logo": "lead_team",
+        "class": "lead-team"
+    },
+    {
+        "name": "SvC111",
+        "language": "PL/ENG",
+        "role": "Lead Developer",
+        "logo": "lead_team",
+        "class": "lead-team"
+    },
+    {
+        "name": "Decameron",
+        "language": "TR/ENG",
+        "role": "Team Manager",
+        "logo": "team_manager",
+        "class": "team-manager"
+    },
+    {
+        "name": "Killrog",
+        "language": "PL/ENG",
+        "role": "Web Developer",
+        "logo": "web_dev",
+        "class": "web-dev"
+    },
+    {
+        "name": "Astraea",
+        "language": "FR/ENG",
+        "role": "Super Game Master / Game Designer",
+        "logo": "super_game_master",
+        "class": "sgm"
+    },
+    {
+        "name": "nayla",
+        "language": "DE/ENG",
+        "role": "Super Game Master",
+        "logo": "super_game_master",
+        "class": "sgm"
+    },
+    {
+        "name": "DarkLegend",
+        "language": "ITA/ENG",
+        "role": "Game Designer",
+        "logo": "game_designer",
+        "class": "game-designer"
+    },
+    {
+        "name": "Cara",
+        "language": "DE/ENG",
+        "role": "Game Master",
+        "logo": "game_master",
+        "class": "game-master"
+    },
+    {
+        "name": "Dana&Kai",
+        "language": "ESP/ENG",
+        "role": "Game Master",
+        "logo": "game_master",
+        "class": "game-master"
+    },
+    {
+        "name": "Drecker",
+        "language": "ITA/ENG",
+        "role": "Game Master",
+        "logo": "game_master",
+        "class": "game-master"
+    },
+    {
+        "name": "Fekeno",
+        "language": "DE/ENG",
+        "role": "Game Master",
+        "logo": "game_master",
+        "class": "game-master"
+    },
+    {
+        "name": "GayBoysAdmirer",
+        "language": "PL/ENG",
+        "role": "Game Master",
+        "logo": "game_master",
+        "class": "game-master"
+    },
+    {
+        "name": "Megumin~",
+        "language": "TR/ENG",
+        "role": "Game Master",
+        "logo": "game_master",
+        "class": "game-master"
+    },
+    {
+        "name": "Krypton69",
+        "language": "FR/ENG/69",
+        "role": "Game Master",
+        "logo": "game_master69",
+        "class": "game-master69"
+    },
+    {
+        "name": "Temko",
+        "language": "FR/ENG",
+        "role": "Game Master",
+        "logo": "game_master",
+        "class": "game-master"
+    },
+    {
+        "name": "Aeri",
+        "language": "TR/ENG",
+        "role": "Game Supporter",
+        "logo": "game_supporter",
+        "class": "game-supporter"
+    },
+    {
+        "name": "Akita",
+        "language": "HK/ENG",
+        "role": "Game Supporter",
+        "logo": "game_supporter",
+        "class": "game-supporter"
+    },
+    {
+        "name": "Elite-",
+        "language": "HK/ENG",
+        "role": "Game Supporter",
+        "logo": "game_supporter",
+        "class": "game-supporter"
+    },
+    {
+        "name": "Gumiho",
+        "language": "TR/ITA/KR/ENG",
+        "role": "Game Supporter",
+        "logo": "game_supporter",
+        "class": "game-supporter"
+    },
+    {
+        "name": "TheAnnoyingCat",
+        "language": "ES/ENG",
+        "role": "Game Supporter",
+        "logo": "game_supporter",
+        "class": "game-supporter"
+    },
+    {
+        "name": "Senka",
+        "language": "ITA/ENG",
+        "role": "Trial Game Supporter",
+        "logo": "trial_game_supporter",
+        "class": "tgs"
+    }
+]

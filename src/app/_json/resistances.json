@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Lv 45 resistances",
+        "location": "You can buy them at Resistances NPC in NosVille",
+        "buff": "45_res"
+    },
+    {
+        "name": "Magma resistances",
+        "location": "You can craft them at 92-93 Equipements NPC $warp p1",
+        "buff": "magma_res"
+    },
+    {
+        "name": "Sealed Heavenly resistances",
+        "location": "You can get them in Zenas raid boxes",
+        "buff": "heavenly_res"
+    },
+    {
+        "name": "Sealed Hellord resistances",
+        "location": "You can get them in Erenia raid boxes",
+        "buff": "hellord_res"
+    },
+    {
+        "name": "Fernon resistances",
+        "location": "You can get them in Fernon raid boxes",
+        "buff": "fernon_res"
+    },
+    {
+        "name": "Beast resistances",
+        "location": "You can craft them at Tower NPC $warp p7 or Family Tower Rewards NPC $warp p8.1",
+        "buff": "beast_res"
+    },
+    {
+        "name": "Orc resitances",
+        "location": "You can buy them at Reputation Shop $warp p8",
+        "buff": "orc_res"
+    }
+]

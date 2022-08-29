@@ -1,0 +1,130 @@
+<div class="d-flex justify-content-center align-items-center">
+    <div class="schedule">
+        <h1 class="schedule-title">Schedule</h1>
+        <p class="server-time">The Event times are GMT+2</p>
+
+        <div class="event-container">
+            <button class="open-event">
+                <div class="open-event-title">Bomb Runner</div>
+                <i class="fa fa-angle-down" aria-hidden="true"></i>
+            </button>
+            <table class="event-table display-none">
+                <tr class="event-row" *ngFor="let item of bombrunner">
+                    <td class="event-time">{{item.hour}}</td>
+                </tr>
+            </table>
+        </div>
+        <div class="event-container">
+            <button class="open-event">
+                <div class="open-event-title">Caligor</div>
+                <i class="fa fa-angle-down" aria-hidden="true"></i>
+            </button>
+            <table class="event-table display-none">
+                <tr class="event-row" *ngFor="let item of caligor">
+                    <td class="event-time">{{item.hour}}</td>
+                </tr>
+            </table>
+        </div>
+        <div class="event-container">
+            <button class="open-event">
+                <div class="open-event-title">Color PVP</div>
+                <i class="fa fa-angle-down" aria-hidden="true"></i>
+            </button>
+            <table class="event-table display-none">
+                <tr class="event-row" *ngFor="let item of colorpvp">
+                    <td class="event-time">{{item.hour}}</td>
+                </tr>
+            </table>
+        </div>
+        <div class="event-container">
+            <button class="open-event">
+                <div class="open-event-title">Family Dungeon</div>
+                <i class="fa fa-angle-down" aria-hidden="true"></i>
+            </button>
+            <table class="event-table display-none">
+                <tr class="event-row" *ngFor="let item of famdungeon">
+                    <td class="event-time">{{item.hour}}</td>
+                </tr>
+            </table>
+        </div>
+        <div class="event-container">
+            <button class="open-event">
+                <div class="open-event-title">Instant Combat</div>
+                <i class="fa fa-angle-down" aria-hidden="true"></i>
+            </button>
+            <table class="event-table display-none">
+                <tr class="event-row" *ngFor="let item of instantcombat">
+                    <td class="event-time">{{item.hour}}</td>
+                </tr>
+            </table>
+        </div>
+        <div class="event-container">
+            <button class="open-event">
+                <div class="open-event-title">Meteorite Game</div>
+                <i class="fa fa-angle-down" aria-hidden="true"></i>
+            </button>
+            <table class="event-table display-none">
+                <tr class="event-row" *ngFor="let item of meteorite">
+                    <td class="event-time">{{item.hour}}</td>
+                </tr>
+            </table>
+        </div>
+        <div class="event-container">
+            <button class="open-event">
+                <div class="open-event-title">Rainbow Battle</div>
+                <i class="fa fa-angle-down" aria-hidden="true"></i>
+            </button>
+            <table class="event-table display-none">
+                <tr class="event-row" *ngFor="let item of rbb">
+                    <td class="event-time">{{item.hour}}</td>
+                </tr>
+            </table>
+        </div>
+        <div class="event-container">
+            <button class="open-event">
+                <div class="open-event-title">Talent Arena</div>
+                <i class="fa fa-angle-down" aria-hidden="true"></i>
+            </button>
+            <table class="event-table display-none">
+                <tr class="event-row" *ngFor="let item of talentarena">
+                    <td class="event-time">{{item.hour}}</td>
+                </tr>
+            </table>
+        </div>
+        <div class="event-container">
+            <button class="open-event">
+                <div class="open-event-title">World Boss</div>
+                <i class="fa fa-angle-down" aria-hidden="true"></i>
+            </button>
+            <table class="event-table display-none">
+                <tr class="event-row" *ngFor="let item of worldboss">
+                    <td class="event-time">{{item.hour}}</td>
+                </tr>
+            </table>
+        </div>
+        <div class="event-container">
+            <button class="open-event">
+                <div class="open-event-title">World Boss Act 4</div>
+                <i class="fa fa-angle-down" aria-hidden="true"></i>
+            </button>
+            <table class="event-table display-none">
+                <tr class="event-row" *ngFor="let item of worldbossa4">
+                    <td class="event-time">{{item.hour}}</td>
+                </tr>
+            </table>
+        </div>
+        <div class="event-container">
+            <button class="open-event">
+                <div class="open-event-title">World Boss Prestige 8.1</div>
+                <i class="fa fa-angle-down" aria-hidden="true"></i>
+            </button>
+            <table class="event-table display-none">
+                <tr class="event-row" *ngFor="let item of worldboss81">
+                    <td class="event-time">{{item.hour}}</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+
+    
+</div>

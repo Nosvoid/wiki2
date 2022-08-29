@@ -1,0 +1,70 @@
+<div class="d-flex justify-content-center w-100">
+    <section class="tattoo-carve">
+      <h1 class="tattoo-carve-title-1">Tattoos & Carve Runes</h1>
+  
+        <div class="tattoos">
+            <h2 class="tattoo-carve-title-2">Tattoos</h2>
+            <h3 class="tattoo-carve-title-3">How to get your Tattoos ?</h3>
+            <p class="tattoo-carve-text">
+                To get your Tattoos, you need to go in the Tattoo & Rune Map in NosVille to craft the scroll 
+                related to the Tattoo you want. There are 4 Tattoo Scrolls : Lion, Eagle, Bear & Snake Loa 
+                Tattoo Partern. Each of them gives different Tattoos. <br>
+                After crafting the scroll you want, you need to "Receive" this scroll in the second tab of 
+                the NPC. It will give you a random Tattoo from the "type" of the scroll you used. <br>
+                If the Tattoo you received doesn't suit you, you can go in the third tab of the NPC, and 
+                simply use the Tattoo Removal button to get a new one.
+            </p>
+            <h3 class="tattoo-carve-title-3">How to upgrade your Tattoos ?</h3>
+            <p class="tattoo-carve-text">
+                You can upgrade your Tattoos to +9 maximum. It will increase the values of your Tattoo options.
+                You can use the NPC to upgrade your Tattoos but you also have Tattoo Safeguard Scrolls. They 
+                prevent you from a possible downgrade of your Tattoo.
+            </p>
+            <h3 class="tattoo-carve-title-3">Which are the best Tattoos to get ?</h3>
+            <p class="tattoo-carve-text">For Crit Classes :</p>
+            <img src="../../assets/img/tattoo-carve/crit_tats.png" alt="">
+            <p class="tattoo-carve-text">For Mages :</p>
+            <img src="../../assets/img/tattoo-carve/mage_tats.png" alt="">
+            <h2 class="tattoo-carve-title-2">Carve Runes</h2>
+            <h3 class="tattoo-carve-title-3">How to get your Carve Runes ?</h3>
+            <p class="tattoo-carve-text">
+                To get your Carve Runes, you can upgrade your Rune at Carve Rune NPC in the Tattoo & Rune Map in NosVille 
+                or you can use scrolls. There are two different scrolls : Rune of Fortune Scroll & Premium Rune of Fortune
+                Scroll. Both scrolls prevent the weapon from being damaged and might save your materials while upgrading. 
+                The Premium one adds 2% chance of success.
+            </p>
+            <h3 class="tattoo-carve-title-3">Which options can you get ?</h3>
+            <div class="d-flex justify-content-center">
+                <ul class="tattoo-carve-options">
+                    <li class="tattoo-carve-option">- All attacks are increased by 20 (<b>250 max</b>) <b class="option-type">MUST HAVE</b></li>
+                    <li class="tattoo-carve-option">- All defence powers are increased by 20 (<b>250 max</b>)<b class="option-type"> MUST HAVE</b></li>
+                    <li class="tattoo-carve-option">- All defences are increased by 1% (<b>13% max</b>)<b class="option-type"> GOOD</b></li>
+                    <li class="tattoo-carve-option">- Maximum HP are increased by 1% (<b>13% max</b>)<b class="option-type"> GOOD</b></li>
+                    <li class="tattoo-carve-option">- Hit rate is increased by 1% (<b>13% max</b>)<b class="option-type"> BONUS</b></li>
+                    <li class="tattoo-carve-option">- Hit rate of all attacks is increased by 10 (<b>190 max</b>)<b class="option-type"> BONUS</b></li>
+                    <li class="tattoo-carve-option">- Maximum HP are increased by 200 (<b>2000 max</b>)<b class="option-type"> BONUS</b></li>
+                    <li class="tattoo-carve-option">- Maximum MP are increased by 200 (<b>2000 max</b>)<b class="option-type"> BAD</b></li>
+                    <li class="tattoo-carve-option">- Maximum MP are increased by 1% (<b>13% max</b>)<b class="option-type"> BAD</b></li>
+                    <li class="tattoo-carve-option">- Concentration is increased by 1 during the magic attack (<b>22 max</b>)<b class="option-type"> BAD</b></li>
+                    <li class="tattoo-carve-option">- All element energies are increased by 10 (<b>190 max</b>)<b class="option-type"> BAD</b></li>
+                    <li class="tattoo-carve-option">- All element resistances are increased by 5 (<b>190 max</b>)<b class="option-type"> BAD</b></li>
+                    <li class="tattoo-carve-option">- Experience gain is increased by 1% (<b>13% max</b>)<b class="option-type"> BAD</b></li>
+                </ul>
+            </div>
+            <h3 class="tattoo-carve-title-3">Which powers can you get ?</h3>
+            <p class="tattoo-carve-text">
+                There isn't "MUST HAVE" powers, it depends of the way you want to play. Note that each power becomes
+                "strong" at Lv 5 & 6. Before, they are only "small bonuses" on which you can't really count on. You can get a 
+                power or a power Lv every 3 Rune Lv (3 - 6 - 9 - 12 - 15 - 18 - 21).
+            </p>
+            <div class="tattoo-carve-powers">
+                <div  *ngFor="let carve of carve">
+                    <h4 class="tattoo-carve-title-4">{{carve.name}}</h4>
+                    <a href="../../assets/img/tattoo-carve/{{carve.img}}.png" target="_blank">
+                        <img src="../../assets/img/tattoo-carve/{{carve.img}}.png" alt="">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>

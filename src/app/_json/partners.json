@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Jennifer",
+        "type": "Long Range",
+        "location": "You can craft Jennifer in Starting Map or you can get it doing the quest at $warp beginner",
+        "skin": "jennifer"
+    },
+    {
+        "name": "Leona",
+        "type": "Long Range",
+        "location": "You can craft Leona during the Summer Event",
+        "skin": "leona"
+    },
+    {
+        "name": "Ragnar",
+        "type": "Melee",
+        "location": "You can craft Ragnar in Starting Map or you can get it doing the quest at $warp beginner",
+        "skin": "ragnar"
+    },
+    {
+        "name": "Yertirand",
+        "type": "Magic",
+        "location": "You can craft Yertirand in Starting Map or you can get it doing the quest at $warp beginner",
+        "skin": "yertirand"
+    }
+]

@@ -1,0 +1,64 @@
+.hats {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-block: 3em;
+    color: white;
+    background-color: rgba(0, 0, 0, .8);
+    border-radius: 20px;
+    width: 100%;
+    padding: 3em 0;
+}
+
+.hat-container {
+    padding: 1em;
+}
+
+.hat-container img {
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 10px;
+}
+
+/* Titles */
+
+.hat-name, .hats-title {
+    font-family: 'Edu SA Beginner', cursive;
+    display: flex;
+    justify-content: center;
+    font-size: 2rem;
+}
+
+.hats-title {
+    font-size: 3rem;
+    margin-bottom: 1em;
+}
+
+/* Filter */
+
+.hats-select {
+    background-color: var(--void-clr);
+    border: none;
+    padding: .5em;
+    border-radius: 10px;
+    color: white;
+    font-size: 1.2em;
+}
+
+.hats-select option {
+    color: white;
+}
+
+/* Media queries */
+@media all and (min-width: 1140px) {
+    .hats-container {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        padding: 1em;
+    }
+
+    .hats {
+        width: 75%;
+    }
+}

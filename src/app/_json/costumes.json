@@ -1,0 +1,87 @@
+[
+    {
+        "name": "Betting Costume",
+        "buff": "betting_costume",
+        "class": "betting"
+    },
+    {
+        "name": "Death Lancer Costume",
+        "buff": "death_lancer_costume",
+        "class": "pvp"
+    },
+    {
+        "name": "Desert Costume",
+        "buff": "desert_costume",
+        "class": "pvp"
+    },
+    {
+        "name": "Frost Warrior Costume",
+        "buff": "frost_warrior_costume",
+        "class": "pvp"
+    },
+    {
+        "name": "Hawaii Costume",
+        "buff": "hawaii_costume",
+        "class": "raid"
+    },
+    {
+        "name": "Honeybee Costume",
+        "buff": "honeybee_costume",
+        "class": "pvp"
+    },
+    {
+        "name": "Karate Costume",
+        "buff": "karate_costume",
+        "class": "pvp"
+    },
+    {
+        "name": "Knight Costume",
+        "buff": "knight_costume",
+        "class": "pvp"
+    },
+    {
+        "name": "Korean Cat Costume",
+        "buff": "korean_cat_costume",
+        "class": "perfing"
+    },
+    {
+        "name": "Pixie Costume",
+        "buff": "pixie_costume",
+        "class": "pvp"
+    },
+    {
+        "name": "Police Costume",
+        "buff": "police_costume",
+        "class": "betting"
+    },
+    {
+        "name": "Reindeer Costume",
+        "buff": "reindeer_costume",
+        "class": "raid"
+    },
+    {
+        "name": "Sexy Bunny Costume",
+        "buff": "sexy_bunny_costume",
+        "class": "perfing"
+    },
+    {
+        "name": "Wedding Costume",
+        "buff": "wedding_costume",
+        "class": "pvp"
+    },
+    {
+        "name": "Winter Costume",
+        "buff": "winter_costume",
+        "class": "gold"
+    },
+    {
+        "name": "Wizard of Noz Costume",
+        "buff": "wizard_of_noz_costume",
+        "class": "fish"
+    },
+    {
+        "name": "Wonderland Costume",
+        "buff": "wonderland_costume",
+        "class": "raid"
+    }
+]

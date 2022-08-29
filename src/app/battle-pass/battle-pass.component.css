@@ -1,0 +1,200 @@
+.battle-pass {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-block: 3em;
+    color: white;
+    background-color: rgba(0, 0, 0, .8);
+    border-radius: 20px;
+    width: 100%;
+    padding: 3em 0;
+}
+
+/* All big containers */
+.quests-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 2em;
+}
+
+/* Button to open content */
+.open-quests {
+    width: 75%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: .5em 1em;
+    background-color: var(--void-clr);
+    border: none;
+    font-weight: bold;
+    border-radius: 10px;
+    color: white;
+    font-size: 1.2rem;
+}
+
+/* quest container */
+
+.quest-container, .rewards-container {
+    padding: 1em;
+}
+
+.battle-pass-title {
+    font-size: 3rem;
+    margin-bottom: 1em;
+}
+
+.battle-pass-title-2 {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-top: 1em;
+    text-align: center;
+}  
+.battle-pass-title-3 {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-top: 1em;
+    text-align: center;
+}  
+
+.battle-pass-info {
+    text-align: center;
+    font-style: italic;
+}
+
+.quest-todo, .quest-rewards {
+    font-size: 1.75rem;
+    text-align: center;
+}
+
+.list-rewards, .list-quests {
+    font-size: 1rem;
+}
+
+.quest-todo,
+.quest-rewards,
+.battle-pass-title, 
+.battle-pass-title-2 {
+    font-family: 'Edu SA Beginner', cursive;
+}
+
+.battle-pass-infos {
+    padding-left: 0;
+}
+
+.battle-pass-infos li {
+    font-size: 1.1rem;
+    line-height: 1.75em;
+    padding: .5em;
+    text-align: justify;
+}
+
+.infos-purple {
+    color: var(--void-clr);
+}
+
+.bp-levels {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 1.1rem;
+    line-height: 1.75em;
+}
+
+.bp-levels li {
+    font-size: 1.1rem;
+    line-height: 1.75em;
+}
+
+.wheel-ticket {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: .5em;
+}
+
+.wheel-ticket img {
+    max-width: 36px;
+    max-height: 36px;
+    margin-top: 1em;
+}
+
+.bp-text {
+    width: 75%;
+    text-align: center;
+    font-size: 1.1rem;
+}
+
+.wings-box-title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1em;
+}
+
+.lucky-box-title img, 
+.wings-box-title img {
+    max-width: 36px;
+    max-height: 36px;
+}
+
+.bp-special-buffs ul {
+    padding: 0;
+}
+.bp-special-buffs {
+    line-height: 3em;
+}
+
+.bp-special-buffs ul li {
+    font-size: 1.1rem;
+}
+
+.bp-ticket-link {
+    color: var(--void-clr);
+    font-weight: bold;
+}
+
+.random-boxes {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.wings-box {
+    margin: 0;
+    padding: 0;
+    width: fit-content;
+}
+
+.wing-item, .list-quests li {
+    font-size: 1.1rem;
+    line-height: 1.5em;
+}
+
+/* Media */
+
+@media all and (min-width: 1140px) {
+    .display-grid, .bp-boxes-container {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        width: 75%;
+    }
+
+    .quest-container, .rewards-container {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .bp-special-buffs {
+        display: flex;
+        gap: 3em;
+    }
+
+    .battle-pass {
+        width: 75%;
+    }
+}

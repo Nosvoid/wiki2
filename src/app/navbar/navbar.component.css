@@ -1,0 +1,231 @@
+.wiki-navbar {
+    background: url("../../assets/img/nav_bg.png");
+    background-color: transparent;
+    padding: .5em;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 3em;
+    width: 100%;
+    top: 0;
+    height: 100px;
+}
+
+/* logo */
+
+.wiki-navbar-logo {
+    display: flex;
+    align-items: center;
+}
+
+.wiki-navbar-logo video {
+    height: 56px;
+}
+
+/* Responsive burger menu */
+
+.wiki-navbar-toggle {
+    display: none;
+}
+
+.bars-icon,
+.close-icon {
+    color: white;
+    font-size: 3rem;
+}
+
+/* Navlist */
+
+.wiki-navbar-menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+    gap: 2em;
+}
+
+button.link {
+    color: white;
+    border-radius: 10px;
+}
+
+.link {
+    background: none;
+    border: none;
+    text-decoration: none;
+    color: white;
+    font-family: inherit;
+    font-size: 1.2rem;
+    cursor: pointer;
+    padding: .5em;
+}
+
+a.link {
+    border-radius: 10px;
+}
+
+.dropdown {
+    position: relative;
+    display: flex;
+    align-items: center;
+    height: 100%;
+    border-radius: 10px;
+}
+
+.dropdown-heading {
+    color: white;
+    font-size: 1.5rem;
+    font-weight: bold;
+    font-family: 'Edu SA Beginner', cursive;
+    padding: .5em 0;
+}
+
+.dropdown-links a {
+    font-size: 1rem;
+}
+
+.dropdown-menu {
+    position: absolute;
+    left: -50%;
+    top: calc(100%);
+    background-color: var(--void-clr);
+    padding: .75rem;
+    opacity: 0;
+    border: inherit;
+    border-radius: inherit;
+    pointer-events: none;
+    transform: translateY(-20px);
+    transition: opacity 150ms ease-in-out, transform 150ms ease-in-out;
+}
+
+.guides-dropdown {
+    left: -100%;
+}
+
+.dropdown.active>.link+.dropdown-menu {
+    opacity: 1;
+    transform: translateY(0);
+    pointer-events: auto;
+}
+
+.information-grid {
+    display: grid;
+    grid-template-columns: repeat(2, max-content);
+    gap: 2rem;
+}
+.information-grid-crew {
+    display: grid;
+    grid-template-columns: repeat(1, max-content);
+    gap: 2rem;
+}
+
+.information-grid-crew > * {
+    max-width: 150px;
+}  
+
+.information-grid-updates {
+    display: grid;
+    left: -20%;
+    min-width: unset;
+}
+
+.information-grid-updates .dropdown-links {
+    width: 115px;
+}
+
+.dropdown-links {
+    display: flex;
+    flex-direction: column;
+    gap: .25rem;
+}
+
+.wiki-navbar-menu li {
+    cursor: pointer;
+    color: white;
+    padding: .5em;
+    border-radius: 10px;
+}
+
+.wiki-navbar-menu li:hover, .link:hover {
+    /* background-color: rgba(255, 255, 255, 0.2); */
+    background-color: var(--void-clr-active);
+}
+
+.wiki-navbar-menu li {
+    font-size: 1.2em;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.responsive-logo {
+    display: none;
+}
+
+/* Responsive */
+
+@media all and (max-width: 1140px) {
+    .wiki-navbar-toggle {
+        display: flex;
+        align-items: center;
+        cursor: pointer;
+        z-index: 20;
+    }
+
+    .wiki-navbar-logo {
+        z-index: 20;
+    }
+
+    .bars-icon {
+        display: block;
+    }
+
+    .close-icon {
+        display: none;
+    }
+
+    .wiki-navbar-menu {
+        position: absolute;
+        top: var(--ig-link-height);
+        left: 0;
+        width: 100%;
+        height: 120vh;
+        flex-direction: column;
+        justify-content: flex-start;
+        padding-top: 100px;
+        background-color: var(--void-clr-active);
+        transform: translateY(-100%);
+        opacity: 0;
+        transition: 
+        transform .5s ease-in-out,
+        opacity .5s ease-in-out;
+    }
+
+    .wiki-navbar-menu li {
+        height: unset;
+    }
+
+    .open>.wiki-navbar-menu {
+        transform: translateY(0);
+    }
+    .dropdown, .link {
+        height: unset;
+    }
+
+    .responsive-logo {
+        display: block;
+        font-family: 'Exo 2', sans-serif;
+        color: white;
+        text-decoration: none;
+        font-weight: bold;
+        font-size: 1.5rem;
+    }
+
+    .responsive-logo img {
+        height: 42px;
+    }
+
+    .video-logo {
+        display: none;
+    }
+}

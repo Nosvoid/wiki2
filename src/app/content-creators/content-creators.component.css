@@ -1,0 +1,95 @@
+.crew {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-block: 3em;
+    color: white;
+    background-color: rgba(0, 0, 0, .8);
+    border-radius: 20px;
+    width: 100%;
+    padding: 3em 0;
+}
+
+.crew-title {
+    font-family: 'Edu SA Beginner', cursive;
+    display: flex;
+    justify-content: center;
+    font-size: 3rem;
+    margin-bottom: 1em;
+    text-align: center;
+    line-height: 1.1em;
+}
+
+.crew-table {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.crew-th, .crew-td {
+    padding: .9em;
+    font-size: 1.1rem;
+}
+
+.crew-td {
+    border-top: 1px solid white;
+}
+
+.crew-td img, .crew-th img {
+    width: 30px;
+    height: 30px;
+}
+
+.master {
+    color: var(--master-cc-clr);
+}
+
+.diamond {
+    color: var(--diamond-cc-clr);
+}
+
+.plat {
+    color: var(--plat-cc-clr);
+}
+
+.gold {
+    color: var(--gold-cc-clr);
+}
+
+.silver {
+    color: var(--silver-cc-clr);
+}
+
+.bronze {
+    color: var(--bronze-cc-clr);
+}
+
+.unranked {
+    color: var(--unranked-clr);
+}
+
+.yt-link {
+    color: white;
+    background-color: var(--yt-clr);
+    padding: .5em;
+    border-radius: 20px;
+}
+
+.twitch-link {
+    color: white;
+    background-color: var(--twitch-clr);
+    padding: .5em;
+    border-radius: 20px;
+}
+
+@media all and (min-width: 1140px) {
+    .crew {
+        width: 75%;
+    }
+    .crew-th, .crew-td {
+        padding: 1.5em;
+    }
+    .crew-table {
+        width: 75%;
+    }
+}

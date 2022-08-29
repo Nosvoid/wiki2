@@ -1,0 +1,26 @@
+<div class="d-flex justify-content-center">
+    <section class="patch-notes">
+        <h1 class="patch-notes-title-1">Patch Notes</h1>
+  
+        <div class="patch-notes-container" *ngFor="let patchnote of patchnotes | paginate: { itemsPerPage: 10, currentPage: p }">
+            <button class="open-patch-notes">
+                {{patchnote.patchnotesname}}
+                <i class="fa fa-angle-down" aria-hidden="true"></i>
+            </button>
+            <div class="display-none patch-notes-infos">
+                <div class="patch-notes-class {{class.hide}}" *ngFor="let class of patchnote.classes">
+                    <h2 class="patch-notes-title-2">{{class.name}}</h2>
+                    <div class="patch-notes-topics">
+                        <div *ngFor="let topic of class.topic" class="{{topic.topicclass}}">
+                            <h3 class="patch-notes-title-3">{{topic.topicname}}</h3>
+                            <ul class="patch-notes-changes" *ngFor="let changes of topic.changes">
+                                <li class="patch-notes-change">{{changes.change}}</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <pagination-controls class="patch-notes-pagination" (pageChange)="p = $event" (pageChange)="openPatchNote()"></pagination-controls>
+    </section>
+</div>

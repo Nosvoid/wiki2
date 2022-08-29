@@ -1,0 +1,135 @@
+[
+    {
+        "name": "Angel Wings",
+        "location": "Can be crafted at Low Tier Wings NPC $warp p1",
+        "buff": "angel_buff",
+        "skin": "angel_skin",
+        "class": "raid"
+    },
+    {
+        "name": "Archdaemon Wings",
+        "location": "Can be obtained in Prestige boxes",
+        "buff": "archdaemon_buff",
+        "skin": "archdaemon_skin",
+        "class": "raid"
+    },
+    {
+        "name": "Blade Wings",
+        "location": "Can be obtained in Caligor boxes or you can buy them for 100 coins in VoidMall",
+        "buff": "blade_buff",
+        "skin": "blade_skin",
+        "class": "raid"
+    },
+    {
+        "name": "Blazing Fire Wings",
+        "location": "Can be crafted at Wings NPC $warp p3",
+        "buff": "blazing_buff",
+        "skin": "blazing_skin",
+        "class": "raid"
+    },
+    {
+        "name": "Crystal Wings",
+        "location": "Can be crafted at Useful Stuff NPC Act4 or you can buy them for 900 coins in VoidMall",
+        "buff": "crystal_buff",
+        "skin": "crystal_skin",
+        "class": "pvp"
+    },
+    {
+        "name": "Devil Wings",
+        "location": "Can be crafted at Low Tier Wings NPC $warp p1",
+        "buff": "devil_buff",
+        "skin": "devil_skin",
+        "class": "raid"
+    },
+    {
+        "name": "Dracula Wings",
+        "location": "Can be crafted at Rainbow Battle NPC in NosVille",
+        "buff": "dracula_buff",
+        "skin": "dracula_skin",
+        "class": "pvp"
+    },
+    {
+        "name": "Fire Wings",
+        "location": "Can be crafted at Wings NPC $warp p2",
+        "buff": "fire_buff",
+        "skin": "fire_skin",
+        "class": "raid"
+    },
+    {
+        "name": "Frosty Ice Wings",
+        "location": "Can be crafted at Wings NPC $warp p3",
+        "buff": "frosty_buff",
+        "skin": "frosty_skin",
+        "class": "raid"
+    },
+    {
+        "name": "Golden Wings",
+        "location": "Can be crafted at High Tier Wings NPC $warp p5",
+        "buff": "golden_buff",
+        "skin": "golden_skin",
+        "class": "gold"
+    },
+    {
+        "name": "Ice Wings",
+        "location": "Can be crafted at Wings NPC $warp p2",
+        "buff": "ice_buff",
+        "skin": "ice_skin",
+        "class": "raid"
+    },
+    {
+        "name": "Lightning Wings",
+        "location": "Can be crafted at Useful Stuff NPC Act4 or you can buy them for 550 coins in VoidMall",
+        "buff": "lightning_buff",
+        "skin": "lightning_skin",
+        "class": "pvp"
+    },
+    {
+        "name": "Lunar Wings",
+        "location": "Can be bought for 800 coins in VoidMall",
+        "buff": "lunar_buff",
+        "skin": "lunar_skin",
+        "class": "pvp"
+    },
+    {
+        "name": "Mega Titan Wings",
+        "location": "Can be ",
+        "buff": "mega_titan_buff",
+        "skin": "mega_titan_skin",
+        "class": "pvp"
+    },
+    {
+        "name": "Onyx Wings",
+        "location": "Can be crafted at Useful Stuff NPC Act4 or you can buy them for 600 coins in VoidMall",
+        "buff": "onyx_buff",
+        "skin": "onyx_skin",
+        "class": "pvp"
+    },
+    {
+        "name": "Petal Wings",
+        "location": "Can be crafted at Hardcore Rewards NPC $warp p8",
+        "buff": "petal_buff",
+        "skin": "petal_skin",
+        "class": "raid"
+    },
+    {
+        "name": "Titan Wings",
+        "location": "Can be crafted at Wings NPC $warp p2",
+        "buff": "titan_buff",
+        "skin": "titan_skin",
+        "class": "pvp"
+    },
+    {
+        "name": "Void Wings",
+        "location": "Can be obtained in Fortune Wheel",
+        "buff": "void_buff",
+        "skin": "void_skin",
+        "class": "raid"
+    },
+    {
+        "name": "Zephyr Wings",
+        "location": "Can be crafted at Useful Stuff NPC Act4 or you can buy them for 550 coins in VoidMall",
+        "buff": "zephyr_buff",
+        "skin": "zephyr_skin",
+        "class": "raid"
+    }
+]

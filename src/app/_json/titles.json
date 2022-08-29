@@ -1,0 +1,392 @@
+[
+    {
+        "name": "Advanced Angler",
+        "location": "You get it after completing the Fish Encyclopedia",
+        "img": "advanced_angler",
+        "class": "fish"
+    },
+    {
+        "name": "Annihilator",
+        "location": "You buy it for 100 coins in VoidMall",
+        "img": "annihilator",
+        "class": "exp"
+    },
+    {
+        "name": "Beta Tester",
+        "location": "You could get it by playing the Beta of NosVoid",
+        "img": "beta_tester",
+        "class": "aesthetic"
+    },
+    {
+        "name": "Bomb Runer",
+        "location": "You can craft it at Bold Exchange NPC in NosVille",
+        "img": "bomb_runner",
+        "class": "gold"
+    },
+    {
+        "name": "Bronze Content Creator",
+        "location": "You need to be Bronze Content Creator to unlock this title",
+        "img": "bronze_content_creator",
+        "class": "aesthetic"
+    },
+    {
+        "name": "Celestial Spire Guard",
+        "location": "You can craft it at Tower NPC $warp p7",
+        "img": "celestial_spire_guard",
+        "class": "pve"
+    },
+    {
+        "name": "Chicken Queen",
+        "location": "You can get it during the Easter Event",
+        "img": "chicken_queen",
+        "class": "raid"
+    }, 
+    {
+        "name": "Christmas",
+        "location": "You can get it during the Christmas Event",
+        "img": "christmas",
+        "class": "double-box"
+    },
+    {
+        "name": "Deep Sea Master",
+        "location": "You can craft it during the Summer Event",
+        "img": "deep_sea_master",
+        "class": "fish"
+    },
+    {
+        "name": "Demigod",
+        "location": "You can craft it at Lost War Helmet Craft NPC in Act4",
+        "img": "demigod",
+        "class": "pvp"
+    },
+    {
+        "name": "Easter on NosVoid",
+        "location": "You can get it during the Easter Event",
+        "img": "easter_on_nosvoid",
+        "class": "double-box"
+    },
+    {
+        "name": "Experienced Angler",
+        "location": "You get it after completing the Fish Encyclopedia",
+        "img": "experienced_angler",
+        "class": "fish"
+    },
+    {
+        "name": "Fish Merchant",
+        "location": "You an craft it at P6 45-50Lv Fish NPC $warp fish and or for 300 coins in Void Mall",
+        "img": "fish_merchant",
+        "class": "fish"
+    },
+    {
+        "name": "Fishing Master",
+        "location": "You get it after completing the whole Fish Encyclopedia",
+        "img": "fishing_master",
+        "class": "fish"
+    },
+    {
+        "name": "Fishing Student",
+        "location": "You can craft it at P3 15-50Lv Fish Craft NPC $warp fish",
+        "img": "fishing_student",
+        "class": "fish"
+    },
+    {
+        "name": "Fox Lady",
+        "location": "You can craft it during the Easter Event",
+        "img": "fox_lady",
+        "class": "gold"
+    },
+    {
+        "name": "Frozen Hero",
+        "location": "You can craft it after 250 kills at Achievement NPC Act4",
+        "img": "frozen_hero",
+        "class": "pvp"
+    },
+    {
+        "name": "Git Gud",
+        "location": "You can craft it after 500 kills at Achievement NPC Act4",
+        "img": "git_gud",
+        "class": "aesthetic"
+    },
+    {
+        "name": "God of Cylloan",
+        "location": "You can craft it at High Tier Title and Pet NPC $warp p5",
+        "img": "god_of_cylloan",
+        "class": "pvp"
+    },
+    {
+        "name": "God of Glacernon",
+        "location": "You can craft it after 500 kills at Achievement NPC Act4",
+        "img": "god_of_glacernon",
+        "class": "pvp"
+    },
+    {
+        "name": "God of War",
+        "location": "You can craft it at Lost War Helmet Craft NPC in Act4",
+        "img": "god_of_war",
+        "class": "pvp"
+    },
+    {
+        "name": "Gold Content Creator",
+        "location": "You need to be Gold Content Creator to unlock this title",
+        "img": "gold_content_creator",
+        "class": "aesthetic"
+    },
+    {
+        "name": "Gold Digger",
+        "location": "You can get it during the Easter Event",
+        "img": "gold_digger",
+        "class": "aesthetic"
+    },
+    {
+        "name": "I'm a killer!",
+        "location": "You can craft it at Lost War Helmet Craft NPC in Act4",
+        "img": "im_a_killer",
+        "class": "pvp"
+    },
+    {
+        "name": "I'm the richest",
+        "location": "You can get it for 0 coin in VoidMall after spending 100€",
+        "img": "im_the_richest",
+        "class": "fish"
+    },
+    {
+        "name": "Intermediate Angler",
+        "location": "You get it after completing the Fish Encyclopedia",
+        "img": "intermediate_angler",
+        "class": "fish"
+    },
+    {
+        "name": "Into the Void",
+        "location": "You can get it in Fortune Wheel",
+        "img": "into_the_void",
+        "class": "pvp"
+    },
+    {
+        "name": "KFC",
+        "location": "You can get it during the Easter Event",
+        "img": "kfc",
+        "class": "aesthetic"
+    },
+    {
+        "name": "King of Erenia",
+        "location": "You can get if after completing the Erenia Marathon Quest",
+        "img": "king_of_erenia",
+        "class": "raid"
+    },
+    {
+        "name": "King of Fernon",
+        "location": "You can get if after completing the Fernon Marathon Quest",
+        "img": "king_of_fernon",
+        "class": "raid"
+    },
+    {
+        "name": "King of Raids",
+        "location": "You can craft it with King of Erenia, Fernon & Zenas titles",
+        "img": "king_of_raids",
+        "class": "raid"
+    },
+    {
+        "name": "King of Void",
+        "location": "You can get it in Fortune Wheel",
+        "img": "king_of_void",
+        "class": "pvp"
+    },
+    {
+        "name": "King of Zenas",
+        "location": "You can get if after completing the Zenas Marathon Quest",
+        "img": "king_of_zenas",
+        "class": "raid"
+    },
+    {
+        "name": "Lose Control",
+        "location": "You can craft it after 3000 kills at Achievement NPC Act4",
+        "img": "lose_control",
+        "class": "pvp"
+    },
+    {
+        "name": "Lucky Angler",
+        "location": "You an craft it at P5 30-50Lv Fish NPC $warp fish and for 300 coins in VoidMall",
+        "img": "lucky_angler",
+        "class": "fish"
+    },
+    {
+        "name": "Lucky Hunter",
+        "location": "You can craft it at Instant Combat NPC in NosVille",
+        "img": "lucky_hunter",
+        "class": "pve"
+    },
+    {
+        "name": "Master Content Creator",
+        "location": "You need to be Master Content Creator to unlock this title",
+        "img": "master_content_creator",
+        "class": "aesthetic"
+    },
+    {
+        "name": "Master of Specialists",
+        "location": "You can craft it at P6 45-50Lv Fish Craft NPC $warp fish and for 800 coins in VoidMall",
+        "img": "master_of_specialists",
+        "class": "pvp"
+    },
+    {
+        "name": "Master of the Sea",
+        "location": "You can craft it during the Summer Event",
+        "img": "master_of_the_sea",
+        "class": "raid"
+    },
+    {
+        "name": "NosVoid Support Team",
+        "location": "You need to be a Game Supporter to get this title",
+        "img": "nosvoid_support_team",
+        "class": "aesthetic"
+    },
+    {
+        "name": "Phantom",
+        "location": "You can craft it at Craft Title NPC $warp p2",
+        "img": "phantom",
+        "class": "exp"
+    },
+    {
+        "name": "Pirate",
+        "location": "You can craft it during the Summer Event",
+        "img": "pirate",
+        "class": "pvp"
+    },
+    {
+        "name": "Pirate Lord",
+        "location": "You can craft it during the Summer Event",
+        "img": "pirate_lord",
+        "class": "double-box"
+    },
+    {
+        "name": "Premium Angler",
+        "location": "You can buy it for 450 coin in VoidMall",
+        "img": "premium_angler",
+        "class": "fish"
+    },
+    {
+        "name": "Queen of Raids",
+        "location": "You can craft it with King of Erenia, Fernon & Zenas titles",
+        "img": "queen_of_raids",
+        "class": "raid"
+    },
+    {
+        "name": "Raid Destroyer",
+        "location": "You can get it in Family War boxes and for 800 coins in VoidMall",
+        "img": "raid_destroyer",
+        "class": "double-box"
+    },
+    {
+        "name": "Rainbow Master",
+        "location": "You can craft it at Rainbow Battle NPC in NosVille",
+        "img": "rainbow_master",
+        "class": "pvp"
+    },
+    {
+        "name": "Real Hero",
+        "location": "You an craft it at P3 10-50Lv Fish NPC $warp fish and for 250 coins in VoidMall",
+        "img": "real_hero",
+        "class": "exp"
+    },
+    {
+        "name": "Rookie Angler",
+        "location": "You get it after completing the Fish Encyclopedia",
+        "img": "rookie_angler",
+        "class": "fish"
+    },
+    {
+        "name": "Rum Drinker",
+        "location": "You can get it in Fortune Wheel",
+        "img": "rum_drinker",
+        "class": "aesthetic"
+    },
+    {
+        "name": "Sandstorm Slayer",
+        "location": "You can craft it at Family Tower Rewards NPC $warp p8.1",
+        "img": "sandstorm_slayer",
+        "class": "pve"
+    },
+    {
+        "name": "Santa Claus",
+        "location": "You can get it during the Christmas Event",
+        "img": "santa_claus",
+        "class": "raid"
+    },
+    {
+        "name": "Shooting Star",
+        "location": "You can craft it during the Summer Event",
+        "img": "shooting_star",
+        "class": "betting"
+    },
+    {
+        "name": "Silver Content Creator",
+        "location": "You need to be Silver Content Creator to unlock this title",
+        "img": "silver_content_creator",
+        "class": "aesthetic"
+    },
+    {
+        "name": "Simp",
+        "location": "You can get it during Halloween Event and in Family Tower boxes",
+        "img": "simp",
+        "class": "aesthetic"
+    },
+    {
+        "name": "Skilled Angler",
+        "location": "You get it after completing the Fish Encyclopedia",
+        "img": "skilled_angler",
+        "class": "fish"
+    },
+    {
+        "name": "Sorcerer",
+        "location": "You can craft it during the Evolution Event",
+        "img": "sorcerer",
+        "class": "pve"
+    },
+    {
+        "name": "Sugar Mommy",
+        "location": "You can get it in Family Tower boxes",
+        "img": "sugar_mommy",
+        "class": "aesthetic"
+    },
+    {
+        "name": "Summer",
+        "location": "You can get it during the Summer Event",
+        "img": "summer",
+        "class": "double-box"
+    },
+    {
+        "name": "The Army Destroyer",
+        "location": "You can craft it after 1000 kills at Achievement NPC Act4",
+        "img": "the_army_destroyer",
+        "class": "raid"
+    },
+    {
+        "name": "The Power of a God",
+        "location": "You can craft it at Lost War Helmet Craft NPC in Act4",
+        "img": "the_power_of_a_god",
+        "class": "pvp"
+    },
+    {
+        "name": "Timespace Master",
+        "location": "You can get it in P8 TS boxes",
+        "img": "timespace_master",
+        "class": "pve"
+    },
+    {
+        "name": "Unicorn",
+        "location": "You can craft it at Instant Combat NPC in NosVille",
+        "img": "unicorn",
+        "class": "aesthetic"
+    },
+    {
+        "name": "Void Helper",
+        "location": "You need to be a Void Helper to get this title",
+        "img": "void_helper",
+        "class": "aesthetic"
+    },
+    {
+        "name": "Walking on Clouds",
+        "location": "You can get it during the Summer Event",
+        "img": "walking_on_clouds",
+        "class": "aesthetic"
+    }
+]

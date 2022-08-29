@@ -1,0 +1,127 @@
+<div class="d-flex justify-content-center align-items-center">
+    <section class="act4">
+        <h1 class="act4-title-1">Act4</h1>
+
+        <!-- Caligor -->
+        <div class="act4-container">
+            <button class="open-content">
+                <div class="open-content-title">Caligor</div>
+                <i class="fa fa-angle-down" aria-hidden="true"></i>
+            </button>
+            <div class="act4-content w-75 pt-3 display-none">
+                <h3 class="act4-title-3">You can check Caligor's Schedule 
+                    <a href="/schedule"> here</a>
+                </h3>
+                <div class="caligor-rewards">
+                    <div class="caligor-boxes">
+                        <h3 class="act4-title-3">Caligor's Rewards</h3>
+                        <p class="act4-text">After killing the Caligor you get :</p>
+                        <ul class="act4-items">
+                            <li class="act4-item">- Caligor's Box (x1 Loser Side / x2 Winner Side)</li>
+                            <li class="act4-item">- Conqueror's Flag (Only for Winner Side)</li>
+                            <li class="act4-item">- Caligor's Spirit</li>
+                            <li class="act4-item">- Caligor's Necklace</li>
+                        </ul>
+                    </div>
+                    <div class="caligor-boxes">
+                        <h3 class="act4-title-3">Caligor's Box</h3>
+                        <p class="act4-text">In Caligor's Boxes you can get :</p>
+                        <ul class="act4-items">
+                            <li class="act4-item">- R7 shell (100%)</li>
+                            <li class="act4-item">- Holy Light</li>
+                            <li class="act4-item">- Bloody Red Ruby</li>
+                            <li class="act4-item">- Broken Caligor's Horn</li>
+                            <li class="act4-item">- Blade Wings</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Raids -->
+        <div class="act4-container">
+            <button class="open-content">
+                <div class="open-content-title">Raids</div>
+                <i class="fa fa-angle-down" aria-hidden="true"></i>
+            </button>
+            <div class="act4-content w-75 pt-3 display-none">
+                <h3 class="act4-title-3">There are 5 Act4 Raids, Morcos, Berios, Hatus, Calvina & Fafnir</h3>
+                <p class="act4-text">After the raid you get :</p>
+                <ul class="act4-items">
+                    <li class="act4-item">- 1x Raid Box</li>
+                    <li class="act4-item">- 1x Dragon Scroll Box (20x Dragon Card Scrolls)</li>
+                    <li class="act4-item">- 1x Raid Box</li>
+                </ul>
+                <div class="act4-raids">
+                    <div class="act4-regular-raids">
+                        <p class="act4-text">Morcos, Berios, Hatus & Calvina <br> Raid Boxes :</p>
+                        <ul class="act4-items">
+                            <li class="act4-item">- 1x R7 Shell (100%)</li>
+                            <li class="act4-item">- 1x Fairy Powder</li>
+                        </ul>
+                    </div>
+                    <div class="act4-fafnir-raid">
+                        <p class="act4-text">Fafnir Raid Boxes :</p>
+                        <ul class="act4-items">
+                            <li class="act4-item">- 1x R7 Shell (100%)</li>
+                            <li class="act4-item">- 1x Fairy Powder</li>
+                            <li class="act4-item">- 1x Dragon Gem</li>
+                            <li class="act4-item">- 1x Fafnir Teeth</li>
+                        </ul>
+                    </div>
+                </div>
+                <h3 class="act4-title-3">You can trade Raid Essences (2 for 1) here : </h3>
+                <img src="../../assets/img/act4/essences_npcs.png" alt="">
+            </div>
+        </div>
+        
+        <!-- Kill System -->
+        <div class="act4-container">
+            <button class="open-content">
+                <div class="open-content-title">Kill System</div>
+                <i class="fa fa-angle-down" aria-hidden="true"></i>
+            </button>
+            <div class="act4-content w-75 pt-3 display-none">
+                <div class="kill-system">
+                    <div class="helmets">
+                        <h3 class="act4-title-3">Lost War Helmet</h3>
+                            <p class="act4-text">
+                                For each kill you make, you get one Lost War Helmet
+                                which you can trade at Lost War Helmet Craft NPC :
+                            </p>
+                            <img src="../../assets/img/act4/helmet_npc.png" alt="">
+                    </div>
+                    <div class="achievements">
+                        <h3 class="act4-title-3">Achievements</h3>
+                        <p class="act4-text">
+                            After 250, 500, 750, 1000, 1250, 1500, 2000 & 3000 kills you get 
+                            Achievement Unlocker. <br>
+                            Achievement Unlockers allow you to craft exclusive
+                            titles, pet, mount or costume set at Achievement Rewards NPC
+                        </p>
+                        <img src="../../assets/img/act4/achievement_npc.png" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Kill System -->
+        <div class="act4-container">
+            <button class="open-content">
+                <div class="open-content-title">NPCs</div>
+                <i class="fa fa-angle-down" aria-hidden="true"></i>
+            </button>
+            <div class="act4-content w-75 pt-3 display-none">
+                <div *ngFor="let map of npcs">
+                    <h2 class="act4-title-2">{{map.location}}</h2>
+                    <div class="act4-npcs">
+                        <div class="act4-npc" *ngFor="let npc of map.npcs">
+                            <h3 class="act4-title-3">{{npc.name}}</h3>
+                            <p class="act4-text">{{npc.info}}</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>

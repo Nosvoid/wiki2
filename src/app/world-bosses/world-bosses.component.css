@@ -1,0 +1,50 @@
+.world-bosses {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-block: 3em;
+    color: white;
+    background-color: rgba(0, 0, 0, .8);
+    border-radius: 20px;
+    width: 100%;
+    padding: 3em 0;
+}
+
+.world-bosses-title-1,
+.world-bosses-title-2 {
+    font-family: 'Edu SA Beginner', cursive;
+}
+
+.world-bosses-title-1 {
+    font-size: 3rem;
+    margin-bottom: 1em;
+}
+
+.world-bosses-title-2 {
+    font-size: 2rem;
+    margin-top: 1em;
+}
+
+.world-bosses-title-3,
+.act4-wb-reward {
+    font-size: 1.25rem;
+    line-height: 1.3em;
+}
+
+.world-bosses-text {
+    font-size: 1.1rem;
+    line-height: 1.5em;
+}
+
+.world-bosses {
+    text-align: center;
+    width: 75%;
+}
+
+/* Media queries */
+@media all and (min-width: 1140px) {
+    .world-bosses {
+        width: 75%;
+    }
+}

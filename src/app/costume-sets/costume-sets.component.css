@@ -1,0 +1,152 @@
+.all-sets {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-block: 3em;
+    color: white;
+    background-color: rgba(0, 0, 0, .8);
+    border-radius: 20px;
+    width: 100%;
+    padding: 3em 0;
+}
+
+/* All big containers */
+.sets-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+/* Button to open content */
+.open-sets {
+    width: 75%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: .5em 1em;
+    background-color: var(--void-clr);
+    border: none;
+    font-weight: bold;
+    border-radius: 10px;
+    color: white;
+}
+
+/* Set container */
+
+.set-container {
+    padding: 1em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.all-sets-title {
+    font-size: 3rem;
+    margin-bottom: 1em;
+    text-align: center;
+    line-height: 1.1em;
+}
+
+.set-name {
+    font-size: 2rem;
+}
+
+.set-location {
+    font-size: 1.1rem;
+}
+
+.set-location,
+.set-name {
+    text-align: center;
+}
+
+.set-name, .all-sets-title {
+    font-family: 'Edu SA Beginner', cursive;
+}
+
+.show-buffs {
+    border: none;
+    background-color: var(--void-clr);
+    color: black;
+    padding: .5em 1em;
+    margin-top: 1em;
+    border-radius: 10px;
+}
+
+.set-skin {
+    max-width: 100%;
+    width: 200px;
+}
+
+.set-buff {
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, .9);
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.set-buff-content {
+    background-color: var(--void-clr);
+    margin: 20% auto;
+    padding: 2em;
+    box-shadow: 
+    0 5px 8px 0 rgba(0, 0, 0, .2),
+    0 7px 20px 0 rgba(0, 0, 0, .17);
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 1em;
+}
+
+.set-container img, .set-buff-content img {
+    border-radius: 10px;
+}
+
+.set-buff-content img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.close-buffs {
+    color: black;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+.close-buffs:hover, .close-buffs:focus {
+    text-decoration: none;
+}
+
+
+
+/* Media */
+
+@media all and (min-width: 1140px) {
+    .display-grid {
+        grid-template-columns: repeat(3, 1fr);
+        width: 75%;
+    }
+
+    .all-sets {
+        width: 75%;
+    }
+
+    .set-container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-direction: column;
+    }
+}

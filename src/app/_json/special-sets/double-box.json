@@ -1,0 +1,60 @@
+[
+    {
+        "regular": [
+            {
+                "name": "Candy Skin",
+                "img": "candy_skin"
+            },
+            {
+                "name": "Easter Bunny Hat",
+                "img": "easter_bunny_hat"
+            },
+            {
+                "name": "Hawaii Costume",
+                "img": "hawaii"
+            },
+            {
+                "name": "Mini-Fernon",
+                "img": "mini_fernon"
+            },
+            {
+                "name": "Otter",
+                "img": "otter"
+            },
+            {
+                "name": "Raid Destroyer",
+                "img": "title"
+            },
+            {
+                "name": "Raid Ring",
+                "img": "raid_ring"
+            },
+            {
+                "name": "Seraphim",
+                "img": "seraphim"
+            },
+            {
+                "name": "Venus",
+                "img": "venus"
+            }
+        ],
+        "a4": [
+            {
+                "name": "Act4 Bracelet",
+                "img": "act4_bracelet"
+            },
+            {
+                "name": "Frankestein",
+                "img": "frankestein"
+            },
+            {
+                "name": "Titan Hamster",
+                "img": "titan_hamster"
+            },
+            {
+                "name": "Wonderland",
+                "img": "wonderland"
+            }
+        ]
+    }
+]

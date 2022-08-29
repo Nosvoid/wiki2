@@ -1,0 +1,27 @@
+<div class="d-flex justify-content-center align-items-center">
+    <section class="hats">
+        <h1 class="hats-title">Hats</h1>
+
+        <div class="select-container">
+            <select name="filter" id="hat-filter" class="hats-select">
+                <option>All</option>
+                <option class="selectPve">Raid/PVE</option>
+                <option class="selectPvp">PVP</option>
+                <option class="selectFish">Fish</option>
+                <option class="selectGold">Gold</option>
+                <option class="selectBetting">Betting</option>
+            </select>
+        </div>
+
+        <div class="hats-container">
+            <div class="hat-container" class="{{item.class}}" *ngFor="let item of hats">
+                <div class="d-flex justify-content-center align-items-center flex-column">
+                    <h2 class="hat-name">{{item.name}}</h2>
+                    <a href="../assets/img/costumes/hats/{{item.buff}}.png" target="_blank">
+                        <img src="../assets/img/costumes/hats/{{item.buff}}.png">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>

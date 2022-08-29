@@ -1,0 +1,29 @@
+<div class="d-flex justify-content-center">
+    <section class="helmets-masks">
+        <h1 class="helmets-masks-title-1">Helmets & Masks</h1>
+
+        <div class="select-container">
+            <select name="filter" id="helmets-filter" class="helmets-masks-select">
+                <option>All</option>
+                <option class="selectPve">Raid/PVE</option>
+                <option class="selectPvp">PVP</option>
+                <option class="selectFish">Fish</option>
+            </select>
+        </div>
+
+        <div class="helmets-masks-container w-75">
+            <div class="helmet-mak-container" *ngFor="let hm of helmetsMasks">
+                <h2 class="helmets-masks-title-2">{{hm.type}}</h2>
+                <div class="helmet-mask-infos">
+                    <div class="{{item.class}}" *ngFor="let item of hm.items">
+                        <h3 class="helmets-masks-title-3">{{item.name}}</h3>
+                        <p class="helmet-mask-text">{{item.location}}</p>
+                        <a href="../../assets/img/helmets-masks/{{item.buff}}.png" target="_blank">
+                            <img src="../../assets/img/helmets-masks/{{item.buff}}.png" alt="">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>

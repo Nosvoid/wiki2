@@ -1,0 +1,20 @@
+<div class="d-flex justify-content-center">
+    <section class="raids">
+        <h1 class="raids-title">Raids</h1>
+        <div class="raids-container">
+            <div class="raid-container" *ngFor="let item of raids">
+                <div class="d-flex justify-content-center align-items-center flex-column">
+                    <h2 class="raid-name">{{item.name}}</h2>
+                    <p class="raid-location">{{item.location}}</p>
+                    <div class="raid-box">
+                        <h3>{{item.name}} Raid Box</h3>
+                        <img src="../../assets/img/raids/{{item.box}}.png" alt="">
+                    </div>
+                    <ul class="raid-list">
+                        <li class="raid" *ngFor="let reward of item.rewards">{{reward.reward}}</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>

@@ -1,0 +1,86 @@
+[
+    {
+        "name": "xpiterere ",
+        "yt": "Link",
+        "twitch": "Link",
+        "ytlink": "",
+        "twitchlink": "https://www.twitch.tv/xpiterere",
+        "rank": "Master Content Creator",
+        "rankimg": "master",
+        "rankclass": "master",
+        "ytclass": "display-none",
+        "twitchclass": "twitch-link"
+    },
+    {
+        "name": "MrYanki",
+        "yt": "Link",
+        "twitch": "Link",
+        "ytlink": "https://www.youtube.com/channel/UCJKN4sCE4_ENIKBrrA6MiSw/videos",
+        "twitchlink": "",
+        "rank": "Diamond Content Creator",
+        "rankimg": "diamond",
+        "rankclass": "diamond",
+        "ytclass": "yt-link",
+        "twitchclass": "display-none"
+    },
+    {
+        "name": "Nostale Saudade",
+        "yt": "Link",
+        "twitch": "Link",
+        "ytlink": "https://www.youtube.com/channel/UCBaPCQxwnnkQIk2LNHyRNJw/videos",
+        "twitchlink": "",
+        "rank": "Platinum Content Creator",
+        "rankimg": "plat",
+        "rankclass": "plat",
+        "ytclass": "yt-link",
+        "twitchclass": "display-none"
+    },
+    {
+        "name": "Amy",
+        "yt": "Link",
+        "twitch": "Link",
+        "ytlink": "https://www.youtube.com/channel/UC7BNlgRz92WKYTFAt_DQ2ng/videos",
+        "twitchlink": "",
+        "rank": "Gold Content Creator",
+        "rankimg": "gold",
+        "rankclass": "gold",
+        "ytclass": "yt-link",
+        "twitchclass": "display-none"
+    },
+    {
+        "name": "FenixYT",
+        "yt": "Link",
+        "twitch": "Link",
+        "ytlink": "https://www.youtube.com/channel/UCt6ToRIkbykiET3Sdc3Vo_Q/videos",
+        "twitchlink": "",
+        "rank": "Gold Content Creator",
+        "rankimg": "gold",
+        "rankclass": "gold",
+        "ytclass": "yt-link",
+        "twitchclass": "display-none"
+    },
+    {
+        "name": "Aeri NosTale",
+        "yt": "Link",
+        "twitch": "Link",
+        "ytlink": "https://www.youtube.com/channel/UCjdmjIFIzlI_CduzIAQvfug/videos",
+        "twitchlink": "",
+        "rank": "Silver Content Creator",
+        "rankimg": "silver",
+        "rankclass": "silver",
+        "ytclass": "yt-link",
+        "twitchclass": "display-none"
+    },
+    {
+        "name": "aleya",
+        "yt": "Link",
+        "twitch": "Link",
+        "ytlink": "",
+        "twitchlink": "https://www.twitch.tv/aleyaa__",
+        "rank": "Unranked Content Creator",
+        "rankimg": "unranked",
+        "rankclass": "unranked",
+        "ytclass": "display-none",
+        "twitchclass": "twitch-link"
+    }
+]

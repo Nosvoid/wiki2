@@ -1,0 +1,41 @@
+<div class="d-flex justify-content-center align-items-center">
+    <section class="pets">
+        <h1 class="pets-title">Pets</h1>
+
+        <div class="select-container">
+            <select name="filter" id="pets-filter" class="pets-select">
+                <option>All</option>
+                <option class="selectPve">Raid/PVE</option>
+                <option class="selectPvp">PVP</option>
+                <option class="selectFish">Fish</option>
+                <option class="selectGold">Gold</option>
+                <option class="selectBetting">Betting</option>
+                <option class="selectPerfsp">Perfing SPs</option>
+            </select>
+        </div>
+
+        <div class="pets-container">
+            <div class="pet-container" class="{{item.class}}" *ngFor="let item of pets">
+                <div class="pet-content">
+                    <div class="d-flex justify-content-center align-items-center flex-column">
+                        <h2 class="pet-name">{{item.name}}</h2>
+                        <h3 class="pet-location">{{item.location}}</h3>
+                        <a href="../assets/img/pets/skins/{{item.skin}}.png" target="_blank">
+                            <img src="../assets/img/pets/skins/{{item.skin}}.png" class="pet-skins">
+                        </a>
+                    </div>
+                    <!-- Modal -->
+                    <button class="show-buffs">Show Buffs</button>
+                    <div class="set-buff display-none" id="set-buff-modal">
+                        <div class="set-buff-content">
+                            <img src="../assets/img/pets/buffs/{{item.buff}}.png" alt="">
+                            <span class="close-buffs" id="close-btn">
+                                <i class="fa fa-times" aria-hidden="true"></i>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>

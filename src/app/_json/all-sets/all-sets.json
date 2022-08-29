@@ -1,0 +1,261 @@
+[
+        {
+            "name": "Aqua Bushi",
+            "location": "You can buy this set at Costumes NPC in NosVille",
+            "skins": "aqua_bushi",
+            "buff": "aqua_bushi_buffs"
+        },
+        {
+            "name": "Asian Black Bear",
+            "location": "You can get this set at Costume Shop 1 NPC",
+            "skins": "asian_black_bear",
+            "buff": "asian_black_bear_buffs"
+        },
+        {
+            "name": "Betting Costume",
+            "location": "You can get this costume in the Fortune Wheel",
+            "skins": "betting",
+            "buff": "betting_buffs"
+        },
+        {
+            "name": "Color Bushi (Every Color)",
+            "location": "You can buy those sets at Costumes NPC in NosVille",
+            "skins": "color_bushi",
+            "buff": "color_bushi_buffs"
+        },
+        {
+            "name": "Cuddly Tiger",
+            "location": "You can buy this set at Costumes NPC in NosVille",
+            "skins": "cuddly_tiger",
+            "buff": "cuddly_tiger_buffs"
+        },
+        {
+            "name": "Death Lancer",
+            "location": "You can craft this set at Family Tower Rewards NPC $warp p8.1 or in the Fortune Wheel",
+            "skins": "death_lancer",
+            "buff": "death_lancer_buffs"
+        },
+        {
+            "name": "Desert",
+            "location": "You can craft this set at Desert Rewards NPC Prestige 8.1 lobby",
+            "skins": "desert",
+            "buff": "desert_buffs"
+        },
+        {
+            "name": "Dracula",
+            "location": "You can buy this set for 500 coins in VoidMall",
+            "skins": "dracula",
+            "buff": "dracula_buffs"
+        },
+        {
+            "name": "Easter Bunny",
+            "location": "You can craft this set during the Easter Event",
+            "skins": "easter_bunny",
+            "buff": "easter_bunny_buffs"
+        },
+        {
+            "name": "Fire Devil",
+            "location": "You can craft this set at Prestige 4 lobby or you can buy it for 350 coins in VoidMall",
+            "skins": "fire_devil",
+            "buff": "fire_devil_buffs"
+        },
+        {
+            "name": "Fluffy Rabbit",
+            "location": "You can buy this set at Costumes NPC in NosVille",
+            "skins": "fluffy_rabbit",
+            "buff": "fluffy_rabbit_buffs"
+        },
+        {
+            "name": "Football",
+            "location": "You can buy this set at Costumes NPC in NosVille",
+            "skins": "football",
+            "buff": "football_buffs"
+        },
+        {
+            "name": "Frost Warrior",
+            "location": "You can get this set in the Fortune Wheel",
+            "skins": "frost_warrior",
+            "buff": "frost_warrior_buffs"
+        },
+        {
+            "name": "Groovy Beach",
+            "location": "You can buy this set for 700 coins in the VoidMall",
+            "skins": "groovy_beach",
+            "buff": "groovy_beach_buffs"
+        },
+        {
+            "name": "Hawaii",
+            "location": "You can craft this set during the Summer Event",
+            "skins": "hawaii",
+            "buff": "hawaii_buffs"
+        },
+        {
+            "name": "Honeybee",
+            "location": "You can craft this set at HardCore NPC at Prestige 8 lobby",
+            "skins": "honeybee",
+            "buff": "honeybee_buffs"
+        },
+        {
+            "name": "Ice Witch",
+            "location": "You can get this set in Act4 World Boss boxes or you can buy it for 450 coins in VoidMall",
+            "skins": "ice_witch",
+            "buff": "ice_witch_buffs"
+        },
+        {
+            "name": "Illusionist’s top Hat",
+            "location": "You can craft this hat at Fish Craft NPC and Ticket Exchange 2 NPC",
+            "skins": "illusionist_hat",
+            "buff": "illusionist_buffs"
+        },
+        {
+            "name": "Karate",
+            "location": "You can craft this set at after 2.000 kills in Act4",
+            "skins": "karate",
+            "buff": "karate_buffs"
+        },
+        {
+            "name": "Knight",
+            "location": "You can get this costume in the Fortune Wheel",
+            "skins": "knight",
+            "buff": "knight_buffs"
+        },
+        {
+            "name": "Korean Cat (Male)",
+            "location": "You can get this costume in the Fortune Wheel",
+            "skins": "korean_cat",
+            "buff": "korean_cat_buffs"
+        },
+        {
+            "name": "Magic Light",
+            "location": "You can craft this set at Fish Craft NPC",
+            "skins": "magic_light",
+            "buff": "magic_light_buffs"
+        },
+        {
+            "name": "Magic Shadow",
+            "location": "You can craft this set at Fish Craft NPC",
+            "skins": "magic_shadow",
+            "buff": "magic_shadow_buffs"
+        },
+        {
+            "name": "Navy",
+            "location": "You can buy this set at Costumes NPC in NosVille",
+            "skins": "navy",
+            "buff": "navy_buffs"
+        },
+        {
+            "name": "Nutcracker",
+            "location": "You can craft this set at P2 Costume NPC",
+            "skins": "nutcracker",
+            "buff": "nutcracker_buffs"
+        },
+        {
+            "name": "Oto-Fox",
+            "location": "You can buy this set at Costumes NPC in NosVille",
+            "skins": "oto_fox",
+            "buff": "oto_fox_buffs"
+        },
+        {
+            "name": "Pixie",
+            "location": "You can buy this set for 650 coins in VoidMall",
+            "skins": "pixie",
+            "buff": "pixie_buffs"
+        },
+        {
+            "name": "Plague Doctor / Nurse",
+            "location": "You can get this set in the Fortune Wheel",
+            "skins": "plague_doctor",
+            "buff": "plague_doctor_buffs"
+        },
+        {
+            "name": "Police",
+            "location": "You can craft this set at 10-50Lv Fish Craft NPC at $warp fish and RBB Exchange NPC in NosVille",
+            "skins": "police",
+            "buff": "police_buffs"
+        },
+        {
+            "name": "Pumpkin Witch",
+            "location": "You can craft this set during Halloween Event",
+            "skins": "pumpkin_witch",
+            "buff": "pumpkin_witch_buffs"
+        },
+        {
+            "name": "Rafting",
+            "location": "You can craft this set at 25-50Lv Fish Craft NPC $warp fish",
+            "skins": "rafting",
+            "buff": "rafting_buffs"
+        },
+        {
+            "name": "Reindeer",
+            "location": "You can get this set for 450 coins in VoidMall",
+            "skins": "reindeer",
+            "buff": "reindeer_buffs"
+        },
+        {
+            "name": "Sailing",
+            "location": "You can craft this set at 1-50Lv Fish Craft NPC at $warp fish",
+            "skins": "sailing",
+            "buff": "sailing_buffs"
+        },
+        {
+            "name": "Sexy Bunny (Female)",
+            "location": "You can get this set in the Fortune Wheel",
+            "skins": "sexy_bunny",
+            "buff": "sexy_bunny_buffs"
+        },
+        {
+            "name": "Snorkelling",
+            "location": "You can craft this set at 50-50Lv Fish Craft NPC at $warp fish",
+            "skins": "snorkelling",
+            "buff": "snorkelling_buffs"
+        },
+        {
+            "name": "Snow White Tiger",
+            "location": "You can buy this set at Costume NPC in NosVille",
+            "skins": "snow_white_tiger",
+            "buff": "snow_white_tiger_buffs"
+        },
+        {
+            "name": "Straw Hat",
+            "location": "You can craft this hat at 1-50Lv Fish Craft NPC at $warp fish",
+            "skins": "straw_hat",
+            "buff": "straw_hat_buffs"
+        },
+        {
+            "name": "Tropical",
+            "location": "You can craft this set at Rainbow Battle NPC in NosVille",
+            "skins": "tropical",
+            "buff": "tropical_buffs"
+        },
+        {
+            "name": "Viking",
+            "location": "You can craft this set at 25-50Lv Fish Craft NPC $warp fish",
+            "skins": "viking",
+            "buff": "viking_buffs"
+        },
+        {
+            "name": "Wedding",
+            "location": "You can get this set in the Fortune Wheel or at Event NPC in NosVille",
+            "skins": "special_wedding",
+            "buff": "special_wedding_buffs"
+        },
+        {
+            "name": "Winter",
+            "location": "You can get this set in Hardcore Raid boxes",
+            "skins": "winter",
+            "buff": "winter_buffs"
+        },
+        {
+            "name": "Wizard of Noz",
+            "location": "You can craft this set at 50-50Lv Fish Craft NPC $warp fish",
+            "skins": "wizard_of_noz",
+            "buff": "wizard_of_noz_buffs"
+        },
+        {
+            "name": "Wonderland",
+            "location": "You can get this set in AoT Random Box 2 or for 800 coins in VoidMall",
+            "skins": "wonderland",
+            "buff": "wonderland_buffs"
+        }
+    ]
+    

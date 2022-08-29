@@ -1,0 +1,16 @@
+<div class="d-flex justify-content-center">
+    <section class="raid-damage">
+        <h1 class="raid-damage-title-1">Raid Damage Set</h1>
+        <div class="raid-damage-system" *ngFor="let type of raidDamage">
+            <h2 class="raid-damage-title-2">{{type.type}}</h2>
+            <div class="raid-damage-items">
+                <div class="p-3" *ngFor="let items of type.items">
+                    <h3 class="raid-damage-title-3">{{items.name}}</h3>
+                    <a href="../../assets/img/special-sets/raid-damage/{{items.img}}.png" target="_blank">
+                        <img src="../../assets/img/special-sets/raid-damage/{{items.img}}.png" alt="">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>

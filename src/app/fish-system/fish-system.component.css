@@ -1,0 +1,43 @@
+.fish-system {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-block: 3em;
+    color: white;
+    background-color: rgba(0, 0, 0, .8);
+    border-radius: 20px;
+    width: 100%;
+    padding: 3em 0;
+    text-align: center;
+}
+
+.fish-system-title-1,
+.fish-system-title-2 {
+    font-family: 'Edu SA Beginner', cursive;
+}
+
+.fish-system-title-1 {
+    font-size: 3rem;
+    margin-bottom: 1em;
+}
+
+.fish-system-title-2 {
+    font-size: 2rem;
+    margin-top: 1em;
+}
+
+.fish-system-title-3 {
+    font-size: 1.25rem;
+}
+
+.fish-system-text {
+    font-size: 1.1rem;
+    line-height: 1.5em;
+}
+
+@media all and (min-width: 1140px) {
+    .fish-system {
+        width: 75%;
+    }
+}

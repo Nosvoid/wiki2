@@ -1,0 +1,113 @@
+.crew {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-block: 3em;
+    color: white;
+    background-color: rgba(0, 0, 0, .8);
+    border-radius: 20px;
+    width: 100%;
+    padding: 3em 0;
+}
+
+.crew-title {
+    font-family: 'Edu SA Beginner', cursive;
+    display: flex;
+    justify-content: center;
+    font-size: 3rem;
+    margin-bottom: 1em;
+}
+
+.crew-table {
+    /* background-color: var(--void-clr-active); */
+    width: 75%;
+    border-radius: 10px;
+}
+
+.crew-th, .crew-td {
+    padding: .5em;
+    font-size: 1.1rem;
+}
+
+.crew-td {
+    border-top: 1px solid white;
+}
+
+.crew-td img, .crew-th img {
+    width: 30px;
+    height: 30px;
+}
+
+.lead-team {
+    color: var(--lead-team-clr);
+}
+
+.team-manager {
+    color: var(--tm-clr);
+    background-color: rgba(255, 255, 255, .3);
+}
+
+.game-master {
+    color: var(--gm-clr);
+}
+
+.game-master69 {
+    color: var(--69-clr);
+}
+
+.game-supporter {
+    color: var(--gs-clr);
+}
+
+.discord-admin {
+    color: var(--dc-admin-clr);
+}
+
+.game-designer {
+    color: var(--game-designer-clr);
+}
+
+.tgs {
+    color: var(--tgs-clr);
+}
+
+.sgm {
+    color: var(--sgm-clr);
+}
+
+.web-dev {
+    color: var(--web-dev-clr);
+}
+
+/* Media queries */
+@media all and (min-width: 1140px) {
+    .crew {
+        width: 75%;
+    }
+}
+
+@media (min-width: 800px) {
+    .crew-th, .crew-td {
+        padding: 1.5em;
+    }
+}
+
+@media (max-width: 600px) {
+    .crew-th, .crew-td {
+        font-size: 1rem;
+    }
+
+    .crew-table {
+        width: 100%;
+    }
+}
+
+@media (max-width: 470px) {
+    .crew-title {
+        font-size: 2rem;
+    }
+    .crew-td img, .crew-th img {
+        display: none;
+    }
+}

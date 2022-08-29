@@ -1,0 +1,289 @@
+[
+    {
+        "name": "Blizzard Wolf",
+        "location": "Can be obtained during Evolution Event",
+        "buff": "blizzard_wolf",
+        "skin": "blizzard_wolf",
+        "class": "pvp"
+    },
+    {
+        "name": "Blue Amora",
+        "location": "Can be obtained in the Fortune Wheel",
+        "buff": "blue_amora",
+        "skin": "blue_amora",
+        "class": "pvp"
+    },
+    {
+        "name": "Chick Norris",
+        "location": "Can be obtained during Evolution Event",
+        "buff": "chick_norris",
+        "skin": "chick_norris",
+        "class": "gold"
+    },
+    {
+        "name": "Cuby",
+        "location": "Can be crafted during the Summer Event",
+        "buff": "cuby",
+        "skin": "cuby",
+        "class": "fish"
+    },
+    {
+        "name": "Darkfrost Snowman",
+        "location": "Can be obtained during Evolution Event",
+        "buff": "darkfrost_snowman",
+        "skin": "darkfrost_snowman",
+        "class": "raid"
+    },
+    {
+        "name": "Devil Vampie",
+        "location": "Can be obtained during Evolution Event",
+        "buff": "devil_vampie",
+        "skin": "devil_vampie",
+        "class": "raid"
+    },
+    {
+        "name": "Dragon Bee",
+        "location": "Can be obtained during Evolution Event",
+        "buff": "dragon_bee",
+        "skin": "dragon_bee",
+        "class": "perfing"
+    },
+    {
+        "name": "Dusi Fox",
+        "location": "Can be crafted in the Starting Map",
+        "buff": "dusi_fox",
+        "skin": "dusi_fox",
+        "class": "raid"
+    },
+    {
+        "name": "Enkidu",
+        "location": "Can be bought in VoidMall for 1000 coins",
+        "buff": "enkidu",
+        "skin": "enkidu",
+        "class": "pvp"
+    },
+    {
+        "name": "Fibi",
+        "location": "Can be bought in VoidMall for 1000 coins",
+        "buff": "fibi",
+        "skin": "fibi",
+        "class": "pvp"
+    },
+    {
+        "name": "Flame",
+        "location": "Can be bought in VoidMall for 1000 coins",
+        "buff": "flame",
+        "skin": "flame",
+        "class": "pvp"
+    },
+    {
+        "name": "Fluffy Bally",
+        "location": "Can be crafted during the Easter Event",
+        "buff": "fluffy_bally",
+        "skin": "fluffy_bally",
+        "class": "pvp"
+    },
+    {
+        "name": "Fortune Bushtail",
+        "location": "Can be crafted in the spawn map when you start a new char",
+        "buff": "fortune_bushtail",
+        "skin": "fortune_bushtail",
+        "class": "gold"
+    },
+    {
+        "name": "Golden Fleece",
+        "location": "Can be obtained during Evolution Event",
+        "buff": "golden_fleece",
+        "skin": "golden_fleece",
+        "class": "pvp"
+    },
+    {
+        "name": "Inferno",
+        "location": "Can be obtained during Evolution Event",
+        "buff": "inferno",
+        "skin": "inferno",
+        "class": "pvp"
+    },
+    {
+        "name": "Koala",
+        "location": "Can be obtained in the Fortune Wheel",
+        "buff": "koala",
+        "skin": "koala",
+        "class": "raid"
+    },
+    {
+        "name": "Leo",
+        "location": "Can be obtained at Achievement Rewards NPC Act 4",
+        "buff": "leo",
+        "skin": "leo",
+        "class": "fish"
+    },
+    {
+        "name": "Long-Legged Spider",
+        "location": "Can be obtained during Evolution Event",
+        "buff": "long_legged_spider",
+        "skin": "long_legged_spider",
+        "class": "raid"
+    },
+    {
+        "name": "Lucky Pig",
+        "location": "Can be obtained at Event NPC in NosVille",
+        "buff": "lucky_pig",
+        "skin": "lucky_pig",
+        "class": "gold"
+    },
+    {
+        "name": "Lucky Rat",
+        "location": "Can be obtained at Event NPC in NosVille",
+        "buff": "lucky_rat",
+        "skin": "lucky_rat",
+        "class": "pvp"
+    },
+    {
+        "name": "Master Bunny",
+        "location": "Can be obtained during Evolution Event",
+        "buff": "master_bunny",
+        "skin": "master_bunny",
+        "class": "fish"
+    },
+    {
+        "name": "Merling",
+        "location": "Can be crafted at Fish Craft NPC $warp fish or bought in VoidMall for 550 coins",
+        "buff": "merling",
+        "skin": "merling",
+        "class": "fish"
+    },
+    {
+        "name": "Mini Belial",
+        "location": "Can be crafted at Craft Stuff NPC $warp p8",
+        "buff": "mini_belial",
+        "skin": "mini_belial",
+        "class": "raid"
+    },
+    {
+        "name": "Mini Erenia",
+        "location": "Can be obtained as a reward from Erenia Marathon 2 quest",
+        "buff": "mini_erenia",
+        "skin": "mini_erenia",
+        "class": "raid"
+    },
+    {
+        "name": "Mini Fernon",
+        "location": "Can be obtained as a reward from Fernon Marathon 2 quest",
+        "buff": "mini_fernon",
+        "skin": "mini_fernon",
+        "class": "raid"
+    },
+    {
+        "name": "Mini Pete",
+        "location": "Can be crafted during the Summer Event",
+        "buff": "mini_pete",
+        "skin": "mini_pete",
+        "class": "raid"
+    },
+    {
+        "name": "Mini Zenas",
+        "location": "Can be obtained as a reward from Zenas Marathon 2 quest",
+        "buff": "mini_zenas",
+        "skin": "mini_zenas",
+        "class": "raid"
+    },
+    {
+        "name": "Moss Gloop",
+        "location": "Can be crafted in the Starting Map",
+        "buff": "moss_gloop",
+        "skin": "moss_gloop",
+        "class": "raid"
+    },
+    {
+        "name": "Namaju",
+        "location": "Can be obtained during Evolution Event",
+        "buff": "namaju",
+        "skin": "namaju",
+        "class": "betting"
+    },
+    {
+        "name": "Otter",
+        "location": "Can be crafted during the Summer Event",
+        "buff": "otter",
+        "skin": "otter",
+        "class": "raid"
+    },
+    {
+        "name": "Polar Bear",
+        "location": "Can be crafted at Desert Rewards NPC $warp p8.1",
+        "buff": "polar_bear",
+        "skin": "polar_bear",
+        "class": "pvp"
+    },
+    {
+        "name": "Pumpkin Bushtail",
+        "location": "Can be crafted during the Halloween Event",
+        "buff": "pumpkin_bushtail",
+        "skin": "pumpkin_bushtail",
+        "class": "raid"
+    },
+    {
+        "name": "Racoon",
+        "location": "Can be bought in VoidMall for 1000 coins",
+        "buff": "racoon",
+        "skin": "racoon",
+        "class": "pvp"
+    },
+    {
+        "name": "Raptor",
+        "location": "Can be crafted at Hardcore Rewards NPC $warp p8",
+        "buff": "raptor",
+        "skin": "raptor",
+        "class": "pvp"
+    },
+    {
+        "name": "Santa Bushi",
+        "location": "Can be crafted during the Christmas Event or at Hardcore Rewards NPC $warp p8",
+        "buff": "santa_bushi",
+        "skin": "santa_bushi",
+        "class": "pvp"
+    },
+    {
+        "name": "Seraphim",
+        "location": "Can be obtained during Evolution Event",
+        "buff": "seraphim",
+        "skin": "seraphim",
+        "class": "gold raid"
+    },
+    {
+        "name": "Snow Fox",
+        "location": "Can be crafted during the Summer Event",
+        "buff": "snow_fox",
+        "skin": "snow_fox",
+        "class": "pvp"
+    },
+    {
+        "name": "Spooky Imp",
+        "location": "Can be obtained during Evolution Event",
+        "buff": "spooky_imp",
+        "skin": "spooky_imp",
+        "class": "pvp"
+    },
+    {
+        "name": "Super Fortune Bushtail",
+        "location": "Can be crafted at NPC $warp p5",
+        "buff": "super_fortune_bushtail",
+        "skin": "super_fortune_bushtail",
+        "class": "gold"
+    },
+    {
+        "name": "Tame Queen Bee",
+        "location": "Can be crafted at Hardcore Rewards NPC $warp p8",
+        "buff": "tame_queen_bee",
+        "skin": "tame_queen_bee",
+        "class": "raid"
+    },
+    {
+        "name": "Titan Hamster",
+        "location": "Can be obtained during Evolution Event",
+        "buff": "titan_hamster",
+        "skin": "titan_hamster",
+        "class": "raid"
+    }
+]

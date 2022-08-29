@@ -1,0 +1,16 @@
+<div class="d-flex justify-content-center">
+    <section class="fairies">
+        <h1 class="fairies-title">Fairies</h1>
+        <div class="fairies-container">
+            <div class="fairy-container" *ngFor="let item of fairies">
+                <div class="d-flex justify-content-center align-items-center flex-column">
+                    <h2 class="fairy-name">{{item.name}}</h2>
+                    <p class="fairy-location">{{item.location}}</p>
+                    <a href="../assets/img/fairies/{{item.buff}}.png" target="_blank">
+                        <img src="../assets/img/fairies/{{item.buff}}.png">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>

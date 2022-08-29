@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Agility Power",
+        "img": "agility"
+    },
+    {
+        "name": "Apocalypse Power",
+        "img": "apocalypse"
+    },
+    {
+        "name": "Bear Power",
+        "img": "bear"
+    },
+    {
+        "name": "Curse Power",
+        "img": "curse"
+    },
+    {
+        "name": "Explosion Power",
+        "img": "explosion"
+    },
+    {
+        "name": "Frost Power",
+        "img": "frost"
+    },
+    {
+        "name": "Kickback Power",
+        "img": "kickback"
+    },
+    {
+        "name": "Lightning Power",
+        "img": "lightning"
+    },
+    {
+        "name": "Reflection Power",
+        "img": "reflection"
+    },
+    {
+        "name": "Wolf Power",
+        "img": "wolf"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Death Lancer Hat",
+        "buff": "death_lancer_hat",
+        "class": "pvp"
+    },
+    {
+        "name": "Desert Hat",
+        "buff": "desert_hat",
+        "class": "gold"
+    },
+    {
+        "name": "Easter Bunny Hat",
+        "buff": "easter_bunny_hat",
+        "class": "raid"
+    },
+    {
+        "name": "Frost Warrior Hat",
+        "buff": "frost_warrior_hat",
+        "class": "pvp"
+    },
+    {
+        "name": "Hawaii Hat",
+        "buff": "hawaii_hat",
+        "class": "fish"
+    },
+    {
+        "name": "Honeybee Crown",
+        "buff": "honeybee_hat",
+        "class": "raid"
+    },
+    {
+        "name": "Illusionist's Top Hat",
+        "buff": "illusionist_hat",
+        "class": "gold"
+    },
+    {
+        "name": "Karate Hat",
+        "buff": "karate_hat",
+        "class": "pvp"
+    },
+    {
+        "name": "Knight Hat",
+        "buff": "knight_hat",
+        "class": "pvp"
+    },
+    {
+        "name": "Korean Cat Hat",
+        "buff": "korean_cat_hat",
+        "class": "betting"
+    },
+    {
+        "name": "Sexy Bunny Hat",
+        "buff": "sexy_bunny_hat",
+        "class": "betting"
+    },
+    {
+        "name": "Straw Hat",
+        "buff": "straw_hat",
+        "class": "fish"
+    },
+    {
+        "name": "Viking Hat",
+        "buff": "viking_hat",
+        "class": "pvp"
+    },
+    {
+        "name": "Wedding Hat",
+        "buff": "wedding_hat",
+        "class": "pvp"
+    },
+    {
+        "name": "Wizard of Noz Hat",
+        "buff": "wizard_of_noz_hat",
+        "class": "pvp"
+    },
+    {
+        "name": "Wonderland Hat",
+        "buff": "wonderland_hat",
+        "class": "raid gold"
+    }
+]

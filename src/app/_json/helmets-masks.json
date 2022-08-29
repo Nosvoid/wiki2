@@ -1,0 +1,78 @@
+[
+    {
+        "type": "Helmets",
+        "items": [
+            {
+                "name": "Caligor's Golden Horn",
+                "location": "You can craft it at Monthly Reward NPC Act4 or in Fortune Wheel",
+                "buff": "caligor_horn",
+                "class": "pvp"
+            },
+            {
+                "name": "Ceremonial Helmet",
+                "location": "You can craft it at Family Tower Rewards NPC $warp p8.1",
+                "buff": "ceremonial",
+                "class": "pvp"
+            },
+            {
+                "name": "Dark Knight Helmet",
+                "location": "You can craft it at Hardcore Rewards NPC $warp p8",
+                "buff": "dark_knight_helmet",
+                "class": "raid"
+            },
+            {
+                "name": "Old Gentleman's Hat",
+                "location": "You can craft it at 30-50 Fish Craft NPC $warp fish",
+                "buff": "old_gentlemans",
+                "class": "fish"
+            },
+            {
+                "name": "Orc's Crown",
+                "location": "You can buy at Reputation Shop NPC $warp p8",
+                "buff": "orc_crown",
+                "class": "pvp"
+            },
+            {
+                "name": "Shadow King's Helmet",
+                "location": "You can get it in Fortune Wheel",
+                "buff": "shadow_kings_helmet",
+                "class": "raid"
+            }
+        ]
+    }, 
+    {
+        "type": "Masks", 
+        "items": [
+            {
+                "name": "Batman Mask",
+                "location": "You craft it at Monthly Rewards NPC in Act4 or in the Fortune Wheel",
+                "buff": "batman_mask",
+                "class": "pvp"
+            },
+            {
+                "name": "Crystal Mask",
+                "location": "You can buy at Reputation Shop NPC $warp p8",
+                "buff": "crystal_mask",
+                "class": "pvp"
+            },
+            {
+                "name": "Dark Knight Mask",
+                "location": "You can craft it at Hardcore Rewards NPC $warp p8",
+                "buff": "dark_knight_mask",
+                "class": "raid"
+            },
+            {
+                "name": "Honeybee Shades",
+                "location": "You can craft it at Hardcore Rewards NPC $warp p8",
+                "buff": "honeybee",
+                "class": "pvp"
+            },
+            {
+                "name": "Shadow King's Mask",
+                "location": "You can get it in Fortune Wheel",
+                "buff": "shadow_kings_mask",
+                "class": "raid"
+            }
+        ]
+    }
+]

@@ -1,0 +1,109 @@
+[
+    {
+        "quests": "First quest : Day 1 to 4",
+        "todo": [
+            { "quest": "- Participate in the Instant Combat 2 times" },
+            { "quest": "- Participate in the Bomb Runner 1 time" },
+            { "quest": "- Successfully complete the raid [92-93 Equipment] /25" },
+            { "quest": "- Successfully complete the raid [Maru] /50" }
+        ],
+        "rewards": [
+            { "reward": "- 75x Rarify item" },
+            { "reward": "- 500x Giant Lump of Gold" },
+            { "reward": "- 50k Reputation" }
+        ]
+    },
+    {
+        "quests": "Second quest : Day 5 to 8",
+        "todo": [
+            { "quest": "- Participate in the Caligor 1 time" },
+            { "quest": "- Participate in the World Boss 2 times" },
+            { "quest": "- Successfully complete the raid [Accessory] /25" },
+            { "quest": "- Successfully complete the raid [Low Tier Books] /25" }
+        ],
+        "rewards": [
+            { "reward": "- 75x Upgrade item" },
+            { "reward": "- 750x Giant Lump of Gold" },
+            { "reward": "- 100k Reputation" }
+        ]
+    },
+    {
+        "quests": "Third quest : Day 9 to 12",
+        "todo": [
+            { "quest": "- Participate in the A4 World Boss 2 times" },
+            { "quest": "- Participate in A4 Raids 2 times" },
+            { "quest": "- Successfully complete the raid [Erenia] /25" },
+            { "quest": "- Successfully complete the raid [Zenas] /25" }
+        ],
+        "rewards": [
+            { "reward": "- 2x Upgrade Weapon Skin" },
+            { "reward": "- 1000x Giant Lump of Gold" },
+            { "reward": "- 150k Reputation" }
+        ]
+    },
+    {
+        "quests": "Fourth quest : Day 13 to 16",
+        "todo": [
+            { "quest": "- Participate in the Meteorite game 1 time" },
+            { "quest": "- Successfully kills any mobs in the game 500 times" },
+            { "quest": "- Successfully complete the raid [High Books] /25" },
+            { "quest": "- Successfully complete the raid [High Hat] /25" }
+        ],
+        "rewards": [
+            { "reward": "- 2x Partner Skill Ticket (Single)" },
+            { "reward": "- 1250x Giant Lump of Gold" },
+            { "reward": "- 200k Reputation" }
+        ]
+    },
+    {
+        "quests": "Fifth quest : Day 17 to 20",
+        "todo": [
+            { "quest": "- Successfully do TimeSpace in P8 20 times" },
+            { "quest": "- Successfully do $home 50 times" },
+            { "quest": "- Successfully complete the raid [Fernon] /75" },
+            { "quest": "- Successfully complete the raid [Foxy] /25" }
+        ],
+        "rewards": [
+            { "reward": "- 3x Bloody Red Ruby" },
+            { "reward": "- 1x Fafnir Teeth" },
+            { "reward": "- 1500x Giant Lump of Gold" },
+            { "reward": "- 250k Reputation" }
+        ]
+    },
+    {
+        "quests": "Sixth quest : Day 21 to 24",
+        "todo": [
+            { "quest": "- Participate to the Color PVP 3 times" },
+            { "quest": "- Participate to the Rainbow Battle 1 time" },
+            { "quest": "- Successfully complete the raid [Kirollas] /50" },
+            { "quest": "- Successfully complete the raid [Pure Beast] /50" }
+        ],
+        "rewards": [
+            { "reward": "- 1x Holy Light" },
+            { "reward": "- 1x Broken Caligor Horn" },
+            { "reward": "- 2000x Giant Lump of Gold" },
+            { "reward": "- 300k Reputation" }
+        ]
+    },
+    {
+        "quests": "Seventh quest : Day 25 to 30",
+        "todo": [
+            { "quest": "- Participate in the 8.1 World Boss 1 time" },
+            { "quest": "- Participate in the Family Dungeon 1 time" },
+            { "quest": "- Participate in A4 Raids 5 times" },
+            { "quest": "- Successfully complete the raid [Hardcore] /5" },
+            { "quest": "- Successfully complete the raid [Ibrahim] /5" },
+            { "quest": "- Successfully complete the raid [Sandstorm] /5" }
+        ],
+        "rewards": [
+            { "reward": "- 20x Event Ticket" },
+            { "reward": "- 10x Raid A4 Box" },
+            { "reward": "- 10x Essence A4 Box" },
+            { "reward": "- 3000x Giant Lump of Gold" },
+            { "reward": "- 2x Free Wheel ticket" },
+            { "reward": "- 500k Reputation" },
+            { "reward": "- 1x Random Pets Box" },
+            { "reward": "- 1x Random Wings Box" }
+        ]
+    }
+]

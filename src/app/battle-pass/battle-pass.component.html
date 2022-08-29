@@ -1,0 +1,164 @@
+<div class="d-flex justify-content-center">
+    <section class="battle-pass">
+        <h1 class="battle-pass-title">Battle Pass</h1>
+        <p class="battle-pass-info">
+                Can be taken once, will disappear after the end of the month. <br>
+                Price : 900 Coins.
+        </p>
+
+            <div class="container d-flex justify-content-center">
+                <h2 class="battle-pass-title-2 w-75">Quests & Rewards</h2>
+            </div>
+            <div class="quests-container container" *ngFor="let days of battlepass">
+                <button class="open-quests">
+                    {{days.quests}}
+                    <i class="fa fa-angle-down" aria-hidden="true"></i>
+                </button>
+                <div class="display-none">
+                    <div class="quest-container">
+                        <h3 class="quest-todo">You need to do :</h3>
+                        <ul class="list-quests">
+                            <li *ngFor="let quest of days.todo">{{quest.quest}}</li>
+                        </ul>
+                    </div>
+                    <div class="rewards-container">
+                        <h3 class="quest-rewards">Rewards :</h3>
+                        <ul class="list-rewards">
+                            <li *ngFor="let reward of days.rewards">{{reward.reward}}</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="container d-flex justify-content-center flex-column align-items-center">
+                <h2 class="battle-pass-title-2 w-75">Informations</h2>
+                <ul class="battle-pass-infos w-75">
+                    <li>
+                        - You will get quests by one by. (For example you will get Participate in the 
+                        Instant Combat first, next quest will appear once you are done with current one!)
+                    </li>
+                    <li>
+                        - You have a specific time to do quests, like you have 4 days to complete level 1 quests.
+                        But even if you complete all from first day, you need to wait til last day to get next 
+                        level quest.
+                    </li>
+                    <li>
+                        - If you are not done with your level quest, it will be replaced with next level quests
+                        and you won't receive any rewards from the quests you didn't complete.
+                    </li>
+                    <li class="infos-purple">
+                        - You can't have the next following quests if you didn't succeeded the previous one !
+                    </li>
+                </ul>
+                <div class="bp-levels w-75">
+                    Every level has their own amount of gold, so you will have around 10B gold only from LUMPS
+                        <ul>
+                            <li><b>Level 1</b> : 500KK</li>
+                            <li><b>Level 2</b> : 750KK</li>
+                            <li><b>Level 3</b> : 1B</li>
+                            <li><b>Level 4</b> : 1.250B</li>
+                            <li><b>Level 5</b> : 1.5B</li>
+                            <li><b>Level 6</b> : 2B</li>
+                            <li><b>Level 7</b> : 3B</li>
+                        </ul>
+                </div>
+            </div>
+            <div class="container d-flex justify-content-center flex-column align-items-center">
+                <div class="wheel-ticket w-75">
+                    <h2 class="battle-pass-title-2">What is Free Wheel Ticket ? </h2>
+                    <img src="../../assets/img/battle-pass/wheel.png" alt="">
+                </div>
+                <p class="bp-text">
+                    <b>Free Wheel</b> ticket will let you to spin fortune wheel for free! Open a <a class="bp-ticket-link" href="/ticket-system">ticket</a> via 
+                    <b>NosVoid Discord Server</b> (#ticket-system channel) once you get that prize to claim your 
+                    coins reward!
+                </p>
+            </div>
+            <div class="container d-flex justify-content-center flex-column align-items-center">
+                <h2 class="battle-pass-title-2 w-75">What can I get from Wings & Pets Random Boxes ?</h2>
+                <div class="bp-boxes-container w-75">
+                    <div class="random-boxes">
+                        <div class="wings-box-title">
+                            <h3 class="battle-pass-title-3">Random Wings Box</h3>
+                            <img src="../../assets/img/battle-pass/wingsbox.png" alt="">
+                        </div>
+                        <p class="bp-text w-100">You can get one of the following wings :</p>
+                        <ul class="wings-box">
+                            <li class="wing-item">- Zephyr Wings</li>
+                            <li class="wing-item">- Lightning Wings</li>
+                            <li class="wing-item">- Onyx Wings</li>
+                            <li class="wing-item">- Lunar Wings</li>
+                            <li class="wing-item">- Crystal Wings</li>
+                        </ul>
+                    </div>
+                    <div class="random-boxes">
+                        <div class="wings-box-title">
+                            <h3 class="battle-pass-title-3">Random Pets Box</h3>
+                            <img src="../../assets/img/battle-pass/petbox.png" alt="">
+                        </div>
+                        <p class="bp-text w-100">You can get one of the following pets :</p>
+                        <ul class="wings-box">
+                            <li class="wing-item">- Chick Norris</li>
+                            <li class="wing-item">- Inferno</li>
+                            <li class="wing-item">- Seraphim</li>
+                            <li class="wing-item">- Master Bunny</li>
+                            <li class="wing-item">- Mini Blue Amora</li>
+                            <li class="wing-item">- Namaju Pet</li>
+                            <li class="wing-item">- Fibi Frosty</li>
+                            <li class="wing-item">- Mini Pete</li>
+                            <li class="wing-item">- Dragon Bee</li>
+                            <li class="wing-item">- Shadow Fruit Evolution</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="container d-flex justify-content-center align-items-center flex-column">
+                <h2 class="battle-pass-title-2 w-75">Special Buffs</h2>
+                <p class="w-75 bp-text">
+                    You'll have a buff on your character when you finish the 
+                    quests (just <b>aesthetic</b>, but other players can see it)
+                </p>
+
+                <div class="bp-special-buffs w-75">
+                    <ul>
+                        <li>
+                            <b>Battle Pass Lv </b>
+                            <img src="../../assets/img/battle-pass/buff1.png" alt="">
+                            : It's just the beginning...
+                        </li>
+                        <li>
+                            <b>Battle Pass Lv </b>
+                            <img src="../../assets/img/battle-pass/buff2.png" alt="">
+                            : Are you really ready for the rest ? 
+                        </li>
+                        <li>
+                            <b>Battle Pass Lv </b>
+                            <img src="../../assets/img/battle-pass/buff3.png" alt="">
+                            : That's not so bad for a newbie. 
+                        </li>
+                        <li>
+                            <b>Battle Pass Lv </b>
+                            <img src="../../assets/img/battle-pass/buff4.png" alt="">
+                            : Now we can begin to talk !
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>
+                            <b>Battle Pass Lv </b>
+                            <img src="../../assets/img/battle-pass/buff5.png" alt="">
+                            : You're a real player, aren't you? 
+                        </li>
+                        <li>
+                            <b>Battle Pass Lv </b>
+                            <img src="../../assets/img/battle-pass/buff6.png" alt="">
+                            : It's almost the end !  
+                        </li>
+                        <li>
+                            <b>Battle Pass Lv </b>
+                            <img src="../../assets/img/battle-pass/buff7.png" alt="">
+                            : The best NosVoid Player is here. 
+                        </li>
+                    </ul>
+                </div>
+            </div>
+    </section>
+</div>

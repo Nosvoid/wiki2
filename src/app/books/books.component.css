@@ -1,0 +1,66 @@
+.books {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-block: 3em;
+    color: white;
+    background-color: rgba(0, 0, 0, .8);
+    border-radius: 20px;
+    width: 100%;
+    padding: 3em 0;
+}
+
+.book-container {
+    padding: 1em;
+}
+
+.book-container img {
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 10px;
+}
+
+/* Titles */
+
+.book-name, .books-title {
+    font-family: 'Edu SA Beginner', cursive;
+    display: flex;
+    justify-content: center;
+    font-size: 2rem;
+}
+
+.books-title {
+    font-size: 3rem;
+    margin-bottom: 1em;
+}
+
+.book-location {
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+.book-item {
+    font-size: 1.2rem;
+    line-height: 1.5em;
+    display: flex;
+    gap: 1em;
+    margin-bottom: .5em;
+}
+
+.book-item img {
+    max-height: 41px;
+}
+
+/* Media queries */
+@media all and (min-width: 1140px) {
+    .books-container {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        padding: 2em;
+    }
+
+    .books {
+        width: 75%;
+    }
+}

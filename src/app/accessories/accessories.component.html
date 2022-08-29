@@ -1,0 +1,25 @@
+<div class="d-flex justify-content-center">
+    <section class="accessories">
+        <h1 class="accessories-title">Accessories</h1>
+
+        <div class="select-container">
+            <select name="filter" id="accessories-filter" class="accessories-select">
+                <option>All</option>
+                <option class="selectPve">Raid/PVE</option>
+                <option class="selectPvp">PVP</option>
+            </select>
+        </div>
+
+        <div class="accessories-container">
+            <div class="accessory-container" class="{{item.class}}" *ngFor="let item of accessories">
+                <div class="d-flex justify-content-center align-items-center flex-column">
+                    <h2 class="accessory-name">{{item.name}}</h2>
+                    <p class="accessory-location">{{item.location}}</p>
+                    <a href="../assets/img/accessories/{{item.buff}}.png" target="_blank">
+                        <img src="../assets/img/accessories/{{item.buff}}.png">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>

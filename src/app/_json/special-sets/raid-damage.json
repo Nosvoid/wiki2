@@ -1,0 +1,128 @@
+[
+    {
+        "type": "Equipments",
+        "items": [
+            {
+                "name": "Candy Skin",
+                "img": "candy_skin"
+            },
+            {
+                "name": "Helmets",
+                "img": "helmets"
+            },
+            {
+                "name": "Masks",
+                "img": "masks"
+            },
+            {
+                "name": "Obsidian Ring",
+                "img": "obsidian_ring"
+            },
+            {
+                "name": "Shell",
+                "img": "shell"
+            }
+        ]
+    },
+    {
+        "type": "Costumes",
+        "items": [
+            {
+                "name": "Easter Bunny Hat",
+                "img": "easter_bunny_hat"
+            },
+            {
+                "name": "Wonderland Hat",
+                "img": "wonderland_hat"
+            },
+            {
+                "name": "Honeybee Crown",
+                "img": "honeybee_hat"
+            },
+            {
+                "name": "Reindeer Costume",
+                "img": "reindeer_costume"
+            },
+            {
+                "name": "Desert Wings",
+                "img": "desert_wings"
+            },
+            {
+                "name": "Hawaii Wings",
+                "img": "hawaii_wings"
+            },
+            {
+                "name": "Ice Witch Wings",
+                "img": "ice_witch_wings"
+            }
+        ]
+    },
+    {
+        "type": "Specialist Wings",
+        "items": [
+            {
+                "name": "Zephyr Wings",
+                "img": "zephyr_buff"
+            },
+            {
+                "name": "Petal Wings",
+                "img": "petal_buff"
+            }
+        ]
+    },
+    {
+        "type": "Pets",
+        "items": [
+            {
+                "name": "Darkfrost Snowman",
+                "img": "darkfrost_snowman"
+            },
+            {
+                "name": "Long Legged Spider",
+                "img": "long_legged_spider"
+            },
+            {
+                "name": "Mini Fernon",
+                "img": "mini_fernon"
+            },
+            {
+                "name": "Vampie",
+                "img": "devil_vampie"
+            }
+        ]
+    },
+    {
+        "type": "PSPs",
+        "items": [
+            {
+                "name": "Akhenaton",
+                "img": "akhenaton"
+            },
+            {
+                "name": "Eliza",
+                "img": "eliza"
+            },
+            {
+                "name": "Lucy Lopears'",
+                "img": "lucy"
+            },
+            {
+                "name": "Venus",
+                "img": "venus"
+            }
+        ]
+    },
+    {
+        "type": "Titles",
+        "items": [
+            {
+                "name": "King/Queen of Raids",
+                "img": "queen_of_raids"
+            },
+            {
+                "name": "Master of the Sea",
+                "img": "master_of_the_sea"
+            }
+        ]
+    }
+]

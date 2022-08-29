@@ -1,0 +1,124 @@
+[
+    {
+        "name": "SP1",
+        "location": "You can buy them Lv1 +9 at Starter Pack NPC ($home)",
+        "img": [
+            { "icon": "ranger" },
+            { "icon": "warrior" },
+            { "icon": "red_mage" },
+            { "icon": "draconic_fist" }
+        ],
+        "class": "four-icons"
+    },
+    {
+        "name": "SP2, SP3, SP4",
+        "location": "You can farm them in their farm maps ($home)",
+        "img": [
+            { "icon": "assassin" },
+            { "icon": "ninja" },
+            { "icon": "holy_mage" },
+            { "icon": "mystic_arts" },
+            { "icon": "destroyer" },
+            { "icon": "crusader" },
+            { "icon": "blue_mage" },
+            { "icon": "master_wolf" },
+            { "icon": "wild_keeper" },
+            { "icon": "berzerker" },
+            { "icon": "dark_gunner" },
+            { "icon": "demon_warrior" }
+        ],
+        "class": "four-icons"
+    },
+    {
+        "name": "SP5",
+        "location": "You can get them in Draco raid boxes ($warp raidarea)",
+        "img": [
+            { "icon": "fire_canoneer" },
+            { "icon": "gladiator" },
+            { "icon": "volcano" }
+        ],
+        "class": "three-icons"
+    },
+    {
+        "name": "SP6",
+        "location": "You can get them in Glacerus raid boxes ($warp raidarea)",
+        "img": [
+            { "icon": "scout" },
+            { "icon": "battle_monk" },
+            { "icon": "tide_lord" }
+        ],
+        "class": "three-icons"
+    },
+    {
+        "name": "SP7, SP8",
+        "location": "You can get them in Laurena raid boxes ($warp raidarea)",
+        "img": [
+            { "icon": "demon_hunter" },
+            { "icon": "death_reaper" },
+            { "icon": "seer" },
+            { "icon": "avenging_angel" },
+            { "icon": "renegade" },
+            { "icon": "archmage" }
+        ],
+        "class": "three-icons"
+    },
+    {
+        "name": "SP9 and SP5MA",
+        "location": "You can get them in Paimon raid boxes ($warp raidarea) or you can craft them at Craft Specialist 9 NPC ($warp p8)",
+        "img": [
+            { "icon": "sunchaser" },
+            { "icon": "waterfall" },
+            { "icon": "voodoo" },
+            { "icon": "flame_druid" }
+        ],
+        "class": "four-icons"
+    },
+    {
+        "name": "Angler SP",
+        "location": "You can get it from Fisherman SP Quest NPC at Fish Area",
+        "img": [
+            { "icon": "angler" }
+        ],
+        "class": "one-icon"
+    },
+    {
+        "name": "Chicken SP",
+        "location": "You can craft it during Easter Event",
+        "img": [
+            { "icon": "chicken" }
+        ],
+        "class": "one-icon"
+    },
+    {
+        "name": "Jajamaru SP",
+        "location": "You can craft if during Easter and Halloween Events",
+        "img": [
+            { "icon": "jajamaru" }
+        ],
+        "class": "one-icon"
+    },
+    {
+        "name": "Pirate SP",
+        "location": "You can craft if during Summer Event",
+        "img": [
+            { "icon": "pirate" }
+        ],
+        "class": "one-icon"
+    },
+    {
+        "name": "Pyjama SP",
+        "location": "You can craft if during Christmas Event",
+        "img": [
+            { "icon": "pyjama" }
+        ],
+        "class": "one-icon"
+    },
+    {
+        "name": "Wedding SP",
+        "location": "You can craft if during Valentine's Day Event",
+        "img": [
+            { "icon": "wedding" }
+        ],
+        "class": "one-icon"
+    }
+]

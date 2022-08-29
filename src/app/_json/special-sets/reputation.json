@@ -1,0 +1,58 @@
+[
+    {
+        "type": "Costume Wings",
+        "items": [
+            {
+                "name": "Hawai Costume Wings",
+                "img": "hawaii_wings"
+            },
+            {
+                "name": "Easter Bunny Wings",
+                "img": "easter_wings"
+            }
+        ]
+    },
+    {
+        "type": "Pets",
+        "items": [
+            {
+                "name": "Darkfrost Snowman",
+                "img": "darkfrost_snowman"
+            },
+            {
+                "name": "Devil Vampie",
+                "img": "devil_vampie"
+            },
+            {
+                "name": "Fibi Frosty",
+                "img": "fibi"
+            },
+            {
+                "name": "Long-Legged Spider",
+                "img": "long_legged_spider"
+            },
+            {
+                "name": "Sleepy Koala",
+                "img": "koala"
+            },
+            {
+                "name": "Titan Hamster",
+                "img": "titan_hamster"
+            }
+        ]
+    },
+    {
+        "type": "PSPs",
+        "items": [
+            {
+                "name": "Akhenaton",
+                "img": "akhenaton"
+            },
+            {
+                "name": "Frankestein",
+                "img": "frankestein"
+            }
+
+        ]
+    }
+]

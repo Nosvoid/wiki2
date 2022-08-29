@@ -1,0 +1,35 @@
+[
+    {
+        "date": "26/08/2022",
+        "items": [
+            {
+                "name": "Aegir",
+                "img": "aegir"
+            },
+            {
+                "name": "Archangel Lucifer",
+                "img": "archangel_lucifer"
+            },
+            {
+                "name": "Barni",
+                "img": "barni"
+            },
+            {
+                "name": "Batman Mask",
+                "img": "batman_mask"
+            },
+            {
+                "name": "Betting Costume",
+                "img": "betting_costume"
+            },
+            {
+                "name": "Dragon Knight Costume Set",
+                "img": "knight_buffs"
+            },
+            {
+                "name": "Shadow Snow Fox Pet",
+                "img": "snow_fox"
+            }
+        ]
+    }
+]

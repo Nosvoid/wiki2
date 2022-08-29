@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Death Lancer Wings",
+        "buff": "death_lancer_wings",
+        "class": "pvp"
+    },
+    {
+        "name": "Desert Wings",
+        "buff": "desert_wings",
+        "class": "raid"
+    },
+    {
+        "name": "Hawaii Wings",
+        "buff": "hawaii_wings",
+        "class": "raid"
+    },
+    {
+        "name": "Honeybee Wings",
+        "buff": "honeybee_wings",
+        "class": "pvp"
+    },
+    {
+        "name": "Ice Witch Wings",
+        "buff": "ice_witch_wings",
+        "class": "pve"
+    },
+    {
+        "name": "Knight Wings",
+        "buff": "knight_wings",
+        "class": "pvp"
+    },
+    {
+        "name": "Pixie Wings",
+        "buff": "pixie_wings",
+        "class": "pvp"
+    },
+    {
+        "name": "Tropical Wings",
+        "buff": "tropical_wings",
+        "class": "pvp"
+    }
+]

@@ -1,0 +1,32 @@
+<div class="d-flex justify-content-center align-items-center">
+    <section class="titles">
+        <h1 class="titles-title">Titles</h1>
+
+        <div class="select-container">
+            <select name="filter" id="titles-filter" class="titles-select">
+                <option>All</option>
+                <option class="selectAesthetic">Aesthetic</option>
+                <option class="selectBetting">Betting / Perfing SPs</option>
+                <option class="selectDoubleBox">Double Box</option>
+                <option class="selectExp">Exp</option>
+                <option class="selectFish">Fish</option>
+                <option class="selectGold">Gold</option>
+                <option class="selectPve">PVE</option>
+                <option class="selectPvp">PVP</option>
+                <option class="selectRaid">Raid</option>
+            </select>
+        </div>
+
+        <div class="titles-container">
+            <div class="title-container" class="{{item.class}}" *ngFor="let item of titles">
+                <div class="d-flex justify-content-center align-items-center flex-column">
+                    <h2 class="title-name">{{item.name}}</h2>
+                    <h3 class="title-location">{{item.location}}</h3>
+                    <a href="../assets/img/titles/{{item.img}}.png" target="_blank">
+                        <img src="../assets/img/titles/{{item.img}}.png">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>

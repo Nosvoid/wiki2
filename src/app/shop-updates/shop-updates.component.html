@@ -1,0 +1,21 @@
+<div class="d-flex justify-content-center">
+    <section class="shop-updates">
+        <h1 class="shop-updates-title-1">Shop Updates</h1>
+        <div class="shop-updates-system" *ngFor="let update of shopupdates">
+            <h2 class="shop-updates-title-2">
+                Available in the Fortune Wheel <br>
+                Last Update : 
+                {{update.date}}
+            </h2>
+            <div class="shop-updates-items">
+                <div class="p-3" *ngFor="let items of update.items">
+                    <h3 class="shop-updates-title-3">{{items.name}}</h3>
+                    <a href="../../assets/img/shop-update/{{items.img}}.png" target="_blank">
+                        <img src="../../assets/img/shop-update/{{items.img}}.png" alt="">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+

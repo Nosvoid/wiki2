@@ -1,0 +1,27 @@
+<div class="d-flex justify-content-center align-items-center">
+    <div class="crew">
+        <h1 class="crew-title">NosVoid Content Creators</h1>
+
+        <table class="crew-table">
+            <thead>
+                <tr>
+                    <th class="crew-th">Names</th>
+                    <th class="crew-th">Rank</th>
+                    <th class="crew-th"><img src="../../assets/img/content-creators/youtube.png" alt=""></th>
+                    <th class="crew-th"><img src="../../assets/img/content-creators/twitch.png" alt=""></th>
+                </tr>
+            </thead>
+            <tbody *ngFor="let cc of contentcreators">
+                <tr>
+                    <td class="crew-td {{cc.rankclass}}">{{cc.name}}</td>
+                    <td class="crew-td {{cc.rankclass}}">
+                        <img src="../../assets/img/content-creators/{{cc.rankimg}}.png" alt="">
+                        {{cc.rank}}
+                    </td>
+                    <td class="crew-td"><a href="{{cc.ytlink}}" class="{{cc.ytclass}}" target="_blank">{{cc.yt}}</a></td>
+                    <td class="crew-td"><a href="{{cc.twitchlink}}" class="{{cc.twitchclass}}" target="_blank">{{cc.twitch}}</a></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

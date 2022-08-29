@@ -1,0 +1,15 @@
+<div class="d-flex justify-content-center">
+    <section class="partners">
+        <h1 class="partners-title">Partners</h1>
+        <div class="partners-container">
+            <div class="partner-container" *ngFor="let partner of partners">
+                <div class="d-flex justify-content-center align-items-center flex-column">
+                    <h2 class="partner-name">{{partner.name}}</h2>
+                    <h3 class="partner-info">{{partner.type}}</h3>
+                    <h3 class="partner-info">{{partner.location}}</h3>
+                    <img src="../assets/img/partners/{{partner.skin}}.png" class="partner-skins">
+                </div>
+            </div>
+        </div>
+    </section>
+</div>

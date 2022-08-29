@@ -1,0 +1,24 @@
+<div class="d-flex justify-content-center">
+    <section class="daily-quests">
+        <h1 class="daily-quests-title">Daily & Marathon Quests</h1>
+        <div class="quest-container" *ngFor="let type of quests">
+            <h2 class="quest-type">{{type.title}}</h2>
+            <div class="quests" *ngFor="let item of type.quests">
+                <div class="quest-npc">
+                    <h3 class="quest-location">{{item.name}}</h3>
+                    <img src="../../assets/img/daily-quests/{{item.npc}}.png" alt="">
+                </div>
+                <div class="quest-content" >
+                    <div *ngFor="let todo of item.todo" class="quest-padding">
+                        <h4 class="quest-name">{{todo.name}}</h4>
+                        <h4 class="quest-name">{{todo.complete}}</h4>
+                        <ul *ngFor="let rewards of todo.rewards">
+                            <h5 class="quest-rewards">Rewards :</h5>
+                            <li class="quest-rewards">- {{rewards.reward}}</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>

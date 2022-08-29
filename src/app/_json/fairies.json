@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Starter Fairies",
+        "location": "You can buy them at Starter Pack NPC in NosVille",
+        "buff": "starter_fairies"
+    },
+    {
+        "name": "Low Tier Fairies",
+        "location": "You can craft them at Low Tier Fairies NPC $warp p1",
+        "buff": "p1_fairies"
+    },
+    {
+        "name": "Zenas Fairies",
+        "location": "You can get them in Zenas raid boxes",
+        "buff": "zenas_fairies"
+    },
+    {
+        "name": "Erenia Fairies",
+        "location": "You can get them in Erenia raid boxes",
+        "buff": "erenia_fairies"
+    },
+    {
+        "name": "Fernon Fairies",
+        "location": "You can craft them at Fernon Fairy NPC $warp p5",
+        "buff": "fernon_fairies"
+    },
+    {
+        "name": "Infinite Fairies",
+        "location": "You can craft them at Fairies NPC in Toundra Bitoren",
+        "buff": "infinite_fairies"
+    },
+    {
+        "name": "Azuris & Solaris Fairies",
+        "location": "You can craft them during Evolution Event",
+        "buff": "azuris_solaris_fairies"
+    }
+]
