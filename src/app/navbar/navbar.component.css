@@ -147,7 +147,6 @@ a.link {
 }
 
 .wiki-navbar-menu li:hover, .link:hover {
-    /* background-color: rgba(255, 255, 255, 0.2); */
     background-color: var(--void-clr-active);
 }
 
@@ -163,6 +162,13 @@ a.link {
 }
 
 /* Responsive */
+
+@media all and (min-width: 1140px) {
+    .wiki-navbar-menu {
+        transform: translateY(0%) !important;
+        opacity: 1 !important;
+    }
+}
 
 @media all and (max-width: 1140px) {
     .wiki-navbar-toggle {

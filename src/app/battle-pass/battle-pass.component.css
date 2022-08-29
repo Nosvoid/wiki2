@@ -69,10 +69,6 @@
     text-align: center;
 }
 
-.list-rewards, .list-quests {
-    font-size: 1rem;
-}
-
 .quest-todo,
 .quest-rewards,
 .battle-pass-title, 
@@ -169,7 +165,7 @@
     width: fit-content;
 }
 
-.wing-item, .list-quests li {
+.wing-item, .list-quests li, .list-rewards li {
     font-size: 1.1rem;
     line-height: 1.5em;
 }
