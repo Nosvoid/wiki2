@@ -91,7 +91,7 @@
     },
     {
         "name": "Jajamaru SP",
-        "location": "You can craft if during Easter and Halloween Events",
+        "location": "You can craft it during Easter and Halloween Events",
         "img": [
             { "icon": "jajamaru" }
         ],
@@ -99,7 +99,7 @@
     },
     {
         "name": "Pirate SP",
-        "location": "You can craft if during Summer Event",
+        "location": "You can craft it during Summer Event",
         "img": [
             { "icon": "pirate" }
         ],
@@ -107,7 +107,7 @@
     },
     {
         "name": "Pyjama SP",
-        "location": "You can craft if during Christmas Event",
+        "location": "You can craft it during Christmas Event",
         "img": [
             { "icon": "pyjama" }
         ],
@@ -115,7 +115,7 @@
     },
     {
         "name": "Wedding SP",
-        "location": "You can craft if during Valentine's Day Event",
+        "location": "You can craft it during Valentine's Day Event",
         "img": [
             { "icon": "wedding" }
         ],
