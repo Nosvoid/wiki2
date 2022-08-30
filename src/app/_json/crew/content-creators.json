@@ -36,6 +36,18 @@
         "twitchclass": "display-none"
     },
     {
+        "name": "Aeri NosTale",
+        "yt": "Link",
+        "twitch": "Link",
+        "ytlink": "https://www.youtube.com/channel/UCjdmjIFIzlI_CduzIAQvfug/videos",
+        "twitchlink": "",
+        "rank": "Gold Content Creator",
+        "rankimg": "gold",
+        "rankclass": "gold",
+        "ytclass": "yt-link",
+        "twitchclass": "display-none"
+    },
+    {
         "name": "Amy",
         "yt": "Link",
         "twitch": "Link",
@@ -56,18 +68,6 @@
         "rank": "Gold Content Creator",
         "rankimg": "gold",
         "rankclass": "gold",
-        "ytclass": "yt-link",
-        "twitchclass": "display-none"
-    },
-    {
-        "name": "Aeri NosTale",
-        "yt": "Link",
-        "twitch": "Link",
-        "ytlink": "https://www.youtube.com/channel/UCjdmjIFIzlI_CduzIAQvfug/videos",
-        "twitchlink": "",
-        "rank": "Silver Content Creator",
-        "rankimg": "silver",
-        "rankclass": "silver",
         "ytclass": "yt-link",
         "twitchclass": "display-none"
     },
