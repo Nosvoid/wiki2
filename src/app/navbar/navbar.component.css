@@ -88,7 +88,7 @@ a.link {
     position: absolute;
     left: -50%;
     top: calc(100%);
-    background-color: var(--void-clr);
+    background-color: var(--void-clr-active);
     padding: .75rem;
     opacity: 0;
     border: inherit;
@@ -147,7 +147,7 @@ a.link {
 }
 
 .wiki-navbar-menu li:hover, .link:hover {
-    background-color: var(--void-clr-active);
+    background-color: var(--void-clr);
 }
 
 .wiki-navbar-menu li {

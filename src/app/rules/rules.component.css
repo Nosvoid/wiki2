@@ -33,7 +33,7 @@
     justify-content: space-between;
     align-items: center;
     padding: .5em 1em;
-    background-color: var(--void-clr);
+    background-color: var(--void-clr-active);
     border: none;
     font-weight: bold;
     border-radius: 10px;
@@ -44,7 +44,7 @@
 
 .rule-number {
     background-color: white;
-    color: var(--void-clr);
+    color: var(--void-clr-active);
     padding: .3em;
     border-radius: 5px;
     font-weight: bold;
@@ -53,7 +53,7 @@
 
 .rule-list {
     margin-left: 0;
-    background-color: var(--void-clr);
+    background-color: var(--void-clr-active);
     border-radius: 10px;
     margin-top: 2em;
     padding: 1em;

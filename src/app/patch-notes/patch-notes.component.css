@@ -54,7 +54,7 @@
     justify-content: space-between;
     align-items: center;
     padding: .5em 1em;
-    background-color: var(--void-clr);
+    background-color: var(--void-clr-active);
     border: none;
     font-weight: bold;
     border-radius: 10px;

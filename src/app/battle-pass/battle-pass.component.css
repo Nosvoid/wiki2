@@ -27,7 +27,7 @@
     justify-content: space-between;
     align-items: center;
     padding: .5em 1em;
-    background-color: var(--void-clr);
+    background-color: var(--void-clr-active);
     border: none;
     font-weight: bold;
     border-radius: 10px;
@@ -88,7 +88,7 @@
 }
 
 .infos-purple {
-    color: var(--void-clr);
+    color: var(--void-clr-active);
 }
 
 .bp-levels {
@@ -149,8 +149,11 @@
 }
 
 .bp-ticket-link {
-    color: var(--void-clr);
+    color: var(--void-clr-active);
     font-weight: bold;
+}
+.bp-ticket-link:hover {
+    color: var(--void-clr);
 }
 
 .random-boxes {
