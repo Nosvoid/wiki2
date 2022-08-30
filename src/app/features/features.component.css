@@ -31,6 +31,17 @@
     line-height: 2em;
 }
 
+.feature-info li {
+    text-align: start;
+}
+
+.feature-info a {
+    color: var(--void-clr-active);
+}
+.feature-info a:hover {
+    color: var(--void-clr);
+}
+
 .feature {
     display: flex;
     flex-direction: column;
@@ -38,7 +49,8 @@
     margin-block: 2em;
 }
 
-.feature img {
+.feature img,
+.feature video {
     max-height: 100%;
     max-width: 100%;
 }
