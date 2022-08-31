@@ -12,24 +12,36 @@
 }
 
 .wiki-home img {
-    max-width: 290px;
+    width: 250px;
+    max-width: 100%;
+    max-height: 100%;
 }
 
-.home-title,
-.home-join,
+.home-title-1,
+.home-title-2,
 .join-button {
     font-family: 'Edu SA Beginner', cursive;
 }
 
-.home-title {
+.home-title-1 {
     font-size: 3rem;
     margin-bottom: 1em;
     text-align: center;
     line-height: 1.1em;
 }
 
-.home-join {
+.home-title-2 {
     font-size: 2rem;
+    text-align: center;
+}
+
+.home-event {
+    font-size: 1.2rem;
+    color: var(--void-clr);
+}
+
+.home-events {
+    margin-bottom: 1em;
 }
 
 .join-buttons {
@@ -55,7 +67,8 @@
 }
 
 .join-button img {
-    max-height: 36px;
+    width: 36px;
+    height: 36px;
 }
 
 /* Media queries */
