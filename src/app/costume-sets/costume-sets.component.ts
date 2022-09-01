@@ -35,6 +35,13 @@ export class CostumeSetsComponent implements OnInit {
           nextChild?.classList.remove('display-flex');
           nextChild?.classList.add('display-none');
         });
+
+        window.addEventListener('click', (e) => {
+          if(e.target == nextChild) {
+            nextChild?.classList.remove('display-flex');
+            nextChild?.classList.add('display-none');
+          }
+        });
       });
     });
   }
