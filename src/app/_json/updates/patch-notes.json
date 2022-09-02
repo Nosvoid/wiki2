@@ -1,5 +1,103 @@
 [
     {
+        "patchnotesname": "Patch Notes - 01/09/2022",
+        "classes": [
+            {
+                "name": "Archer Changes",
+                "hide": "display-none",
+                "topic": [
+                    {
+                        "topicname": "Overall",
+                        "topicclass": "display-none",
+                        "changes": [
+                        ]
+                    },
+                    {
+                        "topicname": "Ranger SP",
+                        "topicclass": "display-none",
+                        "changes": [
+                        ]
+                    },
+                    {
+                        "topicname": "Assassin SP",
+                        "topicclass": "display-none",
+                        "changes": [
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Mage Changes",
+                "hide": "display-none",
+                "topic": [
+                    {
+                        "topicname": "Overall",
+                        "topicclass": "display-none",
+                        "changes": [
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "MA Changes",
+                "hide": "display-none",
+                "topic": [
+                    {
+                        "topicname": "Overall",
+                        "topicclass": "display-none",
+                        "changes": [
+                        ]
+                    },
+                    {
+                        "topicname": "Bear SP",
+                        "topicclass": "display-none",
+                        "changes": [
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Swordsman Changes",
+                "hide": "display-none",
+                "topic": [
+                    {
+                        "topicname": "Overall",
+                        "topicclass": "display-none",
+                        "changes": [
+                        ]
+                    },
+                    {
+                        "topicname": "Monk SP",
+                        "topicclass": "display-none",
+                        "changes": [
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Overall Changes & Fixes",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Changes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- You will get 0 sum Orc Resistances from Reputation Shop again." },
+                            { "change": "- Level 1 quests has been replaced with the level 2." }
+                        ]
+                    },
+                    {
+                        "topicname": "Fixes",
+                        "topicclass": "display-none",
+                        "changes": [
+                            { "change": "- Fixed a bug that it was showing some people twice in family list." }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "patchnotesname": "Patch Notes - 31/08/2022",
         "classes": [
             {

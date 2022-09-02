@@ -1,0 +1,60 @@
+.shells {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-block: 3em;
+    color: white;
+    background-color: rgba(0, 0, 0, .8);
+    border-radius: 20px;
+    width: 100%;
+    padding: 3em 0;
+}
+
+.shells-title-1,
+.shells-title-2 {
+    font-family: 'Edu SA Beginner', cursive;
+}
+
+.shells-title-1 {
+    font-size: 3rem;
+    margin-bottom: 1em;
+}
+
+.shells-title-2 {
+    font-size: 2rem;
+    margin-top: 1em;
+}
+
+.shells-title-3 {
+    font-size: 1.5rem;
+}
+
+.shells-text,
+.shells-text-note {
+    font-size: 1.1rem;
+    line-height: 1.5em;
+}
+
+.shells-text-note,
+.shells-text b {
+    color: var(--void-clr);
+}
+
+.upgrade-system {
+    text-align: center;
+    width: 75%;
+}
+
+/* Media queries */
+@media all and (min-width: 1140px) {
+    .amulets {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        padding: 2em;
+    }
+
+    .shells {
+        width: 75%;
+    }
+}

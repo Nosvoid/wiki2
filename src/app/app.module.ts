@@ -56,6 +56,7 @@ import { ShopUpdatesComponent } from './shop-updates/shop-updates.component';
 import { PatchNotesComponent } from './patch-notes/patch-notes.component';
 import { TicketSystemComponent } from './ticket-system/ticket-system.component';
 import { ErrorPageComponent } from './error-page/error-page.component';
+import { ShellsComponent } from './shells/shells.component';
 
 
 
@@ -104,6 +105,7 @@ const appRoutes: Routes = [
   { path: 'shop-updates', component: ShopUpdatesComponent },
   { path: 'patch-notes', component: PatchNotesComponent },
   { path: 'ticket-system', component: TicketSystemComponent },
+  { path: 'shells', component: ShellsComponent },
   { path: '**', pathMatch: "full", component: ErrorPageComponent },
 ]
 
@@ -155,7 +157,8 @@ const appRoutes: Routes = [
     ShopUpdatesComponent,
     PatchNotesComponent,
     TicketSystemComponent,
-    ErrorPageComponent
+    ErrorPageComponent,
+    ShellsComponent
   ],
   imports: [
     BrowserModule,
