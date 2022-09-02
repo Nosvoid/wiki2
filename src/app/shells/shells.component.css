@@ -46,11 +46,21 @@
     width: 75%;
 }
 
+.amulet, .class, .autobet {
+    padding-block: 2em;
+}
+
 /* Media queries */
 @media all and (min-width: 1140px) {
-    .amulets {
+    .amulets, .weapons {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
+        padding-inline: 2em;
+    }
+
+    .armors {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
         padding: 2em;
     }
 
