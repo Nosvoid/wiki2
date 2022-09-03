@@ -1,5 +1,105 @@
 [
     {
+        "patchnotesname": "Patch Notes - 03/09/2022",
+        "classes": [
+            {
+                "name": "Archer Changes",
+                "hide": "display-none",
+                "topic": [
+                    {
+                        "topicname": "Overall",
+                        "topicclass": "display-none",
+                        "changes": [
+                        ]
+                    },
+                    {
+                        "topicname": "Ranger SP",
+                        "topicclass": "display-none",
+                        "changes": [
+                        ]
+                    },
+                    {
+                        "topicname": "Assassin SP",
+                        "topicclass": "display-none",
+                        "changes": [
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Mage Changes",
+                "hide": "display-none",
+                "topic": [
+                    {
+                        "topicname": "Overall",
+                        "topicclass": "display-none",
+                        "changes": [
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "MA Changes",
+                "hide": "display-none",
+                "topic": [
+                    {
+                        "topicname": "Overall",
+                        "topicclass": "display-none",
+                        "changes": [
+                        ]
+                    },
+                    {
+                        "topicname": "Bear SP",
+                        "topicclass": "display-none",
+                        "changes": [
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Swordsman Changes",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Overall",
+                        "topicclass": "display-none",
+                        "changes": [
+                        ]
+                    },
+                    {
+                        "topicname": "Crusader SP",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Growth Shield (Holy Shield)" },
+                            { "change": " * Added: Magic defence is increased by 200." },
+                            { "change": " * Added: Remove bad effect below level 4." }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Overall Changes & Fixes",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Changes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Removed Black Gemstone drop from monsters." }
+                        ]
+                    },
+                    {
+                        "topicname": "Fixes",
+                        "topicclass": "display-none",
+                        "changes": [
+                            { "change": "- Fixed a bug that it was showing some people twice in family list." }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "patchnotesname": "Patch Notes - 02/09/2022",
         "classes": [
             {
