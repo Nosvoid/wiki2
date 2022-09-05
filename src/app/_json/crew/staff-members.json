@@ -140,8 +140,8 @@
         "class": "game-supporter"
     },
     {
-        "name": "Gumiho",
-        "language": "TR/ITA/KR/ENG",
+        "name": "Senka",
+        "language": "ITA/ENG",
         "role": "Game Supporter",
         "logo": "game_supporter",
         "class": "game-supporter"
@@ -152,12 +152,5 @@
         "role": "Game Supporter",
         "logo": "game_supporter",
         "class": "game-supporter"
-    },
-    {
-        "name": "Senka",
-        "language": "ITA/ENG",
-        "role": "Trial Game Supporter",
-        "logo": "trial_game_supporter",
-        "class": "tgs"
     }
 ]
