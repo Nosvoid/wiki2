@@ -63,6 +63,13 @@
         "class": "game-designer"
     },
     {
+        "name": "Aeri",
+        "language": "TR/ENG",
+        "role": "Game Master",
+        "logo": "game_master",
+        "class": "game-master"
+    },
+    {
         "name": "Cara",
         "language": "DE/ENG",
         "role": "Game Master",
@@ -117,13 +124,6 @@
         "role": "Game Master",
         "logo": "game_master",
         "class": "game-master"
-    },
-    {
-        "name": "Aeri",
-        "language": "TR/ENG",
-        "role": "Game Supporter",
-        "logo": "game_supporter",
-        "class": "game-supporter"
     },
     {
         "name": "Akita",
