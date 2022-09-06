@@ -1,5 +1,117 @@
 [
     {
+        "patchnotesname": "Patch Notes - 06/09/2022",
+        "classes": [
+            {
+                "name": "Archer Changes",
+                "hide": "display-none",
+                "topic": [
+                    {
+                        "topicname": "Overall",
+                        "topicclass": "display-none",
+                        "changes": [
+                        ]
+                    },
+                    {
+                        "topicname": "Ranger SP",
+                        "topicclass": "display-none",
+                        "changes": [
+                        ]
+                    },
+                    {
+                        "topicname": "Assassin SP",
+                        "topicclass": "display-none",
+                        "changes": [
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Mage Changes",
+                "hide": "display-none",
+                "topic": [
+                    {
+                        "topicname": "Overall",
+                        "topicclass": "display-none",
+                        "changes": [
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "MA Changes",
+                "hide": "display-none",
+                "topic": [
+                    {
+                        "topicname": "Overall",
+                        "topicclass": "display-none",
+                        "changes": [
+                        ]
+                    },
+                    {
+                        "topicname": "Bear SP",
+                        "topicclass": "display-none",
+                        "changes": [
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Swordsman Changes",
+                "hide": "display-none",
+                "topic": [
+                    {
+                        "topicname": "Overall",
+                        "topicclass": "display-none",
+                        "changes": [
+                        ]
+                    },
+                    {
+                        "topicname": "Crusader SP",
+                        "topicclass": "display-none",
+                        "changes": [
+                            { "change": "- " }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Overall Changes & Fixes",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Changes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Removed Carno Raid seal from Prestige 6 Raid Seal NPC." },
+                            { "change": "- Added Prestige World Boss to 11.00 and 00.10 schedules. (Only for today)" }
+                        ]
+                    },
+                    {
+                        "topicname": "Fixes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Removed Light resistances are increased by 2 from Nutcracker Uniform." },
+                            { "change": "- Removed All resistances are increased by 17 from Orc Gloves in visual." },
+                            { "change": "- Removed Shadow from second version Long-Legged Spider's Blessing Buff name." },
+                            { "change": "- Removed Shadow from second version Devil Vampie's Blessing Buff name." },
+                            { "change": "- Removed Shadow from second version Master Bunny's Blessing Buff name." },
+                            { "change": "- Removed Fatal Burn from Hellfire skill in visual." },
+                            { "change": "- Fixed that Material (the one your getting to craft prestige) was showing as different name on chat." },
+                            { "change": "- Fixed that Caligor Box had wrong name in visual. (Was showing as winner box for both side.)" },
+                            { "change": "- Fixed Cool Times of Creation, Kiss & Call for the Koala Help skills in visual." },
+                            { "change": "- Fixed that Death Approaches skill had wrong values in visual." },
+                            { "change": "- Fixed that Cannon Shot skill had wrong values in visual." },
+                            { "change": "- Fixed that Intense Cold skill had wrong values in visual." },
+                            { "change": "- Fixed that Ice Chain skill had wrong values in visual." },
+                            { "change": "- Fixed duration of Lupine Vision buff in visual." }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "patchnotesname": "Patch Notes - 03/09/2022",
         "classes": [
             {
