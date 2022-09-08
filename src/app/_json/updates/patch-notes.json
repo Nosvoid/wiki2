@@ -1,5 +1,117 @@
 [
     {
+        "patchnotesname": "Patch Notes - 08/09/2022",
+        "classes": [
+            {
+                "name": "Archer Changes",
+                "hide": "display-none",
+                "topic": [
+                    {
+                        "topicname": "Overall",
+                        "topicclass": "display-none",
+                        "changes": [
+                        ]
+                    },
+                    {
+                        "topicname": "Ranger SP",
+                        "topicclass": "display-none",
+                        "changes": [
+                        ]
+                    },
+                    {
+                        "topicname": "Assassin SP",
+                        "topicclass": "display-none",
+                        "changes": [
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Mage Changes",
+                "hide": "display-none",
+                "topic": [
+                    {
+                        "topicname": "Overall",
+                        "topicclass": "display-none",
+                        "changes": [
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "MA Changes",
+                "hide": "display-none",
+                "topic": [
+                    {
+                        "topicname": "Overall",
+                        "topicclass": "display-none",
+                        "changes": [
+                        ]
+                    },
+                    {
+                        "topicname": "Bear SP",
+                        "topicclass": "display-none",
+                        "changes": [
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Swordsman Changes",
+                "hide": "display-none",
+                "topic": [
+                    {
+                        "topicname": "Overall",
+                        "topicclass": "display-none",
+                        "changes": [
+                        ]
+                    },
+                    {
+                        "topicname": "Crusader SP",
+                        "topicclass": "display-none",
+                        "changes": [
+                            { "change": "- " }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Overall Changes & Fixes",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Changes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Increased amount of reputation you are getting from Rainbow Battle." },
+                            { "change": "- Removed C55 Equipment Craft NPC, you will get C55 Weapons from Carno & C55 Armours from Kirollas raid from now on." },
+                            { "change": "P.S : You can also sell C55 Equipments for 15KK to NPC." }
+                        ]
+                    },
+                    {
+                        "topicname": "Fixes",
+                        "topicclass": "display-none",
+                        "changes": [
+                            { "change": "- Fixed a bug that 2:35 Rainbow Battle was turning into Instant Combat." },
+                            { "change": "- Fixed wrong typo of Prestige 6 Fish Map NPCs." },
+                            { "change": "- Fixed Sidestep that had % on the wrong place in description." },
+                            { "change": "- Fixed wrong amount of Dark Clones in Super Abracadabre description." },
+                            { "change": "- Fixed wrong value in Cursed Sandstorm Raid quest." },
+                            { "change": "-  Fixed bug in Mental Poison description where you could see 'All attacks are increased' instead of decreased." },
+                            { "change": "- Fixed wrong value in Berserker buff about movement speed (side effect)." },
+                            { "change": "- Fixed Claw Hold description where you could see causing of wrong debuff." },
+                            { "change": "- Fixed wrong effect in Final Flame description." },
+                            { "change": "- Fixed bug in Dark Knight's Helmet description where you could see 'The chance of receiving a critical hit is increased' instead of decreased." },
+                            { "change": "- Fixed bug in Honeybee description where you could see Magic attack instead of Magic defence." },
+                            { "change": "- Fixed bug in Shadow King's Helmet description where you could see 'The chance of receiving a critical hit is increased' instead of decreased." },
+                            { "change": "- Fixed Holy Shield buff in visual." }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "patchnotesname": "Patch Notes - 07/09/2022",
         "classes": [
             {
