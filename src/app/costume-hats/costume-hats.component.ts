@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 // Json
-import hatsData from "../_json/hats.json";
+import hatsData from "../_json/costumes/hats.json";
 
 interface Hats {
   name: String;

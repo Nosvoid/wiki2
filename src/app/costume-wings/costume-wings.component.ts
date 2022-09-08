@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 
-import wingsData from "../_json/wings.json";
+import wingsData from "../_json/costumes/wings.json";
 
 interface Wings {
   name: String;

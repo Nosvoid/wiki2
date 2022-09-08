@@ -22,7 +22,12 @@
     {
         "name": "Ice Witch Wings",
         "buff": "ice_witch_wings",
-        "class": "pve"
+        "class": "raid"
+    },
+    {
+        "name": "Karate Wings",
+        "buff": "karate_wings",
+        "class": "pvp"
     },
     {
         "name": "Knight Wings",

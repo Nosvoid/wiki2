@@ -1,5 +1,10 @@
 [
     {
+        "name": "Concierge Hat",
+        "buff": "concierge_hat",
+        "class": "raid"
+    },
+    {
         "name": "Death Lancer Hat",
         "buff": "death_lancer_hat",
         "class": "pvp"

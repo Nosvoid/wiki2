@@ -2,7 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import $ from 'jquery';
 
 // Json
-import allsetsData from "../_json/all-sets/all-sets.json";
+import allsetsData from "../_json/costumes/all-sets.json";
 
 interface AllSets {
   name: String;

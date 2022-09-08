@@ -5,6 +5,11 @@
         "class": "betting"
     },
     {
+        "name": "Concierge Costume",
+        "buff": "concierge_costume",
+        "class": "raid"
+    },
+    {
         "name": "Death Lancer Costume",
         "buff": "death_lancer_costume",
         "class": "pvp"

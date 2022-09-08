@@ -24,6 +24,12 @@
             "buff": "color_bushi_buffs"
         },
         {
+            "name": "Concierge Uniform",
+            "location": "You can craft this set at Family Tower Rewards NPC $warp p8.1",
+            "skins": "concierge",
+            "buff": "concierge_buffs"
+        },
+        {
             "name": "Cuddly Tiger",
             "location": "You can buy this set at Costumes NPC in NosVille",
             "skins": "cuddly_tiger",
