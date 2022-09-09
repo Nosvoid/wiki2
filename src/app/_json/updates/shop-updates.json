@@ -1,34 +1,34 @@
 [
     {
-        "date": "02/09/2022",
+        "date": "09/09/2022",
         "items": [
             {
-                "name": "Batman Mask",
-                "img": "batman_mask"
+                "name": "Aegir PSP",
+                "img": "aegir"
             },
             {
-                "name": "Caligor's Golden Horn",
-                "img": "caligor_horn"
+                "name": "Barni PSP",
+                "img": "barni"
             },
             {
-                "name": "Dragon Knight Costume Set",
-                "img": "knight_buffs"
+                "name": "Blue Amora Pet",
+                "img": "blue_amora"
             },
             {
-                "name": "Easter Bunny Party Chest",
-                "img": "easter_bunny_buffs"
+                "name": "Freya PSP",
+                "img": "freya"
             },
             {
-                "name": "Fluffy Bally",
-                "img": "fluffy_bally"
+                "name": "Hawaii Costume Set",
+                "img": "hawaii_buffs"
             },
             {
-                "name": "Into The Void Title",
-                "img": "into_the_void"
+                "name": "Pirate Lord Title",
+                "img": "pirate_lord"
             },
             {
-                "name": "Lucy Lopears' PSP",
-                "img": "lucy"
+                "name": "Shooting Star Title",
+                "img": "shooting_star"
             }
         ]
     }

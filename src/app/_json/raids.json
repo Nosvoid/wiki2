@@ -40,7 +40,7 @@
         ]
     },
     {
-        "name": "Lord Draco",
+        "name": "Draco",
         "location": "$warp raidarea",
         "box": "draco_box",
         "rewards": [
@@ -196,7 +196,8 @@
             { "reward": "- 1x Ancient Spell Gun" },
             { "reward": "- 1x Ancient Gauntlet" },
             { "reward": "- 1x Ancient Token" },
-            { "reward": "- 1x Random Amulet Box (1x)" }
+            { "reward": "- 1x Random Amulet Box (1x)" },
+            { "reward": "- 1x C55 Armours" }
         ]
     },
     {
@@ -289,7 +290,8 @@
             { "reward": "- 1x Martial's Aura" },
             { "reward": "- 1x Obsidian" },
             { "reward": "- 1x Magical Fang" },
-            { "reward": "- 1x Wolf Foot Print" }
+            { "reward": "- 1x Wolf Foot Print" },
+            { "reward": "- 1x C55 Weapons" }
         ]
     },
     {
