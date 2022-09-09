@@ -19,6 +19,7 @@
     max-width: 100%;
     max-height: 100%;
     border-radius: 10px;
+    height: 210px;
 }
 
 /* Titles */
@@ -30,11 +31,16 @@
     font-size: 2rem;
 }
 
-.weapon-location, .weapon-upgrade {
+.weapon-upgrade {
+    width: 100%;
+    text-align: center;
+}
+
+.weapon-location, .weapon-upgrade-text {
     font-size: 1.1rem;
 }
 
-.weapon-upgrade {
+.weapon-upgrade-text {
     font-weight: bold;
 }
 

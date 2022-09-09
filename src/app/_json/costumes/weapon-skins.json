@@ -40,5 +40,12 @@
         "upgrade": "You can't upgrade them.",
         "buff": "steampunk",
         "class": "pvp"
+    },   
+    {
+        "name": "Valakus Weapon Skins",
+        "location": "You can craft those weapon skins at Monthly Rewards NPC in Act4.",
+        "upgrade": "You can upgrade them to +5 maximum.",
+        "buff": "valakus",
+        "class": "pvp"
     }    
 ]

@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 
-import weaponSkinsData from "../_json/weapon-skins.json";
+import weaponSkinsData from "../_json/costumes/weapon-skins.json";
 
 interface WeaponSkins {
   name: String;
