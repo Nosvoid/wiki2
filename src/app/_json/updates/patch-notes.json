@@ -1,5 +1,105 @@
 [
     {
+        "patchnotesname": "Patch Notes - 14/09/2022",
+        "classes": [
+            {
+                "name": "Archer Changes",
+                "hide": "display-none",
+                "topic": [
+                    {
+                        "topicname": "Overall",
+                        "topicclass": "display-none",
+                        "changes": [
+                        ]
+                    },
+                    {
+                        "topicname": "Ranger SP",
+                        "topicclass": "display-none",
+                        "changes": [
+                        ]
+                    },
+                    {
+                        "topicname": "Assassin SP",
+                        "topicclass": "display-none",
+                        "changes": [
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Mage Changes",
+                "hide": "display-none",
+                "topic": [
+                    {
+                        "topicname": "Overall",
+                        "topicclass": "display-none",
+                        "changes": [
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "MA Changes",
+                "hide": "display-none",
+                "topic": [
+                    {
+                        "topicname": "Overall",
+                        "topicclass": "display-none",
+                        "changes": [
+                        ]
+                    },
+                    {
+                        "topicname": "Bear SP",
+                        "topicclass": "display-none",
+                        "changes": [
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Swordsman Changes",
+                "hide": "display-none",
+                "topic": [
+                    {
+                        "topicname": "Overall",
+                        "topicclass": "display-none",
+                        "changes": [
+                        ]
+                    },
+                    {
+                        "topicname": "Crusader SP",
+                        "topicclass": "display-none",
+                        "changes": [
+                            { "change": "- " }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Overall Changes & Fixes",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Changes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Changed Fairy Breath damage from 70% to 40%." }
+                            
+                        ]
+                    },
+                    {
+                        "topicname": "Fixes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Fixed a bug where you could get debuffs during Tumble." },
+                            { "change": "- Fixed a bug that Pirate Lord title wasn't tradeable. (Done in db but we need to update launcher, will be done as soon as possible.)" }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "patchnotesname": "Patch Notes - 12/09/2022",
         "classes": [
             {

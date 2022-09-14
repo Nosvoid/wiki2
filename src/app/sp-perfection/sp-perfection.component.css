@@ -80,6 +80,21 @@
     padding: 1em;
 }
 
+.sp-perfection-system ul {
+    padding: 0;
+}
+
+.perf-points {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2em;
+}
+
+.sp-perfection-system ul li {
+    text-align: start;
+    line-height: 1.5em;
+}
+
 /* Media queries */
 @media all and (min-width: 1140px) {
     .perf-items, .perf-trades, .auto-perf,.perf-boxes {

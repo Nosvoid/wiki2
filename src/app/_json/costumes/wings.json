@@ -10,9 +10,29 @@
         "class": "raid"
     },
     {
+        "name": "Easter Bunny Wings",
+        "buff": "easter_bunny_wings",
+        "class": "fame"
+    },
+    {
+        "name": "Fire Devil Wings",
+        "buff": "fire_devil_wings",
+        "class": "pve"
+    },
+    {
+        "name": "Frost Warrior Wings",
+        "buff": "frost_warrior_wings",
+        "class": "pve"
+    },
+    {
+        "name": "Groovy Beach Wings",
+        "buff": "groovy_wings",
+        "class": "pve"
+    },
+    {
         "name": "Hawaii Wings",
         "buff": "hawaii_wings",
-        "class": "raid"
+        "class": "raid-fame"
     },
     {
         "name": "Honeybee Wings",
@@ -40,8 +60,28 @@
         "class": "pvp"
     },
     {
+        "name": "Pumpkin Wings",
+        "buff": "pumpkin_wings",
+        "class": "pve"
+    },
+    {
+        "name": "Reindeer Wings",
+        "buff": "reindeer_wings",
+        "class": "exp"
+    },
+    {
         "name": "Tropical Wings",
         "buff": "tropical_wings",
+        "class": "pvp"
+    },
+    {
+        "name": "Wedding Wings",
+        "buff": "wedding_wings",
+        "class": "pve"
+    },
+    {
+        "name": "Winter Wings",
+        "buff": "winter_wings",
         "class": "pvp"
     }
 ]
