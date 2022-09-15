@@ -1,34 +1,30 @@
 [
     {
-        "date": "09/09/2022",
+        "date": "15/09/2022",
         "items": [
             {
-                "name": "Aegir PSP",
-                "img": "aegir"
+                "name": "Batman Mask",
+                "img": "batman_mask"
             },
             {
-                "name": "Barni PSP",
-                "img": "barni"
+                "name": "Caligor's Golden Horn",
+                "img": "caligor_horn"
             },
             {
-                "name": "Blue Amora Pet",
-                "img": "blue_amora"
+                "name": "Knight Costume Set",
+                "img": "knight_buffs"
             },
             {
-                "name": "Freya PSP",
-                "img": "freya"
+                "name": "Shadow Snow Fox Pet",
+                "img": "snow_fox"
             },
             {
-                "name": "Hawaii Costume Set",
-                "img": "hawaii_buffs"
+                "name": "Shadow King's Helmet",
+                "img": "shadow_kings_helmet"
             },
             {
-                "name": "Pirate Lord Title",
-                "img": "pirate_lord"
-            },
-            {
-                "name": "Shooting Star Title",
-                "img": "shooting_star"
+                "name": "Shadow King's Mask",
+                "img": "shadow_kings_mask"
             }
         ]
     }
