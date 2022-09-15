@@ -152,5 +152,12 @@
         "role": "Game Supporter",
         "logo": "game_supporter",
         "class": "game-supporter"
+    },
+    {
+        "name": "Exodia's",
+        "language": "THAI",
+        "role": "Trial Game Supporter",
+        "logo": "trial_game_supporter",
+        "class": "tgs"
     }
 ]
