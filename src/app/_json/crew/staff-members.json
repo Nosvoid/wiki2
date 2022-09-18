@@ -58,9 +58,30 @@
     {
         "name": "DarkLegend",
         "language": "ITA/ENG",
-        "role": "Game Designer",
+        "role": "Game Master / Game Designer",
         "logo": "game_designer",
         "class": "game-designer"
+    },
+    {
+        "name": "GayBoysAdmirer",
+        "language": "PL/ENG",
+        "role": "Game Master / Game Designer",
+        "logo": "game_designer",
+        "class": "game-designer"
+    },
+    {
+        "name": "Temko",
+        "language": "FR/ENG",
+        "role": "Game Master / Game Designer",
+        "logo": "game_designer",
+        "class": "game-designer"
+    },
+    {
+        "name": "Krypton69",
+        "language": "FR/ENG/69",
+        "role": "Game Master / Wiki Developer",
+        "logo": "game_master69",
+        "class": "game-master69"
     },
     {
         "name": "Aeri",
@@ -98,29 +119,8 @@
         "class": "game-master"
     },
     {
-        "name": "GayBoysAdmirer",
-        "language": "PL/ENG",
-        "role": "Game Master",
-        "logo": "game_master",
-        "class": "game-master"
-    },
-    {
         "name": "Megumin~",
         "language": "TR/ENG",
-        "role": "Game Master",
-        "logo": "game_master",
-        "class": "game-master"
-    },
-    {
-        "name": "Krypton69",
-        "language": "FR/ENG/69",
-        "role": "Game Master",
-        "logo": "game_master69",
-        "class": "game-master69"
-    },
-    {
-        "name": "Temko",
-        "language": "FR/ENG",
         "role": "Game Master",
         "logo": "game_master",
         "class": "game-master"
