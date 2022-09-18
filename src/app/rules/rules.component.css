@@ -55,7 +55,7 @@
     margin-left: 0;
     background-color: var(--void-clr-active);
     border-radius: 10px;
-    margin-top: 2em;
+    margin-top: .5em;
     padding: 1em;
     font-size: 1.1rem;
 }
@@ -72,6 +72,7 @@
 
 .rule-title {
     text-align: start;
+    text-transform: uppercase;
 }
 
 /* Media queries */
