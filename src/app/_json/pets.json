@@ -245,6 +245,13 @@
         "class": "pvp"
     },
     {
+        "name": "Screeching Wingworm",
+        "location": "Can be crafted at Family Tower Rewards NPC $warp p8.1",
+        "buff": "screeching_wingworm",
+        "skin": "screeching_wingworm",
+        "class": "raid"
+    },
+    {
         "name": "Seraphim",
         "location": "Can be obtained during Evolution Event",
         "buff": "seraphim",
