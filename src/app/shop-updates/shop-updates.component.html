@@ -11,7 +11,7 @@
                 <div class="p-3" *ngFor="let items of update.items">
                     <h3 class="shop-updates-title-3">{{items.name}}</h3>
                     <a href="../../assets/img/shop-update/{{items.img}}.png" target="_blank">
-                        <img src="../../assets/img/shop-update/{{items.img}}.png" alt="">
+                        <img src="{{items.img}}" alt="">
                     </a>
                 </div>
             </div>
