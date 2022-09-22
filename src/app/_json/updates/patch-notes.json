@@ -1,5 +1,106 @@
 [
     {
+        "patchnotesname": "Patch Notes - 22/09/2022",
+        "classes": [
+            {
+                "name": "Archer Changes",
+                "hide": "display-none",
+                "topic": [
+                    {
+                        "topicname": "Overall",
+                        "topicclass": "display-none",
+                        "changes": [
+                        ]
+                    },
+                    {
+                        "topicname": "Ranger SP",
+                        "topicclass": "display-none",
+                        "changes": [
+                        ]
+                    },
+                    {
+                        "topicname": "Assassin SP",
+                        "topicclass": "display-none",
+                        "changes": [
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Mage Changes",
+                "hide": "display-none",
+                "topic": [
+                    {
+                        "topicname": "Overall",
+                        "topicclass": "display-none",
+                        "changes": [
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "MA Changes",
+                "hide": "display-none",
+                "topic": [
+                    {
+                        "topicname": "Overall",
+                        "topicclass": "display-none",
+                        "changes": [
+                        ]
+                    },
+                    {
+                        "topicname": "Bear SP",
+                        "topicclass": "display-none",
+                        "changes": [
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Swordsman Changes",
+                "hide": "display-none",
+                "topic": [
+                    {
+                        "topicname": "Overall",
+                        "topicclass": "display-none",
+                        "changes": [
+                        ]
+                    },
+                    {
+                        "topicname": "Crusader SP",
+                        "topicclass": "display-none",
+                        "changes": [
+                            { "change": "- " }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Overall Changes & Fixes",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Changes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Nerfed HP of Bushi King." },
+                            { "change": "- Decreased cool time of all tattoos to 30 seconds." },
+                            { "change": "- Changed buff of Pirate Lord title : There is 2 > 5% chance of getting additional box from World Boss." }
+                            
+                        ]
+                    },
+                    {
+                        "topicname": "Fixes",
+                        "topicclass": "display-none",
+                        "changes": [
+                            { "change": "- " }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "patchnotesname": "Patch Notes - 20/09/2022",
         "classes": [
             {
