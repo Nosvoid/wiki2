@@ -154,6 +154,13 @@
         "class": "game-supporter"
     },
     {
+        "name": "AgentPerry",
+        "language": "CZ/ENG",
+        "role": "Trial Game Supporter",
+        "logo": "trial_game_supporter",
+        "class": "tgs"
+    },
+    {
         "name": "Exodia's",
         "language": "THAI",
         "role": "Trial Game Supporter",
