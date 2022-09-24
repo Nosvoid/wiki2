@@ -21,15 +21,6 @@ export class MouseEventComponent implements OnInit {
 
   itemsToCraft = [
     {
-      icon: "retro_wing",
-      name: "Cyan Retro Wings",
-      recipe: [
-        { mat: "500x Piece of Cheese" },
-        { mat: "5x Broken Wing" }
-      ],
-      img: ""
-    },
-    {
       icon: "lucky_rat",
       name: "Lucky Rat",
       recipe: [
@@ -37,6 +28,17 @@ export class MouseEventComponent implements OnInit {
         { mat: "2x Mouse Tail" }
       ],
       img: "../../assets/img/pets/buffs/lucky_rat.png"
+    },
+    {
+      icon: "masterchef_skin",
+      name: "Masterchef Skin",
+      recipe: [
+        { mat: "400x Piece of cheese" },
+        { mat: "5x Roast Lamb" },
+        { mat: "10x Cold Desert Stew" },
+        { mat: "5x Fried Fish Noodle" }
+      ],
+      img: ""
     },
     {
       icon: "mouse_hat",
@@ -64,15 +66,6 @@ export class MouseEventComponent implements OnInit {
         { mat: "3x Mouse Treasure" }
       ],
       img: "../../assets/img/accessories/raid_necklace.png"
-    },
-    {
-      icon: "retro_change",
-      name: "Retro Wing Color Changer",
-      recipe: [
-        { mat: "400x Piece of Cheese" },
-        { mat: "4x Broken Wing" }
-      ],
-      img: ""
     },
     {
       icon: "carriage",

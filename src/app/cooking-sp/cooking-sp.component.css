@@ -39,6 +39,11 @@
     line-height: 1.3em;
 }
 
+.cooking-sp-title-4 a {
+    color: var(--void-clr);
+    font-weight: bold;
+}
+
 .cooking-sp-text,
 .skill-action {
     font-size: 1.1rem;
