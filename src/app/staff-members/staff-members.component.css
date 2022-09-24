@@ -80,6 +80,14 @@
     color: var(--web-dev-clr);
 }
 
+.tech-helper {
+    color: var(--tech-helper-clr);
+}
+
+.junior-game-designer {
+    color: var(--junior-gd-clr);
+}
+
 /* Media queries */
 @media all and (min-width: 1140px) {
     .crew {

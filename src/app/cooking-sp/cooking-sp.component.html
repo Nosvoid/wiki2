@@ -1,0 +1,49 @@
+<div class="d-flex justify-content-center">
+    <section class="cooking-sp">
+        <h1 class="cooking-sp-title-1">Cooking SP</h1>
+
+        <h2 class="cooking-sp-title-2">Cooking SP Skills</h2>
+        <div class="cooking-sp-skills w-75">
+            <div class="cooking-sp-skill" *ngFor="let skill of cookingSkills">
+                <div class="cooking-sp-skill-name">
+                    <img src="../../assets/img/specialists/cooking-sp/{{skill.icon}}.png" alt="">
+                    <h3 class="cooking-sp-title-3">{{skill.name}}</h3>
+                </div>
+                <h4 class="cooking-sp-title-4">Job level {{skill.level}}</h4>
+                <ul class="skill-actions" *ngFor="let action of skill.actions">
+                    <li class="skill-action">{{action.action}}</li>
+                </ul>
+            </div>
+        </div>
+        
+        <h2 class="cooking-sp-title-2">Meals Buffs</h2>
+        <div class="cooking-sp-meal-skills w-75" *ngFor="let cook of cookingMeals">
+            <h3 class="cooking-sp-title-3">{{cook.skill}}</h3>
+            <div class="cooking-sp-meals">
+                <div class="cooking-sp-meal" *ngFor="let meal of cook.meals">
+                    <div class="cooking-sp-meal-name">
+                        <img src="../../assets/img/specialists/cooking-sp/{{meal.icon}}.png" alt="">
+                        <h4 class="cooking-sp-title-4">{{meal.name}}</h4>
+                    </div>
+                    <p class="cooking-sp-text">{{meal.buff}}</p>
+                </div>
+            </div>
+        </div>
+
+
+
+        <h2 class="cooking-sp-title-2">Cooking Ingredients</h2>
+        <div class="cooking-sp-meal-skills w-75" *ngFor="let cat of cookingIngredients">
+            <h3 class="cooking-sp-title-3">{{cat.type}}</h3>
+            <div class="cooking-sp-meals">
+                <div class="cooking-sp-meal" *ngFor="let ingr of cat.ingr">
+                    <div class="cooking-sp-meal-name">
+                        <img src="../../assets/img/specialists/cooking-sp/{{ingr.icon}}.png" alt="">
+                        <h4 class="cooking-sp-title-4">{{ingr.name}}</h4>
+                    </div>
+                    <p class="cooking-sp-text">{{ingr.location}}</p>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>

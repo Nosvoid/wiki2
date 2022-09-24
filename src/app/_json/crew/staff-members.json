@@ -63,13 +63,6 @@
         "class": "game-designer"
     },
     {
-        "name": "GayBoysAdmirer",
-        "language": "PL/ENG",
-        "role": "Game Master / Game Designer",
-        "logo": "game_designer",
-        "class": "game-designer"
-    },
-    {
         "name": "Temko",
         "language": "FR/ENG",
         "role": "Game Master / Game Designer",
@@ -119,6 +112,27 @@
         "class": "game-master"
     },
     {
+        "name": "GayBoysAdmirer",
+        "language": "PL/ENG",
+        "role": "Junior Game Designer",
+        "logo": "jgd",
+        "class": "junior-game-designer"
+    },
+    {
+        "name": "Morgoth",
+        "language": "DE/ENG",
+        "role": "Junior Game Designer",
+        "logo": "jgd",
+        "class": "junior-game-designer"
+    },
+    {
+        "name": "Maybe",
+        "language": "PL/ENG",
+        "role": "Tech Helper",
+        "logo": "th",
+        "class": "tech-helper"
+    },
+    {
         "name": "Akita",
         "language": "HK/ENG",
         "role": "Game Supporter",
@@ -156,6 +170,13 @@
     {
         "name": "Exodia's",
         "language": "THAI",
+        "role": "Trial Game Supporter",
+        "logo": "trial_game_supporter",
+        "class": "tgs"
+    },
+    {
+        "name": "Iremia",
+        "language": "PL/ENG",
         "role": "Trial Game Supporter",
         "logo": "trial_game_supporter",
         "class": "tgs"

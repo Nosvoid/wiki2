@@ -1,4 +1,4 @@
-.mouse-event {
+.cooking-sp {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -12,48 +12,46 @@
     text-align: center;
 }
 
-.mouse-event-title-1,
-.mouse-event-title-2,
-.mouse-event-title-3,
-.mouse-event-title-4 {
+.cooking-sp-title-1,
+.cooking-sp-title-2,
+.cooking-sp-title-3,
+.cooking-sp-title-4 {
     font-family: 'Edu SA Beginner', cursive;
 }
 
-.mouse-event-title-1 {
+.cooking-sp-title-1 {
     font-size: 3rem;
     margin-bottom: 1em;
 }
 
-.mouse-event-title-2 {
+.cooking-sp-title-2 {
     font-size: 2.5rem;
     margin-top: 1em;
 }
 
-.mouse-event-title-3 {
+.cooking-sp-title-3 {
     font-size: 2rem;
     line-height: 1.3em;
 }
 
-.mouse-event-title-4 {
+.cooking-sp-title-4 {
     font-size: 1.5rem;
     line-height: 1.3em;
 }
 
-.mouse-event-text,
-.chest-reward,
-.crafting-mat,
-.quest-reward {
+.cooking-sp-text,
+.skill-action {
     font-size: 1.1rem;
     line-height: 1.5em;
 }
 
-.mouse-event img {
+.cooking-sp img {
     max-width: 100%;
     max-height: 100%;
     border-radius: 10px;
 }
 
-.mouse-event-options {
+.cooking-sp-options {
     text-align: start;
     font-size: 1.2rem;
     line-height: 1.4em;
@@ -63,12 +61,11 @@
     color: var(--void-clr);
 }
 
-.mouse-event-powers div {
+.cooking-sp-powers div {
     padding: 1.5em;
 }
 
-.chest-rewards,
-.quest-rewards {
+.skill-actions {
     padding: 0;
     margin: 0;
 }
@@ -78,34 +75,40 @@
 }
 
 .crafting-item, 
-.mouse-event-titles div {
+.cooking-sp-titles div {
     padding-block: 1em;
 }
 
-.crafting-item-title {
+.cooking-sp-skill-name,
+.cooking-sp-meal-name {
     display: flex;
     align-items: center;
     justify-content: center;
     gap: 1em;
 }
 
+.cooking-sp-skill,
+.cooking-sp-meal {
+    padding-block: 1em;
+}
+
 /* Media queries */
 @media all and (min-width: 1140px) {
 
-    .mouse-event,
+    .cooking-sp,
     .tattoos {
         width: 75%;
     }
 
-    .daily-quests,
-    .mouse-event-titles {
+    .daily-quests {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
         padding: 2em;
         gap: 1em;
     }
 
-    .crafting-items {
+    .cooking-sp-skills,
+    .cooking-sp-meals {
         display: grid;
         grid-template-columns: repeat(3, 1fr);
         padding: 2em;
