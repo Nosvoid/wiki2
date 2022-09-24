@@ -92,7 +92,7 @@
             { "quest": "- Participate in A4 Raids 5 times" },
             { "quest": "- Successfully complete the raid [Hardcore] /5" },
             { "quest": "- Successfully complete the raid [Ibrahim] /5" },
-            { "quest": "- Successfully complete the raid [Sandstorm] /5" }
+            { "quest": "- Successfully complete the raid [Sandstorm] /75" }
         ],
         "rewards": [
             { "reward": "- 20x Event Ticket" },
