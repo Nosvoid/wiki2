@@ -1,0 +1,69 @@
+<div class="d-flex justify-content-center w-100">
+    <section class="mouse-event">
+      <h1 class="mouse-event-title-1">Mouse Event</h1>
+
+      <h2 class="mouse-event-title-2">Mouse Raid</h2>
+      <img src="../../assets/img/mouse-event/lucky_rat_boss.png" alt="">
+      <h3 class="mouse-event-title-3 d-flex align-items-center">
+        <img src="../../assets/img/mouse-event/mouse_chest.png" alt="">
+        Mouse Chest
+      </h3>
+      <h4 class="mouse-event-title-4">Rewards :</h4>
+      <ul class="chest-rewards" *ngFor="let item of rewards">
+        <li class="chest-reward">- {{item.reward}}</li>
+      </ul>
+
+      <h2 class="mouse-event-title-2">Items to craft</h2>
+      <div class="crafting-items">
+        <div class="crafting-item" *ngFor="let item of itemsToCraft">
+          <div class="crafting-item-title">
+            <img src="../../assets/img/mouse-event/{{item.icon}}.png" alt="">
+            <h3 class="mouse-event-title-3">{{item.name}}</h3>
+          </div>
+          <ul class="crafting-recipe" *ngFor="let mat of item.recipe">
+            <li class="crafting-mat">- {{mat.mat}}</li>
+          </ul>
+          <img src="{{item.img}}" alt="">
+        </div>
+      </div>
+      
+      
+      <h2 class="mouse-event-title-2">Daily Quests</h2>
+      <div class="daily-quests">
+        <div class="mouse-event-quest" *ngFor="let quest of quests">
+          <h3 class="mouse-event-title-3 text-center">{{quest.name}}</h3>
+          <h4 class="mouse-event-title-4 text-center">{{quest.todo}}</h4>
+          <h4 class="mouse-event-title-4 text-center">Rewards :</h4>
+          <ul class="quest-rewards" *ngFor="let reward of quest.rewards">
+            <li class="quest-reward">- {{reward.reward}}</li>
+          </ul>
+        </div>
+      </div>
+      <h2 class="mouse-event-title-2">Marathon Quest</h2>
+      <div class="mouse-event-quest">
+        <h3 class="mouse-event-title-3 text-center">MaraTerry</h3>
+        <h4 class="mouse-event-title-4 text-center">Do 200x Chef Terry Raid (repeatable)</h4>
+        <h4 class="mouse-event-title-4 text-center">Rewards :</h4>
+        <ul class="quest-rewards">
+          <li class="quest-reward">- 30x Terry Chest</li>
+          <li class="quest-reward">- 30x Meat</li>
+          <li class="quest-reward">- 30x Owlbear Meat</li>
+          <li class="quest-reward">- 30x Pikanya Meat</li>
+          <li class="quest-reward">- 30x Chicken Meat/li>
+          <li class="quest-reward">- 30x Triceratops Meat</li>
+        </ul>
+      </div>
+
+      <h2 class="mouse-event-title-2">Titles</h2>
+      <div class="mouse-event-titles">
+        <div *ngFor="let title of titles">
+          <h3 class="mouse-event-title-3 text-center">
+            <img src="../../assets/img/mouse-event/{{title.icon}}.png" alt="">
+            {{title.name}}
+          </h3>
+          <h4 class="mouse-event-title-4">{{title.location}}</h4>
+          <img src="../../assets/img/titles/{{title.img}}.png" alt="">
+        </div>
+      </div>
+    </section>
+</div>

@@ -1,0 +1,17 @@
+<div class="d-flex justify-content-center">
+    <section class="pvp">
+        <h1 class="pvp-title-1">PVP Set</h1>
+
+        <div class="pvp-system" *ngFor="let type of pvp">
+            <h2 class="pvp-title-2">{{type.type}}</h2>
+            <div class="pvp-items">
+                <div class="p-3" *ngFor="let items of type.items">
+                    <h3 class="pvp-title-3">{{items.name}}</h3>
+                    <a href="../../assets/img/special-sets/pvp/{{items.img}}.png" target="_blank">
+                        <img src="../../assets/img/special-sets/pvp/{{items.img}}.png" alt="">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>

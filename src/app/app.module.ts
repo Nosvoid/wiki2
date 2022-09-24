@@ -57,6 +57,8 @@ import { PatchNotesComponent } from './patch-notes/patch-notes.component';
 import { TicketSystemComponent } from './ticket-system/ticket-system.component';
 import { ErrorPageComponent } from './error-page/error-page.component';
 import { ShellsComponent } from './shells/shells.component';
+import { PvpSetComponent } from './pvp-set/pvp-set.component';
+import { MouseEventComponent } from './mouse-event/mouse-event.component';
 
 
 
@@ -106,6 +108,8 @@ const appRoutes: Routes = [
   { path: 'patch-notes', component: PatchNotesComponent },
   { path: 'ticket-system', component: TicketSystemComponent },
   { path: 'shells', component: ShellsComponent },
+  { path: 'pvp-set', component: PvpSetComponent },
+  { path: 'current-event', component: MouseEventComponent },
   { path: '**', pathMatch: "full", component: ErrorPageComponent },
 ]
 
@@ -158,7 +162,9 @@ const appRoutes: Routes = [
     PatchNotesComponent,
     TicketSystemComponent,
     ErrorPageComponent,
-    ShellsComponent
+    ShellsComponent,
+    PvpSetComponent,
+    MouseEventComponent
   ],
   imports: [
     BrowserModule,
