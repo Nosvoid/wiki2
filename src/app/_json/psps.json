@@ -57,7 +57,7 @@
     },
     {
         "name": "Eliza",
-        "partner": "Can be used on Yertirand",
+        "partner": "Can be used on Yertirand/Sakura",
         "location": "Can be obtained during Summer Event and Craft Stuff NPC $warp p8",
         "buff": "eliza",
         "skin": "eliza",
@@ -81,7 +81,7 @@
     },
     {
         "name": "Freya",
-        "partner": "Can be used on Yertirand",
+        "partner": "Can be used on Yertirand/Sakura",
         "location": "Can be obtained during Christmas Event and in Fortune Wheel",
         "buff": "freya",
         "skin": "freya",
@@ -128,6 +128,14 @@
         "class": "pvp"
     },
     {
+        "name": "Orkani",
+        "partner": "Can be used on Yertirand/Sakura",
+        "location": "Can be crafted during Mouse Event",
+        "buff": "orkani",
+        "skin": "orkani",
+        "class": "cooking"
+    },
+    {
         "name": "Perti",
         "partner": "Can be used on Ragnar",
         "location": "Can be obtained in Fortune Wheel",
@@ -153,7 +161,7 @@
     },
     {
         "name": "Yuna",
-        "partner": "Can be used on Yertirand",
+        "partner": "Can be used on Yertirand/Sakura",
         "location": "Can be obtained in VoidMall for 1200 coins",
         "buff": "yuna",
         "skin": "yuna",

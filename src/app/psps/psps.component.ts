@@ -47,8 +47,7 @@ function filter() {
       let pvpItems = document.querySelectorAll('.pvp');
       let fishItems = document.querySelectorAll('.fish');
       let goldItems = document.querySelectorAll('.gold');
-      let bettingItems = document.querySelectorAll('.betting');
-      let perfingItems = document.querySelectorAll('.perfing');
+      let cookingItems = document.querySelectorAll('.cooking');
 
       switch(filterValue) {
           case "All":
@@ -64,10 +63,7 @@ function filter() {
               goldItems.forEach(element => {
                   element.classList.remove('display-none');
               });
-              bettingItems.forEach(element => {
-                  element.classList.remove('display-none');
-              });
-              perfingItems.forEach(element => {
+              cookingItems.forEach(element => {
                   element.classList.remove('display-none');
               });
               break;
@@ -84,10 +80,7 @@ function filter() {
               goldItems.forEach(element => {
                   element.classList.add('display-none');
               });
-              bettingItems.forEach(element => {
-                  element.classList.add('display-none');
-              });
-              perfingItems.forEach(element => {
+              cookingItems.forEach(element => {
                   element.classList.add('display-none');
               });
               break;
@@ -108,10 +101,7 @@ function filter() {
                       element.classList.add('display-none');
                   }
               });
-              bettingItems.forEach(element => {
-                  element.classList.add('display-none');
-              });
-              perfingItems.forEach(element => {
+              cookingItems.forEach(element => {
                   element.classList.add('display-none');
               });
               break;
@@ -128,10 +118,7 @@ function filter() {
               goldItems.forEach(element => {
                   element.classList.add('display-none');
               });
-              bettingItems.forEach(element => {
-                  element.classList.add('display-none');
-              });
-              perfingItems.forEach(element => {
+              cookingItems.forEach(element => {
                   element.classList.add('display-none');
               });
               break;
@@ -148,14 +135,11 @@ function filter() {
               goldItems.forEach(element => {
                   element.classList.remove('display-none');
               });
-              bettingItems.forEach(element => {
-                  element.classList.add('display-none');
-              });
-              perfingItems.forEach(element => {
+              cookingItems.forEach(element => {
                   element.classList.add('display-none');
               });
               break;
-          case "Betting":
+          case "Cooking":
               raidItems.forEach(element => {
                   element.classList.add('display-none');
               });
@@ -168,31 +152,8 @@ function filter() {
               goldItems.forEach(element => {
                   element.classList.add('display-none');
               });
-              bettingItems.forEach(element => {
-                  element.classList.remove('display-none');
-              });
-              perfingItems.forEach(element => {
-                  element.classList.add('display-none');
-              });
-              break;
-          case "Perfing SPs":
-              raidItems.forEach(element => {
-                  element.classList.add('display-none');
-              });
-              pvpItems.forEach(element => {
-                  element.classList.add('display-none');
-              });
-              fishItems.forEach(element => {
-                  element.classList.add('display-none');
-              });
-              goldItems.forEach(element => {
-                  element.classList.add('display-none');
-              });
-              bettingItems.forEach(element => {
-                  element.classList.add('display-none');
-              });
-              perfingItems.forEach(element => {
-                  element.classList.remove('display-none');
+              cookingItems.forEach(element => {
+                element.classList.remove('display-none');
               });
               break;
       }

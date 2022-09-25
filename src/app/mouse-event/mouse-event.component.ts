@@ -24,7 +24,7 @@ export class MouseEventComponent implements OnInit {
       icon: "lucky_rat",
       name: "Lucky Rat",
       recipe: [
-        { mat: "200x Piece of cheese" },
+        { mat: "300x Piece of Cheese" },
         { mat: "2x Mouse Tail" }
       ],
       img: "../../assets/img/pets/buffs/lucky_rat.png"
@@ -33,10 +33,10 @@ export class MouseEventComponent implements OnInit {
       icon: "masterchef_skin",
       name: "Masterchef Skin",
       recipe: [
-        { mat: "400x Piece of cheese" },
-        { mat: "5x Roast Lamb" },
-        { mat: "10x Cold Desert Stew" },
-        { mat: "5x Fried Fish Noodle" }
+        { mat: "800x Piece of Cheese" },
+        { mat: "15x Roast Lamb" },
+        { mat: "15x Cold Desert Stew" },
+        { mat: "20 Roast Lamb and Catfish" }
       ],
       img: "../../assets/img/mouse-event/masterchef_buff.png"
     },
@@ -85,6 +85,16 @@ export class MouseEventComponent implements OnInit {
       ],
       img: "../../assets/img/partners/sakura.png"
     },
+    {
+      icon: "fox_lady",
+      name: "Fox Lady",
+      recipe: [
+        { mat: "200x Piece of Cheese" },
+        { mat: "2x Mouse Ears" },
+        { mat: "1x Mouse Tail" }
+      ],
+      img: "../../assets/img/titles/fox_lady.png"
+    }
   ]
 
   quests = [
@@ -138,9 +148,38 @@ export class MouseEventComponent implements OnInit {
     }
   ]
 
+  showPack() {
+    $(document).ready(function() {
+      $('.show-pack').click(function(event){
+        let btn = event.target;
+        let nextChild = btn.nextElementSibling;
+
+        if(nextChild?.classList.contains('display-none')) {
+          nextChild.classList.remove('display-none');
+          nextChild.classList.add('display-flex');
+        } else if(nextChild?.classList.contains('display-flex')) {
+          nextChild.classList.remove('display-flex');
+          nextChild.classList.add('display-none');
+        }
+        $('.close-pack').click(function(event) {
+          nextChild?.classList.remove('display-flex');
+          nextChild?.classList.add('display-none');
+        });
+
+        window.addEventListener('click', (e) => {
+          if(e.target == nextChild) {
+            nextChild?.classList.remove('display-flex');
+            nextChild?.classList.add('display-none');
+          }
+        });
+      });
+    });
+  }
+
   constructor() { }
 
   ngOnInit(): void {
+    this.showPack();
   }
 
 }

@@ -18,6 +18,12 @@
         "skin": "ragnar"
     },
     {
+        "name": "Sakura",
+        "type": "Magic",
+        "location": "You can craft Sakura during Mouse Event",
+        "skin": "sakura"
+    },
+    {
         "name": "Yertirand",
         "type": "Magic",
         "location": "You can craft Yertirand in Starting Map or you can get it doing the quest at $warp beginner",

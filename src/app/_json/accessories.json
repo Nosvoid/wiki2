@@ -28,5 +28,11 @@
         "location": "You can get them in the Fortune Wheel and during the Evolution Event",
         "buff": "wheel_set",
         "class": "raid"
+    },
+    {
+        "name": "Raid Necklace",
+        "location": "You can craft it during Mouse Event",
+        "buff": "raid_necklace",
+        "class": "raid"
     }
 ]

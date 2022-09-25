@@ -20,152 +20,197 @@ function filter() {
       let goldItems = document.querySelectorAll('.gold');
       let bettingItems = document.querySelectorAll('.betting');
       let perfingItems = document.querySelectorAll('.perfing');
+      let cookingItems = document.querySelectorAll('.cooking');
 
       switch(filterValue) {
           case "All":
-              raidItems.forEach(element => {
-                  element.classList.remove('display-none');
-              });
-              pvpItems.forEach(element => {
-                  element.classList.remove('display-none');
-              });
-              fishItems.forEach(element => {
-                  element.classList.remove('display-none');
-              });
-              goldItems.forEach(element => {
-                  element.classList.remove('display-none');
-              });
-              bettingItems.forEach(element => {
-                  element.classList.remove('display-none');
-              });
-              perfingItems.forEach(element => {
-                  element.classList.remove('display-none');
-              });
+                raidItems.forEach(element => {
+                    element.classList.remove('display-none');
+                });
+                pvpItems.forEach(element => {
+                    element.classList.remove('display-none');
+                });
+                fishItems.forEach(element => {
+                    element.classList.remove('display-none');
+                });
+                goldItems.forEach(element => {
+                    element.classList.remove('display-none');
+                });
+                bettingItems.forEach(element => {
+                    element.classList.remove('display-none');
+                });
+                perfingItems.forEach(element => {
+                    element.classList.remove('display-none');
+                });
+                cookingItems.forEach(element => {
+                    element.classList.remove('display-none');
+                });
               break;
           case "PVP":
-              raidItems.forEach(element => {
-                  element.classList.add('display-none');
-              });
-              pvpItems.forEach(element => {
-                  element.classList.remove('display-none');
-              });
-              fishItems.forEach(element => {
-                  element.classList.add('display-none');
-              });
-              goldItems.forEach(element => {
-                  element.classList.add('display-none');
-              });
-              bettingItems.forEach(element => {
-                  element.classList.add('display-none');
-              });
-              perfingItems.forEach(element => {
-                  element.classList.add('display-none');
-              });
+                raidItems.forEach(element => {
+                    element.classList.add('display-none');
+                });
+                pvpItems.forEach(element => {
+                    element.classList.remove('display-none');
+                });
+                fishItems.forEach(element => {
+                    element.classList.add('display-none');
+                });
+                goldItems.forEach(element => {
+                    element.classList.add('display-none');
+                });
+                bettingItems.forEach(element => {
+                    element.classList.add('display-none');
+                });
+                perfingItems.forEach(element => {
+                    element.classList.add('display-none');
+                });
+                cookingItems.forEach(element => {
+                    element.classList.add('display-none');
+                });
               break;
           case "Raid/PVE":
-              raidItems.forEach(element => {
-                  element.classList.remove('display-none');
-              });
-              pvpItems.forEach(element => {
-                  element.classList.add('display-none');
-              });
-              fishItems.forEach(element => {
-                  element.classList.add('display-none');
-              });
-              goldItems.forEach(element => {
-                  if(element.classList.contains('raid')) {
-                      element.classList.remove('display-none');
-                  } else {
-                      element.classList.add('display-none');
-                  }
-              });
-              bettingItems.forEach(element => {
-                  element.classList.add('display-none');
-              });
-              perfingItems.forEach(element => {
-                  element.classList.add('display-none');
-              });
-              break;
+                raidItems.forEach(element => {
+                    element.classList.remove('display-none');
+                });
+                pvpItems.forEach(element => {
+                    element.classList.add('display-none');
+                });
+                fishItems.forEach(element => {
+                    element.classList.add('display-none');
+                });
+                goldItems.forEach(element => {
+                    if(element.classList.contains('raid')) {
+                        element.classList.remove('display-none');
+                    } else {
+                        element.classList.add('display-none');
+                    }
+                });
+                bettingItems.forEach(element => {
+                    element.classList.add('display-none');
+                });
+                perfingItems.forEach(element => {
+                    element.classList.add('display-none');
+                });
+                cookingItems.forEach(element => {
+                    element.classList.add('display-none');
+                });
+                break;
           case "Fish":
-              raidItems.forEach(element => {
-                  element.classList.add('display-none');
-              });
-              pvpItems.forEach(element => {
-                  element.classList.add('display-none');
-              });
-              fishItems.forEach(element => {
-                  element.classList.remove('display-none');
-              });
-              goldItems.forEach(element => {
-                  element.classList.add('display-none');
-              });
-              bettingItems.forEach(element => {
-                  element.classList.add('display-none');
-              });
-              perfingItems.forEach(element => {
-                  element.classList.add('display-none');
-              });
+                raidItems.forEach(element => {
+                    element.classList.add('display-none');
+                });
+                pvpItems.forEach(element => {
+                    element.classList.add('display-none');
+                });
+                fishItems.forEach(element => {
+                    element.classList.remove('display-none');
+                });
+                goldItems.forEach(element => {
+                    element.classList.add('display-none');
+                });
+                bettingItems.forEach(element => {
+                    element.classList.add('display-none');
+                });
+                perfingItems.forEach(element => {
+                    element.classList.add('display-none');
+                });
+                cookingItems.forEach(element => {
+                    element.classList.add('display-none');
+                });
               break;
           case "Gold":
-              raidItems.forEach(element => {
-                  element.classList.add('display-none');
-              });
-              pvpItems.forEach(element => {
-                  element.classList.add('display-none');
-              });
-              fishItems.forEach(element => {
-                  element.classList.add('display-none');
-              });
-              goldItems.forEach(element => {
-                  element.classList.remove('display-none');
-              });
-              bettingItems.forEach(element => {
-                  element.classList.add('display-none');
-              });
-              perfingItems.forEach(element => {
-                  element.classList.add('display-none');
-              });
+                raidItems.forEach(element => {
+                    element.classList.add('display-none');
+                });
+                pvpItems.forEach(element => {
+                    element.classList.add('display-none');
+                });
+                fishItems.forEach(element => {
+                    element.classList.add('display-none');
+                });
+                goldItems.forEach(element => {
+                    element.classList.remove('display-none');
+                });
+                bettingItems.forEach(element => {
+                    element.classList.add('display-none');
+                });
+                perfingItems.forEach(element => {
+                    element.classList.add('display-none');
+                });
+                cookingItems.forEach(element => {
+                    element.classList.add('display-none');
+                });
               break;
           case "Betting":
-              raidItems.forEach(element => {
-                  element.classList.add('display-none');
-              });
-              pvpItems.forEach(element => {
-                  element.classList.add('display-none');
-              });
-              fishItems.forEach(element => {
-                  element.classList.add('display-none');
-              });
-              goldItems.forEach(element => {
-                  element.classList.add('display-none');
-              });
-              bettingItems.forEach(element => {
-                  element.classList.remove('display-none');
-              });
-              perfingItems.forEach(element => {
-                  element.classList.add('display-none');
-              });
-              break;
+                raidItems.forEach(element => {
+                    element.classList.add('display-none');
+                });
+                pvpItems.forEach(element => {
+                    element.classList.add('display-none');
+                });
+                fishItems.forEach(element => {
+                    element.classList.add('display-none');
+                });
+                goldItems.forEach(element => {
+                    element.classList.add('display-none');
+                });
+                bettingItems.forEach(element => {
+                    element.classList.remove('display-none');
+                });
+                perfingItems.forEach(element => {
+                    element.classList.add('display-none');
+                });
+                cookingItems.forEach(element => {
+                    element.classList.add('display-none');
+                });
+                break;
           case "Perfing SPs":
-              raidItems.forEach(element => {
-                  element.classList.add('display-none');
-              });
-              pvpItems.forEach(element => {
-                  element.classList.add('display-none');
-              });
-              fishItems.forEach(element => {
-                  element.classList.add('display-none');
-              });
-              goldItems.forEach(element => {
-                  element.classList.add('display-none');
-              });
-              bettingItems.forEach(element => {
-                  element.classList.add('display-none');
-              });
-              perfingItems.forEach(element => {
-                  element.classList.remove('display-none');
-              });
-              break;
+                raidItems.forEach(element => {
+                    element.classList.add('display-none');
+                });
+                pvpItems.forEach(element => {
+                    element.classList.add('display-none');
+                });
+                fishItems.forEach(element => {
+                    element.classList.add('display-none');
+                });
+                goldItems.forEach(element => {
+                    element.classList.add('display-none');
+                });
+                bettingItems.forEach(element => {
+                    element.classList.add('display-none');
+                });
+                perfingItems.forEach(element => {
+                    element.classList.remove('display-none');
+                });
+                cookingItems.forEach(element => {
+                    element.classList.add('display-none');
+                });
+                break;
+          case "Cooking":
+                raidItems.forEach(element => {
+                    element.classList.add('display-none');
+                });
+                pvpItems.forEach(element => {
+                    element.classList.add('display-none');
+                });
+                fishItems.forEach(element => {
+                    element.classList.add('display-none');
+                });
+                goldItems.forEach(element => {
+                    element.classList.add('display-none');
+                });
+                bettingItems.forEach(element => {
+                    element.classList.add('display-none');
+                });
+                perfingItems.forEach(element => {
+                    element.classList.add('display-none');
+                });
+                cookingItems.forEach(element => {
+                    element.classList.remove('display-none');
+                });
+                break;
       }
   });
 }

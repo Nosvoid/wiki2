@@ -134,10 +134,10 @@
     },
     {
         "name": "Lucky Rat",
-        "location": "Can be obtained at Event NPC in NosVille",
+        "location": "Can be crafted during the Mouse Event",
         "buff": "lucky_rat",
         "skin": "lucky_rat",
-        "class": "pvp"
+        "class": "cooking"
     },
     {
         "name": "Master Bunny",

@@ -17,6 +17,7 @@
     </div>
 
     <ul class="wiki-navbar-menu" id="wiki-navbar-menu">
+        <li routerLink="/current-event" (click)="closeMenuLink()">Current Event</li>
             <div class="dropdown" data-dropdown>
               <button class="link" data-dropdown-button>
                 In Game Content
@@ -66,7 +67,6 @@
                 
               </div>
             </div>
-            <!-- <li routerLink="/current-event" (click)="closeMenuLink()">Current Event</li> -->
             <div class="dropdown" data-dropdown>
                 <button class="link" data-dropdown-button>
                     Guides
@@ -100,7 +100,7 @@
                     <a routerLink="/sp-perfection" class="link" (click)="closeMenuLink()">SP Perfection</a>
                     <a routerLink="/sp-upgrade" class="link" (click)="closeMenuLink()">SP Upgrade</a>
                     <a routerLink="/sp-wings" class="link" (click)="closeMenuLink()">SP Wings</a>
-                    <!-- <a routerLink="/cooking-sp" class="link" (click)="closeMenuLink()">Cooking SP</a> -->
+                    <a routerLink="/cooking-sp" class="link" (click)="closeMenuLink()">Cooking SP</a>
                   </div>
                 </div>
                 <div>
@@ -141,7 +141,6 @@
                 </div>
             </div>
 
-        <!-- <li>Current Event</li> -->
         <li routerLink="/schedule" (click)="closeMenuLink()">Schedule</li>
         <li routerLink="/rules" (click)="closeMenuLink()">Rules</li>
     </ul>

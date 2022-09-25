@@ -352,9 +352,38 @@ export class CookingSpComponent implements OnInit {
     }
   ]
 
+  showPack() {
+    $(document).ready(function() {
+      $('.show-pack').click(function(event){
+        let btn = event.target;
+        let nextChild = btn.nextElementSibling;
+
+        if(nextChild?.classList.contains('display-none')) {
+          nextChild.classList.remove('display-none');
+          nextChild.classList.add('display-flex');
+        } else if(nextChild?.classList.contains('display-flex')) {
+          nextChild.classList.remove('display-flex');
+          nextChild.classList.add('display-none');
+        }
+        $('.close-pack').click(function(event) {
+          nextChild?.classList.remove('display-flex');
+          nextChild?.classList.add('display-none');
+        });
+
+        window.addEventListener('click', (e) => {
+          if(e.target == nextChild) {
+            nextChild?.classList.remove('display-flex');
+            nextChild?.classList.add('display-none');
+          }
+        });
+      });
+    });
+  }
+
   constructor() { }
 
   ngOnInit(): void {
+    this.showPack();
   }
 
 }

@@ -192,6 +192,12 @@
             "buff": "rafting_buffs"
         },
         {
+            "name": "Rat Hat",
+            "location": "You can craft this hat during the Mouse Event",
+            "skins": "rat_hat",
+            "buff": "rat_hat_buffs"
+        },
+        {
             "name": "Reindeer",
             "location": "You can get this set for 450 coins in VoidMall",
             "skins": "reindeer",

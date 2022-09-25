@@ -49,8 +49,14 @@
     font-weight: bold;
 }
 
+.cooking-sp-text-ita {
+    font-style: italic;
+}
+
 .cooking-sp-text,
-.skill-action {
+.cooking-sp-text-ita,
+.skill-action,
+.pack-list li {
     font-size: 1.1rem;
     line-height: 1.5em;
 }
@@ -100,6 +106,59 @@
 .cooking-sp-skill,
 .cooking-sp-meal {
     padding-block: 1em;
+}
+
+.show-pack {
+    border: none;
+    background-color: var(--void-clr);
+    color: black;
+    padding: .5em 1em;
+    margin-top: 1em;
+    border-radius: 10px;
+}
+
+.cooking-pack {
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, .9);
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.cooking-pack-content {
+    background-color: var(--void-clr);
+    margin: 20% auto;
+    padding: 2em;
+    box-shadow: 
+    0 5px 8px 0 rgba(0, 0, 0, .2),
+    0 7px 20px 0 rgba(0, 0, 0, .17);
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 1em;
+}
+
+.close-pack {
+    color: black;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+.close-pack:hover, .close-pack:focus {
+    text-decoration: none;
+}
+
+.pack-list {
+    padding: 0;
+    margin: 0;
+    text-align: start;
 }
 
 /* Media queries */

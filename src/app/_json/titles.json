@@ -7,9 +7,15 @@
     },
     {
         "name": "Annihilator",
-        "location": "You buy it for 100 coins in VoidMall",
+        "location": "You can buy it for 100 coins in VoidMall",
         "img": "annihilator",
         "class": "exp"
+    },
+    {
+        "name": "Apprentice Chef",
+        "location": "You can buy it at Terry Chef NPC",
+        "img": "apprentice_chef",
+        "class": "cooking"
     },
     {
         "name": "Beta Tester",
@@ -282,6 +288,12 @@
         "class": "pvp"
     },
     {
+        "name": "Ratatouille",
+        "location": "You can get it at Lv 20 Cooking SP",
+        "img": "ratatouille",
+        "class": "cooking"
+    },
+    {
         "name": "Real Hero",
         "location": "You an craft it at P3 10-50Lv Fish NPC $warp fish and for 250 coins in VoidMall",
         "img": "real_hero",
@@ -292,6 +304,12 @@
         "location": "You get it after completing the Fish Encyclopedia",
         "img": "rookie_angler",
         "class": "fish"
+    },
+    {
+        "name": "Royal Chef",
+        "location": "You can get it at Lv 10 Cooking SP",
+        "img": "royal_chef",
+        "class": "cooking"
     },
     {
         "name": "Rum Drinker",
@@ -376,6 +394,12 @@
         "location": "You can craft it at Instant Combat NPC in NosVille",
         "img": "unicorn",
         "class": "aesthetic"
+    },
+    {
+        "name": "Void Chef",
+        "location": "You can craft it during Mouse Event",
+        "img": "void_chef",
+        "class": "cooking"
     },
     {
         "name": "Void Helper",

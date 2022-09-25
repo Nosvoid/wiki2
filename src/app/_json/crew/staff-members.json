@@ -133,6 +133,13 @@
         "class": "tech-helper"
     },
     {
+        "name": "AgentPerry",
+        "language": "CZ/ENG",
+        "role": "Game Supporter",
+        "logo": "game_supporter",
+        "class": "game-supporter"
+    },
+    {
         "name": "Akita",
         "language": "HK/ENG",
         "role": "Game Supporter",
@@ -142,6 +149,20 @@
     {
         "name": "Elite-",
         "language": "HK/ENG",
+        "role": "Game Supporter",
+        "logo": "game_supporter",
+        "class": "game-supporter"
+    },
+    {
+        "name": "Exodia's",
+        "language": "THAI",
+        "role": "Game Supporter",
+        "logo": "game_supporter",
+        "class": "game-supporter"
+    },
+    {
+        "name": "Iremia",
+        "language": "PL/ENG",
         "role": "Game Supporter",
         "logo": "game_supporter",
         "class": "game-supporter"
@@ -159,26 +180,5 @@
         "role": "Game Supporter",
         "logo": "game_supporter",
         "class": "game-supporter"
-    },
-    {
-        "name": "AgentPerry",
-        "language": "CZ/ENG",
-        "role": "Trial Game Supporter",
-        "logo": "trial_game_supporter",
-        "class": "tgs"
-    },
-    {
-        "name": "Exodia's",
-        "language": "THAI",
-        "role": "Trial Game Supporter",
-        "logo": "trial_game_supporter",
-        "class": "tgs"
-    },
-    {
-        "name": "Iremia",
-        "language": "PL/ENG",
-        "role": "Trial Game Supporter",
-        "logo": "trial_game_supporter",
-        "class": "tgs"
     }
 ]

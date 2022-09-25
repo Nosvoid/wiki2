@@ -22,6 +22,7 @@ function filter() {
       let aestheticItems = document.querySelectorAll('.aesthetic');
       let expItems = document.querySelectorAll('.exp');
       let doubleBoxItems = document.querySelectorAll('.double-box');
+      let cookingItems = document.querySelectorAll('.cooking');
 
       switch(filterValue) {
           case "All":
@@ -50,6 +51,9 @@ function filter() {
                 element.classList.remove('display-none');
               });
               doubleBoxItems.forEach(element => {
+                element.classList.remove('display-none');
+              });
+              cookingItems.forEach(element => {
                 element.classList.remove('display-none');
               });
               break;
@@ -81,6 +85,9 @@ function filter() {
               doubleBoxItems.forEach(element => {
                 element.classList.add('display-none');
               });
+              cookingItems.forEach(element => {
+                element.classList.add('display-none');
+              });
               break;
           case "Fish":
               raidItems.forEach(element => {
@@ -100,14 +107,17 @@ function filter() {
               });
               aestheticItems.forEach(element => {
                 element.classList.add('display-none');
-            });
-            expItems.forEach(element => {
+              });
+              expItems.forEach(element => {
                 element.classList.add('display-none');
               });
               pveItems.forEach(element => {
                 element.classList.add('display-none');
               });
               doubleBoxItems.forEach(element => {
+                element.classList.add('display-none');
+              });
+              cookingItems.forEach(element => {
                 element.classList.add('display-none');
               });
               break;
@@ -129,14 +139,17 @@ function filter() {
               });
               aestheticItems.forEach(element => {
                 element.classList.add('display-none');
-            });
-            expItems.forEach(element => {
+              });
+              expItems.forEach(element => {
                 element.classList.add('display-none');
               });
               pveItems.forEach(element => {
                 element.classList.add('display-none');
               });
               doubleBoxItems.forEach(element => {
+                element.classList.add('display-none');
+              });
+              cookingItems.forEach(element => {
                 element.classList.add('display-none');
               });
               break;
@@ -158,14 +171,17 @@ function filter() {
               });
               aestheticItems.forEach(element => {
                 element.classList.add('display-none');
-            });
-            expItems.forEach(element => {
+              });
+              expItems.forEach(element => {
                 element.classList.add('display-none');
               });
               pveItems.forEach(element => {
                 element.classList.add('display-none');
               });
               doubleBoxItems.forEach(element => {
+                element.classList.add('display-none');
+              });
+              cookingItems.forEach(element => {
                 element.classList.add('display-none');
               });
               break;
@@ -197,6 +213,9 @@ function filter() {
               doubleBoxItems.forEach(element => {
                 element.classList.add('display-none');
               });
+              cookingItems.forEach(element => {
+                element.classList.add('display-none');
+              });
               break;
           case "Exp":
               raidItems.forEach(element => {
@@ -224,6 +243,9 @@ function filter() {
                 element.classList.add('display-none');
               });
               doubleBoxItems.forEach(element => {
+                element.classList.add('display-none');
+              });
+              cookingItems.forEach(element => {
                 element.classList.add('display-none');
               });
               break;
@@ -255,6 +277,9 @@ function filter() {
               doubleBoxItems.forEach(element => {
                 element.classList.add('display-none');
               });
+              cookingItems.forEach(element => {
+                element.classList.add('display-none');
+              });
               break;
           case "Double Box":
               raidItems.forEach(element => {
@@ -284,6 +309,9 @@ function filter() {
               doubleBoxItems.forEach(element => {
                 element.classList.remove('display-none');
               });
+              cookingItems.forEach(element => {
+                element.classList.add('display-none');
+              });
               break;
           case "Raid":
               raidItems.forEach(element => {
@@ -312,6 +340,41 @@ function filter() {
               });
               doubleBoxItems.forEach(element => {
                 element.classList.add('display-none');
+              });
+              cookingItems.forEach(element => {
+                element.classList.add('display-none');
+              });
+              break;
+          case "Cooking":
+              raidItems.forEach(element => {
+                  element.classList.add('display-none');
+              });
+              pveItems.forEach(element => {
+                  element.classList.add('display-none');
+              });
+              pvpItems.forEach(element => {
+                  element.classList.add('display-none');
+              });
+              fishItems.forEach(element => {
+                  element.classList.add('display-none');
+              });
+              goldItems.forEach(element => {
+                  element.classList.add('display-none');
+              });
+              bettingItems.forEach(element => {
+                  element.classList.add('display-none');
+              });
+              aestheticItems.forEach(element => {
+                element.classList.add('display-none');
+              });
+              expItems.forEach(element => {
+                element.classList.add('display-none');
+              });
+              doubleBoxItems.forEach(element => {
+                element.classList.add('display-none');
+              });
+              cookingItems.forEach(element => {
+                element.classList.remove('display-none');
               });
               break;
       }
