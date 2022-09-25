@@ -38,16 +38,16 @@ export class MouseEventComponent implements OnInit {
         { mat: "10x Cold Desert Stew" },
         { mat: "5x Fried Fish Noodle" }
       ],
-      img: ""
+      img: "../../assets/img/mouse-event/masterchef_buff.png"
     },
     {
-      icon: "mouse_hat",
-      name: "Mouse Hat",
+      icon: "rat_hat",
+      name: "Rat Hat",
       recipe: [
         { mat: "300x Piece of Cheese" },
         { mat: "2x Mouse Ears" }
       ],
-      img: ""
+      img: "../../assets/img/costumes/all-sets/buffs/rat_hat_buffs.png"
     },
     {
       icon: "orkani",
@@ -56,7 +56,7 @@ export class MouseEventComponent implements OnInit {
         { mat: "1x Mouse Treasure" },
         { mat: "1x Mouse Ear" }
       ],
-      img: ""
+      img: "../../assets/img/psps/buffs/orkani.png"
     },
     {
       icon: "raid_necklace",
@@ -74,7 +74,7 @@ export class MouseEventComponent implements OnInit {
         { mat: "200x Piece of Cheese" },
         { mat: "4x Royal Wheel" }
       ],
-      img: ""
+      img: "../../assets/img/mouse-event/carriage_skin.png"
     },
     {
       icon: "sakura",
@@ -101,7 +101,7 @@ export class MouseEventComponent implements OnInit {
     },
     {
       name: "We are looking for a new Chef",
-      todo: "Cook 10 different meals",
+      todo: "Collect 10x of each ingredient",
       rewards: [
         { reward: "20x Big Lettuce" },
         { reward: "20x Big Tomatoes" },
