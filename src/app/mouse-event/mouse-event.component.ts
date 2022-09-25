@@ -9,14 +9,14 @@ export class MouseEventComponent implements OnInit {
 
   rewards = [
     { reward : "5x Piece of Cheese"},
-    { reward : "1x Mouse Gold"},
     { reward : "200x Angel Feather"},
     { reward : "1x Pink Lotus"},
     { reward : "1x Mouse Treasure"},
     { reward : "1x Mouse Tail"},
     { reward : "1x Mouse Ears"},
     { reward : "1x Royal Wheel"},
-    { reward : "1x Broken Wing"}
+    { reward : "1x Mouse Gold (sellable for 7kk to NPCs)"},
+    { reward : "1x Broken Wing (sellable for 30kk to NPCs)"}
   ]
 
   itemsToCraft = [

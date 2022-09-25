@@ -27,11 +27,16 @@
 .cooking-sp-title-2 {
     font-size: 2.5rem;
     margin-top: 1em;
+    color: var(--void-clr);
 }
 
 .cooking-sp-title-3 {
     font-size: 2rem;
     line-height: 1.3em;
+}
+
+.cooking-sp-meal-skills > h3 {
+    color: var(--void-clr);
 }
 
 .cooking-sp-title-4 {

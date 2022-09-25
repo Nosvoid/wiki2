@@ -27,6 +27,7 @@
 .mouse-event-title-2 {
     font-size: 2.5rem;
     margin-top: 1em;
+    color: var(--void-clr);
 }
 
 .mouse-event-title-3 {
