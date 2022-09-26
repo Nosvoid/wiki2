@@ -98,7 +98,7 @@ export class CookingSpComponent implements OnInit {
         {
           icon: "roast_pork",
           name: "Roast Pork",
-          buff: "+2% Gold"
+          buff: "+5% Gold"
         },
         {
           icon: "piranha_fish_skewer",
@@ -208,17 +208,17 @@ export class CookingSpComponent implements OnInit {
         {
           icon: "pancakes",
           name: "Pancakes",
-          buff: "+2% Double Box"
+          buff: "+7% Double Box"
         },
         {
           icon: "crispy_noodles",
           name: "Crispy Noodles",
-          buff: "+2% More R7/R8 when betting"
+          buff: "+5% More R7/R8 when betting"
         },
         {
           icon: "spicy_fried_fish",
           name: "Spicy Fried Fish",
-          buff: "+2% Success when Perfing SP"
+          buff: "+5% Success when Perfing SP"
         },
         {
           icon: "fried_fish_noodle",
