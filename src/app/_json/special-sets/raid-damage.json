@@ -3,6 +3,10 @@
         "type": "Equipments",
         "items": [
             {
+                "name": "Ancient Beast Resistances",
+                "img": "beast_res"
+            },
+            {
                 "name": "Candy Skin",
                 "img": "candy_skin"
             },
@@ -17,6 +21,10 @@
             {
                 "name": "Obsidian Ring",
                 "img": "obsidian_ring"
+            },
+            {
+                "name": "Raid Necklace",
+                "img": "raid_necklace"
             }
         ]
     },

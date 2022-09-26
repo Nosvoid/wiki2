@@ -42,7 +42,8 @@
 
 .raid-damage-items img {
     max-width: 100%;
-    max-height: 100%;
+    max-height: 250px;
+    border-radius: 10px;
 }
 
 @media all and (min-width: 1140px) {
