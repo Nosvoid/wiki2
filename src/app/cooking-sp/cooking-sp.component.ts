@@ -229,7 +229,7 @@ export class CookingSpComponent implements OnInit {
     },
   ]
 
-  cookingIngredients = [
+  wildIngredients = [
     {
       type: "Can be found in the wild",
       ingr: [
@@ -274,79 +274,82 @@ export class CookingSpComponent implements OnInit {
           location: "Can be found in Prestige 8 Map"
         }
       ] 
-    },
+    }
+  ]
+
+  fishIngredients = [
     {
-      type: "Can be fished",
+      type: "Can be fished in NosVille",
       ingr: [
         {
           icon: "blue_piranha",
-          name: "Blue Piranha",
-          location: "Can be fished in NosVille"
+          name: "Blue Piranha"
         },
         {
           icon: "green_piranha",
-          name: "Green Piranha",
-          location: "Can be fished in NosVille"
+          name: "Green Piranha"
         },
         {
           icon: "silver_piranha",
-          name: "Silver Piranha",
-          location: "Can be fished in NosVille"
+          name: "Silver Piranha"
         }
       ] 
-    },
+    }
+  ]
+
+  boughtIngredients = [
     {
-      type: "Can be bought",
+      type: "Can be bought at Terry Chef NPC in NosVille",
       ingr: [
         {
           icon: "chilli_powder",
           name: "Chilli Powder",
-          location: "Can be bought at Chef Terry NPC"
+          price: "2kk Each"
         },
         {
           icon: "pepper",
           name: "Pepper",
-          location: "Can be bought at Chef Terry NPC"
+          price: "2kk Each"
         },
         {
           icon: "garlic_powder",
           name: "Garlic Powder",
-          location: "Can be bought at Chef Terry NPC"
+          price: "2kk Each"
         },
         {
           icon: "cinnamon",
           name: "Cinnamon",
-          location: "Can be bought at Chef Terry NPC"
+          price: "2kk Each"
         },
         {
           icon: "chopping_board",
           name: "Chopping Board",
-          location: "Can be bought at Chef Terry NPC"
+          price: "4kk Each"
         },
         {
           icon: "meat",
           name: "Meat",
-          location: "Can be bought at Chef Terry NPC"
+          price: "1kk Each"
         },
         {
           icon: "owlbear_meat",
           name: "Owlbear Meat",
-          location: "Can be bought at Chef Terry NPC"
+          price: "2kk Each"
         },
         {
           icon: "pikanya_meat",
           name: "Pikanya Meat",
-          location: "Can be bought at Chef Terry NPC"
+          price: "4kk Each"
         },
         {
           icon: "chicken_meat",
           name: "Chicken Meat",
-          location: "Can be bought at Chef Terry NPC"
+          price: "8kk Each"
         },
         {
           icon: "triceratops_meat",
           name: "Triceratops Meat",
-          location: "Can be bought at Chef Terry NPC"
+          price: "12kk Each"
         }
       ] 
     }

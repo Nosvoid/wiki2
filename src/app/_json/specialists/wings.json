@@ -92,7 +92,7 @@
     },
     {
         "name": "Mega Titan Wings",
-        "location": "Can be obtained in Fortune Wheel",
+        "location": "Can be obtained in Fortune Wheel and Daily Gifts",
         "buff": "mega_titan_buff",
         "skin": "mega_titan_skin",
         "class": "pvp"
