@@ -1,30 +1,30 @@
 [
     {
-        "date": "21/09/2022",
+        "date": "28/09/2022",
         "items": [
             {
-                "name": "Archangel Lucifer PSP",
-                "img": "../assets/img/psps/buffs/archangel_lucifer.png"
+                "name": "Azarus Fairy",
+                "img": "../assets/img/fairies/azuris.png"
             },
             {
-                "name": "Easter Bunny Party Costume Set",
-                "img": "../assets/img/costumes/all-sets/buffs/easter_bunny_buffs.png"
+                "name": "Batman Mask",
+                "img": "../assets/img/helmets-masks/batman_mask.png"
             },
             {
-                "name": "Fluffy Bally Pet",
-                "img": "../assets/img/pets/buffs/fluffy_bally.png"
+                "name": "Caligor Golden Horn",
+                "img": "../assets/img/helmets-masks/caligor_horn.png"
             },
             {
-                "name": "Into the Void Title",
-                "img": "../assets/img/titles/into_the_void.png"
+                "name": "Cuby",
+                "img": "../assets/img/pets/buffs/cuby.png"
             },
             {
-                "name": "Lucy PSP",
-                "img": "../assets/img/psps/buffs/lucy.png"
+                "name": "Fluffy McFly",
+                "img": "../assets/img/mounts/male/fluffy_mcfly.png"
             },
             {
-                "name": "Mad March Hare PSP",
-                "img": "../assets/img/psps/buffs/mad_march.png"
+                "name": "Solaris Fairy",
+                "img": "../assets/img/fairies/solaris.png"
             }
         ]
     }
