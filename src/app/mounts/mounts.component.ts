@@ -16,6 +16,12 @@ export class MountsComponent implements OnInit {
       img: "fluffy_mcfly"
     },
     {
+      name: "Magic Convertible",
+      location: "Can be crafted at Achievement Rewards NPC in Act 4",
+      speed: "34",
+      img: "magic_convertible"
+    },
+    {
       name: "14th anniversary Boxer Kangaroo",
       location: "Can be obtained in the Fortune Wheel",
       speed: "31",
@@ -32,12 +38,6 @@ export class MountsComponent implements OnInit {
       location: "Can be obtained in the Fortune Wheel",
       speed: "31",
       img: "magic_bone_drake"
-    },
-    {
-      name: "Magic Convertible",
-      location: "Can be crafted at Achievement Rewards NPC in Act 4",
-      speed: "31",
-      img: "magic_convertible"
     },
     {
       name: "Pink Unicorn",
