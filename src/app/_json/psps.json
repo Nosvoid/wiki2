@@ -88,6 +88,14 @@
         "class": "pvp"
     },
     {
+        "name": "Harlequin",
+        "partner": "Can be used on Yertirand/Sakura",
+        "location": "Can be crafted at Family Tower Rewards NPC $warp p8.1",
+        "buff": "harlequin",
+        "skin": "harlequin",
+        "class": "raid"
+    },
+    {
         "name": "Hongbi",
         "partner": "Can be used on Ragnar",
         "location": "Can be obtained during Summer Event and in VoidMall for 900 coins",
