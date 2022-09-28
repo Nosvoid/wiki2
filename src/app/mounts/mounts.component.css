@@ -1,0 +1,76 @@
+.mounts {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-block: 3em;
+    color: white;
+    background-color: rgba(0, 0, 0, .8);
+    border-radius: 20px;
+    width: 100%;
+    padding: 3em 0;
+}
+
+.mounts-title-1,
+.mounts-title-2 {
+    font-family: 'Edu SA Beginner', cursive;
+}
+
+.mounts-title-1 {
+    font-size: 3rem;
+    margin-bottom: 1em;
+}
+
+.mounts-title-2 {
+    font-size: 2rem;
+    margin-top: 1em;
+}
+
+.mounts-title-3 {
+    font-size: 1.25rem;
+}
+
+.mounts-text {
+    font-size: 1.1rem;
+    line-height: 1.5em;
+}
+
+.mount {
+    padding: 1em;
+    text-align: center;
+}
+
+.mount img {
+    max-width: 100%;
+    max-height: 200px;
+    border-radius: 10px;
+}
+
+.select-sex {
+    display: flex;
+    gap: 1em;
+}
+
+.radio {
+    display: flex;
+    align-items: center;
+    gap: .5em;
+}
+
+.radio input {
+    width: 24px;
+    height: 24px;
+    color: var(--void-clr);
+}
+
+@media all and (min-width: 1140px) {
+    .mounts-container {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        padding: 2em;
+    }
+
+    .mounts {
+        width: 75%;
+    }
+}

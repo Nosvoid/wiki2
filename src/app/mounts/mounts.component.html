@@ -1,0 +1,24 @@
+<div class="d-flex justify-content-center">
+    <section class="mounts">
+        <h1 class="mounts-title-1">Mounts</h1>
+        <div class="select-sex">
+            <div class="radio">
+                <label class="mounts-text" for="male">Male</label>
+                <input type="radio" name="sex" id="male" value="male" checked="checked">
+            </div>
+            <div class="radio">
+                <label class="mounts-text" for="female">Female</label>
+                <input type="radio" name="sex" id="female" value="female">
+            </div>
+        </div>
+        <div class="mounts-container">
+            <div class="mount" *ngFor="let mount of mounts">
+                <h2 class="mounts-title-2">{{mount.name}}</h2>
+                <h3 class="mounts-title-3">{{mount.location}}</h3>
+                <p class="mounts-text">Speed : {{mount.speed}}</p>
+                <img src="../../assets/img/mounts/male/{{mount.img}}.png" alt="" class="male-img">
+                <img src="../../assets/img/mounts/female/{{mount.img}}.png" alt="" class="female-img display-none">
+            </div>
+        </div>
+    </section>
+</div>

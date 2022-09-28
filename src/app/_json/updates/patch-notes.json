@@ -1,5 +1,23 @@
 [
     {
+        "patchnotesname": "Patch Notes - 28/09/2022",
+        "classes": [
+            {
+                "name": "Overall Changes & Fixes",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Fixes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Fixed a bug where you could get same amount of exp as one chopping when you multi chopping." }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "patchnotesname": "Patch Notes - 26/09/2022",
         "classes": [
             {

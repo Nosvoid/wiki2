@@ -60,6 +60,7 @@ import { ShellsComponent } from './shells/shells.component';
 import { PvpSetComponent } from './pvp-set/pvp-set.component';
 import { MouseEventComponent } from './mouse-event/mouse-event.component';
 import { CookingSpComponent } from './cooking-sp/cooking-sp.component';
+import { MountsComponent } from './mounts/mounts.component';
 
 
 
@@ -112,6 +113,7 @@ const appRoutes: Routes = [
   { path: 'pvp-set', component: PvpSetComponent },
   { path: 'current-event', component: MouseEventComponent },
   { path: 'cooking-sp', component: CookingSpComponent },
+  { path: 'mounts', component: MountsComponent },
   { path: '**', pathMatch: "full", component: ErrorPageComponent },
 ]
 
@@ -167,7 +169,8 @@ const appRoutes: Routes = [
     ShellsComponent,
     PvpSetComponent,
     MouseEventComponent,
-    CookingSpComponent
+    CookingSpComponent,
+    MountsComponent
   ],
   imports: [
     BrowserModule,
