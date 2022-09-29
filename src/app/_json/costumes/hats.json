@@ -55,9 +55,24 @@
         "class": "betting"
     },
     {
+        "name": "Rafting Hat",
+        "buff": "rafting_hat",
+        "class": "fish"
+    },
+    {
+        "name": "Sailing Hat",
+        "buff": "sailing_hat",
+        "class": "fish"
+    },
+    {
         "name": "Sexy Bunny Hat",
         "buff": "sexy_bunny_hat",
         "class": "betting"
+    },
+    {
+        "name": "Snorkelling Hat",
+        "buff": "snorkelling_hat",
+        "class": "fish"
     },
     {
         "name": "Straw Hat",

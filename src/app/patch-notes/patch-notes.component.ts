@@ -49,10 +49,23 @@ export class PatchNotesComponent implements OnInit {
     });
   }
 
+  patchNotesTitles() {
+    document.addEventListener("DOMContentLoaded", () => {
+      const titles = document.querySelectorAll(".patch-notes-change");
+      
+      titles.forEach(e => {
+        if(e.textContent?.includes("• ")) {
+          e.classList.add("patch-notes-change-title");
+        }
+      })
+    });
+  }
+
   constructor() { }
 
   ngOnInit(): void {
     this.openPatchNote();
+    this.patchNotesTitles()
   }
 
   patchnotes: PatchNotes[] = patchnotesData;

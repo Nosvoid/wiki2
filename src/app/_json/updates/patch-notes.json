@@ -1,5 +1,376 @@
 [
     {
+        "patchnotesname": "Patch Notes ''SP Balancing'' - 28/09/2022",
+        "classes": [
+            {
+                "name": "Archer",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Ranger SP",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "• Headshot :" },
+                            { "change": "- Decrease chance of crit 45% > 30%" },
+                            { "change": "• Triple Arrow :" },
+                            { "change": "- Add Crit Chance 10%" },
+                            { "change": "- There is a 80% chance of causing ''Slowed''" },
+                            { "change": "• Covering Fire :" },
+                            { "change": "- Remove debuff ''Slowed''" },
+                            { "change": "• Flashbang :" },
+                            { "change": "- Increase chance of debuff 65% > 80%" },
+                            { "change": "• Screw Bolt :" },
+                            { "change": "- Increase ranged attack 200 > 300" },
+                            { "change": "• Rapid Recovery :" },
+                            { "change": "- Add 10% Anti Effect" },
+                            { "change": "- Change Description ''Damage is decreased by 10%'' > ''Damage received is decreased by 10%''" },
+                            { "change": "• Wind Walker :" },
+                            { "change": "- Increase movement speed 2 > 3" }
+                        ]
+                    },
+                    {
+                        "topicname": "Assassin SP",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "• Tumble :" },
+                            { "change": "- Add 100% Anti-Effect on ''Drain Attack Power''" }
+                        ]
+                    },
+                    {
+                        "topicname": "Fire Cannoneer SP",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "• Signal Rocket :" },
+                            { "change": "- Cooldown 30sec > 25sec" },
+                            { "change": "• Weapon Master :" },
+                            { "change": "- Remove 5% chance that dmg is reduced by 90% and Add All Defence is increased by Playerlvl*2" },
+                            { "change": "• Hellfire :" },
+                            { "change": "- Move Fatal Burn debuff from Hellfire 2 to Hellfire" },
+                            { "change": "- Ranged attacks are increased by 0 > 200" }
+
+                        ]
+                    },
+                    {
+                        "topicname": "Demon Hunter SP",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "• Strong Possesion :" },
+                            { "change": "- Remove the abillity to remove Buffs" },
+                            { "change": "- Add new debuff > Reduce Attack power by 10%" },
+                            { "change": "• Soul Sword :" },
+                            { "change": "- Decrease the chance of Despair 80% > 70%" },
+                            { "change": "- Increase damage from Critical hits by 50% > 20%" },
+                            { "change": "• Vengeful Spirit Pendulum :" },
+                            { "change": "- Decrease %Def 40% > 30%" },
+                            { "change": "- Decrease Def Plvl*3 > Def Plvl*2" },
+                            { "change": "• Spirit Explosion :" },
+                            { "change": "- Chance of Paralysis 15% > 30%" },
+                            { "change": "- Increased HP leech Plvl*40 > Plvl*50" },
+                            { "change": "- Increase chance of leeching 40% > 60%" }
+
+                        ]
+                    },
+                    {
+                        "topicname": "Avening Angel SP",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "• Shadow Bond :" },
+                            { "change": "- Interrupt Move duration 8sec > 3sec" },
+                            { "change": "- Add ''No Attack Possible''" },
+                            { "change": "• Magic Spell Buff Rework :" },
+                            { "change": "- Meele attacks are increased by Plvl*1" },
+                            { "change": "- Critical Damage is increased by 10%" },
+                            { "change": "- Movement speed is increased by 1" },
+                            { "change": "• Shadow Buff :" },
+                            { "change": "- Remove TP" },
+                            { "change": "- Movement speed 5 > 3" },
+                            { "change": "- Increase duration 2 > 3sec" },
+                            { "change": "• Flame Buff :" },
+                            { "change": "- Increase Duration 2 > 3sec" },
+                            { "change": "- No HP Consumption" },
+                            { "change": "- 10% Anti-Effect" },
+                            { "change": "• Ice Buff :" },
+                            { "change": "- Decrease duration 2sec > 1.5sec" },
+                            { "change": "• Halo Buff :" },
+                            { "change": "- Reduce duration 60>30sec" },
+                            { "change": "- Damage is decreased by Plvl%14" }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Martial Artist",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Draconic Fist SP",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "• Shimmering flame positive effect :" },
+                            { "change": "- Duration 4sec > 8sec" },
+                            { "change": "• Bestial sprint positive effect :" },
+                            { "change": "- Duration 4 sec > 8sec" },
+                            { "change": "• Blaze :" },
+                            { "change": "- Cool time 35 sec > 25 sec " },
+                            { "change": "• Bite :" },
+                            { "change": "- Cool time 13 sec > 18 sec" },
+                            { "change": "• Crossfire :" },
+                            { "change": "- Cool time 40 sec > 25 sec" },
+                            { "change": "• Haetae Energy :" },
+                            { "change": "- Hit rate of all attacks is increased by 200 > 100" }
+                        ]
+                    },
+                    {
+                        "topicname": "Master Wolf SP",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "• Ultimate tri-combo :" },
+                            { "change": "- There is 100% chance of causing strong impulse > there is 100% chance of causing shadow of death" },
+                            { "change": "• Shadow of death negative effect :" },
+                            { "change": "- Duration 5 sec > 3 sec" },
+                            { "change": "• From the Jaws of Fate effect :" },
+                            { "change": "- Change from positve to negative effect / duration from 3 sec to 15 sec" },
+                            { "change": "- Removed always dodge the target with a probability of 100% & movement is increased by 2 > add movement is decreased by 2" },
+                            { "change": "• Knocked Out :" },
+                            { "change": "- Duration 4 sec > 3 sec" },
+                            { "change": "• Ultimate Uppercut :" },
+                            { "change": "- Ultimate point requirement 3000 > 2000" },
+                            { "change": "- Melee attack is increased by 1700 > 1500" },
+                            { "change": "• Warrior meditation :" },
+                            { "change": "- Remove ' there is a 100% probability to remove bad effects of level 4 or lower" },
+                            { "change": "- All defense powers are decreased by 50 > all defense powers are increased by 99 (lvl player1)" },
+                            { "change": "• Ultimate Aura level 2 :" },
+                            { "change": "- Chance of inflicting critical hits is increased by 7 % > 5 %" },
+                            { "change": "• Ultimate Aura level 3 :" },
+                            { "change": "- Chance of inflicting critical hits is increased by 15% > 10% / add after buff ends, triggers 'ultimate Aura level 1' with a 100% chance" },
+                            { "change": "• Ultimate stance :" },
+                            { "change": "- Duration 5 sec > 3 sec" },
+                            { "change": "• Imperturbable mind :" },
+                            { "change": "- Removed all element energies are increased by 100' | Added : all defence powers are increased by 198 (lvl player 2)" }
+                        ]
+                    },
+                    {
+                        "topicname": "Demon Warrior SP",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "• Nosedive :" },
+                            { "change": "- Cool time 5 sec > 7 sec" },
+                            { "change": "• Swarm of Bats :" },
+                            { "change": "- Movement speed is increased by 3 > 2" }
+                        ]
+                    },
+                    {
+                        "topicname": "Flame Druid SP",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "• Firequake :" },
+                            { "change": "- Melee attack is increased by 950 > 900" },
+                            { "change": "• Bucking Blow :" },
+                            { "change": "- Melee attack is increased by 950 > 850" },
+                            { "change": "• Flaming armour :" },
+                            { "change": "- When you're defending, there is a 100% chance of 20% of the damage being reflected > 100% chance of 15 %" },
+                            { "change": "• Emberpunch :" },
+                            { "change": "- Melee attack is increased by 1300 > 1200" },
+                            { "change": "• Third degree burns :" },
+                            { "change": "- Duration 7 sec > 5 sec" }
+                        ]
+                    }
+                    
+                ]
+            },
+            {
+                "name": "Swordsman",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Warrior SP",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "• Triple Slash :" },
+                            { "change": "- Increase Range Cell 1 > 2" },
+                            { "change": "- Decrease animation time" },
+                            { "change": "• Finishing Blow :" },
+                            { "change": "- Decrease animation time" },
+                            { "change": "• Iron Skin :" },
+                            { "change": "- Add Magical defence > 10%" },
+                            { "change": "• Shoulder Charge :" },
+                            { "change": "- Increase chance of a Blackout 70% > 80%" },
+                            { "change": "• Rising Dragon :" },
+                            { "change": "- Reduce chance of debuff 100% > 80%" },
+                            { "change": "- Meele attacks is increased by 900 > 1000" }
+                        ]
+                    },
+                    {
+                        "topicname": "Blade SP",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "• Cross Cutting :" },
+                            { "change": "- Increase Range Cell 1 > 2" },
+                            { "change": "• Lethal Blow :" },
+                            { "change": "- Increase Range Cell 1 > 2" },
+                            { "change": "• Chain Attack :" },
+                            { "change": "- Increase Range Cell 1 > 2" },
+                            { "change": "- Add 100% Anti-Effect buff on ' Drain Attack Power '" }
+                        ]
+                    },
+                    {
+                        "topicname": "Crusader SP",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "• Holy Cross :" },
+                            { "change": "- Eliminate Shadows new Debuff : no attack and movement possible" },
+                            { "change": "- Duration 30sec > 3sec" },
+                            { "change": "- Chance of causing Eliminate Shadow 70% > 40%" }
+                        ]
+                    },
+                    {
+                        "topicname": "Berserker SP",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "• Life and Death :" },
+                            { "change": "- Remove ''Critical Damage is Increased''" },
+                            { "change": "- Remove 10% anti-effect" },
+                            { "change": "• Split Tornado :" },
+                            { "change": "- Decrease chance of Debuff 60%>50%" },
+                            { "change": "• Sonic Rush :" },
+                            { "change": "- Meele attacks are increased by 100 > 300" },
+                            { "change": "• Berserker :" },
+                            { "change": "- Side Effect:After 30.0sec ''Increase PvP attack power by 5%'' move this to be a permanent buff" }
+                        ]
+                    },
+                    {
+                        "topicname": "Gladiator SP",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "• Double Blow :" },
+                            { "change": "- Chance of inflicting critical hits 30% > 20%" },
+                            { "change": "• Shield Attack :" },
+                            { "change": "- There is a 75% > 60% chance of causing Knockdown" },
+                            { "change": "•  Taunt ''Shaky Status'' :" },
+                            { "change": "- Add buff ''There is a 100% chance that damage from meele attacks is increased by 5%''" },
+                            { "change": "• Taunt ' Enourmously Shaky Status'' :" },
+                            { "change": "- Hitrate of all attacks is decreased by 396 > 297 ( Playerlevel* > Playerlevel*3 )" },
+                            { "change": "- There is a 100% chance that damage from meele attacks is increased by 20% > 10%" },
+                            { "change": "- Dodging of meele attacks is decreased by 400 > 300" },
+                            { "change": "• Engorgement ''Victory Run'' :" },
+                            { "change": "- Reduces cooldown of skills by 50% > 30%" },
+                            { "change": "• Execution :" },
+                            { "change": "- Meele attack is increased by 1800 > 1400" },
+                            { "change": "- There is a 80% > 70% chance of causing Short Blackout" }
+                        ]
+                    },
+                    {
+                        "topicname": "Battle Monk SP",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "• Restart :" },
+                            { "change": "- Remove debuff ''Shackling Trauma''" },
+                            { "change": "- Increase chance of Critical Energy Deficiency 55% > 70%" },
+                            { "change": "• Dragon Spear :" },
+                            { "change": "- Chance of causing Energy Defficiency 80% > 60%" }
+                        ]
+                    },
+                    {
+                        "topicname": "Death Reaper SP",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "• Spirit Catcher :" },
+                            { "change": "- There is a 50% > 40% chance of causing ''Paralysis''" },
+                            { "change": "• Reaper's Scythe :" },
+                            { "change": "- Chance of causing '' Mark of Death '' 60% > 30%" },
+                            { "change": "• Time Twister ''Strong Spiritual Release'' :" },
+                            { "change": "- Reduces cooldown of skills by 80%>60%" },
+                            { "change": "- Movement speed is increased by 3 > 2" },
+                            { "change": "• ''Spiritual Release''  :" },
+                            { "change": "- Reduces cooldown of skill by 10% > 20%" },
+                            { "change": "• Soul Bash ''Slight Paralysis'' :" },
+                            { "change": "- Movement speed is decreased by 3>2" },
+                            { "change": "• Spirit Splitter ''Break Defensive Weapon'' :" },
+                            { "change": "- Duration : 120 > 15sec" },
+                            { "change": "- Meele attacks are increased by 1200 > 1000" },
+                            { "change": "- Skill Cooldown 50sec > 90sec" },
+                            { "change": "• Mark of Death :" },
+                            { "change": "- Movement speed is decreased by 1 > 0" },
+                            { "change": "• Bloodsucker :" },
+                            { "change": "- Chance of leeching HP 80% > 60%" }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Mage",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Holy Mage SP",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "• Holy Hammer :" },
+                            { "change": "- Increase chance of Eliminate Shadow 60% > 80%" },
+                            { "change": "- Decreased Duration from 30sec > 3sec" },
+                            { "change": "- No Attack and Movement Possible" }
+                        ]
+                    },
+                    {
+                        "topicname": "Ice Mage SP",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "• Heavy Hail :" },
+                            { "change": "- Increase chance of causing Blackout 50% > 60%" },
+                            { "change": "• Intense Cold :" },
+                            { "change": "- Remove debuff '' Freezing ''" },
+                            { "change": "- Add a new debuff ''Incapacitated''" },
+                            { "change": "• Freezing Blast :" },
+                            { "change": "- Remove ''no attack possible'' from Shivering Frost" },
+                            { "change": "- Increase duration 4sec > 6sec" },
+                            { "change": "- Increase chance of debuff 40% > 60%" },
+                            { "change": "• Blizzard :" },
+                            { "change": "- Decrease cooldown 120sec > 100sec" },
+                            { "change": "• Mana Shield :" },
+                            { "change": "- Movement speed is increased by 2 > 1" },
+                            { "change": "• Ice Shield :" },
+                            { "change": "- Duration of a buff 3sec > 1.5sec" }
+                        ]
+                    },
+                    {
+                        "topicname": "Seer SP",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "• Blade Changer 1 :" },
+                            { "change": "- Reduce duration of Strong Dark Energy 10sec > 7sec" },
+                            { "change": "• Blade Changer 2 :" },
+                            { "change": "- Decrease dmg bonus from Scent of Bushi 25% > 15%" },
+                            { "change": "- Decrease Movement speed reduction 4 > 3" },
+                            { "change": "- Increase duration of Scent of Bushi 3sec > 5sec" },
+                            { "change": "• Blade Changer 3 :" },
+                            { "change": "- Remove debuff ''Extreme Paralysis''" },
+                            { "change": "- Add debuff ''Weaken Defence Power''" },
+                            { "change": "- Chance of causing debuff 50%" }
+                        ]
+                    },
+                    {
+                        "topicname": "Archmage SP",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "• Holy Prism :" },
+                            { "change": "- Reduce the duration of Slight Horror 5sec > 3sec" },
+                            { "change": "• Holy Explosion :" },
+                            { "change": "- Increase chance of Paralysis 10% > 30%" },
+                            { "change": "- Reduce cooldown 8sec > 7sec" },
+                            { "change": "- Reduce duration of Debuff 15sec > 10sec" },
+                            { "change": "• Meteor Storm:" },
+                            { "change": "- Make it like Official" },
+                            { "change": "• Spellbook Scholar :" },
+                            { "change": "- Increase movement speed by 1" },
+                            { "change": "• Sacred Mist :" },
+                            { "change": "- Decrease duration of Horror 7sec > 5sec" }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "patchnotesname": "Patch Notes - 28/09/2022",
         "classes": [
             {
@@ -10,7 +381,17 @@
                         "topicname": "Fixes",
                         "topicclass": "",
                         "changes": [
-                            { "change": "- Fixed a bug where you could get same amount of exp as one chopping when you multi chopping." }
+                            { "change": "- Fixed a bug where you could get same amount of exp as one chopping when you multi chopping." },
+                            { "change": "- Fixed a bug that '' Cooking Experience gain is increased '' buff wasn't working properly." },
+                            { "change": "- Fixed a bug where you couldn't trade the Royal Rabbit Carriage." },
+                            { "change": "- Fixed a bug that Rat Hat buffs wasn't working properly." }
+                        ]
+                    },
+                    {
+                        "topicname": "Changes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Changed duration of meals from 20 to 30 minutes." }
                         ]
                     }
                 ]

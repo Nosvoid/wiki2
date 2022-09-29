@@ -13,8 +13,8 @@
                     <div class="patch-notes-topics">
                         <div *ngFor="let topic of class.topic" class="{{topic.topicclass}}">
                             <h3 class="patch-notes-title-3">{{topic.topicname}}</h3>
-                            <ul class="patch-notes-changes" *ngFor="let changes of topic.changes">
-                                <li class="patch-notes-change">{{changes.change}}</li>
+                            <ul class="patch-notes-changes">
+                                <li class="patch-notes-change" *ngFor="let changes of topic.changes">{{changes.change}}</li>
                             </ul>
                         </div>
                     </div>

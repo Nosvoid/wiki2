@@ -47,6 +47,7 @@
 button.link {
     color: white;
     border-radius: 10px;
+    outline: none;
 }
 
 .link {

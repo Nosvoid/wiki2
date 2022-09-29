@@ -60,14 +60,29 @@
         "class": "betting"
     },
     {
+        "name": "Rafting Costume",
+        "buff": "rafting_costume",
+        "class": "fish"
+    },
+    {
         "name": "Reindeer Costume",
         "buff": "reindeer_costume",
         "class": "raid"
     },
     {
+        "name": "Sailing Costume",
+        "buff": "sailing_costume",
+        "class": "fish"
+    },
+    {
         "name": "Sexy Bunny Costume",
         "buff": "sexy_bunny_costume",
         "class": "perfing"
+    },
+    {
+        "name": "Snorkelling Costume",
+        "buff": "snorkelling_costume",
+        "class": "fish"
     },
     {
         "name": "Wedding Costume",
