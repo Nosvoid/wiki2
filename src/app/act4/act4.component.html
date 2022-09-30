@@ -14,7 +14,7 @@
                 </h3>
                 <div class="caligor-rewards">
                     <div class="caligor-boxes">
-                        <h3 class="act4-title-3">Caligor's Rewards</h3>
+                        <h2 class="act4-title-2">Caligor's Rewards</h2>
                         <p class="act4-text">After killing the Caligor you get :</p>
                         <ul class="act4-items">
                             <li class="act4-item">- Caligor's Box (x1 Loser Side / x2 Winner Side)</li>
@@ -24,7 +24,7 @@
                         </ul>
                     </div>
                     <div class="caligor-boxes">
-                        <h3 class="act4-title-3">Caligor's Box</h3>
+                        <h2 class="act4-title-2">Caligor's Box</h2>
                         <p class="act4-text">In Caligor's Boxes you can get :</p>
                         <ul class="act4-items">
                             <li class="act4-item">- R7 shell (100%)</li>
@@ -45,7 +45,7 @@
                 <i class="fa fa-angle-down" aria-hidden="true"></i>
             </button>
             <div class="act4-content w-75 pt-3 display-none">
-                <h3 class="act4-title-3">There are 5 Act4 Raids, Morcos, Berios, Hatus, Calvina & Fafnir</h3>
+                <h2 class="act4-title-2">There are 5 Act4 Raids, Morcos, Berios, Hatus, Calvina & Fafnir</h2>
                 <p class="act4-text">After the raid you get :</p>
                 <ul class="act4-items">
                     <li class="act4-item">- 1x Raid Box</li>
@@ -84,7 +84,7 @@
             <div class="act4-content w-75 pt-3 display-none">
                 <div class="kill-system">
                     <div class="helmets">
-                        <h3 class="act4-title-3">Lost War Helmet</h3>
+                        <h2 class="act4-title-2">Lost War Helmet</h2>
                             <p class="act4-text">
                                 For each kill you make, you get one Lost War Helmet
                                 which you can trade at Lost War Helmet Craft NPC :
@@ -92,7 +92,7 @@
                             <img src="../../assets/img/act4/helmet_npc.png" alt="">
                     </div>
                     <div class="achievements">
-                        <h3 class="act4-title-3">Achievements</h3>
+                        <h2 class="act4-title-2">Achievements</h2>
                         <p class="act4-text">
                             After 250, 500, 750, 1000, 1250, 1500, 2000 & 3000 kills you get 
                             Achievement Unlocker. <br>
@@ -102,10 +102,30 @@
                         <img src="../../assets/img/act4/achievement_npc.png" alt="">
                     </div>
                 </div>
+                <div class="rank-system">
+                    <h2 class="act4-title-2">Ranking System</h2>
+                    <p class="act4-text">
+                        Every month the Act4 Ranking is reseted and you can get custom reputation icons based on your rank.
+                    </p>
+                    <div class="ranks-container">
+                        <ul class="rank-list">
+                            <li class="rank" *ngFor="let rank of repIcons">
+                                <img src="../../assets/img/act4/{{rank.icon}}.png" alt="">
+                                Top {{rank.top}}
+                            </li>
+                        </ul>
+                    </div>
+
+                    <!-- <div class="rank-list">
+                        <div class="rank">
+                            
+                        </div>
+                    </div> -->
+                </div>
             </div>
         </div>
         
-        <!-- Kill System -->
+        <!-- NPCs -->
         <div class="act4-container">
             <button class="open-content">
                 <div class="open-content-title">NPCs</div>

@@ -29,7 +29,9 @@
     text-align: center;
 }
 
-.act4-text, .act4-items {
+.act4-text, 
+.act4-items,
+.rank {
     text-align: center;
     font-size: 1.2rem;
     line-height: 1.5em;
@@ -102,6 +104,20 @@
     flex-direction: column;
     align-items: center;
     padding-inline: 2em;
+}
+
+.ranks-container {
+    display: flex;
+    justify-content: center;
+}
+
+.rank-list {
+    padding: 0;
+    margin: 0;
+}
+
+.rank {
+    text-align: start;
 }
 
 /* Media queries */

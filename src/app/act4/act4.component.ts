@@ -37,6 +37,29 @@ function openContent() {
 })
 export class Act4Component implements OnInit {
 
+  repIcons = [
+    {
+      icon: "legend_purple",
+      top: "15 - 43"
+    },
+    {
+      icon: "legend_white",
+      top: "4 - 14"
+    },
+    {
+      icon: "top3",
+      top: "3"
+    },
+    {
+      icon: "top2",
+      top: "2"
+    },
+    {
+      icon: "top1",
+      top: "1"
+    }
+  ]
+
   constructor() { }
 
   ngOnInit(): void {
