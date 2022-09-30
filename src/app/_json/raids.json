@@ -28,6 +28,7 @@
         "location": "$warp p8",
         "box": "belial_box",
         "rewards": [
+            { "reward": "- 1x Broken Magic Sword of Belial" },
             { "reward": "- 1x Ancient Orc Statue" },
             { "reward": "- 5x Ancient Hero's Soul" },
             { "reward": "- 2x Gleaming Ancient Hero's Soul" },
