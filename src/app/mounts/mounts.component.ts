@@ -22,6 +22,12 @@ export class MountsComponent implements OnInit {
       img: "magic_convertible"
     },
     {
+      name: "Royal Rabbit Carriage",
+      location: "Can be crafted during the Mouse Event",
+      speed: "34",
+      img: "royal_rabbit_carriage"
+    },
+    {
       name: "14th anniversary Boxer Kangaroo",
       location: "Can be obtained in the Fortune Wheel",
       speed: "31",
@@ -44,12 +50,6 @@ export class MountsComponent implements OnInit {
       location: "Can be craft at Event NPC in NosVille",
       speed: "31",
       img: "pink_unicorn"
-    },
-    {
-      name: "Royal Rabbit Carriage",
-      location: "Can be crafted during the Mouse Event",
-      speed: "31",
-      img: "royal_rabbit_carriage"
     },
     {
       name: "White Unicorn",

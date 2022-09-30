@@ -1,5 +1,35 @@
 [
     {
+        "patchnotesname": "Patch Notes - 30/09/2022",
+        "classes": [
+            {
+                "name": "Overall Changes & Fixes",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Fixes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Fixed a bug where reflection on Moonlight Dragon Blessing wasn't working properly." },
+                            { "change": "- Fixed a visual bug with Fiery Breath. (That were showing DMG wrong visually)" },
+                            { "change": "- Fixed a bug that HP leeching wasn't working properly on Demon Hunter Spirit Explosion." },
+                            { "change": "- Fixed a bug that wasn't decrease damage by 10% on Demon Hunter Possession." }
+                        ]
+                    },
+                    {
+                        "topicname": "Changes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Changed speed of Unicorn, Rabbit Carriage mounts to 34." },
+                            { "change": "- Mouse Chest is sellable in NosBazaar from now on." },
+                            { "change": "- Changed Maximum Option level to 10, Piece Numbers to 4 on Raid Necklace." }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "patchnotesname": "Patch Notes ''SP Balancing'' - 28/09/2022",
         "classes": [
             {
