@@ -61,6 +61,7 @@ import { PvpSetComponent } from './pvp-set/pvp-set.component';
 import { MouseEventComponent } from './mouse-event/mouse-event.component';
 import { CookingSpComponent } from './cooking-sp/cooking-sp.component';
 import { MountsComponent } from './mounts/mounts.component';
+import { RainbowBattleComponent } from './rainbow-battle/rainbow-battle.component';
 
 
 
@@ -114,6 +115,7 @@ const appRoutes: Routes = [
   { path: 'current-event', component: MouseEventComponent },
   { path: 'cooking-sp', component: CookingSpComponent },
   { path: 'mounts', component: MountsComponent },
+  { path: 'rainbow-battle', component: RainbowBattleComponent },
   { path: '**', pathMatch: "full", component: ErrorPageComponent },
 ]
 
@@ -170,7 +172,8 @@ const appRoutes: Routes = [
     PvpSetComponent,
     MouseEventComponent,
     CookingSpComponent,
-    MountsComponent
+    MountsComponent,
+    RainbowBattleComponent
   ],
   imports: [
     BrowserModule,

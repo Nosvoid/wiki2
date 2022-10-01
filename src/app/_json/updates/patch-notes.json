@@ -1,5 +1,31 @@
 [
     {
+        "patchnotesname": "Patch Notes - 01/10/2022",
+        "classes": [
+            {
+                "name": "Overall Changes & Fixes",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Fixes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Fixed a bug where you couldn't gain exp on cooking SP." }
+                        ]
+                    },
+                    {
+                        "topicname": "Changes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Schedule Changes (Check the schedule page)" },
+                            { "change": "- Rainbow Battle Rework (Check the Rainbow Battle page : Guides > Others > Rainbow Battle)" }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "patchnotesname": "Patch Notes - 30/09/2022",
         "classes": [
             {

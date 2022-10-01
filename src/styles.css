@@ -95,3 +95,22 @@ html, body {
 .display-flex {
     display: flex;
 }
+
+.component-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-block: 3em;
+    color: white;
+    background-color: rgba(0, 0, 0, .8);
+    border-radius: 20px;
+    width: 100%;
+    padding: 3em 0;
+}
+
+@media all and (min-width: 1140px) {
+    .component-container {
+        width: 75%;
+    }
+}

@@ -1,0 +1,86 @@
+.rbb-title-2, .rbb-title-1 {
+    font-family: 'Edu SA Beginner', cursive;
+    display: flex;
+    justify-content: center;
+    font-size: 2rem;
+}
+
+.rbb-article {
+    margin-block: 1em;
+    padding-inline: 2em;
+}
+
+.rbb-title-1 {
+    font-size: 3rem;
+    margin-bottom: 1em;
+}
+
+.rbb-title-2 {
+    display: block;
+    text-align: center;
+}
+
+.rbb-title-3 {
+    font-size: 1.5rem;
+    margin-block: 1em;
+    text-align: center;
+}
+
+.rbb-text,
+.rbb-text-purple {
+    text-align: center;
+    font-size: 1.2rem;
+    line-height: 1.5em;
+}
+
+.rbb-text-purple {
+    color: var(--void-clr);
+    font-weight: bold;
+    font-style: italic;
+}
+
+.rbb-list {
+    margin: 0;
+    padding: 0;
+}
+
+.rbb-item {
+    font-size: 1.2rem;
+    line-height: 1.5em;
+}
+
+.rbb-item span {
+    font-weight: bold;
+}
+
+.rbb-item b {
+    color: var(--void-clr)
+}
+
+.diamond {
+    color: var(--diamond-cc-clr);
+}
+
+.plat {
+    color: var(--plat-cc-clr);
+}
+
+.gold {
+    color: var(--gold-cc-clr);
+}
+
+.silver {
+    color: var(--silver-cc-clr);
+}
+
+.bronze {
+    color: var(--bronze-cc-clr);
+}
+
+.ranks-infos {
+    margin-top: 1em;
+}
+
+.ranks-infos p {
+    text-align: start;
+}
