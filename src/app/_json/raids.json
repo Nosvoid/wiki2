@@ -1,6 +1,7 @@
 [
     {
         "name": "Accessory",
+        "points": "0",
         "location": "$warp p3",
         "box": "accessory_box",
         "rewards": [
@@ -25,6 +26,7 @@
     },
     {
         "name": "Belial",
+        "points": "1",
         "location": "$warp p8",
         "box": "belial_box",
         "rewards": [
@@ -42,6 +44,7 @@
     },
     {
         "name": "Draco",
+        "points": "0.2",
         "location": "$warp raidarea",
         "box": "draco_box",
         "rewards": [
@@ -58,6 +61,7 @@
     },
     {
         "name": "Erenia",
+        "points": "0.4",
         "location": "$warp p3",
         "box": "erenia_box",
         "rewards": [
@@ -78,6 +82,7 @@
     },
     {
         "name": "Fernon",
+        "points": "0.6",
         "location": "$warp p5",
         "box": "fernon_box",
         "rewards": [
@@ -100,6 +105,7 @@
     },
     {
         "name": "Foxy",
+        "points": "0",
         "location": "$warp p6",
         "box": "foxy_box",
         "rewards": [
@@ -119,6 +125,7 @@
     },
     {
         "name": "Glacerus",
+        "points": "0.2",
         "location": "$warp raidarea",
         "box": "glacerus_box",
         "rewards": [
@@ -134,6 +141,7 @@
     },
     {
         "name": "Hardcore",
+        "points": "2",
         "location": "$warp p8",
         "box": "hardcore_box",
         "rewards": [
@@ -149,6 +157,7 @@
     },
     {
         "name": "High Tier Books",
+        "points": "0",
         "location": "$warp p4",
         "box": "high_tier_books_box",
         "rewards": [
@@ -169,6 +178,7 @@
     },
     {
         "name": "Ibrahim",
+        "points": "4",
         "location": "$warp p8.1",
         "box": "ibrahim_box",
         "rewards": [
@@ -182,6 +192,7 @@
     },
     {
         "name": "Kirollas",
+        "points": "0.6",
         "location": "$warp p7",
         "box": "kirollas_box",
         "rewards": [
@@ -203,6 +214,7 @@
     },
     {
         "name": "Laurena",
+        "points": "0.2",
         "location": "$warp raidarea",
         "box": "laurena_box",
         "rewards": [
@@ -223,6 +235,7 @@
     },
     {
         "name": "Low Tier Books",
+        "points": "0",
         "location": "$warp p1",
         "box": "low_tier_books_box",
         "rewards": [
@@ -241,6 +254,7 @@
     },
     {
         "name": "Maru",
+        "points": "0.1",
         "location": "$warp raidarea",
         "box": "maru_box",
         "rewards": [
@@ -259,6 +273,7 @@
     },
     {
         "name": "Paimon",
+        "points": "1.2",
         "location": "$warp p8",
         "box": "paimon_box",
         "rewards": [
@@ -279,6 +294,7 @@
     },
     {
         "name": "Pure Beast",
+        "points": "0.6",
         "location": "$warp p7",
         "box": "pure_beast_box",
         "rewards": [
@@ -297,6 +313,7 @@
     },
     {
         "name": "Sandstorm",
+        "points": "1",
         "location": "$warp p8.1",
         "box": "sandstorm_box",
         "rewards": [
@@ -317,6 +334,7 @@
     },
     {
         "name": "Zenas",
+        "points": "0.4",
         "location": "$warp p2",
         "box": "zenas_box",
         "rewards": [
@@ -338,6 +356,7 @@
     },
     {
         "name": "92-93 Eqs Raid",
+        "points": "0",
         "location": "$warp p1",
         "box": "92_93_box",
         "rewards": [
