@@ -1,5 +1,50 @@
 [
     {
+        "patchnotesname": "Patch Notes - 02/10/2022",
+        "classes": [
+            {
+                "name": "Martial Artist",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Demon Warrior SP",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "• Wing Counter : " },
+                            { "change": "- Cool time changed from 7 to 15 seconds." },
+                            { "change": "• Swarm of Bats : " },
+                            { "change": "- ''Movement Speed is increased by 2'' changed to ''Movement speed is decreased by 2.''" },
+                            { "change": "- Cool time changed from 30 to 40 seconds." }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Overall Changes & Fixes",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Fixes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Fixed a bug that Martial Artist wasn't able to wear Consierge Set." },
+                            { "change": "- Fixed duration of Mental Poison." }
+                        ]
+                    },
+                    {
+                        "topicname": "Changes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Added Change Skin 4 item in '' Useful Craft '' NPC." },
+                            { "change": "- Changed icon of Top 2 A4 reputation. (Delete your NSip file from NosTale data if you don't get update.)" },
+                            { "change": "- Changed buff of Petal Wings : all attacks are increased by 5>10% Debuff : all attacks are increased by 15>10%" }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "patchnotesname": "Patch Notes - 01/10/2022",
         "classes": [
             {
