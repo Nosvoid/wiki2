@@ -1,31 +1,31 @@
 [
     {
-        "date": "28/09/2022",
+        "date": "04/10/2022",
         "items": [
             {
-                "name": "Azuris Fairy",
-                "img": "../assets/img/fairies/azuris.png"
+                "name": "Aegir PSP",
+                "img": "../assets/img/psps/buffs/aegir.png"
             },
             {
-                "name": "Batman Mask",
-                "img": "../assets/img/helmets-masks/batman_mask.png"
+                "name": "Barni PSP",
+                "img": "../assets/img/psps/buffs/barni.png"
             },
             {
-                "name": "Caligor Golden Horn",
-                "img": "../assets/img/helmets-masks/caligor_horn.png"
+                "name": "Blue Amora Pet",
+                "img": "../assets/img/pets/buffs/blue_amora.png"
             },
             {
-                "name": "Cuby",
-                "img": "../assets/img/pets/buffs/cuby.png"
+                "name": "Freya PSP",
+                "img": "../assets/img/psps/buffs/freya.png"
             },
             {
-                "name": "Fluffy McFly",
-                "img": "../assets/img/mounts/male/fluffy_mcfly.png"
+                "name": "Into The Void Title",
+                "img": "../assets/img/titles/into_the_void.png"
             },
             {
-                "name": "Solaris Fairy",
-                "img": "../assets/img/fairies/solaris.png"
-            }
+                "name": "Knight Costume Set",
+                "img": "../assets/img/costumes/all-sets/buffs/knight_buffs.png"
+            }           
         ]
     }
 ]
