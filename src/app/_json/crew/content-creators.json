@@ -1,13 +1,25 @@
 [
     {
-        "name": "MrYanki",
+        "name": "yeqiubd",
         "yt": "Link",
         "twitch": "Link",
-        "ytlink": "https://www.youtube.com/channel/UCJKN4sCE4_ENIKBrrA6MiSw/videos",
-        "twitchlink": "",
+        "ytlink": "",
+        "twitchlink": "https://www.twitch.tv/yeqiubd",
         "rank": "Master Content Creator",
         "rankimg": "master",
         "rankclass": "master",
+        "ytclass": "display-none",
+        "twitchclass": "twitch-link"
+    },
+    {
+        "name": "Aeri NosTale",
+        "yt": "Link",
+        "twitch": "Link",
+        "ytlink": "https://www.youtube.com/channel/UCjdmjIFIzlI_CduzIAQvfug/videos",
+        "twitchlink": "",
+        "rank": "Platinum Content Creator",
+        "rankimg": "plat",
+        "rankclass": "plat",
         "ytclass": "yt-link",
         "twitchclass": "display-none"
     },
@@ -24,42 +36,6 @@
         "twitchclass": "display-none"
     },
     {
-        "name": "Xanio",
-        "yt": "Link",
-        "twitch": "Link",
-        "ytlink": "",
-        "twitchlink": "https://www.twitch.tv/xaniopve",
-        "rank": "Platinum Content Creator",
-        "rankimg": "plat",
-        "rankclass": "plat",
-        "ytclass": "display-none",
-        "twitchclass": "twitch-link"
-    },
-    {
-        "name": "Aeri NosTale",
-        "yt": "Link",
-        "twitch": "Link",
-        "ytlink": "https://www.youtube.com/channel/UCjdmjIFIzlI_CduzIAQvfug/videos",
-        "twitchlink": "",
-        "rank": "Gold Content Creator",
-        "rankimg": "gold",
-        "rankclass": "gold",
-        "ytclass": "yt-link",
-        "twitchclass": "display-none"
-    },
-    {
-        "name": "Amy",
-        "yt": "Link",
-        "twitch": "Link",
-        "ytlink": "https://www.youtube.com/channel/UC7BNlgRz92WKYTFAt_DQ2ng/videos",
-        "twitchlink": "",
-        "rank": "Gold Content Creator",
-        "rankimg": "gold",
-        "rankclass": "gold",
-        "ytclass": "yt-link",
-        "twitchclass": "display-none"
-    },
-    {
         "name": "FenixYT",
         "yt": "Link",
         "twitch": "Link",
@@ -72,10 +48,10 @@
         "twitchclass": "display-none"
     },
     {
-        "name": "Nostale Saudade",
+        "name": "#Syanio94™",
         "yt": "Link",
         "twitch": "Link",
-        "ytlink": "https://www.youtube.com/channel/UCBaPCQxwnnkQIk2LNHyRNJw/videos",
+        "ytlink": "https://youtube.com/channel/UCk6cXyS-TojVSDwWEw3_CNA",
         "twitchlink": "",
         "rank": "Gold Content Creator",
         "rankimg": "gold",
@@ -84,15 +60,39 @@
         "twitchclass": "display-none"
     },
     {
-        "name": "aleya",
+        "name": "EinfachKubi",
         "yt": "Link",
         "twitch": "Link",
-        "ytlink": "https://www.youtube.com/user/Klaubent1/videos",
-        "twitchlink": "https://www.twitch.tv/aleyaa__",
-        "rank": "Bronze Content Creator",
-        "rankimg": "bronze",
-        "rankclass": "bronze",
+        "ytlink": "",
+        "twitchlink": "https://www.twitch.tv/einfachkubi ",
+        "rank": "Silver Content Creator",
+        "rankimg": "silver",
+        "rankclass": "silver",
+        "ytclass": "display-none",
+        "twitchclass": "twitch-link"
+    },
+    {
+        "name": "Nostale Saudade",
+        "yt": "Link",
+        "twitch": "Link",
+        "ytlink": "https://www.youtube.com/channel/UCBaPCQxwnnkQIk2LNHyRNJw/videos",
+        "twitchlink": "",
+        "rank": "Silver Content Creator",
+        "rankimg": "silver",
+        "rankclass": "silver",
         "ytclass": "yt-link",
+        "twitchclass": "display-none"
+    },
+    {
+        "name": "Xanio",
+        "yt": "Link",
+        "twitch": "Link",
+        "ytlink": "",
+        "twitchlink": "https://www.twitch.tv/xaniopve",
+        "rank": "Unranked Content Creator",
+        "rankimg": "unranked",
+        "rankclass": "unranked",
+        "ytclass": "display-none",
         "twitchclass": "twitch-link"
     }
 ]
