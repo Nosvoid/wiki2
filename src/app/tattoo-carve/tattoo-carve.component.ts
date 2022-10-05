@@ -1,9 +1,17 @@
 import { Component, OnInit } from '@angular/core';
 
 import carveData from "../_json/carve-runes.json";
+import tattoosData from "../_json/tattoos.json";
 
 interface Carve {
   name: String;
+  img: String;
+}
+
+interface Tattoos {
+  name: String;
+  scroll: String;
+  scrollImg: String;
   img: String;
 }
 
@@ -20,4 +28,5 @@ export class TattooCarveComponent implements OnInit {
   }
 
   carve: Carve[] = carveData;
+  tattoos: Tattoos[] = tattoosData;
 }

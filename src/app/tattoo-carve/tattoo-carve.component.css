@@ -64,6 +64,22 @@
     padding: 1.5em;
 }
 
+.tattoo {
+    margin-block: 1em;
+}
+
+.tattoo-scroll {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1em;
+    margin-bottom: 1em;
+}
+
+.tattoo .tattoo-carve-text {
+    margin-bottom: 0;
+}
+
 /* Media queries */
 @media all and (min-width: 1140px) {
     .tattoo-carve, .tattoos {
@@ -72,5 +88,10 @@
     .tattoo-carve-powers {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
+    }
+    
+    .all-tattoos {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
     }
 }
