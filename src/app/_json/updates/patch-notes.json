@@ -1,5 +1,31 @@
 [
     {
+        "patchnotesname": "Patch Notes - 06/10/2022",
+        "classes": [
+            {
+                "name": "Fish Changes",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "After thinking this through for a long time, we have decided that it is the best for our server to nerf rewards from fishing." },
+                            { "change": "• What is exactly being changed ?" },
+                            { "change": "- We are decreasing the chance of receiving Tattoo Box 1." },
+                            { "change": "This has been a hard decision to make but ultimately it had to be done for many reasons." },
+                            { "change": "1. Fishing was designed to be a side hustle, not a primary way of making money on Void" },
+                            { "change": "2. Big Problem with Botters destroying the market" },
+                            { "change": "3. Bringing more value and relevancy to World Boss" },
+                            { "change": "We do understand that some people can't make it to the World boss for those valuable materials and we assure you that fishing will still be a viable option for you !" }
+
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "patchnotesname": "Patch Notes - 02/10/2022",
         "classes": [
             {
