@@ -3,6 +3,43 @@
         "patchnotesname": "Patch Notes - 06/10/2022",
         "classes": [
             {
+                "name": "Changes",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- You can now sell Mouse Chest in NosBazaar." },
+                            { "change": "- You can now sell Apprentice Chef Title to the NPC." }
+
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Rainbow Battle Changes",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Added Dye Bomb in Rainbow Battle Exchange NPC." },
+                            { "change": "- Added Lightning Wings in Rainbow Battle Exchange NPC." },
+                            { "change": "- Added Rainbow Pegasus pet in Rainbow Battle Exchange NPC." },
+                            { "change": "- Changed buff of Rainbow Master Title" }
+
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patchnotesname": "Patch Notes - 06/10/2022",
+        "classes": [
+            {
                 "name": "Fish Changes",
                 "hide": "",
                 "topic": [

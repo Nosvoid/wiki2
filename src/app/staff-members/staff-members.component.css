@@ -88,6 +88,14 @@
     color: var(--junior-gd-clr);
 }
 
+.tgm {
+    color: var(--tgm-clr);
+}
+
+.head-balance {
+    color: var(--head-balance-clr);
+}
+
 /* Media queries */
 @media all and (min-width: 1140px) {
     .crew {

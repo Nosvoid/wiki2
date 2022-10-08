@@ -231,6 +231,13 @@
         "class": "pvp"
     },
     {
+        "name": "Rainbow Pegasus",
+        "location": "Can be crafted at Rainbow Battle NPC in NosVille",
+        "buff": "rainbow_pegasus",
+        "skin": "rainbow_pegasus",
+        "class": "pvp"
+    },
+    {
         "name": "Raptor",
         "location": "Can be crafted at Hardcore Rewards NPC $warp p8",
         "buff": "raptor",
