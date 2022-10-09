@@ -11,89 +11,74 @@
     padding: 3em 0;
 }
 
-.crew-title {
+.staff-members-title-1,
+.staff-members-title-2,
+.staff-members-title-3,
+.staff-members-title-4 {
     font-family: 'Edu SA Beginner', cursive;
-    display: flex;
-    justify-content: center;
+}
+
+.staff-members-title-1 {
     font-size: 3rem;
     margin-bottom: 1em;
 }
 
-.crew-table {
-    /* background-color: var(--void-clr-active); */
+.staff-members-title-2 {
+    font-size: 2.5rem;
+    margin-top: 1em;
+    color: var(--void-clr);
+    text-align: center;
     width: 75%;
+    border: solid 1px var(--void-clr);
+    border-radius: 20px;
+    padding-block: .5em;
+    line-height: 1.3em;
+    margin-bottom: 0;
+}
+
+.staff-members-title-3 {
+    font-size: 2rem;
+    line-height: 1.3em;
+}
+
+.staff-members-title-3 span {
+    color: var(--void-clr);
+    font-weight: bold;
+    font-size: 2.2rem;
+}
+
+.staff-members-title-4 {
+    font-size: 1.5rem;
+    line-height: 1.3em;
+}
+
+.staff-member {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+    margin-block: 2em;
     border-radius: 10px;
+    transition: background-color .3s ease-in-out;
 }
 
-.crew-th, .crew-td {
-    padding: 1em .5em; 
-    font-size: 1.1rem;
+.staff-member:hover {
+    background-color: rgba(200, 200, 200, .3);
 }
 
-.crew-td {
-    border-top: 1px solid white;
+.staff-member img {
+    max-width: 100%;
 }
 
-.crew-td img, .crew-th img {
-    width: 30px;
-    height: 30px;
+.staff-category {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
-.lead-team {
-    color: var(--lead-team-clr);
-}
-
-.team-manager {
-    color: var(--tm-clr);
-    background-color: rgba(255, 255, 255, .3);
-}
-
-.game-master {
-    color: var(--gm-clr);
-}
-
-.game-master69 {
-    color: var(--69-clr);
-}
-
-.game-supporter {
-    color: var(--gs-clr);
-}
-
-.discord-admin {
-    color: var(--dc-admin-clr);
-}
-
-.game-designer {
-    color: var(--game-designer-clr);
-}
-
-.tgs {
-    color: var(--tgs-clr);
-}
-
-.sgm {
-    color: var(--sgm-clr);
-}
-
-.web-dev {
-    color: var(--web-dev-clr);
-}
-
-.tech-helper {
-    color: var(--tech-helper-clr);
-}
-
-.junior-game-designer {
-    color: var(--junior-gd-clr);
-}
-
-.tgm {
-    color: var(--tgm-clr);
-}
-
-.head-balance {
-    color: var(--head-balance-clr);
+.all-staff-members {
+    padding-inline: 2em;
 }
 
 /* Media queries */
@@ -101,29 +86,12 @@
     .crew {
         width: 75%;
     }
-}
-
-@media (min-width: 800px) {
-    .crew-th, .crew-td {
-        padding: 1.5em;
+    .staff-members {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
     }
-}
-
-@media (max-width: 600px) {
-    .crew-th, .crew-td {
-        font-size: 1rem;
-    }
-
-    .crew-table {
-        width: 100%;
-    }
-}
-
-@media (max-width: 470px) {
-    .crew-title {
-        font-size: 2rem;
-    }
-    .crew-td img, .crew-th img {
-        display: none;
+    .lead-members {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
     }
 }

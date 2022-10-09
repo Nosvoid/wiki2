@@ -1,28 +1,50 @@
 [
     {
-        "patchnotesname": "Patch Notes - 06/10/2022",
+        "patchnotesname": "Patch Notes - 09/10/2022",
         "classes": [
             {
-                "name": "Changes",
+                "name": "Overall Changes & Fixes",
                 "hide": "",
                 "topic": [
                     {
-                        "topicname": "",
+                        "topicname": "Changes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- You will be able to join Rainbow Battle even if there's no enough people for team." },
+                            { "change": "- You can now use pets and partners in Rainbow Battle." }
+
+                        ]
+                    },
+                    {
+                        "topicname": "Fixes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Fixed a bug where you couldn't get job level rewards of Chef Specialist Card." },
+                            { "change": "- Fixed a visual bug on Incapacitated Buff." }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patchnotesname": "Patch Notes - 08/10/2022",
+        "classes": [
+            {
+                "name": "Overall Changes & Fixes",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Changes",
                         "topicclass": "",
                         "changes": [
                             { "change": "- You can now sell Mouse Chest in NosBazaar." },
                             { "change": "- You can now sell Apprentice Chef Title to the NPC." }
 
                         ]
-                    }
-                ]
-            },
-            {
-                "name": "Rainbow Battle Changes",
-                "hide": "",
-                "topic": [
+                    },
                     {
-                        "topicname": "",
+                        "topicname": "Rainbow Battle Changes",
                         "topicclass": "",
                         "changes": [
                             { "change": "- Added Dye Bomb in Rainbow Battle Exchange NPC." },
