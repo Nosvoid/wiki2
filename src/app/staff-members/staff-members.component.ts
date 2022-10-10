@@ -150,12 +150,6 @@ export class StaffMembersComponent implements OnInit {
           img: "gs_male"
         },
         {
-          name: "Elite",
-          roles: "Game Supporter",
-          languages: "HK/ENG",
-          img: "gs_male"
-        },
-        {
           name: "Exodia's",
           roles: "Game Supporter",
           languages: "THAI",
