@@ -112,7 +112,6 @@ const appRoutes: Routes = [
   { path: 'ticket-system', component: TicketSystemComponent },
   { path: 'shells', component: ShellsComponent },
   { path: 'pvp-set', component: PvpSetComponent },
-  { path: 'current-event', component: MouseEventComponent },
   { path: 'cooking-sp', component: CookingSpComponent },
   { path: 'mounts', component: MountsComponent },
   { path: 'rainbow-battle', component: RainbowBattleComponent },

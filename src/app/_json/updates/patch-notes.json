@@ -1,5 +1,39 @@
 [
     {
+        "patchnotesname": "Patch Notes - 11/10/2022",
+        "classes": [
+            {
+                "name": "Overall Changes & Fixes",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Changes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "Mouse Event is has been removed, following items deleted from the inventories :" },
+                            { "change": "- Piece of Cheese" },
+                            { "change": "- Mouse Tail" },
+                            { "change": "- Mouse Ears" },
+                            { "change": "- Mouse Treasure" },
+                            { "change": "- Pink Lotus" },
+                            { "change": "- Royal Wheel" },
+                            { "change": "- Mouse Chest" },
+                            { "change": "- We didn't reset Broken Wing cause many of you still has them into inventories. Sell them to the NPC, don't lose any money :)" }
+
+                        ]
+                    },
+                    {
+                        "topicname": "P.S :",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "We will add new ways to get Chef Specialist Card & Titles in next days." }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "patchnotesname": "Patch Notes - 10/10/2022",
         "classes": [
             {
