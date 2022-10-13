@@ -1,5 +1,31 @@
 [
     {
+        "patchnotesname": "Patch Notes - 12/10/2022",
+        "classes": [
+            {
+                "name": "Overall Changes & Fixes",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Changes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Pets will not move in Rainbow Battle from now on." }
+
+                        ]
+                    },
+                    {
+                        "topicname": "Fixes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Fixed a bug where you couldn't use Ratatouille Title." }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "patchnotesname": "Patch Notes - 11/10/2022",
         "classes": [
             {
