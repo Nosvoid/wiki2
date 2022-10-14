@@ -1,5 +1,34 @@
 [
     {
+        "patchnotesname": "Patch Notes - 14/10/2022",
+        "classes": [
+            {
+                "name": "Overall Changes & Fixes",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Changes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Increased amount of monsters in Prestige 5, 1-15 Hero Map & 30-50 Hero Map." },
+                            { "change": "-  Craft Chef Specialist Card & Title NPC added next to Chef Terry." },
+                            { "change": "- Changed name of some bosses in Family Tower Game." }
+
+                        ]
+                    },
+                    {
+                        "topicname": "Fixes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Fixed a bug that Prestige 8 30-40 Hero Map, Cold side monsters had less notice range than it's supposed to." },
+                            { "change": "- Fixed a bug where Change Skin 4 item had no icon." }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "patchnotesname": "Patch Notes - 12/10/2022",
         "classes": [
             {
