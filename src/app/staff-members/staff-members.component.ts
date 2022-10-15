@@ -110,7 +110,7 @@ export class StaffMembersComponent implements OnInit {
         },
         {
           name: "KryptonJH",
-          roles: "Wiki Developer / Game Master",
+          roles: "Wiki Developer",
           languages: "FR/ENG",
           img: "wiki_dev_male"
         },
@@ -147,6 +147,12 @@ export class StaffMembersComponent implements OnInit {
           name: "Exodia's",
           roles: "Game Supporter",
           languages: "THAI",
+          img: "gs_male"
+        },
+        {
+          name: "Fekeno",
+          roles: "Game Supporter",
+          languages: "DE/ENG",
           img: "gs_male"
         },
         {

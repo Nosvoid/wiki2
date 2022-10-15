@@ -9,35 +9,35 @@ export class ShopUpdatesComponent implements OnInit {
 
   shopUpdates = [
     {
-        "date": "09/10/2022",
+        "date": "15/10/2022",
         "items": [
             {
-                "name": "Archangel Lucifer",
-                "img": "../assets/img/psps/buffs/archangel_lucifer.png"
+                "name": "Change Tattoo Item x10",
+                "img": "../assets/img/special-items/tattoo_change.png"
             },
             {
-                "name": "Batman Mask",
-                "img": "../assets/img/helmets-masks/batman_mask.png"
+                "name": "Change Wings Item",
+                "img": "../assets/img/special-items/change_wings.png"
             },
             {
-                "name": "Betting Costume",
-                "img": "../assets/img/costumes/costumes/betting_costume.png"
+                "name": "Easter Bunny Costume Set",
+                "img": "../assets/img/costumes/all-sets/buffs/easter_bunny_buffs.png"
             },
             {
-                "name": "Into The Void Title",
-                "img": "../assets/img/titles/into_the_void.png"
+                "name": "Mad March Hare PSP",
+                "img": "../assets/img/psps/buffs/mad_march.png"
             },
             {
-              "name": "Knight Costume Set",
-              "img": "../assets/img/costumes/all-sets/buffs/knight_buffs.png"
+                "name": "Pirate Lord Title",
+                "img": "../assets/img/titles/pirate_lord.png"
+            },
+            {
+              "name": "Shadow Master Bunny",
+              "img": "../assets/img/pets/buffs/master_bunny.png"
             },           
             {
-              "name": "Lucy",
-              "img": "../assets/img/psps/buffs/lucy.png"
-            },
-            {
-                "name": "Shooting Star Title",
-                "img": "../assets/img/titles/shooting_star.png"
+              "name": "Shadow Snow Fox",
+              "img": "../assets/img/pets/buffs/snow_fox.png"
             },
         ]
     }
