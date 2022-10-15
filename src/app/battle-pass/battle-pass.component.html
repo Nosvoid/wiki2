@@ -5,20 +5,25 @@
                 Can be taken once, will disappear after the end of the month. <br>
                 Price : 900 Coins.
         </p>
-
+        <p class="w-75 bp-text">NOTE : There are <span class="bp-type">two</span> differents Battle Pass, one <span class="bp-type">PVP</span> and one <span class="bp-type">PVE</span>. You only get quests related to the Battle Pass you chose.</p>
             <div class="container d-flex justify-content-center">
                 <h2 class="battle-pass-title-2 w-75">Quests & Rewards</h2>
             </div>
-            <div class="quests-container container" *ngFor="let days of battlepass">
+            <div class="quests-container container" *ngFor="let days of battlePass">
                 <button class="open-quests">
-                    {{days.quests}}
+                    {{days.dates}}
                     <i class="fa fa-angle-down" aria-hidden="true"></i>
                 </button>
                 <div class="display-none">
                     <div class="quest-container">
                         <h3 class="quest-todo">You need to do :</h3>
+                        <h3 class="battle-pass-title-3">PVP Quests</h3>
                         <ul class="list-quests">
-                            <li *ngFor="let quest of days.todo">{{quest.quest}}</li>
+                            <li *ngFor="let quest of days.pvpQuests"><span class="bp-type">{{quest.number}}</span> {{quest.quest}}</li>
+                        </ul>
+                        <h3 class="battle-pass-title-3">PVE Quests</h3>
+                        <ul class="list-quests">
+                            <li *ngFor="let quest of days.pveQuests"><span class="bp-type">{{quest.number}}</span> {{quest.quest}}</li>
                         </ul>
                     </div>
                     <div class="rewards-container">
@@ -50,31 +55,20 @@
                     </li>
                 </ul>
                 <div class="bp-levels w-75">
-                    Every level has their own amount of gold, so you will have around 10B gold only from LUMPS
+                    Every level has their own amount of gold, so you will have around 8.750B gold only from LUMPS
                         <ul>
                             <li><b>Level 1</b> : 500KK</li>
                             <li><b>Level 2</b> : 750KK</li>
                             <li><b>Level 3</b> : 1B</li>
                             <li><b>Level 4</b> : 1.250B</li>
                             <li><b>Level 5</b> : 1.5B</li>
-                            <li><b>Level 6</b> : 2B</li>
-                            <li><b>Level 7</b> : 3B</li>
+                            <li><b>Level 6</b> : 1.750B</li>
+                            <li><b>Level 7</b> : 2B</li>
                         </ul>
                 </div>
             </div>
             <div class="container d-flex justify-content-center flex-column align-items-center">
-                <div class="wheel-ticket w-75">
-                    <h2 class="battle-pass-title-2">What is Free Wheel Ticket ? </h2>
-                    <img src="../../assets/img/battle-pass/wheel.png" alt="">
-                </div>
-                <p class="bp-text">
-                    <b>Free Wheel</b> ticket will let you to spin fortune wheel for free! Open a <a class="bp-ticket-link" href="/ticket-system">ticket</a> via 
-                    <b>NosVoid Discord Server</b> (#ticket-system channel) once you get that prize to claim your 
-                    coins reward!
-                </p>
-            </div>
-            <div class="container d-flex justify-content-center flex-column align-items-center">
-                <h2 class="battle-pass-title-2 w-75">What can I get from Wings & Pets Random Boxes ?</h2>
+                <h2 class="battle-pass-title-2 w-75">What can I get from Boxes ?</h2>
                 <div class="bp-boxes-container w-75">
                     <div class="random-boxes">
                         <div class="wings-box-title">
@@ -88,25 +82,43 @@
                             <li class="wing-item">- Onyx Wings</li>
                             <li class="wing-item">- Lunar Wings</li>
                             <li class="wing-item">- Crystal Wings</li>
+                            <li class="wing-item">- Retro Wings</li>
                         </ul>
                     </div>
                     <div class="random-boxes">
                         <div class="wings-box-title">
-                            <h3 class="battle-pass-title-3">Random Pets Box</h3>
-                            <img src="../../assets/img/battle-pass/petbox.png" alt="">
+                            <h3 class="battle-pass-title-3">Old Event Box</h3>
+                            <img src="../../assets/img/battle-pass/old_event_box.png" alt="">
                         </div>
                         <p class="bp-text w-100">You can get one of the following pets :</p>
                         <ul class="wings-box">
-                            <li class="wing-item">- Chick Norris</li>
-                            <li class="wing-item">- Inferno</li>
-                            <li class="wing-item">- Seraphim</li>
-                            <li class="wing-item">- Master Bunny</li>
-                            <li class="wing-item">- Mini Blue Amora</li>
-                            <li class="wing-item">- Namaju Pet</li>
-                            <li class="wing-item">- Fibi Frosty</li>
-                            <li class="wing-item">- Mini Pete</li>
-                            <li class="wing-item">- Dragon Bee</li>
-                            <li class="wing-item">- Shadow Fruit Evolution</li>
+                            <li class="wing-item">- Fluffy Bunny Pet</li>
+                            <li class="wing-item">- Otter</li>
+                            <li class="wing-item">- Mad March PSP</li>
+                            <li class="wing-item">- Lucy PSP</li>
+                            <li class="wing-item">- Chloe PSP</li>
+                            <li class="wing-item">- Cuby Pet</li>
+                            <li class="wing-item">- Hawaii Costume</li>
+                            <li class="wing-item">- Easter Bunny Costume</li>
+                            <li class="wing-item">- Snow Fox Pet</li>
+                            <li class="wing-item">- Master of the Seas Title</li>
+                        </ul>
+                    </div>
+                    <div class="random-boxes">
+                        <div class="wings-box-title">
+                            <h3 class="battle-pass-title-3">Random BP Box</h3>
+                            <img src="../../assets/img/battle-pass/random_bp_box.png" alt="">
+                        </div>
+                        <p class="bp-text w-100">You can get one of the following pets :</p>
+                        <ul class="wings-box">
+                            <li class="wing-item">- 200K Gold</li>
+                            <li class="wing-item">- Flame Crystal x1</li>
+                            <li class="wing-item">- Angel Feather x1000</li>
+                            <li class="wing-item">- Flower Wings x1</li>
+                            <li class="wing-item">- Flame Crystal x2</li>
+                            <li class="wing-item">- Holy Light x1</li>
+                            <li class="wing-item">- Crystal Wings (untradeable)</li>
+                            <li class="wing-item">- Reset Perfection Item x1</li>
                         </ul>
                     </div>
                 </div>

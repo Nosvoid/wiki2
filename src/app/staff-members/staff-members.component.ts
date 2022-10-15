@@ -73,12 +73,12 @@ export class StaffMembersComponent implements OnInit {
           languages: "ITA/ENG",
           img: "gd_male"
         },
-        {
-          name: "Temko",
-          roles: "Game Designer",
-          languages: "FR/ENG",
-          img: "gd_male"
-        },
+        // {
+        //   name: "Temko",
+        //   roles: "Game Designer",
+        //   languages: "FR/ENG",
+        //   img: "gd_male"
+        // },
       ]
     },
     {
@@ -89,12 +89,6 @@ export class StaffMembersComponent implements OnInit {
           roles: "Game Master",
           languages: "TR/ENG",
           img: "gm_male"
-        },
-        {
-          name: "Cara",
-          roles: "Game Master",
-          languages: "DE/ENG",
-          img: "gm_female"
         },
         {
           name: "Dana&Kai",

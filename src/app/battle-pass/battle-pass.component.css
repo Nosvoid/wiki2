@@ -57,6 +57,7 @@
     font-weight: bold;
     margin-top: 1em;
     text-align: center;
+    color: var(--void-clr);
 }  
 
 .battle-pass-info {
@@ -78,6 +79,12 @@
 
 .battle-pass-infos {
     padding-left: 0;
+}
+
+.bp-type {
+    color: var(--void-clr);
+    text-transform: uppercase;
+    font-weight: bold;
 }
 
 .battle-pass-infos li {
@@ -180,6 +187,11 @@
         display: grid;
         grid-template-columns: repeat(2, 1fr);
         width: 75%;
+    }
+    
+    .bp-boxes-container {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
     }
 
     .quest-container, .rewards-container {

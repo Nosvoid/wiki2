@@ -86,7 +86,7 @@ const appRoutes: Routes = [
   { path: 'partners', component: PartnersComponent },
   { path: 'psps', component: PspsComponent },
   { path: 'pets', component: PetsComponent },
-  { path: 'battle-pass', component: BattlePassComponent },
+  { path: 'battle-pass-v3', component: BattlePassComponent },
   { path: 'features', component: FeaturesComponent },
   { path: 'special-items', component: SpecialItemsComponent },
   { path: 'whitelist-dll', component: WhitelistDllComponent },
