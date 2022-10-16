@@ -10,7 +10,7 @@ export class BattlePassComponent implements OnInit {
 
   battlePass = [
     {
-      dates: "First Quests : ",
+      dates: "First Quests : 16 October - 19 October",
       pvpQuests: [
         { quest: "Participate to Caligor 2 time.", number: "1." },
         { quest: "Kill [10] peoples in A4.", number: "2." },
@@ -26,7 +26,7 @@ export class BattlePassComponent implements OnInit {
       ]
     },
     {
-      dates: "Second Quests : ",
+      dates: "Second Quests : 20 Otctober - 23 October",
       pvpQuests: [
         { quest: "Participate to the A4 World Boss 1 time.", number: "1." },
         { quest: "Kill [15] peoples in A4.", number: "2." },
@@ -42,14 +42,15 @@ export class BattlePassComponent implements OnInit {
       ]
     },
     {
-      dates: "Third Quests : ",
+      dates: "Third Quests : 24 October - 27 October",
       pvpQuests: [
-        { quest: "Participate to the A4 World Boss 1 time.", number: "1." },
-        { quest: "Successfully complete the raid [Maru] x50.", number: "2." },
-      ],
-      pveQuests: [
         { quest: "Participate to the RBB 1 time.", number: "1." },
         { quest: "Participate in [2] raids in A4.", number: "2." },
+        
+      ],
+      pveQuests: [
+        { quest: "Participate to the A4 World Boss 1 time.", number: "1." },
+        { quest: "Successfully complete the raid [Maru] x50.", number: "2." },
       ],
       rewards: [
         { reward: "- 15x Dragon Gem." },
@@ -58,7 +59,7 @@ export class BattlePassComponent implements OnInit {
       ]
     },
     {
-      dates: "Fourth Quests : ",
+      dates: "Fourth Quests : 28 October - 31 October",
       pvpQuests: [
         { quest: "Participate to the AOT 1 time.", number: "1." },
         { quest: "Kill [20] peoples in A4.", number: "2." },
@@ -74,7 +75,7 @@ export class BattlePassComponent implements OnInit {
       ]
     },
     {
-      dates: "Fifth Quests : ",
+      dates: "Fifth Quests : 1 November - 4 November",
       pvpQuests: [
         { quest: "Participate to the Color Pvp 2 time.", number: "1." },
         { quest: "Participate in [4] raids in A4.", number: "2." },
@@ -90,7 +91,7 @@ export class BattlePassComponent implements OnInit {
       ]
     },
     {
-      dates: "Sixth Quests : ",
+      dates: "Sixth Quests : 5 November - 8 November",
       pvpQuests: [
         { quest: "Participate to A4 World Boss 2 time.", number: "1." },
         { quest: "Kill [25] peoples in A4.", number: "2." },
@@ -106,7 +107,7 @@ export class BattlePassComponent implements OnInit {
       ]
     },
     {
-      dates: "Seventh Quests : ",
+      dates: "Seventh Quests : 9 November - 14 November",
       pvpQuests: [
         { quest: "Participate to Caligor 4 time.", number: "1." },
         { quest: "Kill [100] peoples in A4.", number: "2." },

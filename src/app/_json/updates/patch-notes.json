@@ -1,5 +1,34 @@
 [
     {
+        "patchnotesname": "Patch Notes - 16/10/2022",
+        "classes": [
+            {
+                "name": "Overall Changes & Fixes",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "News",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Battle Pass Season 3 is out." }
+
+                        ]
+                    },
+                    {
+                        "topicname": "Fixes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Fixed a bug where Cooking Preparation skill wasn't working." },
+                            { "change": "- Fixed a bug where Healthy Eating skill wasn't working." },
+                            { "change": "- Fixed a bug where Sharpen Knife skill wasn't working." },
+                            { "change": "- Fixed a bug where Secret Spice skill wasn't working." }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "patchnotesname": "Patch Notes - 14/10/2022",
         "classes": [
             {
@@ -11,7 +40,7 @@
                         "topicclass": "",
                         "changes": [
                             { "change": "- Increased amount of monsters in Prestige 5, 1-15 Hero Map & 30-50 Hero Map." },
-                            { "change": "-  Craft Chef Specialist Card & Title NPC added next to Chef Terry." },
+                            { "change": "- Craft Chef Specialist Card & Title NPC added next to Chef Terry." },
                             { "change": "- Changed name of some bosses in Family Tower Game." }
 
                         ]
