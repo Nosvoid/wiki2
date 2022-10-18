@@ -1,5 +1,24 @@
 [
     {
+        "patchnotesname": "Patch Notes - 18/10/2022",
+        "classes": [
+            {
+                "name": "Overall Changes & Fixes",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Changes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "-  Made that you won't be able to join Time Space when there is raid team open." }
+
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "patchnotesname": "Patch Notes - 16/10/2022",
         "classes": [
             {
