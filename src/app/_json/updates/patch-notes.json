@@ -1,5 +1,24 @@
 [
     {
+        "patchnotesname": "Patch Notes - 19/10/2022",
+        "classes": [
+            {
+                "name": "Overall Changes & Fixes",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Changes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "-  Made that you will get matched by your ranks in Rainbow Battle. (but its possible that ranks will mix if there wont be enough people for certain rank)." }
+
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "patchnotesname": "Patch Notes - 18/10/2022",
         "classes": [
             {
