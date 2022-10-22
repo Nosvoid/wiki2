@@ -117,7 +117,7 @@ const appRoutes: Routes = [
   { path: 'mounts', component: MountsComponent },
   { path: 'rainbow-battle', component: RainbowBattleComponent },
   { path: 'mouse', component: MouseEventComponent },
-  { path: 'hallo69', component: HalloweenEventComponent },
+  { path: 'halloween-event', component: HalloweenEventComponent },
   { path: '**', pathMatch: "full", component: ErrorPageComponent },
 ]
 

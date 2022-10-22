@@ -162,6 +162,20 @@ a.link {
     display: none;
 }
 
+.hallo-bg {
+    color: #E95124 !important;
+    font-weight: bold;
+}
+
+.hallo-bg:hover {
+    background-color: transparent !important;
+    background-image: url("../../assets/img/halloween-event/hallo_bg.png");
+    background-position: center;
+    background-size: cover;
+    background-clip: border-box;
+    color: white !important;
+}
+
 /* Responsive */
 
 @media all and (min-width: 1140px) {

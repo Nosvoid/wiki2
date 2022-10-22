@@ -121,7 +121,8 @@
     gap: 1em;
 }
 
-.halloween img {
+.halloween img,
+.halloween video {
     max-width: 100%;
 }
 
