@@ -62,6 +62,7 @@ import { MouseEventComponent } from './mouse-event/mouse-event.component';
 import { CookingSpComponent } from './cooking-sp/cooking-sp.component';
 import { MountsComponent } from './mounts/mounts.component';
 import { RainbowBattleComponent } from './rainbow-battle/rainbow-battle.component';
+import { HalloweenEventComponent } from './halloween-event/halloween-event.component';
 
 
 
@@ -115,6 +116,8 @@ const appRoutes: Routes = [
   { path: 'cooking-sp', component: CookingSpComponent },
   { path: 'mounts', component: MountsComponent },
   { path: 'rainbow-battle', component: RainbowBattleComponent },
+  { path: 'mouse', component: MouseEventComponent },
+  { path: 'hallo69', component: HalloweenEventComponent },
   { path: '**', pathMatch: "full", component: ErrorPageComponent },
 ]
 
@@ -172,7 +175,8 @@ const appRoutes: Routes = [
     MouseEventComponent,
     CookingSpComponent,
     MountsComponent,
-    RainbowBattleComponent
+    RainbowBattleComponent,
+    HalloweenEventComponent
   ],
   imports: [
     BrowserModule,

@@ -55,6 +55,11 @@
         "class": "betting"
     },
     {
+        "name": "Plague Hat",
+        "buff": "plague_hat",
+        "class": "raid"
+    },
+    {
         "name": "Rafting Hat",
         "buff": "rafting_hat",
         "class": "fish"

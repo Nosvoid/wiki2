@@ -1,0 +1,123 @@
+<div class="d-flex justify-content-center w-100">
+  <section class="halloween">
+    <h1 class="halloween-title-1">Halloween Event</h1>
+
+	<h2 class="halloween-title-2">Raids</h2>
+    <div class="hallo-raids">
+		<div class="hallo-raid">
+				<h2 class="halloween-title-2">Giant Black Spider Raid</h2>
+				<img src="../../assets/img/halloween-event/spider_boss.png" alt="" height="120px" />
+				<div class="hallo-rewards">
+					<h3 class="halloween-title-3">
+					  <img src="../../assets/img/halloween-event/spider_box.png" alt="" />
+					  Giant Black Spider Box
+					</h3>
+					<h4 class="halloween-title-4">Rewards :</h4>
+					<ul class="chest-rewards">
+					  <li class="chest-reward" *ngFor="let reward of spiderBox">
+						- {{ reward.reward }}
+					  </li>
+					</ul>
+				</div>
+			</div>
+		<div class="hallo-raid">
+			<h2 class="halloween-title-2">Jack'O'Lantern Raid</h2>
+			<img src="../../assets/img/halloween-event/jack_boss.png" alt="" />
+			<div class="hallo-rewards">
+				<h3 class="halloween-title-3">
+					<img src="../../assets/img/halloween-event/jack_box.png" alt="" />
+					Jack'O'Lantern Box
+				</h3>
+				<h4 class="halloween-title-4">Rewards :</h4>
+				<ul class="chest-rewards">
+					<li class="chest-reward" *ngFor="let reward of jackBox">
+					- {{ reward.reward }}
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="hallo-raid">
+			<h2 class="halloween-title-2">Mad Professor Macavity</h2>
+			<img src="../../assets/img/halloween-event/mad_boss.png" alt="" />
+			<div class="hallo-rewards">
+				<h3 class="halloween-title-3">
+					<img src="../../assets/img/halloween-event/mad_box.png" alt="" />
+					Mad Professor Macavity's Junk Box
+				</h3>
+				<h4 class="halloween-title-4">Rewards :</h4>
+				<ul class="chest-rewards">
+					<li class="chest-reward" *ngFor="let reward of madBox">
+					- {{ reward.reward }}
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div class="hallo-rewards">
+		<h3 class="halloween-title-3">
+		  <img src="../../assets/img/halloween-event/hallo_spe_box.png" alt="" />
+		  Halloween Special Box
+		</h3>
+		<h4 class="halloween-title-4">Rewards :</h4>
+		<ul class="chest-rewards">
+		  <li class="chest-reward" *ngFor="let reward of halloSpeBox">
+			- {{ reward.reward }}
+		  </li>
+		</ul>
+	</div>
+
+    <div class="ctn">
+		<h2 class="halloween-title-2">What is Mad Professor Macavity Raid ?</h2>
+		<img src="../../assets/img/halloween-event/macavity_map.png" height="300px" alt="">
+		<p class="halloween-text">
+			- You'll be 8 peoples in this raid. <br>
+			- 6 of them will be turned into a random pet. They can't do anything but run. <br>
+			- 1 of them will be turned into Dr Frankenstein, he can use a spell to stunt the pets. <br>
+			- 1 of them will be turned into Dr Macavity, he can use a spell to kill the pets. <br>
+			- The 6 pets must find the exit to win. <br>
+			- The 2 "vilains" must kill every pet to win.
+		</p>
+	</div>
+    <div class="ctn">
+		<h2 class="halloween-title-2">Special Instant Combat</h2>
+		<p class="halloween-text">There will be 5 waves with special mobs for Halloween. The drops on the ground will stay the same, but every player in the Instant Combat will receive special Halloween materials directly in their inventory the final round.</p>
+		<h3 class="halloween-title-3">Rewards : </h3>
+		<ul class="quest-rewards">
+			<li class="quest-reward">- 20x Drop of Blood</li>
+			<li class="quest-reward">- 20x orange Pumpkin Sweet</li>
+			<li class="quest-reward">- 5x Black Pumplin Sweet</li>
+			<li class="quest-reward">- 1x Vampire Fang</li>
+		</ul>
+	</div>
+	<div class="ctn">
+		<h2 class="halloween-title-2">Money World Boss</h2>
+            <p class="halloween-text">
+                Money World Boss is a rare World Boss that happens during some events. Only <span class="purple">ONE</span> lucky player from the map will receive item called Money Coupon and that player will be able to exchange it for 3600 coins!
+                <br>Money World Boss will appear <span class="purple">only</span> at <span class="purple">Wednesday</span> & <span class="purple">Saturday</span> at <span class="purple">20:00</span> Server Time
+            </p>
+	</div>
+
+    <h2 class="halloween-title-2">Items to craft</h2>
+    <div class="crafting-items">
+      <div class="crafting-item" *ngFor="let item of itemsToCraft">
+        <div class="crafting-item-title">
+          <img src="../../assets/img/halloween-event/{{item.icon}}.png" alt="" />
+          <h3 class="halloween-title-3">{{item.name}}</h3>
+        </div>
+		<img src="{{item.buff}}" alt="">
+      </div>
+    </div>
+
+    <h2 class="halloween-title-2">Daily Quests</h2>
+    <div class="daily-quests">
+		<div class="halloween-quest" *ngFor="let quest of dailyQuests">
+			<h3 class="halloween-title-3 text-center">{{quest.name}}</h3>
+			<p class="halloween-text text-center" *ngFor="let todo of quest.todo">{{todo.quest}}</p>
+			<h4 class="halloween-title-4 text-center">Rewards :</h4>
+			<ul class="quest-rewards">
+          		<li class="quest-reward" *ngFor="let reward of quest.rewards">{{reward.reward}}</li>
+        	</ul>
+    	</div>
+    </div>
+  </section>
+</div>

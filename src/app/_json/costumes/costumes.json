@@ -55,6 +55,11 @@
         "class": "pvp"
     },
     {
+        "name": "Plague Costume",
+        "buff": "plague_costume",
+        "class": "raid"
+    },
+    {
         "name": "Police Costume",
         "buff": "police_costume",
         "class": "betting"

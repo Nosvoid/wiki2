@@ -34,5 +34,11 @@
         "location": "You can craft it during Mouse Event",
         "buff": "raid_necklace",
         "class": "raid"
+    },
+    {
+        "name": "Noble Crystal Bracelet",
+        "location": "You can craft it during Halloween Event",
+        "buff": "noble_bracelet",
+        "class": "raid"
     }
 ]

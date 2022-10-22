@@ -24,6 +24,7 @@
 .world-bosses-title-2 {
     font-size: 2rem;
     margin-top: 1em;
+    color: var(--void-clr);
 }
 
 .world-bosses-title-3,

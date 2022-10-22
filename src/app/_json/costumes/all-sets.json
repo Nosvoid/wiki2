@@ -84,6 +84,12 @@
             "buff": "frost_warrior_buffs"
         },
         {
+            "name": "Glowing Pumpkin Hat",
+            "location": "You can craft this hat during Halloween Event",
+            "skins": "glowing_pumpkin_hat",
+            "buff": "glowing_pumpkin_hat"
+        },
+        {
             "name": "Groovy Beach",
             "location": "You can buy this set for 700 coins in the VoidMall",
             "skins": "groovy_beach",
@@ -169,7 +175,7 @@
         },
         {
             "name": "Plague Doctor / Nurse",
-            "location": "You can get this set in the Fortune Wheel",
+            "location": "You can get this set during the Halloween Event and from the Fortune Wheel",
             "skins": "plague_doctor",
             "buff": "plague_doctor_buffs"
         },

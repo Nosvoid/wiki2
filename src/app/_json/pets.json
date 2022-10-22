@@ -1,5 +1,12 @@
 [
     {
+        "name": "Baby Panda",
+        "location": "Can be crafted during Halloween Event",
+        "buff": "baby_panda",
+        "skin": "baby_panda",
+        "class": "pvp"
+    },
+    {
         "name": "Blizzard Wolf",
         "location": "Can be obtained during Evolution Event",
         "buff": "blizzard_wolf",
@@ -140,6 +147,13 @@
         "class": "cooking"
     },
     {
+        "name": "Mad Professor Macavity",
+        "location": "Can be crafted during Halloween Event",
+        "buff": "mad_professor_macavity",
+        "skin": "mad_professor_macavity",
+        "class": "pvp"
+    },
+    {
         "name": "Master Bunny",
         "location": "Can be obtained during Evolution Event",
         "buff": "master_bunny",
@@ -266,6 +280,13 @@
         "class": "gold raid"
     },
     {
+        "name": "Skelekat Groom",
+        "location": "Can be crafted during Halloween Event",
+        "buff": "skelekat",
+        "skin": "skelekat",
+        "class": "pvp"
+    },
+    {
         "name": "Snow Fox",
         "location": "Can be crafted during the Summer Event",
         "buff": "snow_fox",
@@ -299,5 +320,12 @@
         "buff": "titan_hamster",
         "skin": "titan_hamster",
         "class": "raid"
+    },
+    {
+        "name": "Zombikit Bride",
+        "location": "Can be crafted during Halloween Event",
+        "buff": "zombikit",
+        "skin": "zombikit",
+        "class": "pvp"
     }
 ]

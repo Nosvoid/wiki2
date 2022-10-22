@@ -27,6 +27,10 @@
                 "img": "obsidian_ring"
             },
             {
+                "name": "Noble Crystal Bracelet",
+                "img": "noble_bracelet"
+            },
+            {
                 "name": "Raid Necklace",
                 "img": "raid_necklace"
             }
@@ -46,6 +50,10 @@
             {
                 "name": "Honeybee Crown",
                 "img": "honeybee_hat"
+            },
+            {
+                "name": "Plague Doctor Set",
+                "img": "plague"
             },
             {
                 "name": "Reindeer Costume",

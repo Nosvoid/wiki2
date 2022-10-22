@@ -1,7 +1,9 @@
 <div class="d-flex justify-content-center">
     <section class="shop-updates">
         <h1 class="shop-updates-title-1">Shop Updates</h1>
-        <div class="shop-updates-system" *ngFor="let update of shopUpdates">
+
+        <h2 class="shop-updates-title-2">Wheel Rotation</h2>
+        <div class="shop-updates-system" *ngFor="let update of wheel">
             <h2 class="shop-updates-title-2">
                 Available in the Fortune Wheel <br>
                 Last Update : 
@@ -13,6 +15,33 @@
                     <a href="{{items.img}}" target="_blank">
                         <img src="{{items.img}}" alt="">
                     </a>
+                </div>
+            </div>
+        </div>
+        <div class="shop-updates-system" *ngFor="let update of randomBox">
+            <h2 class="shop-updates-title-2">
+                Random Box Rotation <br>
+                Last Update : 
+                {{update.date}}
+            </h2>
+            <h3 class="shop-updates-title-3">What is Random Box : It's a new feature that you can get one main prize from box depends on your luck. Each box costs <span class="purple">25 COINS</span>.</h3>
+            <h2 class="shop-updates-title-4">
+                <img src="../../assets/img/shop-update/koala_box.png" alt="">
+                Koala Random Box <br>
+            </h2>
+            <div class="shop-reward-items" *ngFor="let main of update.mainItem">
+                <div>
+                    <h3 class="shop-updates-title-3">Main Reward : </h3>
+                    <p class="shop-updates-text">{{main.name}}</p>
+                    <img src="{{main.img}}" alt="">
+                </div>
+                <div>
+                    <h3 class="shop-updates-title-3">Other Rewards : </h3>
+                    <ul class="shop-rewards">
+                        <li class="shop-reward" *ngFor="let item of update.items">
+                           - {{item.name}}
+                        </li>
+                    </ul>
                 </div>
             </div>
         </div>

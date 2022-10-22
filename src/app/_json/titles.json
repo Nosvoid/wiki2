@@ -79,7 +79,7 @@
     },
     {
         "name": "Fish Merchant",
-        "location": "You an craft it at P6 45-50Lv Fish NPC $warp fish and or for 300 coins in Void Mall",
+        "location": "You can craft it at P6 45-50Lv Fish NPC $warp fish and or for 300 coins in Void Mall",
         "img": "fish_merchant",
         "class": "fish"
     },
@@ -211,7 +211,7 @@
     },
     {
         "name": "Lucky Angler",
-        "location": "You an craft it at P5 30-50Lv Fish NPC $warp fish and for 300 coins in VoidMall",
+        "location": "You can craft it at P5 30-50Lv Fish NPC $warp fish and for 300 coins in VoidMall",
         "img": "lucky_angler",
         "class": "fish"
     },
@@ -238,6 +238,12 @@
         "location": "You can craft it during the Summer Event",
         "img": "master_of_the_sea",
         "class": "raid"
+    },
+    {
+        "name": "Nightmare",
+        "location": "You can craft during Halloween Event",
+        "img": "nightmare",
+        "class": "pve"
     },
     {
         "name": "NosVoid Support Team",
@@ -270,6 +276,12 @@
         "class": "fish"
     },
     {
+        "name": "Pumkpin",
+        "location": "You can craft during Halloween Event",
+        "img": "pumpkin",
+        "class": "pve"
+    },
+    {
         "name": "Queen of Raids",
         "location": "You can craft it with King of Erenia, Fernon & Zenas titles",
         "img": "queen_of_raids",
@@ -295,9 +307,15 @@
     },
     {
         "name": "Real Hero",
-        "location": "You an craft it at P3 10-50Lv Fish NPC $warp fish and for 250 coins in VoidMall",
+        "location": "You can craft it at P3 10-50Lv Fish NPC $warp fish and for 250 coins in VoidMall",
         "img": "real_hero",
         "class": "exp"
+    },
+    {
+        "name": "Reaper",
+        "location": "You can craft during Halloween Event",
+        "img": "reaper",
+        "class": "pvp"
     },
     {
         "name": "Rookie Angler",

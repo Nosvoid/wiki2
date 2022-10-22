@@ -12,7 +12,9 @@
 }
 
 .shop-updates-title-1,
-.shop-updates-title-2 {
+.shop-updates-title-2,
+.shop-updates-title-3,
+.shop-updates-title-4 {
     font-family: 'Edu SA Beginner', cursive;
 }
 
@@ -24,15 +26,36 @@
 .shop-updates-title-2 {
     font-size: 2rem;
     margin-top: 1em;
+    color: var(--void-clr);
 }
+
 
 .shop-updates-title-3 {
-    font-size: 1.25rem;
+    font-size: 1.5rem;
+    width: 75%;
+    text-align: center;
+    margin: auto;
+    margin-bottom: .5em;
 }
 
-.shop-updates-text {
+.shop-updates-title-4 {
+    font-size: 2rem;
+    margin-top: 1em;
+    color: var(--void-clr);
+    display: flex;
+    justify-content: center;
+    gap: .3em;
+}
+
+.shop-updates-text,
+.shop-reward {
     font-size: 1.1rem;
     line-height: 1.5em;
+}
+
+.purple {
+    color: var(--void-clr);
+    font-weight: bold;
 }
 
 .shop-updates-system {
@@ -46,11 +69,26 @@
     border-radius: 10px;
 }
 
+.shop-rewards {
+    margin: auto;
+    width: fit-content;
+}
+
+.shop-reward {
+    text-align: start;
+}
+
 @media all and (min-width: 1140px) {
-    .shop-updates-items {
+    .shop-updates-items,
+    .shop-reward-items {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
         padding: 2em;
+    }
+
+    .shop-reward-items {
+        width: 75%;
+        margin: auto;
     }
 
     .shop-updates {
