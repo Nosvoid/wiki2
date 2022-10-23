@@ -8,17 +8,17 @@ import { Component, OnInit } from '@angular/core';
 export class HalloweenEventComponent implements OnInit {
 
   spiderBox = [
-    {reward: "Spider Web x5"},
+    {reward: "Spider's Web x2"},
     {reward: "Angel Feather x100"},
     {reward: "Full Moon x50"},
-    {reward: "Orange Pumpkin Sweet x4"},
+    {reward: "Yellow Pumpkin Sweet x2"},
     {reward: "Black Pumpkin Sweet x2"},
     {reward: "Halloween Special Box x1"},
     {reward: "Spider King Eye x1"},
   ]
 
   halloSpeBox = [
-    {reward: "Spider Web x10"},
+    {reward: "Spider's Web x10"},
     {reward: "Pumpkin x10"},
     {reward: "Purple Pumpkin Sweet x2"},
     {reward: "Spider King Eye x1"},
@@ -38,8 +38,8 @@ export class HalloweenEventComponent implements OnInit {
 
   madBox = [
     {reward: "Pumpkin x5"},
-    {reward: "Spider Web x5"},
-    {reward: "Orange Pumpkin Sweet x4"},
+    {reward: "Spider's Web x5"},
+    {reward: "Yellow Pumpkin Sweet x4"},
     {reward: "Black Pumpkin Sweet x2"},
     {reward: "Pumpkin Syrup x1"},
     {reward: "Spider King Eye x1"},

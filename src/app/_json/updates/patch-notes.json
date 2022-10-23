@@ -1,5 +1,36 @@
 [
     {
+        "patchnotesname": "Patch Notes - 23/10/2022",
+        "classes": [
+            {
+                "name": "Overall Changes & Fixes",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Halloween Event",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "Halloween event is available from now on and will last 3 WEEKS." }
+
+                        ]
+                    },
+                    {
+                        "topicname": "Changes with Halloween",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "-  Instant Combat is has been replaced with Horror Instant Combat for 3 weeks." },
+                            { "change": "-  Plague costume set got reworked with Halloween Event, details into wiki." },
+                            { "change": "-  Pumpkin Bushtail pet got reworked with Halloween Event, details into wiki." },
+                            { "change": "-  Aesthetic amulets will have buffs with Halloween Event, we also added a new one." },
+                            { "change": "-  Changed buff icons of Frankestein & Hongbi Partner Cards." }
+
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "patchnotesname": "Patch Notes - 19/10/2022",
         "classes": [
             {
