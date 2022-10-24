@@ -1,5 +1,41 @@
 [
     {
+        "patchnotesname": "Patch Notes - 24/10/2022",
+        "classes": [
+            {
+                "name": "Overall Changes & Fixes",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Changes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Replaced Giant Molar with Yellow Pumpkin Sweet into inventories." }
+
+                        ]
+                    },
+                    {
+                        "topicname": "Fixes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Fixed a bug where you got Giant Molar instead of Yellow Pumpkin Sweet from Instant Combat." },
+                            { "change": "- Fixed a bug where Jack'O'Lantern had unlimited entry. (Jack'O'Lantern is activated back.)" },
+                            { "change": "- Fixed a bug where Macavity Daily Quest wasn't working." },
+                            { "change": "-  Fixed a bug where you couldn’t sell pumpkin sweets to the NPC." }
+                        ]
+                    },
+                    {
+                        "topicname": "Battle Pass Changes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Next level of Battle Pass has been added." }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "patchnotesname": "Patch Notes - 23/10/2022",
         "classes": [
             {

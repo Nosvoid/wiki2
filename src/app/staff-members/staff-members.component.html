@@ -3,11 +3,11 @@
         <h1 class="staff-members-title-1">NosVoid Team Members</h1>
         <div class="all-staff-members">
             <div class="staff-category" *ngFor="let cat of leadTeam">
-                <h2 class="staff-members-title-2">{{cat.category}}</h2>
+                <h2 class="staff-members-title-2 {{cat.class}}">{{cat.category}}</h2>
                 <div class="lead-members">
                     <div class="staff-member" *ngFor="let member of cat.members">
                         <div class="staff-member-infos">
-                            <h3 class="staff-members-title-3"><span>{{member.name}}</span> - {{member.roles}}</h3>
+                            <h3 class="staff-members-title-3"><span class="{{cat.class}}">{{member.name}}</span> - {{member.roles}}</h3>
                             <h4 class="staff-members-title-4">[{{member.languages}}]</h4>
                         </div>
                         <img src="../../assets/img/crew/{{member.img}}.png" alt="">
@@ -15,11 +15,11 @@
                 </div>
             </div>
             <div class="staff-category" *ngFor="let cat of staffMembers">
-                <h2 class="staff-members-title-2">{{cat.category}}</h2>
+                <h2 class="staff-members-title-2 {{cat.class}}">{{cat.category}}</h2>
                 <div class="staff-members">
                     <div class="staff-member" *ngFor="let member of cat.members">
                         <div class="staff-member-infos">
-                            <h3 class="staff-members-title-3"><span>{{member.name}}</span> - {{member.roles}}</h3>
+                            <h3 class="staff-members-title-3"><span class="{{member.class}}">{{member.name}}</span> - {{member.roles}}</h3>
                             <h4 class="staff-members-title-4">[{{member.languages}}]</h4>
                         </div>
                         <img src="../../assets/img/crew/{{member.img}}.png" alt="">

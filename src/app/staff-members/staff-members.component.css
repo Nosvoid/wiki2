@@ -26,10 +26,8 @@
 .staff-members-title-2 {
     font-size: 2.5rem;
     margin-top: 1em;
-    color: var(--void-clr);
     text-align: center;
     width: 75%;
-    border: solid 1px var(--void-clr);
     border-radius: 20px;
     padding-block: .5em;
     line-height: 1.3em;
@@ -42,7 +40,6 @@
 }
 
 .staff-members-title-3 span {
-    color: var(--void-clr);
     font-weight: bold;
     font-size: 2.2rem;
 }
@@ -59,6 +56,7 @@
     justify-content: space-between;
     text-align: center;
     margin-block: 2em;
+    padding-inline: 1em;
     border-radius: 10px;
     transition: background-color .3s ease-in-out;
 }
@@ -79,6 +77,80 @@
 
 .all-staff-members {
     padding-inline: 2em;
+}
+
+h2.lead-team {
+    color: var(--lead-team-clr);
+    border: solid 1px var(--lead-team-clr);
+}
+
+h2.admin-team {
+    border: solid 1px var(--void-clr);
+    color: var(--void-clr);
+}
+
+.lead-team {
+    color: var(--lead-team-clr);
+}
+
+.sgm {
+    color: var(--sgm-clr)
+}
+
+.team-manager {
+    color: var(--tm-clr)
+}
+
+.web-dev {
+    color: var(--web-dev-clr);
+}
+
+.head-balance {
+    color: var(--head-balance-clr);
+}
+
+h2.gm {
+    color: var(--gm-clr);
+    border: solid 1px var(--gm-clr);
+}
+
+.wiki-dev {
+    color: var(--69-clr);
+}
+
+.gm {
+    color: var(--gm-clr);
+}
+
+h2.junior {
+    color: var(--junior-gd-clr);
+    border: solid 1px var(--junior-gd-clr);
+}
+
+.junior {
+    color: var(--junior-gd-clr);
+}
+
+h2.supp {
+    color: var(--gs-clr);
+    border: solid 1px var(--gs-clr);
+}
+
+.supp {
+    color: var(--gs-clr);
+}
+
+.tech {
+    color: var(--tech-helper-clr);
+}
+
+h2.tgs {
+    color: var(--tgs-clr);
+    border: solid 1px var(--tgs-clr);
+}
+
+.tgs {
+    color: var(--tgs-clr);
 }
 
 /* Media queries */
