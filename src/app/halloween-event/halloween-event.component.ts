@@ -18,12 +18,12 @@ export class HalloweenEventComponent implements OnInit {
   ]
 
   halloSpeBox = [
-    {reward: "Spider's Web x10"},
-    {reward: "Pumpkin x10"},
+    {reward: "Spider's Web x6"},
+    {reward: "Pumpkin x6"},
     {reward: "Purple Pumpkin Sweet x2"},
     {reward: "Spider King Eye x1"},
     {reward: "Pumpkin Syrup x1"},
-    {reward: "Pumpkin Title"},
+    {reward: "Pumpkin Title x1"},
   ]
 
   jackBox = [
