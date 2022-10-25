@@ -1,5 +1,35 @@
 [
     {
+        "patchnotesname": "Patch Notes - 25/10/2022",
+        "classes": [
+            {
+                "name": "Overall Changes & Fixes",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Changes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Removed the confirm when you open Mad Professor Macavity's Raid Seal." },
+                            { "change": "- Removed the confirm when you open Giant Black Spider Seal." }
+
+                        ]
+                    },
+                    {
+                        "topicname": "Fixes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Fixed a bug that you needed one more material to exchange stuff than it's written on Halloween Exchange NPC." },
+                            { "change": "-  Fixed a visual bug of Macavity's Blessing buff, where it had MP instead of HP." },
+                            { "change": "- Fixed a bug where you couldn't get rewards from Macavity Daily Quest." },
+                            { "change": "-  Fixed a bug that Noble Crystal Bracelet wasn't working properly." }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "patchnotesname": "Patch Notes - 24/10/2022",
         "classes": [
             {
