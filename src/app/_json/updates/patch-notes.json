@@ -1,5 +1,26 @@
 [
     {
+        "patchnotesname": "Patch Notes - 26/10/2022",
+        "classes": [
+            {
+                "name": "Overall Changes & Fixes",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Changes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Magic damage is increased by 10 > 20 in raids on Plague Mask/Hat." },
+                            { "change": "- Magic damage is increased by 10 > 20 in raids on Plague Doctor/Nurse Costume." },
+                            { "change": "- You can now sell Simp and Sugar Mommy titles to the NPC for 10kk" }
+
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "patchnotesname": "Patch Notes - 25/10/2022",
         "classes": [
             {

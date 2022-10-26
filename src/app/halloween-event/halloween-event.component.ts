@@ -182,7 +182,7 @@ export class HalloweenEventComponent implements OnInit {
         {quest: "• Successfully complete 5x Jack'O'Lantern Raid"},
       ],
       rewards: [
-        {reward: "- 1x Little Devil"},
+        {reward: "- 1x Demonic Orb"},
       ]
     },
   ]
