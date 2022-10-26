@@ -68,11 +68,6 @@ export class HalloweenEventComponent implements OnInit {
       buff: "../../assets/img/halloween-event/amulet_m.png"
     },
     {
-      icon: "baby_panda_icon",
-      name: "Baby Panda", 
-      buff: "../../assets/img/pets/buffs/baby_panda.png"
-    },
-    {
       icon: "pumpkin_hat_icon",
       name: "Glowing Pumkin Hat", 
       buff: "../../assets/img/costumes/hats/glowing_pumpkin_hat.png"
