@@ -3,6 +3,44 @@
         "patchnotesname": "Patch Notes - 26/10/2022",
         "classes": [
             {
+                "name": "Mage",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Holy Mage SP",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "• Heaven Song :" },
+                            { "change": "- Cooldown 20 > 30 seconds." },
+                            { "change": "- Duration of Debuff 7 > 3 seconds." }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Overall Changes & Fixes",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Fixes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Fixed a bug where Group Healing had broken damage in PVE." },
+                            { "change": "- Fixed a visual bug on Plague Costume Set Buffs." },
+                            { "change": "- Fixed a bug that you couldn't get buff from Zombikit Bride." },
+                            { "change": "-  Fixed a bug that you couldn't get buff from Skelekat Groom Pet." },
+                            { "change": "- Fixed a bug that you couldn't get buff from Macavity Pet." }
+
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patchnotesname": "Patch Notes - 26/10/2022",
+        "classes": [
+            {
                 "name": "Overall Changes & Fixes",
                 "hide": "",
                 "topic": [
