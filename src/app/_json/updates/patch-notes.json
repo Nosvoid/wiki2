@@ -1,5 +1,27 @@
 [
     {
+        "patchnotesname": "Patch Notes - 27/10/2022",
+        "classes": [
+            {
+                "name": "Overall Changes & Fixes",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Fixes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Fixed a bug where Nightmare Title effects wasn't working properly." },
+                            { "change": "- Fixed a bug where you couldn't trade Aesthetic Amulets." },
+                            { "change": "- Fixed a visual issue on Aesthetic Amulet (Male) that had wrong type of buff in visual." },
+                            { "change": "- Fixed visual bugs of specialist changes." }
+    
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "patchnotesname": "Patch Notes - 26/10/2022",
         "classes": [
             {

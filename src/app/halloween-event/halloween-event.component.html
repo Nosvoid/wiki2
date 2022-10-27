@@ -118,11 +118,18 @@
 		<div class="halloween-quest" *ngFor="let quest of dailyQuests">
 			<h3 class="halloween-title-3 text-center">{{quest.name}}</h3>
 			<p class="halloween-text text-center" *ngFor="let todo of quest.todo">{{todo.quest}}</p>
-			<h4 class="halloween-title-4 text-center">Rewards :</h4>
+			<h4 class="halloween-title-4 text-center">Reward(s) :</h4>
 			<ul class="quest-rewards">
           		<li class="quest-reward" *ngFor="let reward of quest.rewards">{{reward.reward}}</li>
         	</ul>
     	</div>
     </div>
+    <h2 class="halloween-title-2">Marathon Quest (Not repeatable)</h2>
+	<h3 class="halloween-title-3 text-center">Jack O'Lantern Marathon</h3>
+	<p class="halloween-text text-center">• Successfully complete 50x Jack O'Lantern Raid</p>
+	<h4 class="halloween-title-4 text-center" style="color: var(--void-clr)">Reward :</h4>
+	<ul class="quest-rewards">
+		<li class="quest-reward">- 20x Halloween Special Box</li>
+	</ul>
   </section>
 </div>
