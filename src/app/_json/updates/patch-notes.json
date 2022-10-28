@@ -13,7 +13,8 @@
                             { "change": "- Fixed a bug where you couldn't trade one of female amulets." },
                             { "change": "- Fixed a bug that you couldn't see one of female amulets in visual." },
                             { "change": "-  Fixed a bug where Single Heal Player buff wasn't working properly." },
-                            { "change": "- Fixed a bug where Pumpkin Blessing effects wasn't working properly." }
+                            { "change": "- Fixed a bug where Pumpkin Blessing effects wasn't working properly." },
+                            { "change": "-  Fixed a bug where you couldn't get buff from Macavity Pet." }
     
                         ]
                     },
@@ -22,6 +23,7 @@
                         "topicclass": "",
                         "changes": [
                             { "change": "- Added Halloween NosVille." },
+                            { "change": "- Changed position of '' Exchange Stuff '' NPC since it was buggy after Halloween NosVille." },
                             { "change": "- Changed Maximum Option level to 10, Piece Numbers to 4 on Noble Crystal Bracelet." }    
                         ]
                     },
