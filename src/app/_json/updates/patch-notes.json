@@ -1,5 +1,44 @@
 [
     {
+        "patchnotesname": "Patch Notes - 28/10/2022",
+        "classes": [
+            {
+                "name": "Overall Changes & Fixes",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Fixes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Fixed a bug where you couldn't trade one of female amulets." },
+                            { "change": "- Fixed a bug that you couldn't see one of female amulets in visual." },
+                            { "change": "-  Fixed a bug where Single Heal Player buff wasn't working properly." },
+                            { "change": "- Fixed a bug where Pumpkin Blessing effects wasn't working properly." }
+    
+                        ]
+                    },
+                    {
+                        "topicname": "Changes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Added Halloween NosVille." },
+                            { "change": "- Changed Maximum Option level to 10, Piece Numbers to 4 on Noble Crystal Bracelet." }    
+                        ]
+                    },
+                    {
+                        "topicname": "Balance",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "We decided to nerf sweet prices due you were getting too much gold from them." },
+                            { "change": "- Yellow Pumpkin Sweet price : 7KK > 3KK" },
+                            { "change": "- Black Pumpkin Sweet price : 50KK > 25KK" }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "patchnotesname": "Patch Notes - 27/10/2022",
         "classes": [
             {
