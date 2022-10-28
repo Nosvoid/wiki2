@@ -1,7 +1,7 @@
 [
     {
         "name": "Baby Panda",
-        "location": "Can be crafted during Halloween Event",
+        "location": "Can be obtained in the Fortune Wheel",
         "buff": "baby_panda",
         "skin": "baby_panda",
         "class": "pvp"
