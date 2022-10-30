@@ -21,6 +21,13 @@
         "class": "pvp"
     },
     {
+        "name": "Centurio Bushtail",
+        "location": "Can be obtained in the chest after killing the Bushi King boss, map 40-50 $warp p8",
+        "buff": "centurio",
+        "skin": "centurio",
+        "class": "raid"
+    },
+    {
         "name": "Chick Norris",
         "location": "Can be obtained during Evolution Event",
         "buff": "chick_norris",

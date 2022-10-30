@@ -1,5 +1,57 @@
 [
     {
+        "patchnotesname": "Patch Notes - 30/10/2022",
+        "classes": [
+            {
+                "name": "Overall Changes & Fixes",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Fixes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Fixed the bug where '' The equipped fairy's element increases by x '' buff wasn't working properly." },
+                            { "change": "- Fixed the issue that '' magic damage in Raids is increased by x% '' buff wasn't working properly." },
+                            { "change": "-  Fixed the bug where you could use Change tattoo item even if you don't have +9 tattoos." },
+                            { "change": "- Fixed the bug where 4th co leader of family couldn't use family summoning horn." },
+                            { "change": "- Fixed the issue where you get kicked from rbb when a seer kills you with ULT." },
+                            { "change": "- Fixed the bug where you couldn't use seals and raid portals could disappear." },
+                            { "change": "- Fixed the visual bug on Rat Hat, that it still had stun in visual." },
+                            { "change": "- Fixed the issue where pets still moving in Rainbow Battle." },
+                            { "change": "- Fixed the bug where some meals had wrong buffs in visual." },
+                            { "change": "- Fixed the bug where Axe of Fury skill wasn't working." },
+                            { "change": "- Fixed the issue where Pumpkin title had wrong color." }
+    
+                        ]
+                    },
+                    {
+                        "topicname": "Changes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Added a message as reminder when you join to Rainbow Battle, that will show you available commands in RBB. Such as $ff" },
+                            { "change": "- Added a message that will show you need to be 99+60 to join Prestige 7 Tower Game. (If your level is not 99+60)" },
+                            { "change": "- Made that you will get more Rainbow Coins for wins. Unranked 2, Bronze 3, Silver 4, Gold 5, Plat 6 and Diamond 7." },
+                            { "change": "- You can now join Prestige 7 Tower Game via NPC with the group. (Group-Tower letter is removed.)" },
+                            { "change": "- Added a message which will make you see the effect after successfully upgrading your rune." },
+                            { "change": "- Made invisible in Rainbow Battle just run out the moment you start to capture a crystal." },
+                            { "change": "- - Made that everyone who hits Bushi King boss will receive reward." },
+                            { "change": "- Introduced new Rep Icons for 45kk Rep and 85kk Rep." },
+                            { "change": "- Made Ancelloan and Fairy Booster stackable." },
+                            { "change": "- You can now use Bell of Sweet Home in Act4." }    
+                        ]
+                    },
+                    {
+                        "topicname": "Battle Pass Changes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Next level of Battle Pass has been added." }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "patchnotesname": "Patch Notes - 28/10/2022",
         "classes": [
             {
