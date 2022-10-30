@@ -18,7 +18,7 @@
                 </div>
             </div>
         </div>
-        <div class="shop-updates-system" *ngFor="let update of randomBox">
+        <!-- <div class="shop-updates-system" *ngFor="let update of randomBox">
             <h2 class="shop-updates-title-2">
                 Random Box Rotation <br>
                 Last Update : 
@@ -27,7 +27,7 @@
             <h3 class="shop-updates-title-3">What is Random Box : It's a new feature that you can get one main prize from box depends on your luck. Each box costs <span class="purple">25 COINS</span>.</h3>
             <h2 class="shop-updates-title-4">
                 <img src="../../assets/img/shop-update/koala_box.png" alt="">
-                Koala Random Box <br>
+                {{update.boxName}}
             </h2>
             <div class="shop-reward-items" *ngFor="let main of update.mainItem">
                 <div>
@@ -44,7 +44,7 @@
                     </ul>
                 </div>
             </div>
-        </div>
+        </div> -->
     </section>
 </div>
 
