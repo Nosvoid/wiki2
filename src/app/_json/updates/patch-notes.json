@@ -1,5 +1,28 @@
 [
     {
+        "patchnotesname": "Patch Notes - 31/10/2022",
+        "classes": [
+            {
+                "name": "Overall Changes & Fixes",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Fixes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Fixed the Caligor spawn bug." },
+                            { "change": "- Fixed the issue where you couldn't leave Caligor." },
+                            { "change": "- Fixed the issue that new carve runes popup message were giving wrong informations." },
+                            { "change": "- Fixed the issue where you couldn't wear Angler and Chef Specialist Cards when you have new reputations." },
+                            { "change": "- Fixed server time." }
+    
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "patchnotesname": "Patch Notes - 30/10/2022",
         "classes": [
             {
