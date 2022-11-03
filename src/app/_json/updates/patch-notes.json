@@ -1,5 +1,33 @@
 [
     {
+        "patchnotesname": "Patch Notes - 03/11/2022",
+        "classes": [
+            {
+                "name": "Overall Changes & Fixes",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Fixes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Fixed a bug where Spooky Buff wasn't working." },
+                            { "change": "- Fixed a bug where Nutritious Bamboo buff wasn't working." },
+                            { "change": "- Fixed a bug that you couldn't use $unstuck in caligor." }
+    
+                        ]
+                    },
+                    {
+                        "topicname": "Battle Pass Changes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Next level of Battle Pass has been added." }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "patchnotesname": "Patch Notes - 31/10/2022",
         "classes": [
             {
