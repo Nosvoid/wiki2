@@ -122,13 +122,6 @@ export class StaffMembersComponent implements OnInit {
           img: "wiki_dev_male"
         },
         {
-          name: "Megumin",
-          class: "gm",
-          roles: "Game Master",
-          languages: "TR/ENG",
-          img: "gm_male"
-        },
-        {
           name: "Senka",
           class: "gm",
           roles: "Game Master",
