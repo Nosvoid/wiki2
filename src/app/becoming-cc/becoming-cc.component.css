@@ -8,7 +8,8 @@
     background-color: rgba(0, 0, 0, .8);
     border-radius: 20px;
     width: 100%;
-    padding: 3em 0;
+    padding: 3em 1em;
+    text-align: center;
 }
 
 .become-cc-title-1,
@@ -53,11 +54,6 @@
     line-height: 1.5em;
 }
 
-.become-cc {
-    text-align: center;
-    width: 75%;
-}
-
 .cc-ranks,
 .yt-views,
 .twitch-views,
@@ -94,6 +90,7 @@
 }
 
 .views {
+    display: grid;
     gap: 1em;
 }
 
@@ -156,11 +153,10 @@
 
 /* Media queries */
 @media all and (min-width: 1140px) {
-    .become-cc-content {
+    .become-cc {
         width: 75%;
     }
     .views {
-        display: grid;
         grid-template-columns: repeat(2, 1fr);
         padding: 2em;
     }
