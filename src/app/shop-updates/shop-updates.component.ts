@@ -9,36 +9,36 @@ export class ShopUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "30/10/2022",
+        date: "04/11/2022",
         items: [
             {
-                name: "Archangel Lucifer",
-                img: "../assets/img/psps/buffs/archangel_lucifer.png"
+                name: "Azuris",
+                img: "../assets/img/fairies/azuris.png"
             },
             {
-                name: "Baby Panda",
-                img: "../assets/img/pets/buffs/baby_panda.png"
+                name: "Caligor Golden Horn",
+                img: "../assets/img/helmets-masks/caligor_horn.png"
             },
             {
-              name: "Into the Void Title",
-              img: "../assets/img/titles/into_the_void.png"
+              name: "Change Tattoo Item x10",
+              img: ""
             },
             {
-              name: "Knight Costume Set",
-              img: "../assets/img/costumes/all-sets/buffs/knight_buffs.png"
+              name: "Change Wings Item",
+              img: ""
             },
             {
-                name: "Lucy",
-                img: "../assets/img/psps/buffs/lucy.png"
+              name: "Shadow Master Bunny",
+              img: "../assets/img/pets/buffs/master_bunny.png"
             },
             {
-              name: "Pirate Lord Title",
-              img: "../assets/img/titles/pirate_lord.png"
+              name: "Shadow Snow Fox",
+              img: "../assets/img/pets/buffs/snow_fox.png"
             },
             {
-              name: "Shooting Star Title",
-              img: "../assets/img/titles/shooting_star.png"
-            },
+              name: "Solaris",
+              img: "../assets/img/fairies/solaris.png"
+          },
         ]
     }
 ]
