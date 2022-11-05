@@ -45,7 +45,7 @@ export class ShopUpdatesComponent implements OnInit {
 
   randomBox = [
     {
-      date: "30/10/2022",
+      date: "05/11/2022",
       boxName : 'Otter Random Box',
       mainItem: [
         {
@@ -61,7 +61,7 @@ export class ShopUpdatesComponent implements OnInit {
           {name: "x20 Rarify item"},
           {name: "x20 Upgrade Item"},
           {name: "x10 Jewels Bag"},
-          {name: "x2 Partner Skillticket(all)"},
+          {name: "x2 Partner Skill ticket (all)"},
           {name: "x1 Renaming Card"}
       ]
   }

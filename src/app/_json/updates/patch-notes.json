@@ -1,5 +1,32 @@
 [
     {
+        "patchnotesname": "Patch Notes - 05/11/2022",
+        "classes": [
+            {
+                "name": "Overall Changes & Fixes",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Changes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Equipment, Carve Runes & Tattoo Changes : " },
+                            { "change": "https://nosvoid.com/news/balance-changes/" }
+                        ]
+                    },
+                    {
+                        "topicname": "Early Game Update",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Removed C25 Equipments from inventories and level rewards." },
+                            { "change": "- Added '' Starter Pack : PvE Equipments '' NPC at $home. You can now get 88 level PvE equipments for free." }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "patchnotesname": "Patch Notes - 03/11/2022",
         "classes": [
             {
