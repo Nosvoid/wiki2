@@ -10,6 +10,33 @@
                         "topicname": "Changes",
                         "topicclass": "",
                         "changes": [
+                            { "change": "- Bear Strike +7 / +8 / +9 from 60 seconds to 180 seconds." },
+                            { "change": "- Removed additional rewards from Family Tower Game." },
+                            { "change": "- Overall attack power is increased by 30% > 35% of magic defense on Attack Magic +9." }
+                        ]
+                    },
+                    {
+                        "topicname": "Fixes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Fixed a bug where PvE God Debuff wasn't working properly." }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patchnotesname": "Patch Notes - 05/11/2022",
+        "classes": [
+            {
+                "name": "Overall Changes & Fixes",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Changes",
+                        "topicclass": "",
+                        "changes": [
                             { "change": "- Equipment, Carve Runes & Tattoo Changes : " },
                             { "change": "https://nosvoid.com/news/balance-changes/" }
                         ]
