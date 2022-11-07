@@ -10,6 +10,9 @@
                         "topicname": "Demon Hunter SP",
                         "topicclass": "",
                         "changes": [
+                            { "change": "• Spirit Explosion :" },
+                            { "change": "- Cooltime from 10 seconds to > 18 seconds." },
+                            { "change": "- 60% chance to heal 4950 (Plvl 50)HP > Heal 1980 HP" },
                             { "change": "• Berserker Spirit :" },
                             { "change": "- Restores 10,000 HP > 5000 HP" },
                             { "change": "• Strong Berserker Spirit :" },
@@ -97,6 +100,7 @@
                         "changes": [
                             { "change": "- Fixed bug with new 88 level PvE Equipment stats." },
                             { "change": "- Fixed a bug where PvE God debuff would appear on player." },
+                            { "change": "- Fixed a bug where Holy Light  was applying ' Demoralisation ' Debuff." },
                             { "change": "- Fixed a bug where Holy Light debuff was applying ' Demoralisation ' Debuff." }
                         ]
                     },
