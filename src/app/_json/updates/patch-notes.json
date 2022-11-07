@@ -1,5 +1,117 @@
 [
     {
+        "patchnotesname": "Patch Notes - 07/11/2022",
+        "classes": [
+            {
+                "name": "Archer",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Demon Hunter SP",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "• Berserker Spirit :" },
+                            { "change": "- Restores 10,000 HP > 5000 HP" },
+                            { "change": "• Strong Berserker Spirit :" },
+                            { "change": "- Increase damage from critical 20% > 0" },
+                            { "change": "- All attacks increased by 297 > 198 (Plvl 2)" },
+                            { "change": "• Moon Shadow Pendelum :" },
+                            { "change": "- Cut Debuff got replaced with Weaken Defence Power." },
+                            { "change": "- Weaken Defence Power from “All defence decrease by 200” to “Defence level decreased by 4”." }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Martial Artist",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Demon Warrior SP",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "• Blood Chains :" },
+                            { "change": "- 50% chance to leech 4950(Plvl 50) HP >> chance to leech 3500 HP" }
+                        ]
+                    }                    
+                ]
+            },
+            {
+                "name": "Swordsman",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Battle Monk SP",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "• Restart :" },
+                            { "change": "- There is 70% chance for ' Critical Energy Deficiency ' > 55%" },
+                            { "change": "• Spirit of Sacrifice :" },
+                            { "change": "- Every 2 sec restore 1485 (plvl *15) HP >> Every 2 sec restore 198 (Plvl 2) HP" }
+                        ]
+                    },
+                    {
+                        "topicname": "Death Reaper SP",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "• Bloodsucker :" },
+                            { "change": "- Cooltime from 20 seconds to 30 seconds" },
+                            { "change": "- 60% chance to leech 4950 (Plvl 50) HP >> Restores 1980 HP" },
+                            { "change": "• Spirit Absorption :" },
+                            { "change": "- Duration from 15 seconds to 5 seconds." }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Mage",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Holy Mage SP",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "• Healing :" },
+                            { "change": "- Removed Restores 4950 (Plvl 50) HP" },
+                            { "change": "• Bones Crash :" },
+                            { "change": "- Removed “Demoralisation” and decreased cool time from 70 seconds to 30." }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Overall Changes & Fixes",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Changes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Nerfed Long Range defence on Mage C60 Armour." },
+                            { "change": "- Buffed dagger critical damage by 10% and added +80 base damage (both maximum and minimum)" }
+                        ]
+                    },
+                    {
+                        "topicname": "Fixes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Fixed bug with new 88 level PvE Equipment stats." },
+                            { "change": "- Fixed a bug where PvE God debuff would appear on player." },
+                            { "change": "- Fixed a bug where Holy Light debuff was applying ' Demoralisation ' Debuff." }
+                        ]
+                    },
+                    {
+                        "topicname": "Battle Pass Changes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Next level of Battle Pass has been added." }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "patchnotesname": "Patch Notes - 05/11/2022",
         "classes": [
             {
