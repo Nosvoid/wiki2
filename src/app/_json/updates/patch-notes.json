@@ -1,5 +1,48 @@
 [
     {
+        "patchnotesname": "Patch Notes - 09/11/2022",
+        "classes": [
+            {
+                "name": "Archer",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Demon Hunter SP",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "• Strong Berserker Spirit :" },
+                            { "change": "- Increase damage from critical 0 > 20%" },
+                            { "change": "- All attacks increased by 198 > 297 (Plvl 3)" }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Overall Changes & Fixes",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Caligor Monthly Reward Changes :",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "[REMOVED] Caligor's Golden Horn" },
+                            { "change": "[ADDED] Batman Mask" },
+                            { "change": "- Quest has been reseted and materials are deleted from the inventories." }
+                        ]
+                    },
+                    {
+                        "topicname": "Fixes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Fixed a bug where Spooky Spooky had 50 minutes duration." },
+                            { "change": "- Fixed a bug where you could get stuck if you wear 88lvl dagger." }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "patchnotesname": "Patch Notes - 07/11/2022",
         "classes": [
             {
