@@ -127,6 +127,13 @@ export class StaffMembersComponent implements OnInit {
           roles: "Game Master",
           languages: "ITA/ENG",
           img: "gm_male"
+        },
+        {
+          name: "TheAnnoyingCat",
+          class: "tgm",
+          roles: "Trial Game Master",
+          languages: "ES/ENG",
+          img: "gm_female"
         }
       ]
     },
@@ -134,13 +141,6 @@ export class StaffMembersComponent implements OnInit {
       category: "NosVoid Junior Game Designer Team",
       class: "junior",
       members: [
-        {
-          name: "GayBoysAdmirer",
-          class: "junior",
-          roles: "Junior Game Designer",
-          languages: "PL/ENG",
-          img: "jgd_male"
-        },
         {
           name: "Morgoth",
           class: "junior",
@@ -189,13 +189,6 @@ export class StaffMembersComponent implements OnInit {
           languages: "PL/ENG",
           img: "gs_male"
         },
-        {
-          name: "TheAnnoyingCat",
-          class: "supp",
-          roles: "Game Supporter",
-          languages: "ES/ENG",
-          img: "gs_female"
-        }
       ]
     },
     {

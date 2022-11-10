@@ -121,6 +121,9 @@ h2.gm {
 .gm {
     color: var(--gm-clr);
 }
+.tgm {
+    color: var(--tgm-clr);
+}
 
 h2.junior {
     color: var(--junior-gd-clr);
