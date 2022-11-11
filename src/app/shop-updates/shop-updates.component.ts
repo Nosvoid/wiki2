@@ -9,36 +9,36 @@ export class ShopUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "04/11/2022",
+        date: "11/11/2022",
         items: [
             {
-                name: "Azuris",
-                img: "../assets/img/fairies/azuris.png"
+                name: "Aegir",
+                img: "../assets/img/psps/buffs/aegir.png"
             },
             {
-                name: "Caligor Golden Horn",
-                img: "../assets/img/helmets-masks/caligor_horn.png"
+                name: "Barni",
+                img: "../assets/img/psps/buffs/barni.png"
             },
             {
-              name: "Change Tattoo Item x10",
-              img: ""
+              name: "Eater Bunny Chest",
+              img: "../assets/img/costumes/all-sets/buffs/easter_bunny_buffs.png"
             },
             {
-              name: "Change Wings Item",
-              img: ""
+              name: "Freya",
+              img: "../assets/img/psps/buffs/freya.png"
             },
             {
-              name: "Shadow Master Bunny",
+              name: "Knight Costume Set",
+              img: "../assets/img/costumes/all-sets/buffs/knight_buffs.png"
+            },
+            {
+              name: "Master Bunny",
               img: "../assets/img/pets/buffs/master_bunny.png"
             },
             {
-              name: "Shadow Snow Fox",
-              img: "../assets/img/pets/buffs/snow_fox.png"
+              name: "Master of The Sea",
+              img: "../assets/img/titles/master_of_the_sea.png"
             },
-            {
-              name: "Solaris",
-              img: "../assets/img/fairies/solaris.png"
-          },
         ]
     }
 ]
