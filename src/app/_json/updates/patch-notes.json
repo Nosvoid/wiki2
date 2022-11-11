@@ -3,6 +3,47 @@
         "patchnotesname": "Patch Notes - 09/11/2022",
         "classes": [
             {
+                "name": "Overall Changes & Fixes",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Changes :",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Changed Reduces cooldown of skills by 10 > 25% on Aesthetic Amulet (Male.)" },
+                            { "change": "- Cooking Time! (Daily) Quest added on Chef Specialist Card & Title NPC." },
+                            { "change": "- Changed duration of Curse Tattoo from 40 seconds to 180 seconds." },
+                            { "change": "- Blocked pets and partners in Meteorite Game." }
+                        ]
+                    },
+                    {
+                        "topicname": "Fixes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Fixed a bug where Rainbow Battle could be bugged when you get someone from your black list." },
+                            { "change": "- Fixed a bug of C60 equipments that it had 15% raid damage instead of 30% in visual." },
+                            { "change": "- Fixed a bug that Dream World Ticket buff wasn't disappearing after a hit." },
+                            { "change": "- Fixed a bug where Arcane Wisdom had previous stats in visual." },
+                            { "change": "- Removed heal from Spirit Explosion and added 100% chance to heal 3564 HP on Vengeful spirit Onslaught Skill. (Not updated in visual yet.)" },
+                            { "change": "- Fixed a issue that craft stuff was disappeared from Chef Specialist Card & Title NPC." },
+                            { "change": "- Fixed a bug where Reaper title wasn't working properly." }
+                        ]
+                    },
+                    {
+                        "topicname": "Battle Pass Changes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Next level of Battle Pass has been added." }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patchnotesname": "Patch Notes - 09/11/2022",
+        "classes": [
+            {
                 "name": "Archer",
                 "hide": "",
                 "topic": [
