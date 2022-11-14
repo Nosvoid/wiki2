@@ -1,5 +1,25 @@
 [
     {
+        "patchnotesname": "Patch Notes - 12/11/2022",
+        "classes": [
+            {
+                "name": "Overall Changes & Fixes",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Changes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Changed duration of Bear Strike (+0 to +6) to 180 seconds." },
+                            { "change": "- Changed duration of Curse (+0 to +8) to 180 seconds." },
+                            { "change": "- Replaced heal on Bloodsucker skill with the 'There is a 40% chance of causing Shock.'" }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "patchnotesname": "Patch Notes - 10/11/2022",
         "classes": [
             {
