@@ -9,35 +9,35 @@ export class ShopUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "11/11/2022",
+        date: "17/11/2022",
         items: [
             {
-                name: "Aegir",
-                img: "../assets/img/psps/buffs/aegir.png"
+                name: "Azuris",
+                img: "../assets/img/fairies/azuris.png"
             },
             {
-                name: "Barni",
-                img: "../assets/img/psps/buffs/barni.png"
+              name: "Baby Panda",
+              img: "../assets/img/pets/buffs/baby_panda.png"
             },
             {
-              name: "Eater Bunny Chest",
-              img: "../assets/img/costumes/all-sets/buffs/easter_bunny_buffs.png"
+              name: "Into the Void",
+              img: "../assets/img/titles/into_the_void.png"
             },
             {
-              name: "Freya",
-              img: "../assets/img/psps/buffs/freya.png"
+              name: "Koala",
+              img: "../assets/img/pets/buffs/koala.png"
             },
             {
-              name: "Knight Costume Set",
-              img: "../assets/img/costumes/all-sets/buffs/knight_buffs.png"
+              name: "Shadow Snow Fox",
+              img: "../assets/img/pets/buffs/snow_fox.png"
             },
             {
-              name: "Master Bunny",
-              img: "../assets/img/pets/buffs/master_bunny.png"
+              name: "Shooting Star",
+              img: "../assets/img/titles/shooting_star.png"
             },
             {
-              name: "Master of The Sea",
-              img: "../assets/img/titles/master_of_the_sea.png"
+                name: "Solaris",
+                img: "../assets/img/fairies/solaris.png"
             },
         ]
     }
@@ -45,13 +45,25 @@ export class ShopUpdatesComponent implements OnInit {
 
   randomBox = [
     {
-      date: "05/11/2022",
-      boxName : 'Otter Random Box',
+      date: "17/11/2022",
+      boxName : 'Partner Random Box',
       mainItem: [
         {
-          name: "Otter",
-          img: "../../assets/img/pets/buffs/otter.png"
-        }
+          name: "Hongbi",
+          img: "../../assets/img/psps/buffs/hongbi.png"
+        },
+        {
+          name: "Lucy",
+          img: "../../assets/img/psps/buffs/lucy.png"
+        },
+        {
+          name: "Mad March Hare",
+          img: "../../assets/img/psps/buffs/mad_march.png"
+        },
+        {
+          name: "Venus",
+          img: "../../assets/img/psps/buffs/venus.png"
+        },
       ],
       items: [
           {name: "x2500 Angel's Feather"},
@@ -64,7 +76,7 @@ export class ShopUpdatesComponent implements OnInit {
           {name: "x2 Partner Skill ticket (all)"},
           {name: "x1 Renaming Card"}
       ]
-  }
+    }
   ]
 
   constructor() { }

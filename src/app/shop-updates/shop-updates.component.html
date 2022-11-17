@@ -29,11 +29,13 @@
                 <img src="../../assets/img/shop-update/koala_box.png" alt="">
                 {{update.boxName}}
             </h2>
-            <div class="shop-reward-items" *ngFor="let main of update.mainItem">
-                <div>
-                    <h3 class="shop-updates-title-3">Main Reward : </h3>
-                    <p class="shop-updates-text">{{main.name}}</p>
-                    <img src="{{main.img}}" alt="">
+            <div class="shop-reward-items">
+                <h3 class="shop-updates-title-3">Main Reward(s) : </h3>
+                <div class="main-items">
+                    <div *ngFor="let main of update.mainItem">
+                        <p class="shop-updates-text">{{main.name}}</p>
+                        <img src="{{main.img}}" alt="">
+                    </div>
                 </div>
                 <div>
                     <h3 class="shop-updates-title-3">Other Rewards : </h3>
