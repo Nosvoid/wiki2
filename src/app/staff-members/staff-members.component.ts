@@ -176,6 +176,20 @@ export class StaffMembersComponent implements OnInit {
           img: "gs_male"
         },
         {
+          name: "Flashkun",
+          class: "supp",
+          roles: "Game Supporter",
+          languages: "DE/ENG",
+          img: "gs_male"
+        },
+        {
+          name: "Galete",
+          class: "supp",
+          roles: "Game Supporter",
+          languages: "ES/ENG",
+          img: "gs_male"
+        },
+        {
           name: "Iremia",
           class: "supp",
           roles: "Game Supporter",
@@ -189,42 +203,56 @@ export class StaffMembersComponent implements OnInit {
           languages: "PL/ENG",
           img: "gs_male"
         },
-      ]
-    },
-    {
-      category: "NosVoid Trial Supporter Team",
-      class: "tgs",
-      members: [
-        {
-          name: "Flashkun",
-          class: "tgs",
-          roles: "Trial Game Supporter",
-          languages: "DE/ENG",
-          img: "gs_male"
-        },
-        {
-          name: "Galete",
-          class: "tgs",
-          roles: "Trial Game Supporter",
-          languages: "ES/ENG",
-          img: "gs_male"
-        },
         {
           name: "Shelby",
-          class: "tgs",
-          roles: "Trial Game Supporter",
+          class: "supp",
+          roles: "Game Supporter",
           languages: "CZ/ENG",
           img: "gs_male"
         },
         {
           name: "Sikario",
-          class: "tgs",
-          roles: "Trial Game Supporter",
+          class: "supp",
+          roles: "Game Supporter",
           languages: "PL/ENG",
           img: "gs_male"
         },
       ]
     },
+    // {
+    //   category: "NosVoid Trial Supporter Team",
+    //   class: "tgs",
+    //   members: [
+    //     {
+    //       name: "Flashkun",
+    //       class: "supp",
+    //       roles: "Game Supporter",
+    //       languages: "DE/ENG",
+    //       img: "gs_male"
+    //     },
+    //     {
+    //       name: "Galete",
+    //       class: "supp",
+    //       roles: "Game Supporter",
+    //       languages: "ES/ENG",
+    //       img: "gs_male"
+    //     },
+    //     {
+    //       name: "Shelby",
+    //       class: "supp",
+    //       roles: "Game Supporter",
+    //       languages: "CZ/ENG",
+    //       img: "gs_male"
+    //     },
+    //     {
+    //       name: "Sikario",
+    //       class: "supp",
+    //       roles: "Game Supporter",
+    //       languages: "PL/ENG",
+    //       img: "gs_male"
+    //     },
+    //   ]
+    // },
   ]
 
   constructor() { }

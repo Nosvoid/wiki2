@@ -1,5 +1,30 @@
 [
     {
+        "patchnotesname": "Patch Notes - 17/11/2022",
+        "classes": [
+            {
+                "name": "Overall Changes & Fixes",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Fixes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Fixed a bug where Rafting Costume set were invisible." }
+                        ]
+                    },
+                    {
+                        "topicname": "Battle Pass Changes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Battle Pass has been removed." }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "patchnotesname": "Patch Notes - 16/11/2022",
         "classes": [
             {
