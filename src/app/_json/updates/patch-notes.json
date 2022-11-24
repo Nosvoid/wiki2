@@ -1,5 +1,100 @@
 [
     {
+        "patchnotesname": "Patch Notes - 24/11/2022",
+        "classes": [
+            {
+                "name": "Overall Changes & Fixes",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Changes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "Halloween event has been removed and following items deleted from the game :" },
+                            { "change": "- Drop of Blood." },
+                            { "change": "- Vampire Fang." },
+                            { "change": "- Demonic Orb." },
+                            { "change": "- Pumpkin." },
+                            { "change": "- Pumpkin Syrup." },
+                            { "change": "- Spider Web." },
+                            { "change": "- Spider King Eye" },
+                            { "change": "- Mad Professor Macavity's Raid Ticket." },
+                            { "change": "- Halloween Special Box" },
+                            { "change": "- Mad Professor Macavity Raid Box." },
+                            { "change": "- Giant Black Spider Raid Box." },
+                            { "change": "- Jack'O'Lantern Raid Box." },
+                            { "change": "- Jack O'Lantern's Seal." },
+                            { "change": "- Mad Professor Macavity's Raid Seal." }
+                        ]
+                    },
+                    {
+                        "topicname": "Instant Combat Changes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "Vampire Fang and Drop of Blood removed from Instant Combat Rewards. BUT you will get same amount of black/yellow pumpkin sweets." }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patchnotesname": "Patch Notes - 23/11/2022",
+        "classes": [
+            {
+                "name": "Overall Changes & Fixes",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Fixes & Changes of Website-Related NosBazaar",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Fixed missing icons on Website Bazaar." },
+                            { "change": "- Fixed an issue, where some shells were wrong in visual on Website Bazaar. (Let us know if there's more)" },
+                            { "change": "- Fixed an issue, where you could see wrong pet information in Pet Bead." },
+                            { "change": "- Now, when you move your mouse over the Pet Bead icon, you will see icon of pet that inside bead." }
+                        ]
+                    },
+                    {
+                        "topicname": "Changes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Changed duration of Cower Tattoo to 3 minutes." },
+                            { "change": "- Nerfed Caligor HP by a bit." }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patchnotesname": "Patch Notes - 20/11/2022",
+        "classes": [
+            {
+                "name": "Overall Changes & Fixes",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Fixes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Fixed a bug where you needed reputation instead of gold to buy secondary PvE Equipments." },
+                            { "change": "- Fixed a bug where C55 Dagger had wrong stats in database." }
+                        ]
+                    },
+                    {
+                        "topicname": "Changes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Changed duration of Cower Tattoo to 3 minutes." },
+                            { "change": "- Nerfed Caligor HP by a bit." }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "patchnotesname": "Patch Notes - 17/11/2022",
         "classes": [
             {

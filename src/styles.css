@@ -98,6 +98,10 @@ html, body {
     display: flex;
 }
 
+.bold {
+    font-weight: bold;
+}
+
 .component-container {
     display: flex;
     justify-content: center;

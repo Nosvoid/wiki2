@@ -63,6 +63,7 @@ import { CookingSpComponent } from './cooking-sp/cooking-sp.component';
 import { MountsComponent } from './mounts/mounts.component';
 import { RainbowBattleComponent } from './rainbow-battle/rainbow-battle.component';
 import { HalloweenEventComponent } from './halloween-event/halloween-event.component';
+import { StarterGuideComponent } from './starter-guide/starter-guide.component';
 
 
 
@@ -76,7 +77,6 @@ const appRoutes: Routes = [
   { path: 'weapon-skins', component: WeaponSkinsComponent },
   { path: 'schedule', component: ScheduleComponent },
   { path: 'rules', component: RulesComponent },
-  { path: 'equipements', component: EquipementsComponent },
   { path: 'accessories', component: AccessoriesComponent },
   { path: 'fairies', component: FairiesComponent },
   { path: 'resistances', component: ResistancesComponent },
@@ -118,6 +118,7 @@ const appRoutes: Routes = [
   { path: 'rainbow-battle', component: RainbowBattleComponent },
   { path: 'mouse', component: MouseEventComponent },
   { path: 'halloween-event', component: HalloweenEventComponent },
+  { path: 'starter-guide', component: StarterGuideComponent },
   { path: '**', pathMatch: "full", component: ErrorPageComponent },
 ]
 
@@ -176,7 +177,8 @@ const appRoutes: Routes = [
     CookingSpComponent,
     MountsComponent,
     RainbowBattleComponent,
-    HalloweenEventComponent
+    HalloweenEventComponent,
+    StarterGuideComponent
   ],
   imports: [
     BrowserModule,
