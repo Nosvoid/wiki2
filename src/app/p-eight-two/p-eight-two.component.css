@@ -1,0 +1,90 @@
+.prestige-title-1,
+.prestige-title-2,
+.prestige-title-3 {
+    font-family: 'Edu SA Beginner', cursive;
+}
+
+.prestige-title-1 {
+    font-size: 3rem;
+    margin-bottom: 1em;
+}
+
+.prestige-title-2 {
+    font-size: 2rem;
+    margin-top: 1em;
+    color: var(--void-clr);
+    text-align: center;
+}
+
+.prestige-title-3 {
+    font-size: 1.75rem;
+    line-height: 1.3em;
+    margin-top: 1.5em;
+    text-align: center;
+}
+
+.prestige-title-4 {
+    font-size: 1.25rem;
+    margin-block: 1em;
+}
+
+.prestige-text,
+.prestige-list-item {
+    font-size: 1.1rem;
+    line-height: 1.5em;
+}
+
+.prestige-text,
+.prestige-title-4 {
+    text-align: center;
+}
+
+.prestige-title-4 a,
+.prestige-list-item a {
+    color: var(--void-clr);
+    font-weight: bold;
+}
+
+.prestige-infos {
+    padding: 1em;
+}
+
+.prestige-infos .prestige-title-2 {
+    margin-top: 0;
+}
+
+.prestige-eight {
+    width: 100%;
+    margin: auto;
+}
+
+.prestige-list {
+    width: fit-content;
+    margin: auto;
+    padding: 0;
+    text-align: start;
+    margin-block: 1em;
+}
+
+.prestige-list-item div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.prestige-article img {
+    max-width: 100%;
+    max-height: 300px;
+    border-radius: 10px;
+}
+
+@media all and (min-width: 1140px) {
+    .prestige-article {
+        width: 75%;
+    }
+
+    .prestige-grid-3 {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+    }
+}

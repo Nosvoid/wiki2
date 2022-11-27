@@ -1,0 +1,154 @@
+<main class="d-flex justify-content-center">
+    <section class="component-container">
+		<h1 class="prestige-title-1">Prestige 8.2</h1>
+
+        <article class="prestige-article">
+            <h2 class="prestige-title-2">Raids</h2>
+            <h3 class="prestige-title-3">Prestige 8.2 introduces 3 new raids :</h3>
+            <p class="prestige-text bold">(You can click on names to check Raid box info)</p>
+            <ul class="prestige-list">
+                <li class="prestige-list-item">- <a href="/raids#grenigas">Grenigas</a></li>
+                <li class="prestige-list-item">- <a href="/raids#kertos">Kertos</a></li>
+                <li class="prestige-list-item">- <a href="/raids#valakus">Valakus</a></li>
+            </ul>
+            <h3 class="prestige-title-3">New Quests</h3>
+            <div class="prestige-grid-3">
+                <div *ngFor="let quest of quests">
+                    <h4 class="prestige-title-4">{{quest.name}}</h4>
+                    <p class="prestige-text" *ngFor="let todo of quest.todos">{{todo.todo}}</p>
+                    <ul class="prestige-list">
+                        <li class="prestige-list-item" *ngFor="let reward of quest.rewards">- {{reward.reward}}</li>
+                    </ul>
+                </div>
+            </div>
+        </article>
+        <article class="prestige-article">
+            <h2 class="prestige-title-2">Shadow Realm Tower</h2>
+            <p class="prestige-text">
+                This is a Solo Tower with strong monsters to obtain rare items which will be useful to craft new Weapon Skins and Upgrade Weapon Skin Items, Darko pet and 
+                Amon PSP.
+            </p>
+            <h3 class="prestige-title-3">Shadow Realm Tower Rewards :</h3>
+            <ul class="prestige-list">
+                <li class="prestige-list-item">- Doomed Pearl x1</li>
+                <li class="prestige-list-item">- Blood Pearl x1</li>
+                <li class="prestige-list-item">- Violet Pearl x2</li>
+            </ul>
+        </article>
+        <article class="prestige-article">
+            <h2 class="prestige-title-2">Volcano World Boss</h2>
+            <p class="prestige-text">Double-Instanced World boss, defeat minibosses to obtain items of great value. <br> After defeating minibosses, a World Boss will spawn.</p>
+            <h3 class="prestige-title-3">World Boss Rewards :</h3>
+            <p class="prestige-text">Tattoo & Carve Box</p>
+        </article>
+        <article class="prestige-article">
+            <h2 class="prestige-title-2">Farming Maps</h2>
+            <p class="prestige-text">
+                With Prestige 8.2 we are introducing new mechanics to the server. <br>
+                Raidseal farming and resistance farming. <br>
+                In Land of Death you will be able to farm Raidseals. <br>
+                In Eastern and Western Path you will be able to farm gold and resistances
+            </p>
+        </article>
+        <article class="prestige-article">
+            <h2 class="prestige-title-2">Soul System</h2>
+            <p class="prestige-text">
+                Gather the souls of various Raidbosses in order to craft valuable items. <br>
+                They will be obtainable in Raidboxes. <br>
+                Souls will be obtainable only from following Raidbosses :
+            </p>
+            <ul class="prestige-list">
+                <li class="prestige-list-item">- Lord Draco</li>
+                <li class="prestige-list-item">- Glacerus, the Ice cold</li>
+                <li class="prestige-list-item">- Laurena</li>
+                <li class="prestige-list-item">- Zenas</li>
+                <li class="prestige-list-item">- Erenia</li>
+                <li class="prestige-list-item">- Kirollas</li>
+                <li class="prestige-list-item">- Pure Beast</li>
+            </ul>
+            <p class="prestige-text">
+                Collect all of them to craft Badge Evolution. <br>
+                After completing each raid, you will get a certain amount of Raid Tickets. You will need them for crafting Minor and Major Rewards <br> <br>
+                <span class="italic">
+                    Draco, Glacerus, Laurena, Maru, Zenas, Erenia, Fernon, Kirollas, Pure Beast : <span class="bold">1x Raid Ticket</span>. <br>
+                    Paimon, Belial, Sandstorm, Grenigas : <span class="bold">2x Raid Ticket</span>. <br>
+                    Hardcore, Ibrahim,Kertos : <span class="bold">4x Raid Ticket</span>.
+                </span>
+            </p>
+            <h3 class="prestige-title-3">What is Badge Evolution ?</h3>
+            <p class="prestige-text">
+                It is an item that evolves your badge and grants you 2 new extra stats to help you on your journey. <br>
+                You can get following stats :
+            </p>
+            <ul class="prestige-list">
+                <li class="prestige-list-item">- Overall SL 1 / 2 / 3</li>
+                <li class="prestige-list-item">- Increase attack 3 / 5 / 8%</li>
+                <li class="prestige-list-item">- Increase defence 3 / 5 / 8%</li>
+                <li class="prestige-list-item">- Icrease damage inside Raids 5 / 8 / 12%</li>
+                <li class="prestige-list-item">- Increase cooldown reduction 4 / 8 / 12%</li>
+            </ul>
+            <p class="prestige-text italic">PS: You can change additional effects by using Evolution Badge Rarify Changer.</p>
+            <div class='d-flex justify-content-center'>
+                <img src="../../assets/img/prestiges/p82/badge.png" alt="">
+            </div>
+            <h3 class="prestige-title-3">Minor Rewards :</h3>
+            <ul class="prestige-list">
+                <li class="prestige-list-item">- Draco : Red Glowing Ring</li>
+                <li class="prestige-list-item">- Glacerus : Blue Glowing Ring </li>
+                <li class="prestige-list-item">- Laurena : Vanquisher Title</li>
+                <li class="prestige-list-item">- Zenas : Zenas Hat</li>
+                <li class="prestige-list-item">- Erenia : Erenias Horn</li>
+                <li class="prestige-list-item">- Kirollas : Kirollas Pet</li>
+                <li class="prestige-list-item">- Pure Beast : Pure Beast Pet </li>
+            </ul>
+        </article>
+        <article class="prestige-article">
+            <h2 class="prestige-title-2">New Time Space</h2>
+            <p class="prestige-text">
+                Complete new timespace alone or with friends to gain valuable material to craft new items. <br>
+                After finishing every time-space you will get a small safe.
+            </p>
+            <h3 class="prestige-title-3">Items to craft at TS Craft NPC</h3>
+            <ul class="prestige-list">
+                <li class="prestige-list-item">- Frosty Ice Wings</li>
+                <li class="prestige-list-item">- Blazing Fire Wings </li>
+                <li class="prestige-list-item">- Archdaemon Wings </li>
+                <li class="prestige-list-item">- Archangel Wings Talent </li>
+                <li class="prestige-list-item">- Arena Random Box 2 </li>
+                <li class="prestige-list-item">- Raid Destroyer Title</li>
+                <li class="prestige-list-item">- Raid Necklace </li>
+                <li class="prestige-list-item">- Raid Ring Noble </li>
+                <li class="prestige-list-item">- Crystal Bracelet</li>
+            </ul>
+        </article>
+        <article class="prestige-article">
+            <h2 class="prestige-title-2">New items</h2>
+            <ul class="prestige-list">
+                <li class="prestige-list-item">- <a href="/psps#amon">Archdemon Amon PSP</a></li>
+                <li class="prestige-list-item">- <a href="/pets#pure-beast">Beast King's Avatar Pet</a></li>
+                <li class="prestige-list-item">- <a href="/helmets-masks#broken-frost">Broken Frost Warrior Helmet</a></li>
+                <li class="prestige-list-item">- <a href="/pets#darko">Darko Pet</a></li>
+                <li class="prestige-list-item">- <a href="/psps#foxy">Foxy PSP</a></li>
+                <li class="prestige-list-item">- <a href="/helmets-masks#larva">Larva Ghost Helmet</a></li>
+                <li class="prestige-list-item">- <a href="/helmets-masks#mask-elite">Mask of the Elite</a></li>
+                <li class="prestige-list-item">- <a href="/resistances#pve-magma">PVE Shadow Magma Resistances</a></li>
+                <li class="prestige-list-item">- <a href="/resistances#pvp-magma">PVP Shadow Magma Resistances</a></li>
+                <li class="prestige-list-item">- <a href="/helmets-masks#robber">Robber Mask</a></li>
+                <li class="prestige-list-item">- <a href="/pets#kirollas">Spirit King's Avatar Pet</a></li>
+                <li class="prestige-list-item">- <a href="/titles#vanquisher">Vanquisher Title</a></li>
+                <li class="prestige-list-item">- <a href="/titles#vulcanic">Vulcanic Eruption Title</a></li>
+            </ul>
+        </article>
+        <article class="prestige-article">
+            <h2 class="prestige-title-2">New potions</h2>
+            <div class="prestige-grid-3">
+                <div *ngFor="let pot of potions">
+                    <h3 class="prestige-title-3">{{pot.name}}</h3>
+                    <div class='d-flex justify-content-center'>
+                        <img src="../../assets/img/prestiges/p82/{{pot.img}}_pot.png" alt="">
+                    </div>
+                </div>
+            </div>
+        </article>
+    </section>
+</main>

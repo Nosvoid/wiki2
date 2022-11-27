@@ -7,11 +7,18 @@
         "class": "raid"
     },
     {
+        "name": "Archangel Wings",
+        "location": "Can be crafted at Rainbow Battle NPC in NosVille and TS Craft NPC $warp p8.2",
+        "buff": "archangel_buff",
+        "skin": "archangel_skin",
+        "class": "pvp"
+    },
+    {
         "name": "Archdaemon Wings",
-        "location": "Can be obtained in Prestige boxes",
+        "location": "Can be crafted at TS Craft NPC $warp p8.2",
         "buff": "archdaemon_buff",
         "skin": "archdaemon_skin",
-        "class": "raid"
+        "class": "pvp"
     },
     {
         "name": "Blade Wings",
@@ -22,7 +29,7 @@
     },
     {
         "name": "Blazing Fire Wings",
-        "location": "Can be crafted at Wings NPC $warp p3",
+        "location": "Can be crafted at TS Craft NPC $warp p8.2",
         "buff": "blazing_buff",
         "skin": "blazing_skin",
         "class": "raid"
@@ -42,13 +49,6 @@
         "class": "raid"
     },
     {
-        "name": "Dracula Wings",
-        "location": "Can be crafted at Rainbow Battle NPC in NosVille",
-        "buff": "dracula_buff",
-        "skin": "dracula_skin",
-        "class": "pvp"
-    },
-    {
         "name": "Fire Wings",
         "location": "Can be crafted at Wings NPC $warp p2",
         "buff": "fire_buff",
@@ -57,7 +57,7 @@
     },
     {
         "name": "Frosty Ice Wings",
-        "location": "Can be crafted at Wings NPC $warp p3",
+        "location": "Can be crafted at TS Craft NPC $warp p8.2",
         "buff": "frosty_buff",
         "skin": "frosty_skin",
         "class": "raid"

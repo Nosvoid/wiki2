@@ -4,7 +4,7 @@
         <div class="resistances-container">
             <div class="resistance-container" *ngFor="let item of resistances">
                 <div class="d-flex justify-content-center align-items-center flex-column">
-                    <h2 class="resistance-name">{{item.name}}</h2>
+                    <h2 class="resistance-name" id="{{item.id}}">{{item.name}}</h2>
                     <p class="resistance-location">{{item.location}}</p>
                     <a href="../assets/img/resistances/{{item.buff}}.png" target="_blank">
                         <img src="../assets/img/resistances/{{item.buff}}.png">

@@ -4,6 +4,7 @@ import petsData from "../_json/pets.json";
 
 interface Pets {
   name: String;
+  id: String;
   location: String;
   buff: String;
   class: String;

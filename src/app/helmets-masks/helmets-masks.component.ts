@@ -9,6 +9,7 @@ interface HelmetsMasks {
 
 interface Items {
   name: String; 
+  id: String; 
   location: String;
   buff: String;
   class: String;

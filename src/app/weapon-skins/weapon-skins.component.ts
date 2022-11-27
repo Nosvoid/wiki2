@@ -4,6 +4,7 @@ import weaponSkinsData from "../_json/costumes/weapon-skins.json";
 
 interface WeaponSkins {
   name: String;
+  id: String;
   location: String;
   upgrade: String;
   buff: String;

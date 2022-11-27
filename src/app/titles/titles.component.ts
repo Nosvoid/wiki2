@@ -4,6 +4,7 @@ import titlesData from "../_json/titles.json";
 
 interface Titles {
   name: String;
+  id: String;
   location: String;
   img: String;
   class: String;

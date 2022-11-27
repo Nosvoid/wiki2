@@ -64,6 +64,9 @@ import { MountsComponent } from './mounts/mounts.component';
 import { RainbowBattleComponent } from './rainbow-battle/rainbow-battle.component';
 import { HalloweenEventComponent } from './halloween-event/halloween-event.component';
 import { StarterGuideComponent } from './starter-guide/starter-guide.component';
+import { PEightComponent } from './p-eight/p-eight.component';
+import { PEightTwoComponent } from './p-eight-two/p-eight-two.component';
+import { PEightOneComponent } from './p-eight-one/p-eight-one.component';
 
 
 
@@ -119,6 +122,9 @@ const appRoutes: Routes = [
   { path: 'mouse', component: MouseEventComponent },
   { path: 'halloween-event', component: HalloweenEventComponent },
   { path: 'starter-guide', component: StarterGuideComponent },
+  { path: 'prestige-8', component: PEightComponent },
+  { path: 'prestige-8-1', component: PEightOneComponent },
+  { path: 'prestige-8-2', component: PEightTwoComponent },
   { path: '**', pathMatch: "full", component: ErrorPageComponent },
 ]
 
@@ -178,7 +184,10 @@ const appRoutes: Routes = [
     MountsComponent,
     RainbowBattleComponent,
     HalloweenEventComponent,
-    StarterGuideComponent
+    StarterGuideComponent,
+    PEightComponent,
+    PEightTwoComponent,
+    PEightOneComponent
   ],
   imports: [
     BrowserModule,

@@ -101,6 +101,9 @@ html, body {
 .bold {
     font-weight: bold;
 }
+.italic {
+    font-style: italic;
+}
 
 .component-container {
     display: flex;
@@ -112,11 +115,12 @@ html, body {
     background-color: rgba(0, 0, 0, .8);
     border-radius: 20px;
     width: 100%;
-    padding: 3em 0;
+    padding: 3em 1em;
 }
 
 @media all and (min-width: 1140px) {
     .component-container {
         width: 75%;
+        padding: 3em 0;
     }
 }

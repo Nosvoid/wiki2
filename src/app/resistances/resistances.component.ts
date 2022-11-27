@@ -4,6 +4,7 @@ import resistancesData from "../_json/resistances.json";
 
 interface Resistances {
   name: String;
+  id: String;
   location: String;
   buff: String;
 }

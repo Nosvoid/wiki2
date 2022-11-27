@@ -50,15 +50,12 @@ export class PatchNotesComponent implements OnInit {
   }
 
   patchNotesTitles() {
-    document.addEventListener("DOMContentLoaded", () => {
-      const titles = document.querySelectorAll(".patch-notes-change");
-      
-      titles.forEach(e => {
-        if(e.textContent?.includes("• ")) {
-          e.classList.add("patch-notes-change-title");
-        }
-      })
-    });
+    let isTitle
+    const titles = document.querySelectorAll('.patch-notes-change');
+    titles.forEach(e => {
+      if(e.textContent?.indexOf("•") === 0) e.classList.add("patch-notes-change-title")
+    })
+    return isTitle
   }
 
   constructor() { }

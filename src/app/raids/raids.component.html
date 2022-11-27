@@ -4,7 +4,7 @@
         <div class="raids-container">
             <div class="raid-container" *ngFor="let item of raids">
                 <div class="d-flex justify-content-center align-items-center flex-column">
-                    <h2 class="raid-name">{{item.name}}</h2>
+                    <h2 class="raid-name" id="{{item.id}}">{{item.name}}</h2>
                     <p class="raid-location">Raid Points : {{item.points}}</p>
                     <p class="raid-location">{{item.location}}</p>
                     <div class="raid-box">

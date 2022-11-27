@@ -19,7 +19,7 @@
             <div class="pet-container" class="{{item.class}}" *ngFor="let item of pets">
                 <div class="pet-content">
                     <div class="d-flex justify-content-center align-items-center flex-column">
-                        <h2 class="pet-name">{{item.name}}</h2>
+                        <h2 class="pet-name" id="{{item.id}}">{{item.name}}</h2>
                         <h3 class="pet-location">{{item.location}}</h3>
                         <a href="../assets/img/pets/skins/{{item.skin}}.png" target="_blank">
                             <img src="../assets/img/pets/skins/{{item.skin}}.png" class="pet-skins">

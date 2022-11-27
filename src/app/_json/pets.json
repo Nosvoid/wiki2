@@ -1,13 +1,23 @@
 [
     {
         "name": "Baby Panda",
+        "id": "",
         "location": "Can be obtained in the Fortune Wheel",
         "buff": "baby_panda",
         "skin": "baby_panda",
         "class": "pvp"
     },
     {
+        "name": "Beast King's Avatar",
+        "id": "pure-beast",
+        "location": "Can be crafted at Soul Craft [Pure Beast] NPC in Soul System map $warp p8.2",
+        "buff": "pure_beast",
+        "skin": "pure_beast",
+        "class": "raid"
+    },
+    {
         "name": "Blizzard Wolf",
+        "id": "",
         "location": "Can be obtained during Evolution Event",
         "buff": "blizzard_wolf",
         "skin": "blizzard_wolf",
@@ -15,6 +25,7 @@
     },
     {
         "name": "Blue Amora",
+        "id": "",
         "location": "Can be obtained in the Fortune Wheel",
         "buff": "blue_amora",
         "skin": "blue_amora",
@@ -22,6 +33,7 @@
     },
     {
         "name": "Centurio Bushtail",
+        "id": "",
         "location": "Can be obtained in the chest after killing the Bushi King boss, map 40-50 $warp p8",
         "buff": "centurio",
         "skin": "centurio",
@@ -29,6 +41,7 @@
     },
     {
         "name": "Chick Norris",
+        "id": "",
         "location": "Can be obtained during Evolution Event",
         "buff": "chick_norris",
         "skin": "chick_norris",
@@ -36,6 +49,7 @@
     },
     {
         "name": "Cuby",
+        "id": "",
         "location": "Can be crafted during the Summer Event",
         "buff": "cuby",
         "skin": "cuby",
@@ -43,13 +57,23 @@
     },
     {
         "name": "Darkfrost Snowman",
+        "id": "",
         "location": "Can be obtained during Evolution Event",
         "buff": "darkfrost_snowman",
         "skin": "darkfrost_snowman",
         "class": "raid"
     },
     {
+        "name": "Darko",
+        "id": "darko",
+        "location": "Can be crafted at Tower Craft NPC $warp p8.2",
+        "buff": "darko",
+        "skin": "darko",
+        "class": "pvp"
+    },
+    {
         "name": "Devil Vampie",
+        "id": "",
         "location": "Can be obtained during Evolution Event",
         "buff": "devil_vampie",
         "skin": "devil_vampie",
@@ -57,6 +81,7 @@
     },
     {
         "name": "Dragon Bee",
+        "id": "",
         "location": "Can be obtained during Evolution Event",
         "buff": "dragon_bee",
         "skin": "dragon_bee",
@@ -64,6 +89,7 @@
     },
     {
         "name": "Dusi Fox",
+        "id": "",
         "location": "Can be crafted in the Starting Map",
         "buff": "dusi_fox",
         "skin": "dusi_fox",
@@ -71,6 +97,7 @@
     },
     {
         "name": "Enkidu",
+        "id": "",
         "location": "Can be bought in VoidMall for 1000 coins",
         "buff": "enkidu",
         "skin": "enkidu",
@@ -78,6 +105,7 @@
     },
     {
         "name": "Fibi",
+        "id": "",
         "location": "Can be bought in VoidMall for 1000 coins",
         "buff": "fibi",
         "skin": "fibi",
@@ -85,6 +113,7 @@
     },
     {
         "name": "Flame",
+        "id": "",
         "location": "Can be bought in VoidMall for 1000 coins",
         "buff": "flame",
         "skin": "flame",
@@ -92,6 +121,7 @@
     },
     {
         "name": "Fluffy Bally",
+        "id": "",
         "location": "Can be crafted during the Easter Event",
         "buff": "fluffy_bally",
         "skin": "fluffy_bally",
@@ -99,6 +129,7 @@
     },
     {
         "name": "Fortune Bushtail",
+        "id": "",
         "location": "Can be crafted in the spawn map when you start a new char",
         "buff": "fortune_bushtail",
         "skin": "fortune_bushtail",
@@ -106,6 +137,7 @@
     },
     {
         "name": "Golden Fleece",
+        "id": "",
         "location": "Can be obtained during Evolution Event",
         "buff": "golden_fleece",
         "skin": "golden_fleece",
@@ -113,6 +145,7 @@
     },
     {
         "name": "Inferno",
+        "id": "",
         "location": "Can be obtained during Evolution Event",
         "buff": "inferno",
         "skin": "inferno",
@@ -120,6 +153,7 @@
     },
     {
         "name": "Koala",
+        "id": "",
         "location": "Can be obtained in the Fortune Wheel",
         "buff": "koala",
         "skin": "koala",
@@ -127,6 +161,7 @@
     },
     {
         "name": "Leo",
+        "id": "",
         "location": "Can be obtained at Achievement Rewards NPC Act 4",
         "buff": "leo",
         "skin": "leo",
@@ -134,6 +169,7 @@
     },
     {
         "name": "Long-Legged Spider",
+        "id": "",
         "location": "Can be obtained during Evolution Event",
         "buff": "long_legged_spider",
         "skin": "long_legged_spider",
@@ -141,6 +177,7 @@
     },
     {
         "name": "Lucky Pig",
+        "id": "",
         "location": "Can be obtained at Event NPC in NosVille",
         "buff": "lucky_pig",
         "skin": "lucky_pig",
@@ -148,6 +185,7 @@
     },
     {
         "name": "Lucky Rat",
+        "id": "",
         "location": "Can be crafted during the Mouse Event",
         "buff": "lucky_rat",
         "skin": "lucky_rat",
@@ -155,6 +193,7 @@
     },
     {
         "name": "Mad Professor Macavity",
+        "id": "",
         "location": "Can be crafted during Halloween Event",
         "buff": "mad_professor_macavity",
         "skin": "mad_professor_macavity",
@@ -162,6 +201,7 @@
     },
     {
         "name": "Master Bunny",
+        "id": "",
         "location": "Can be obtained during Evolution Event",
         "buff": "master_bunny",
         "skin": "master_bunny",
@@ -169,6 +209,7 @@
     },
     {
         "name": "Merling",
+        "id": "",
         "location": "Can be crafted at Fish Craft NPC $warp fish or bought in VoidMall for 550 coins",
         "buff": "merling",
         "skin": "merling",
@@ -176,6 +217,7 @@
     },
     {
         "name": "Mini Belial",
+        "id": "",
         "location": "Can be crafted at Craft Stuff NPC $warp p8",
         "buff": "mini_belial",
         "skin": "mini_belial",
@@ -183,6 +225,7 @@
     },
     {
         "name": "Mini Erenia",
+        "id": "",
         "location": "Can be obtained as a reward from Erenia Marathon 2 quest",
         "buff": "mini_erenia",
         "skin": "mini_erenia",
@@ -190,6 +233,7 @@
     },
     {
         "name": "Mini Fernon",
+        "id": "",
         "location": "Can be obtained as a reward from Fernon Marathon 2 quest",
         "buff": "mini_fernon",
         "skin": "mini_fernon",
@@ -197,6 +241,7 @@
     },
     {
         "name": "Mini Pete",
+        "id": "",
         "location": "Can be crafted during the Summer Event",
         "buff": "mini_pete",
         "skin": "mini_pete",
@@ -204,6 +249,7 @@
     },
     {
         "name": "Mini Zenas",
+        "id": "",
         "location": "Can be obtained as a reward from Zenas Marathon 2 quest",
         "buff": "mini_zenas",
         "skin": "mini_zenas",
@@ -211,6 +257,7 @@
     },
     {
         "name": "Moss Gloop",
+        "id": "",
         "location": "Can be crafted in the Starting Map",
         "buff": "moss_gloop",
         "skin": "moss_gloop",
@@ -218,6 +265,7 @@
     },
     {
         "name": "Namaju",
+        "id": "",
         "location": "Can be obtained during Evolution Event",
         "buff": "namaju",
         "skin": "namaju",
@@ -225,6 +273,7 @@
     },
     {
         "name": "Otter",
+        "id": "",
         "location": "Can be crafted during the Summer Event",
         "buff": "otter",
         "skin": "otter",
@@ -232,6 +281,7 @@
     },
     {
         "name": "Polar Bear",
+        "id": "",
         "location": "Can be crafted at Desert Rewards NPC $warp p8.1",
         "buff": "polar_bear",
         "skin": "polar_bear",
@@ -239,6 +289,7 @@
     },
     {
         "name": "Pumpkin Bushtail",
+        "id": "",
         "location": "Can be crafted during the Halloween Event",
         "buff": "pumpkin_bushtail",
         "skin": "pumpkin_bushtail",
@@ -246,6 +297,7 @@
     },
     {
         "name": "Racoon",
+        "id": "",
         "location": "Can be bought in VoidMall for 1000 coins",
         "buff": "racoon",
         "skin": "racoon",
@@ -253,6 +305,7 @@
     },
     {
         "name": "Rainbow Pegasus",
+        "id": "",
         "location": "Can be crafted at Rainbow Battle NPC in NosVille",
         "buff": "rainbow_pegasus",
         "skin": "rainbow_pegasus",
@@ -260,6 +313,7 @@
     },
     {
         "name": "Raptor",
+        "id": "",
         "location": "Can be crafted at Hardcore Rewards NPC $warp p8",
         "buff": "raptor",
         "skin": "raptor",
@@ -267,6 +321,7 @@
     },
     {
         "name": "Santa Bushi",
+        "id": "",
         "location": "Can be crafted during the Christmas Event or at Hardcore Rewards NPC $warp p8",
         "buff": "santa_bushi",
         "skin": "santa_bushi",
@@ -274,6 +329,7 @@
     },
     {
         "name": "Screeching Wingworm",
+        "id": "",
         "location": "Can be crafted at Family Tower Rewards NPC $warp p8.1",
         "buff": "screeching_wingworm",
         "skin": "screeching_wingworm",
@@ -281,6 +337,7 @@
     },
     {
         "name": "Seraphim",
+        "id": "",
         "location": "Can be obtained during Evolution Event",
         "buff": "seraphim",
         "skin": "seraphim",
@@ -288,6 +345,7 @@
     },
     {
         "name": "Skelekat Groom",
+        "id": "",
         "location": "Can be crafted during Halloween Event",
         "buff": "skelekat",
         "skin": "skelekat",
@@ -295,13 +353,23 @@
     },
     {
         "name": "Snow Fox",
+        "id": "",
         "location": "Can be crafted during the Summer Event",
         "buff": "snow_fox",
         "skin": "snow_fox",
         "class": "pvp"
     },
     {
+        "name": "Spirit King's Avatar",
+        "id": "kirollas",
+        "location": "Can be crafted at Soul Craft [Kirollas] NPC in Soul System map $warp p8.2",
+        "buff": "kirrollas",
+        "skin": "kirrollas",
+        "class": "raid"
+    },
+    {
         "name": "Spooky Imp",
+        "id": "",
         "location": "Can be obtained during Evolution Event",
         "buff": "spooky_imp",
         "skin": "spooky_imp",
@@ -309,6 +377,7 @@
     },
     {
         "name": "Super Fortune Bushtail",
+        "id": "",
         "location": "Can be crafted at NPC $warp p5",
         "buff": "super_fortune_bushtail",
         "skin": "super_fortune_bushtail",
@@ -316,6 +385,7 @@
     },
     {
         "name": "Tame Queen Bee",
+        "id": "",
         "location": "Can be crafted at Hardcore Rewards NPC $warp p8",
         "buff": "tame_queen_bee",
         "skin": "tame_queen_bee",
@@ -323,6 +393,7 @@
     },
     {
         "name": "Titan Hamster",
+        "id": "",
         "location": "Can be obtained during Evolution Event",
         "buff": "titan_hamster",
         "skin": "titan_hamster",
@@ -330,6 +401,7 @@
     },
     {
         "name": "Zombikit Bride",
+        "id": "",
         "location": "Can be crafted during Halloween Event",
         "buff": "zombikit",
         "skin": "zombikit",

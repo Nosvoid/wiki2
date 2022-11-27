@@ -21,7 +21,7 @@
         <div class="titles-container">
             <div class="title-container" class="{{item.class}}" *ngFor="let item of titles">
                 <div class="d-flex justify-content-center align-items-center flex-column">
-                    <h2 class="title-name">{{item.name}}</h2>
+                    <h2 class="title-name" id="{{item.id}}">{{item.name}}</h2>
                     <h3 class="title-location">{{item.location}}</h3>
                     <a href="../assets/img/titles/{{item.img}}.png" target="_blank">
                         <img src="../assets/img/titles/{{item.img}}.png">

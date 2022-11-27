@@ -14,7 +14,7 @@
                         <div *ngFor="let topic of class.topic" class="{{topic.topicclass}}">
                             <h3 class="patch-notes-title-3">{{topic.topicname}}</h3>
                             <ul class="patch-notes-changes">
-                                <li class="patch-notes-change" *ngFor="let changes of topic.changes">{{changes.change}}</li>
+                                <li class="patch-notes-change" [ngClass]="{'patch-notes-change-title' : patchNotesTitles() }" *ngFor="let changes of topic.changes">{{changes.change}}</li>
                             </ul>
                         </div>
                     </div>

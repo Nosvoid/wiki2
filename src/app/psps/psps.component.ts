@@ -4,6 +4,7 @@ import pspsData from "../_json/psps.json";
 
 interface Psps {
   name: String;
+  id: String;
   partner: String;
   location: String;
   buff: String;

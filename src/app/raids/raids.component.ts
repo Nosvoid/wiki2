@@ -4,6 +4,7 @@ import raidsData from "../_json/raids.json";
 
 interface Raids {
   name: String;
+  id: String;
   points: String;
   location: String;
   box: String;

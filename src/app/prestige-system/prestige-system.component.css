@@ -12,7 +12,8 @@
 }
 
 .prestige-system-title-1,
-.prestige-system-title-2 {
+.prestige-system-title-2,
+.prestige-system-title-3 {
     font-family: 'Edu SA Beginner', cursive;
 }
 
@@ -24,15 +25,30 @@
 .prestige-system-title-2 {
     font-size: 2rem;
     margin-top: 1em;
+    color: var(--void-clr);
 }
 
-.prestige-system-title-3,
+.prestige-system-title-3 {
+    font-size: 1.75rem;
+    line-height: 1.3em;
+    color: var(--void-clr);
+    margin-top: 1.5em;
+}
+
+.prestige-system-title-4 {
+    margin-block: 1em;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.prestige-system-title-4,
 .prestige-lvl {
     font-size: 1.25rem;
     line-height: 1.3em;
 }
 
-.prestige-system-text {
+.prestige-system-text,
+.prestige-list-item {
     font-size: 1.1rem;
     line-height: 1.5em;
 }

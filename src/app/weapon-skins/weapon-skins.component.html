@@ -15,7 +15,7 @@
             <div class="weapon-container" class="{{item.class}}" *ngFor="let item of weaponSkins">
                 <div class="d-flex justify-content-between align-items-center flex-column h-100">
                     <div>
-                        <h2 class="weapon-name">{{item.name}}</h2>
+                        <h2 class="weapon-name" id="{{item.id}}">{{item.name}}</h2>
                         <p class="weapon-location text-center">{{item.location}}</p>
                     </div>
                     <div class="weapon-upgrade">

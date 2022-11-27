@@ -17,7 +17,7 @@
             <div class="psp-container" class="{{item.class}}" *ngFor="let item of psps">
                 <div class="psp-content">
                     <div class="d-flex justify-content-center align-items-center flex-column">
-                        <h2 class="psp-name">{{item.name}}</h2>
+                        <h2 class="psp-name" id="{{item.id}}">{{item.name}}</h2>
                         <h3 class="psp-partner">{{item.partner}}</h3>
                         <h3 class="psp-location">{{item.location}}</h3>
                         <a href="../assets/img/psps/skins/{{item.skin}}.png" target="_blank">

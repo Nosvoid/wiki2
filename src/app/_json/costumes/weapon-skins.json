@@ -1,6 +1,7 @@
 [
     {
         "name": "Candy Weapon Skins",
+        "id": "",
         "location": "You can craft those weapon skins at Instant Combat NPC.",
         "upgrade": "You can upgrade them to +5 maximum.",
         "buff": "candy",
@@ -8,6 +9,7 @@
     },
     {
         "name": "Frost Weapon Skins",
+        "id": "",
         "location": "You can craft those weapon skins at Family Tower NPC Prestige 8.1, or you can buy them for 900 coins in VoidMall.",
         "upgrade": "You can upgrade them to +10 maximum.",
         "buff": "frost",
@@ -15,6 +17,7 @@
     },
     {
         "name": "Prestige 4 Weapon Skins",
+        "id": "",
         "location": "You can craft those weapon skins at High Tier Weapon Skin NPC Prestige 4 lobby.",
         "upgrade": "You can't upgrade them.",
         "buff": "prestige4",
@@ -22,6 +25,7 @@
     },
     {
         "name": "Prestige 8 Weapon Skins",
+        "id": "",
         "location": "You can craft those weapon skins at Craft Stuff NPC Prestige 8 lobby, or you can buy them for 900 coins in VoidMall.",
         "upgrade": "You can upgrade them to +10 maximum.",
         "buff": "prestige8",
@@ -29,6 +33,7 @@
     },
     {
         "name": "Sport Weapon Skins",
+        "id": "",
         "location": "You can craft those weapon skins at 35-50Lv Fish Craft NPC.",
         "upgrade": "You can't upgrade them.",
         "buff": "sport",
@@ -36,6 +41,7 @@
     },
     {
         "name": "Steampunk Weapon Skins",
+        "id": "",
         "location": "You can buy those weapon skins for 650 coins in VoidMall.",
         "upgrade": "You can't upgrade them.",
         "buff": "steampunk",
@@ -43,6 +49,7 @@
     },   
     {
         "name": "Valakus Weapon Skins",
+        "id": "vala-skin",
         "location": "You can craft those weapon skins at Monthly Rewards NPC in Act4.",
         "upgrade": "You can upgrade them to +5 maximum.",
         "buff": "valakus",

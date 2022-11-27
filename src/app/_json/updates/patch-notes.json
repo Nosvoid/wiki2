@@ -1,5 +1,264 @@
 [
     {
+        "patchnotesname": "Patch Notes - 27/11/2022",
+        "classes": [
+            {
+                "name": "Overall Changes & Fixes",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Changes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Replaced 'All attacks in Family Tower are increased by x%' buff with 'All attacks increased in all Tower Games'. That means those buffs will work for the all towers we have from now on." },
+                            { "change": "- After completing each raid, you will get a certain amount of Raid Tickets. You will need them for crafting Minor and Major Rewards of Soul Craft system. (Draco, Glacerus, Laurena, Maru,Zenas,Erenia,Fernon,Kirolla,beast : 1 raid ticket / Paimon,Belial,Sandstorm,Grenigas : 2 Raid ticket /Hardcore, Ibrahim,Kertos : 4 raid ticket)." },
+                            { "change": "- Movement speed is increased by 2 > 1 on fernon shoes." },
+                            { "change": "- Removed cooldown reset from Desert Turban." },
+                            { "change": "- Removed cooldown reset from Eliza Partner Buffs." },
+                            { "change": "- Added Activity points for Rainbow Battle. You'll get kicked from Rainbow Battle if you are inactive." },
+                            { "change": "- Removed Earth Element, Zenas Divine Ring, Erenia's Horn, Raid Tickets, Draco, Glacerus, Laurena, Zenas, Erenia, Kirollas, Pure Beast Boxes from inventories." },
+                            { "change": "- Changed amount of badges you can have from 5 to 6." },
+                            { "change": "- You won't lose NPC buffs after changing specialist card or disconnect." },
+                            { "change": "- Removed Blazing Fire Wings, Frosty Ice Wings, Archdeamon Wings and Archangel Wings from inventories and craft NPC's. (You'll keep them if you have them on your wings)" },
+                            { "change": "- Change Dracula Wings to Archangel Wings in visual." }
+                        ]
+                    },
+                    {
+                        "topicname": "Fixes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Fixed a bug that Caligor Box had wrong name in visual." }
+                        ]
+                    },
+                    {
+                        "topicname": "Ticket Area",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Ticket Area has been removed" },
+                            { "change": "• You can now get :" },
+                            { "change": "- Illusionist Hat from Instant Combat NPC for 50 Bronze Acorn." },
+                            { "change": "- Gold Potion from Potion Craft in Prestige 8.2" },
+                            { "change": "- Basic Costume Box Male" },
+                            { "change": "- Basic Costume Box Female" },
+                            { "change": "- Basic Costume Hat Box Male" },
+                            { "change": "- Basic Costume hat box Female" },
+                            { "change": "- Basic Costume box 2 male" },
+                            { "change": "- Basic costume box 2 female" },
+                            { "change": "- Basic Rectangular Glasses box" },
+                            { "change": "• All of the cosmetic boxes can be purchasable at Costume Shop 3 for 10kk each" }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Reworked Items",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Erenia's Crafted Horn Rework",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Defence in PvP is increased by 10%." },
+                            { "change": "- Up to level 4 there is a 15% chance of never getting a bad effect." },
+                            { "change": "- Base Value : all defence 50." },
+                            { "change": "- Dodge : 50." },
+                            { "change": "- There's a 5% chance of causing ' Crafted Horn '." },
+                            { "change": "• Blazing Fire Wings" },
+                            { "change": "- Drain 10 fire/light res." },
+                            { "change": "- +1 Movement speed." },
+                            { "change": "- 5% Raid Damage." },
+                            { "change": "- 5% All Damage is increased." },
+                            { "change": "• Frosty Ice Wings" },
+                            { "change": "- Drain 10 water/shadow res." },
+                            { "change": "- +1 Movement speed." },
+                            { "change": "- 5% Raid Damage." },
+                            { "change": "- 5% All Damage is increased." },
+                            { "change": "• Archdeamon Wings" },
+                            { "change": "- 10% damage increased against angel faction." },
+                            { "change": "- 5% chance of summoning onyx dragon." },
+                            { "change": "- 5% Anti effect" },
+                            { "change": "-  +1 Movement Speed." },
+                            { "change": "• Archangel Wings" },
+                            { "change": "- 10% damage increased against demon faction." },
+                            { "change": "- 5% chance of summoning onyx dragon." },
+                            { "change": "- 5% Anti effect" },
+                            { "change": "- +1 Movement Speed." }
+                        ]
+                    },
+                    {
+                        "topicname": "Zenas Hat Rework",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Damage in PvP is increased by 15%." },
+                            { "change": "- Up to level 4 there is a 15% chance of never getting a bad effect." },
+                            { "change": "- Base Value : alldefence 50" },
+                            { "change": "- Dodge : 50" },
+                            { "change": "- There's 5% chance of causing ' Choir of Angels '" },
+                            { "change": "• Choir of Angels Selfbuff ( Duration 10seconds )" },
+                            { "change": "- Hitrate is increased by 200" },
+                            { "change": "- All attacks are increased by 200" },
+                            { "change": "- Critical Chance is increased by 15%" }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Reworked Wings",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Blazing Fire Wings",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Drain 10 fire/light res." },
+                            { "change": "- +1 Movement speed." },
+                            { "change": "- 5% Raid Damage." },
+                            { "change": "- 5% All Damage is increased." }
+                            
+                        ]
+                    },
+                    {
+                        "topicname": "Frosty Ice Wings",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Drain 10 water/shadow res." },
+                            { "change": "- +1 Movement speed." },
+                            { "change": "- 5% Raid Damage." },
+                            { "change": "- 5% All Damage is increased." }
+                        ]
+                    },
+                    {
+                        "topicname": "Archangel Wings",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- 10% damage increased against demon faction." },
+                            { "change": "- 5% chance of summoning onyx dragon." },
+                            { "change": "- 5% Anti effect" },
+                            { "change": "- +1 Movement Speed." }
+                        ]
+                    },
+                    {
+                        "topicname": "Archdeamon Wings",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- 10% damage increased against angel faction." },
+                            { "change": "- 5% chance of summoning onyx dragon." },
+                            { "change": "- 5% Anti effect" },
+                            { "change": "-  +1 Movement Speed." }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Reworked Pets",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Fibi Buff",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Damage in Raids is increased by 10%" },
+                            { "change": "- Your specialist's elemental skillpoints are increased by 4" },
+                            { "change": "- All elemental energies are increased by 300" },
+                            { "change": "- Chance of receiving double box is increased by 5%" }
+                            
+                        ]
+                    },
+                    {
+                        "topicname": "Mini Fernon",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Damage inside Fernon raid is increased by 15%" },
+                            { "change": "- Water element is increased by 300" },
+                            { "change": "- Your specialist's elemental skillpoints are increased by 4" }
+                            
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Early Game Update",
+                "hide": "",
+                "topic": [
+                    {
+                        "topicname": "Prestiges",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "• Prestige 1 :" },
+                            { "change": "- Removed Low-Tier Hat Raid." },
+                            { "change": "- Removed Low-Tier Book Raid." },
+                            { "change": "- Added a boss (Old Tree Spirit) on 85-99 Level map. You will get books from that boss." },
+                            { "change": "- Added Low-Tier Hats as Craft NPC and made them craftable with Lucky Stone Necklace." },
+                            { "change": "• Prestige 4 :" },
+                            { "change": "- Removed High-Tier Hat Raid." },
+                            { "change": "- Removed High-Tier Book Raid." },
+                            { "change": "- Added High-Tier Hats (Except Erenia's horn) at Craft NPC to be craftable with Draco's Claw." },
+                            { "change": "- Added a boss (Satan's Lapdog) on 20-35 Hero Map. You will get books from that boss." },
+                            { "change": "- Added new Black Stone Leather Gloves & Shoes to Craft NPC." },
+                            { "change": "• Prestige 6 :" },
+                            { "change": "- Removed Foxy Raid." },
+                            { "change": "- Added a boss (Thousand-Year-Old Ginseng) on 40-55 Hero Map. You will get books from that boss." },
+                            { "change": "• Prestige 7 :" },
+                            { "change": "- Added Orc Shoes in Pure Beast Raid." },
+                            { "change": "- Added Orc Gloves in Kirollas Raid." },
+                            { "change": "- Stats of Orc Resistances got reworked." },
+                            { "change": "• Prestige 8 :" },
+                            { "change": "- Removed Reputation Shop." },
+                            { "change": "- Removed second room from Hardcore Time Space." }
+                            
+                        ]
+                    },
+                    {
+                        "topicname": "Raids",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "• Hardcore Raid" },
+                            { "change": "- Changed starter map." },
+                            { "change": "- Removed room 1 to 3." },
+                            { "change": "• Ibrahim Raid" },
+                            { "change": "- Removed the first room." },
+                            { "change": "• Fernon Raid" },
+                            { "change": "- Decreased chance of resistance by a significant amount." }
+                        ]
+                    },
+                    {
+                        "topicname": "Daily Quests",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "• Reduced Daily Quests from 7 to 5 raids for hollowing raids :" },
+                            { "change": "- Lord Draco" },
+                            { "change": "- Glacerus" },
+                            { "change": "- Laurena" },
+                            { "change": "- Zenas" },
+                            { "change": "- Erenia" },
+                            { "change": "- Fernon" },
+                            { "change": "- Kirollas" },
+                            { "change": "- Pure Beast" }
+                        ]
+                    },
+                    {
+                        "topicname": "Gold Farming",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "• Gold per monster rework for p7 and p8 maps." },
+                            { "change": "- P7 50-60 : 310 - 313k > 260 - 263k per monster" },
+                            { "change": "- P7 40-50 : 290 - 293k > 250 - 253k per monster" },
+                            { "change": "- P8 50-60 : 315 - 318k > 297 - 300k per monster" }
+                        ]
+                    },
+                    {
+                        "topicname": "1v1 Duel System",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Added Duel NPC in NosVille. You will go into queue after registering via NPC, and you will get opponent randomly for 1v1 fight! " },
+                            { "change": "• P.S : We are working on the ranking system of Duel. It will be patched in next days, there is also no rewards for 1v1 duel YET." }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "patchnotesname": "Patch Notes - 24/11/2022",
         "classes": [
             {

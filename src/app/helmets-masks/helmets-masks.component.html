@@ -16,7 +16,7 @@
                 <h2 class="helmets-masks-title-2">{{hm.type}}</h2>
                 <div class="helmet-mask-infos">
                     <div class="{{item.class}}" *ngFor="let item of hm.items">
-                        <h3 class="helmets-masks-title-3">{{item.name}}</h3>
+                        <h3 class="helmets-masks-title-3" id="{{item.id}}">{{item.name}}</h3>
                         <p class="helmet-mask-text">{{item.location}}</p>
                         <a href="../../assets/img/helmets-masks/{{item.buff}}.png" target="_blank">
                             <img src="../../assets/img/helmets-masks/{{item.buff}}.png" alt="">
