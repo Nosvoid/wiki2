@@ -54,5 +54,14 @@
             }
 
         ]
+    },
+    {
+        "type": "Titles",
+        "items": [
+            {
+                "name": "Nightmare",
+                "img": "nightmare"
+            }
+        ]
     }
 ]
