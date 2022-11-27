@@ -29,10 +29,24 @@
                 <img src="../../assets/img/shop-update/koala_box.png" alt="">
                 {{update.boxName}}
             </h2>
-            <div class="shop-reward-items">
+            <div class="main-item">
+                <div>
+                    <p class="shop-updates-text">{{update.mainItem}}</p>
+                    <img src="{{update.mainItemImg}}" alt="">
+                </div>
+                <div>
+                    <h3 class="shop-updates-title-3">Other Rewards : </h3>
+                    <ul class="shop-rewards">
+                        <li class="shop-reward" *ngFor="let item of update.items">
+                            - {{item.name}}
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <!-- <div class="shop-reward-items">
                 <h3 class="shop-updates-title-3">Main Reward(s) : </h3>
                 <div class="main-items">
-                    <div *ngFor="let main of update.mainItem">
+                    <div *ngFor="let main of update.mainItems">
                         <p class="shop-updates-text">{{main.name}}</p>
                         <img src="{{main.img}}" alt="">
                     </div>
@@ -41,11 +55,11 @@
                     <h3 class="shop-updates-title-3">Other Rewards : </h3>
                     <ul class="shop-rewards">
                         <li class="shop-reward" *ngFor="let item of update.items">
-                           - {{item.name}}
+                            - {{item.name}}
                         </li>
                     </ul>
                 </div>
-            </div>
+            </div> -->
         </div>
     </section>
 </div>

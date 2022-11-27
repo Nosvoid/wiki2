@@ -9,35 +9,31 @@ export class ShopUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "17/11/2022",
+        date: "27/11/2022",
         items: [
             {
-                name: "Azuris",
-                img: "../assets/img/fairies/azuris.png"
+                name: "Archangel Lucifer PSP",
+                img: "../assets/img/psps/buffs/archangel_lucifer.png"
             },
             {
-              name: "Baby Panda",
-              img: "../assets/img/pets/buffs/baby_panda.png"
+              name: "[NEW] Lava Ghost Helmet",
+              img: "../assets/img/helmets-masks/lava_helmet.png"
             },
             {
-              name: "Into the Void",
-              img: "../assets/img/titles/into_the_void.png"
+              name: "[NEW] Robber Mask",
+              img: "../assets/img/helmets-masks/mask_elite.png"
             },
             {
-              name: "Koala",
-              img: "../assets/img/pets/buffs/koala.png"
+              name: "Shadow Snowman",
+              img: "../assets/img/pets/buffs/darkfrost_snowman.png"
             },
             {
-              name: "Shadow Snow Fox",
-              img: "../assets/img/pets/buffs/snow_fox.png"
+              name: "Shadow Spider",
+              img: "../assets/img/pets/buffs/long_legged_spider.png"
             },
             {
-              name: "Shooting Star",
-              img: "../assets/img/titles/shooting_star.png"
-            },
-            {
-                name: "Solaris",
-                img: "../assets/img/fairies/solaris.png"
+              name: "Shadow Vampie",
+              img: "../assets/img/pets/buffs/devil_vampie.png"
             },
         ]
     }
@@ -45,9 +41,11 @@ export class ShopUpdatesComponent implements OnInit {
 
   randomBox = [
     {
-      date: "17/11/2022",
-      boxName : 'Partner Random Box',
-      mainItem: [
+      date: "27/11/2022",
+      boxName : 'Koala Random Box',
+      mainItem: "Koala Pet",
+      mainItemImg: "../../assets/img/pets/buffs/koala.png",
+      mainItems: [
         {
           name: "Hongbi",
           img: "../../assets/img/psps/buffs/hongbi.png"
