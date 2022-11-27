@@ -31,10 +31,10 @@
                 "class": "raid"
             },
             {
-                "name": "Larva Ghost Helmet",
-                "id": "larva",
+                "name": "Lava Ghost Helmet",
+                "id": "lava",
                 "location": "You can get it in Fortune Wheel",
-                "buff": "larva_helmet",
+                "buff": "lava_helmet",
                 "class": "raid"
             },
             {
