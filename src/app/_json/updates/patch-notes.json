@@ -1,6 +1,6 @@
 [
     {
-        "patchnotesname": "Patch Notes - 27/11/2022",
+        "patchnotesname": "Patch Notes - 28/11/2022",
         "classes": [
             {
                 "name": "Overall Changes & Fixes",
@@ -18,7 +18,7 @@
                             { "change": "- Added Activity points for Rainbow Battle. You'll get kicked from Rainbow Battle if you are inactive." },
                             { "change": "- Removed Earth Element, Zenas Divine Ring, Erenia's Horn, Raid Tickets, Draco, Glacerus, Laurena, Zenas, Erenia, Kirollas, Pure Beast Boxes from inventories." },
                             { "change": "- Changed amount of badges you can have from 5 to 6." },
-                            { "change": "- You won't lose NPC buffs after changing specialist card or disconnect." },
+                            { "change": "- Changed background of character choosing/creating." },
                             { "change": "- Removed Blazing Fire Wings, Frosty Ice Wings, Archdeamon Wings and Archangel Wings from inventories and craft NPC's. (You'll keep them if you have them on your wings)" },
                             { "change": "- Change Dracula Wings to Archangel Wings in visual." }
                         ]
