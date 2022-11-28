@@ -507,7 +507,7 @@
         "name": "Vulcanic Eruption",
         "id": "vulcanic",
         "location": "You can after completing the Vulcanic Eruption Quest at $warp p8.2",
-        "img": "",
+        "img": "vulcanic_eruption",
         "class": "pve"
     },
     {

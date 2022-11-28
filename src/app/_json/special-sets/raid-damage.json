@@ -4,35 +4,47 @@
         "items": [
             {
                 "name": "Ancient Beast Resistances",
-                "img": "beast_res"
+                "img": "../../assets/img/resistances/beast_res.png"
+            },
+            {
+                "name": "PVE Shadow Magma Resistances",
+                "img": "../../assets/img/resistances/shadow_magma_pve.png"
             },
             {
                 "name": "Candy Skin",
-                "img": "candy_skin"
+                "img": "../../assets/img/costumes/weapon-skins/candy.png"
             },
             {
-                "name": "Helmets",
-                "img": "helmets"
+                "name": "Lava Ghost Helmet",
+                "img": "../../assets/img/helmets-masks/lava_helmet.png"
             },
             {
-                "name": "Masks",
-                "img": "masks"
+                "name": "Mask of the Elite",
+                "img": "../../assets/img/helmets-masks/mask_elite.png"
+            },
+            {
+                "name": "Shadow King's & Dark Knight's Helmet",
+                "img": "../../assets/img/special-sets/raid-damage/helmets.png"
+            },
+            {
+                "name": "Shadow King's & Dark Knight's Masks",
+                "img": "../../assets/img/special-sets/raid-damage/masks.png"
             },
             {
                 "name": "Obsidian Bracelet",
-                "img": "obsidian_bracelet"
+                "img": "../../assets/img/special-sets/raid-damage/obsidian_bracelet.png"
             },
             {
                 "name": "Obsidian Ring",
-                "img": "obsidian_ring"
+                "img": "../../assets/img/special-sets/raid-damage/obsidian_ring.png"
             },
             {
                 "name": "Noble Crystal Bracelet",
-                "img": "noble_bracelet"
+                "img": "../../assets/img/special-sets/raid-damage/noble_bracelet.png"
             },
             {
                 "name": "Raid Necklace",
-                "img": "raid_necklace"
+                "img": "../../assets/img/special-sets/raid-damage/raid_necklace.png"
             }
         ]
     },
@@ -41,35 +53,35 @@
         "items": [
             {
                 "name": "Easter Bunny Hat",
-                "img": "easter_bunny_hat"
+                "img": "../../assets/img/costumes/hats/easter_bunny_hat.png"
             },
             {
                 "name": "Wonderland Hat",
-                "img": "wonderland_hat"
+                "img": "../../assets/img/costumes/hats/wonderland_hat.png"
             },
             {
                 "name": "Honeybee Crown",
-                "img": "honeybee_hat"
+                "img": "../../assets/img/costumes/hats/honeybee_hat.png"
             },
             {
                 "name": "Plague Doctor Set",
-                "img": "plague"
+                "img": "../../assets/img/costumes/all-sets/buffs/plague_doctor_buffs.png"
             },
             {
                 "name": "Reindeer Costume",
-                "img": "reindeer_costume"
+                "img": "../../assets/img/costumes/costumes/reindeer_costume.png"
             },
             {
                 "name": "Desert Wings",
-                "img": "desert_wings"
+                "img": "../../assets/img/costumes/wings/desert_wings.png"
             },
             {
                 "name": "Hawaii Wings",
-                "img": "hawaii_wings"
+                "img": "../../assets/img/costumes/wings/hawaii_wings.png"
             },
             {
                 "name": "Ice Witch Wings",
-                "img": "ice_witch_wings"
+                "img": "../../assets/img/costumes/wings/ice_witch_wings.png"
             }
         ]
     },
@@ -78,11 +90,11 @@
         "items": [
             {
                 "name": "Zephyr Wings",
-                "img": "zephyr_buff"
+                "img": "../../assets/img/specialists/wings/buffs/zephyr_buff.png"
             },
             {
                 "name": "Petal Wings",
-                "img": "petal_buff"
+                "img": "../../assets/img/specialists/wings/buffs/petal_buff.png"
             }
         ]
     },
@@ -91,19 +103,23 @@
         "items": [
             {
                 "name": "Darkfrost Snowman",
-                "img": "darkfrost_snowman"
+                "img": "../../assets/img/pets/buffs/darkfrost_snowman.png"
+            },
+            {
+                "name": "Fibi Frosty",
+                "img": "../../assets/img/pets/buffs/fibi.png"
             },
             {
                 "name": "Long Legged Spider",
-                "img": "long_legged_spider"
+                "img": "../../assets/img/pets/buffs/long_legged_spider.png"
             },
             {
                 "name": "Mini Fernon",
-                "img": "mini_fernon"
+                "img": "../../assets/img/pets/buffs/mini_fernon.png"
             },
             {
                 "name": "Vampie",
-                "img": "devil_vampie"
+                "img": "../../assets/img/pets/buffs/devil_vampie.png"
             }
         ]
     },
@@ -112,19 +128,19 @@
         "items": [
             {
                 "name": "Akhenaton",
-                "img": "akhenaton"
+                "img": "../../assets/img/psps/buffs/akhenaton.png"
             },
             {
                 "name": "Eliza",
-                "img": "eliza"
+                "img": "../../assets/img/psps/buffs/eliza.png"
             },
             {
                 "name": "Lucy Lopears'",
-                "img": "lucy"
+                "img": "../../assets/img/psps/buffs/lucy.png"
             },
             {
                 "name": "Venus",
-                "img": "venus"
+                "img": "../../assets/img/psps/buffs/venus.png"
             }
         ]
     },
@@ -133,11 +149,11 @@
         "items": [
             {
                 "name": "King/Queen of Raids",
-                "img": "queen_of_raids"
+                "img": "../../assets/img/titles/king_of_raids.png"
             },
             {
                 "name": "Master of the Sea",
-                "img": "master_of_the_sea"
+                "img": "../../assets/img/titles/master_of_the_sea.png"
             }
         ]
     }

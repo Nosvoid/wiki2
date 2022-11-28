@@ -12,6 +12,7 @@ import talentarenaData from "../_json/schedule/talentarena.json";
 import wbData from "../_json/schedule/wb.json";
 import wba4Data from "../_json/schedule/wba4.json";
 import wb81Data from "../_json/schedule/wb81.json";
+import wb82Data from "../_json/schedule/wb82.json";
 
 interface BombRunner {
   hour: String;
@@ -44,6 +45,9 @@ interface WorldBossA4 {
   hour: String;
 }
 interface WorldBoss81 {
+  hour: String;
+}
+interface WorldBoss82 {
   hour: String;
 }
 
@@ -89,4 +93,5 @@ export class ScheduleComponent implements OnInit {
   worldboss : WorldBoss[] = wbData;
   worldbossa4 : WorldBossA4[] = wba4Data;
   worldboss81 : WorldBoss81[] = wb81Data;
+  worldboss82 : WorldBoss82[] = wb82Data;
 }

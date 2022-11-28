@@ -7,6 +7,50 @@
                 "hide": "",
                 "topic": [
                     {
+                        "topicname": "Fixes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Fixed an issue with character creation." },
+                            { "change": "- Fixed an issue, where you couldn't start the Valakus Raid." },
+                            { "change": "- Fixed an issue, where you couldn't use Monster Hunter Title." },
+                            { "change": "- Fixed an issue, that Valakus raid was called '' Cuby '' in raid list." },
+                            { "change": "- Fixed an issue, where you couldn't upgrade your Specialist Cards." },
+                            { "change": "-  Fixed an issue, that Dark Energy Stone wasn't sellable to the NPC." },
+                            { "change": "- Fixed an issue, that Frost Warrior's Helm buffs got changed in visual." },
+                            { "change": "- Fixed an issue, that Fire God Grenigas had max 8 members in raid list." },
+                            { "change": "- Fixed an issue, that Flame Gloves & Shoes had wrong price to sell NPC." },
+                            { "change": "- Fixed an issue, where Archangel and Archdaemon Wings had wrong buffs." },
+                            { "change": "- Fixed an issue, where Rare Intact Diamond and Rare Broken Diamond had wrong price to sell NPC." },
+                            { "change": "- Fixed an issue, where some prestige 8.2 dailies wasn't working." },
+                            { "change": "- Fixed an issue, where some people got bugged SLs. And changed bugged SL(s) to normal values." }
+                        ]
+                    },
+                    {
+                        "topicname": "Changes",
+                        "topicclass": "",
+                        "changes": [
+                            { "change": "- Increased amount of Small Safe from 1 to 2." },
+                            { "change": "- Added Marto's Buff NPC in Prestige 8.2 area." },
+                            { "change": "- Decreased notice range of Seal Farming monsters." },
+                            { "change": "- Removed second room from Hardcore Time Space." },
+                            { "change": "-  Removed Rainbow Battle activity system since it was bugging." },
+                            { "change": "- Decrease Pure Beast & Kirollas Daily Quest amount from 7 to 5." },
+                            { "change": "- Added new daily quest into Marathon Quest NPC where you can get Fibi Frosty as reward." },
+                            { "change": "- Decreased amount of Giant Lump your getting from Time Space Box. (Since you can do TS with 3 accounts.)" }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "patchnotesname": "Patch Notes - 28/11/2022",
+        "classes": [
+            {
+                "name": "Overall Changes & Fixes",
+                "hide": "",
+                "topic": [
+                    {
                         "topicname": "Changes",
                         "topicclass": "",
                         "changes": [

@@ -124,6 +124,17 @@
                 </tr>
             </table>
         </div>
+        <div class="event-container">
+            <button class="open-event">
+                <div class="open-event-title">World Boss Prestige 8.2</div>
+                <i class="fa fa-angle-down" aria-hidden="true"></i>
+            </button>
+            <table class="event-table display-none">
+                <tr class="event-row" *ngFor="let item of worldboss82">
+                    <td class="event-time">{{item.hour}}</td>
+                </tr>
+            </table>
+        </div>
     </div>
 
     
