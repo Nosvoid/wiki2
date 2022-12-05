@@ -9,11 +9,19 @@ export class ShopUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "27/11/2022",
+        date: "05/12/2022",
         items: [
             {
-                name: "Archangel Lucifer PSP",
-                img: "../assets/img/psps/buffs/archangel_lucifer.png"
+                name: "Betting Costume",
+                img: "../assets/img/costumes/costumes/betting_costume.png"
+            },
+            {
+                name: "Into the Void",
+                img: "../assets/img/titles/into_the_void.png"
+            },
+            {
+                name: "Knight Costume Set",
+                img: "../assets/img/costumes/all-sets/buffs/knight_buffs.png"
             },
             {
               name: "[NEW] Lava Ghost Helmet",
@@ -24,16 +32,8 @@ export class ShopUpdatesComponent implements OnInit {
               img: "../assets/img/helmets-masks/mask_elite.png"
             },
             {
-              name: "Shadow Snowman",
-              img: "../assets/img/pets/buffs/darkfrost_snowman.png"
-            },
-            {
-              name: "Shadow Spider",
-              img: "../assets/img/pets/buffs/long_legged_spider.png"
-            },
-            {
-              name: "Shadow Vampie",
-              img: "../assets/img/pets/buffs/devil_vampie.png"
+              name: "Snow Fox",
+              img: "../assets/img/pets/buffs/snow_fox.png"
             },
         ]
     }
