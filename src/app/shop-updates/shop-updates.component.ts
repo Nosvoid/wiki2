@@ -13,15 +13,15 @@ export class ShopUpdatesComponent implements OnInit {
         items: [
             {
                 name: "Skelekat Pet",
-                img: "../assets/img/costumes/pets/skelekat.png"
+                img: "../assets/img/costumes/pets/buffs/skelekat.png"
             },
             {
                 name: "Bride Pet",
-                img: "../assets/img/pets/zombikit.png"
+                img: "../assets/img/pets/buffs/zombikit.png"
             },
             {
                 name: "Macavity Pet",
-                img: "../assets/img/pets/mad_professor_macavity.png"
+                img: "../assets/img/pets/buffs/mad_professor_macavity.png"
             },
             {
               name: "Shadow Master Bunny Pet",
