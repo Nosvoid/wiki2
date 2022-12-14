@@ -13,7 +13,7 @@ export class ShopUpdatesComponent implements OnInit {
         items: [
             {
                 name: "Skelekat Pet",
-                img: "../assets/img/costumes/pets/buffs/skelekat.png"
+                img: "../assets/img/pets/buffs/skelekat.png"
             },
             {
                 name: "Bride Pet",
@@ -25,7 +25,7 @@ export class ShopUpdatesComponent implements OnInit {
             },
             {
               name: "Shadow Master Bunny Pet",
-              img: "../assets/img/helmets-masks/master_bunny.png"
+              img: "../assets/img/pets/buffs/master_bunny.png"
             },
             {
               name: "Caligor's Golden Horn",
