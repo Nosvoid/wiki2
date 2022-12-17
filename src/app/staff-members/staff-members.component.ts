@@ -80,13 +80,6 @@ export class StaffMembersComponent implements OnInit {
           languages: "ITA/ENG",
           img: "gd_male"
         },
-        // {
-        //   name: "Temko",
-        //   class: "",
-        //   roles: "Game Designer",
-        //   languages: "FR/ENG",
-        //   img: "gd_male"
-        // },
       ]
     },
     {
@@ -94,32 +87,11 @@ export class StaffMembersComponent implements OnInit {
       class: "gm",
       members: [
         {
-          name: "Aeri",
-          class: "gm",
-          roles: "Game Master",
-          languages: "TR/ENG",
-          img: "gm_male"
-        },
-        {
-          name: "Dana&Kai",
-          class: "gm",
-          roles: "Game Master",
-          languages: "ES/ENG",
-          img: "gm_male"
-        },
-        {
           name: "Drecker",
           class: "gm",
           roles: "Game Master",
           languages: "ITA/ENG",
           img: "gm_male"
-        },
-        {
-          name: "KryptonJH",
-          class: "wiki-dev",
-          roles: "Wiki Developer",
-          languages: "FR/ENG",
-          img: "wiki_dev_male"
         },
         {
           name: "Senka",
@@ -129,12 +101,33 @@ export class StaffMembersComponent implements OnInit {
           img: "gm_male"
         },
         {
-          name: "TheAnnoyingCat",
+          name: "Flashkun",
           class: "tgm",
           roles: "Trial Game Master",
-          languages: "ES/ENG",
-          img: "gm_female"
+          languages: "DE/ENG",
+          img: "gm_male"
+        },
+        {
+          name: "Iremia",
+          class: "tgm",
+          roles: "Trial Game Master",
+          languages: "PL/ENG",
+          img: "gm_male"
+        },
+        {
+          name: "Sikario",
+          class: "tgm",
+          roles: "Trial Game Master",
+          languages: "PL/ENG",
+          img: "gm_male"
         }
+        // {
+        //   name: "Blauker",
+        //   class: "wiki-dev",
+        //   roles: "Wiki Developer / CC Manager",
+        //   languages: "ESP/ENG",
+        //   img: "wiki_dev_male"
+        // },
       ]
     },
     {
@@ -162,6 +155,20 @@ export class StaffMembersComponent implements OnInit {
           img: "gs_male"
         },
         {
+          name: "Chavo",
+          class: "supp",
+          roles: "Game Supporter",
+          languages: "TR/ENG",
+          img: "gs_male"
+        },
+        {
+          name: "Dana&Kai",
+          class: "supp",
+          roles: "Game Supporter",
+          languages: "ES/ENG",
+          img: "gs_male"
+        },
+        {
           name: "Exodia's",
           class: "supp",
           roles: "Game Supporter",
@@ -176,31 +183,10 @@ export class StaffMembersComponent implements OnInit {
           img: "gs_male"
         },
         {
-          name: "Flashkun",
-          class: "supp",
-          roles: "Game Supporter",
-          languages: "DE/ENG",
-          img: "gs_male"
-        },
-        {
           name: "Galete",
           class: "supp",
           roles: "Game Supporter",
           languages: "ES/ENG",
-          img: "gs_male"
-        },
-        {
-          name: "Iremia",
-          class: "supp",
-          roles: "Game Supporter",
-          languages: "PL/ENG",
-          img: "gs_female"
-        },
-        {
-          name: "Nyx",
-          class: "tech",
-          roles: "Tech Helper",
-          languages: "PL/ENG",
           img: "gs_male"
         },
         {
@@ -211,48 +197,62 @@ export class StaffMembersComponent implements OnInit {
           img: "gs_male"
         },
         {
-          name: "Sikario",
+          name: "TheAnnoyingCat",
           class: "supp",
           roles: "Game Supporter",
-          languages: "PL/ENG",
+          languages: "ES/ENG",
           img: "gs_male"
         },
+        {
+          name: "Nyx",
+          class: "tech",
+          roles: "Tech Helper",
+          languages: "PL/ENG",
+          img: "gs_male"
+        }
       ]
     },
-    // {
-    //   category: "NosVoid Trial Supporter Team",
-    //   class: "tgs",
-    //   members: [
-    //     {
-    //       name: "Flashkun",
-    //       class: "supp",
-    //       roles: "Game Supporter",
-    //       languages: "DE/ENG",
-    //       img: "gs_male"
-    //     },
-    //     {
-    //       name: "Galete",
-    //       class: "supp",
-    //       roles: "Game Supporter",
-    //       languages: "ES/ENG",
-    //       img: "gs_male"
-    //     },
-    //     {
-    //       name: "Shelby",
-    //       class: "supp",
-    //       roles: "Game Supporter",
-    //       languages: "CZ/ENG",
-    //       img: "gs_male"
-    //     },
-    //     {
-    //       name: "Sikario",
-    //       class: "supp",
-    //       roles: "Game Supporter",
-    //       languages: "PL/ENG",
-    //       img: "gs_male"
-    //     },
-    //   ]
-    // },
+    {
+      category: "NosVoid Trial Supporter Team",
+      class: "tgs",
+      members: [
+        {
+          name: "-Onnus-",
+          class: "supp",
+          roles: "Trial Game Supporter",
+          languages: "DE/ENG",
+          img: "gs_male"
+        },
+        {
+          name: "#LittleKiki",
+          class: "supp",
+          roles: "Trial Game Supporter",
+          languages: "FR/ENG",
+          img: "gs_male"
+        },
+        {
+          name: "Biinshy",
+          class: "supp",
+          roles: "Trial Game Supporter",
+          languages: "ES/ENG",
+          img: "gs_male"
+        },
+        {
+          name: "DJ-Nujabes",
+          class: "supp",
+          roles: "Trial Game Supporter",
+          languages: "HK/ENG",
+          img: "gs_male"
+        },
+        {
+          name: "Nanke",
+          class: "supp",
+          roles: "Trial Game Supporter",
+          languages: "ITA/ENG",
+          img: "gs_male"
+        }
+      ]
+    },
   ]
 
   constructor() { }
