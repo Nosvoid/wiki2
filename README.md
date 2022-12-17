@@ -11,7 +11,8 @@ Here you will find all official information about gameplay, changes, patches and
 ```bash
 # clone repo
 npm install angular
-ng serve
+
+npm start
 
 ng build
 ```
