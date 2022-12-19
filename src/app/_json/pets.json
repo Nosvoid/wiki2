@@ -80,6 +80,14 @@
         "class": "raid"
     },
     {
+        "name": "Docile Mini Snowball",
+        "id": "",
+        "location": "Christmas Craft NPC ($warp xmas, 2nd map)",
+        "buff": "mini_snowball",
+        "skin": "",
+        "class": "pvp"
+    },
+    {
         "name": "Dragon Bee",
         "id": "",
         "location": "Can be obtained during Evolution Event",
@@ -317,6 +325,14 @@
         "location": "Can be crafted at Hardcore Rewards NPC $warp p8",
         "buff": "raptor",
         "skin": "raptor",
+        "class": "pvp"
+    },
+    {
+        "name": "Red Nose",
+        "id": "",
+        "location": "Christmas Craft NPC ($warp xmas, 2nd map)",
+        "buff": "red_nose",
+        "skin": "",
         "class": "pvp"
     },
     {

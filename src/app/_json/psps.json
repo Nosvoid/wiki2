@@ -2,7 +2,7 @@
     {
         "name": "Aegir",
         "id": "",
-        "partner": "Can be used on Ragnar",
+        "partner": "Can be used on [Melee] partners",
         "location": "Can be obtained during Christmas Event and in Fortune Wheel",
         "buff": "aegir",
         "skin": "aegir",
@@ -11,7 +11,7 @@
     {
         "name": "Akhenaton",
         "id": "",
-        "partner": "Can be used on Ragnar",
+        "partner": "Can be used on [Melee] partners",
         "location": "Can be obtained at Desert Rewards NPC $warp p8.1",
         "buff": "akhenaton",
         "skin": "akhenaton",
@@ -20,7 +20,7 @@
     {
         "name": "Amora",
         "id": "",
-        "partner": "Can be used on Jennifer/Leona",
+        "partner": "Can be used on [Long Range] partners",
         "location": "Can be obtained during Summer Event, in Fortune Wheel and in VoidMall for 500 coins",
         "buff": "amora",
         "skin": "amora",
@@ -29,7 +29,7 @@
     {
         "name": "Archangel Lucifer",
         "id": "",
-        "partner": "Can be used on Jennifer/Leona",
+        "partner": "Can be used on [Long Range] partners",
         "location": "Can be obtained at Monthly Rewards NPC Act4 and in Fortune Wheel ",
         "buff": "archangel_lucifer",
         "skin": "archangel_lucifer",
@@ -38,7 +38,7 @@
     {
         "name": "Archdemon Amon",
         "id": "amon",
-        "partner": "Can be used on Ragnar",
+        "partner": "Can be used on [Melee] partners",
         "location": "Can be crafted at Kan's Rewards NPC $warp p8.2",
         "buff": "archdemon_amon",
         "skin": "archdemon_amon",
@@ -47,7 +47,7 @@
     {
         "name": "Barni",
         "id": "",
-        "partner": "Can be used on Jennifer/Leona",
+        "partner": "Can be used on [Long Range] partners",
         "location": "Can be obtained during Chirstmas Event and in Fortune Wheel",
         "buff": "barni",
         "skin": "barni",
@@ -56,7 +56,7 @@
     {
         "name": "Cowgirl Chloe",
         "id": "",
-        "partner": "Can be used on Jennifer/Leona",
+        "partner": "Can be used on [Long Range] partners",
         "location": "Can be obtained during Summer Event, Talent Arena NPC and in Fortune Wheel",
         "buff": "cowgirl_chloe",
         "skin": "cowgirl_chloe",
@@ -65,7 +65,7 @@
     {
         "name": "Daniel Ducat's",
         "id": "",
-        "partner": "Can be used on Jennifer/Leona",
+        "partner": "Can be used on [Long Range] partners",
         "location": "Can be obtained during Christmas Event and Hardcore Reward NPC",
         "buff": "daniel_ducat",
         "skin": "daniel_ducat",
@@ -74,7 +74,7 @@
     {
         "name": "Eliza",
         "id": "",
-        "partner": "Can be used on Yertirand/Sakura",
+        "partner": "Can be used on [Magic] partners",
         "location": "Can be obtained during Summer Event and Craft Stuff NPC $warp p8",
         "buff": "eliza",
         "skin": "eliza",
@@ -83,7 +83,7 @@
     {
         "name": "Fiona",
         "id": "",
-        "partner": "Can be used on Ragnar",
+        "partner": "Can be used on [Melee] partners",
         "location": "Can be obtained at Craft Stuff NPC $warp p8",
         "buff": "fiona",
         "skin": "fiona",
@@ -92,7 +92,7 @@
     {
         "name": "Foxy",
         "id": "foxy",
-        "partner": "Can be used on Ragnar",
+        "partner": "Can be used on [Melee] partners",
         "location": "Can be obtained at Tower Craft NPC $warp p8.2",
         "buff": "foxy",
         "skin": "foxy",
@@ -101,7 +101,7 @@
     {
         "name": "Frankestein",
         "id": "",
-        "partner": "Can be used on Ragnar",
+        "partner": "Can be used on [Melee] partners",
         "location": "Can be obtained during Halloween Event, in Fortune Wheel and in VoidMall for 900 coins",
         "buff": "frankestein",
         "skin": "frankestein",
@@ -110,7 +110,7 @@
     {
         "name": "Freya",
         "id": "",
-        "partner": "Can be used on Yertirand/Sakura",
+        "partner": "Can be used on [Magic] partners",
         "location": "Can be obtained during Christmas Event and in Fortune Wheel",
         "buff": "freya",
         "skin": "freya",
@@ -119,7 +119,7 @@
     {
         "name": "Harlequin",
         "id": "",
-        "partner": "Can be used on Yertirand/Sakura",
+        "partner": "Can be used on [Magic] partners",
         "location": "Can be crafted at Family Tower Rewards NPC $warp p8.1",
         "buff": "harlequin",
         "skin": "harlequin",
@@ -128,16 +128,25 @@
     {
         "name": "Hongbi",
         "id": "",
-        "partner": "Can be used on Ragnar",
+        "partner": "Can be used on [Melee] partners",
         "location": "Can be obtained during Summer Event and in VoidMall for 900 coins",
         "buff": "hongbi",
         "skin": "hongbi",
         "class": "pvp"
     },
     {
+        "name": "Lotus",
+        "id": "",
+        "partner": "Can be used on [Long Range] partners",
+        "location": "Can be from Christmas Craft NPC ($warp xmas, 2nd map)",
+        "buff": "lotus",
+        "skin": "lotus",
+        "class": "raid"
+    },
+    {
         "name": "Lucy Lopears'",
         "id": "",
-        "partner": "Can be used on Ragnar",
+        "partner": "Can be used on [Melee] partners",
         "location": "Can be obtained during Easter Event",
         "buff": "lucy",
         "skin": "lucy",
@@ -146,7 +155,7 @@
     {
         "name": "Mad March Hare",
         "id": "",
-        "partner": "Can be used on Jennifer/Leona",
+        "partner": "Can be used on [Long Range] partners",
         "location": "Can be obtained during Easter Event",
         "buff": "mad_march",
         "skin": "mad_march",
@@ -155,7 +164,7 @@
     {
         "name": "Maru",
         "id": "",
-        "partner": "Can be used on Ragnar",
+        "partner": "Can be used on [Melee] partners",
         "location": "Can be obtained during Summer Event and Rainbow Battle Exchange NPC",
         "buff": "maru",
         "skin": "maru",
@@ -164,7 +173,7 @@
     {
         "name": "Nelia",
         "id": "",
-        "partner": "Can be used on Jennifer/Leona",
+        "partner": "Can be used on [Long Range] partners",
         "location": "Can be obtained in VoidMall for 600 coins",
         "buff": "nelia",
         "skin": "nelia",
@@ -173,7 +182,7 @@
     {
         "name": "Orkani",
         "id": "",
-        "partner": "Can be used on Yertirand/Sakura",
+        "partner": "Can be used on [Magic] partners",
         "location": "Can be crafted during Mouse Event",
         "buff": "orkani",
         "skin": "orkani",
@@ -182,7 +191,7 @@
     {
         "name": "Perti",
         "id": "",
-        "partner": "Can be used on Ragnar",
+        "partner": "Can be used on [Melee] partners",
         "location": "Can be obtained in Fortune Wheel",
         "buff": "perti",
         "skin": "perti",
@@ -191,16 +200,25 @@
     {
         "name": "Sheriff Chloe",
         "id": "",
-        "partner": "Can be used on Jennifer/Leona",
+        "partner": "Can be used on [Long Range] partners",
         "location": "Can be obtained during Summer Event",
         "buff": "sheriff_chloe",
         "skin": "sheriff_chloe",
         "class": "gold"
     },
     {
+        "name": "Shinobi",
+        "id": "",
+        "partner": "Can be used on [Melee] partners",
+        "location": "Can be from Christmas Craft NPC ($warp xmas, 2nd map)",
+        "buff": "shinobi",
+        "skin": "shinobi",
+        "class": "raid"
+    },
+    {
         "name": "Venus",
         "id": "",
-        "partner": "Can be used on Ragnar",
+        "partner": "Can be used on [Melee] partners",
         "location": "Can be obtained during Easter Event, in Fortune Wheel and in VoidMall for 900",
         "buff": "venus",
         "skin": "venus",
@@ -209,7 +227,7 @@
     {
         "name": "Yuna",
         "id": "",
-        "partner": "Can be used on Yertirand/Sakura",
+        "partner": "Can be used on [Magic] partners",
         "location": "Can be obtained in VoidMall for 1200 coins",
         "buff": "yuna",
         "skin": "yuna",
