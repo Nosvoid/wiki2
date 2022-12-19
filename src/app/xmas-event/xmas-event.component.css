@@ -1,0 +1,174 @@
+.halloween {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-block: 3em;
+    color: white;
+    background-color: rgba(0, 0, 0, .8);
+    border-radius: 20px;
+    width: 100%;
+    padding: 3em 1em;
+    text-align: center;
+}
+
+.halloween-title-1,
+.halloween-title-2,
+.halloween-title-3,
+.halloween-title-4 {
+    font-family: 'Edu SA Beginner', cursive;
+}
+
+.halloween-title-1 {
+    font-size: 3rem;
+    margin-bottom: 1em;
+}
+
+.halloween-title-2 {
+    font-size: 2.5rem;
+    margin-top: 1em;
+    color: var(--void-clr);
+}
+
+.halloween-title-3 {
+    font-size: 2rem;
+    line-height: 1.3em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: .3em;
+}
+
+.halloween-title-4 {
+    font-size: 1.5rem;
+    line-height: 1.3em;
+    width: 75%;
+    margin: auto;
+}
+
+.halloween-text {
+    font-size: 1.2rem;
+    line-height: 1.3em;
+    width: 75%;
+}
+
+.purple {
+    color: var(--void-clr);
+    font-weight: bold;
+}
+
+.hallo-raid {
+    padding-inline: 1em;
+}
+
+.chest-reward,
+.crafting-mat,
+.quest-reward,
+.pack-list li {
+    font-size: 1.1rem;
+    line-height: 1.5em;
+}
+
+.hallo-rewards {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.halloween img {
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 10px;
+}
+
+.halloween-options {
+    text-align: start;
+    font-size: 1.2rem;
+    line-height: 1.4em;
+}
+
+.option-type {
+    color: var(--void-clr);
+}
+
+.halloween-powers div {
+    padding: 1.5em;
+}
+
+.chest-rewards,
+.quest-rewards {
+    padding: 0;
+    margin: auto;
+    width: fit-content; 
+}
+.chest-reward {
+    text-align: start;
+}
+
+.crafting-items {
+    width: 75%;
+}
+
+.crafting-item, 
+.halloween-titles div {
+    padding: 1em;
+}
+
+.crafting-item-title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1em;
+}
+
+.halloween img,
+.halloween video {
+    max-width: 100%;
+}
+
+.halloween-quest {
+    padding: 1em;
+}
+
+.halloween-quest h4, 
+.halloween-quest h3 {
+    color: var(--void-clr);
+}
+
+.halloween-quest > * {
+    margin: auto;
+    line-height: 1.5em;
+}
+
+.ctn p {
+    margin: auto;
+}
+
+/* Media queries */
+@media all and (min-width: 1140px) {
+
+    .halloween,
+    .tattoos {
+        width: 75%;
+    }
+
+    .daily-quests,
+    .halloween-titles
+     {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        padding: 2em;
+        gap: 1em;
+    }
+
+    .crafting-items,
+    .hallo-raids {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        padding: 1em;
+    }
+    
+    .crafting-items {
+        gap: 1em;
+    }
+}

@@ -1,0 +1,130 @@
+<div class="d-flex justify-content-center w-100">
+    <section class="halloween">
+        <img src="../../assets/img/xmas-event/xmas-event.png" alt="" width="700px" />
+
+        <div class="hallo-raids">
+            <div class="hallo-raid">
+                <h2 class="halloween-title-2">Santa Claus Raid</h2>
+                <img src="../../assets/img/halloween-event/spider_bossX.png" alt="" height="120px" />
+                <div class="hallo-rewards">
+                    <h3 class="halloween-title-3">
+                        <img src="../../assets/img/halloween-event/spider_boxX.png" alt="" />
+                        Santa Claus Raid Box
+                    </h3>
+                    <h4 class="halloween-title-4">Rewards :</h4>
+                    <ul class="chest-rewards">
+                        <li class="chest-reward" *ngFor="let reward of santaBox">
+                            - {{ reward.reward }}
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="hallo-raid">
+                <h2 class="halloween-title-2">Snowman Head Raid</h2>
+                <img src="../../assets/img/halloween-event/jack_bossX.png" alt="" />
+                <div class="hallo-rewards">
+                    <h3 class="halloween-title-3">
+                        <img src="../../assets/img/halloween-event/jack_boxX.png" alt="" />
+                        Snowman Head Raid Box
+                    </h3>
+                    <h4 class="halloween-title-4">Rewards :</h4>
+                    <ul class="chest-rewards">
+                        <li class="chest-reward" *ngFor="let reward of snowmanBox">
+                            - {{ reward.reward }}
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="hallo-raid">
+                <h2 class="halloween-title-2">Winter Box</h2>
+                <img src="../../assets/img/halloween-event/jack_bossX.png" alt="" />
+                <div class="hallo-rewards">
+                    <h3 class="halloween-title-3">
+                        <img src="../../assets/img/halloween-event/hallo_spe_boxX.png" alt="" />
+                        Winter Box
+                    </h3>
+                    <h4 class="halloween-title-4">Rewards :</h4>
+                    <ul class="chest-rewards">
+                        <li class="chest-reward" *ngFor="let reward of winterBox">
+                            - {{ reward.reward }}
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <br/><br/><br/><br/>
+
+        <h2 class="halloween-title-2">Daily Quests</h2>
+        <div class="daily-quests">
+            <div class="halloween-quest" *ngFor="let quest of dailyQuests">
+                <h3 class="halloween-title-3 text-center">{{quest.name}}</h3>
+                <p class="halloween-text text-center" *ngFor="let todo of quest.todo">{{todo.quest}}</p>
+                <h4 class="halloween-title-4 text-center">Reward(s) :</h4>
+                <ul class="quest-rewards">
+                    <li class="quest-reward" *ngFor="let reward of quest.rewards">{{reward.reward}}</li>
+                </ul>
+            </div>
+        </div>
+        <h2 class="halloween-title-2">Marathon Quest (Repeatable)</h2>
+        <h3 class="halloween-title-3 text-center">We won't freeze this winter !</h3>
+        <p class="halloween-text text-center">• Successfully complete 300x Santa Claus Raid</p>
+        <h4 class="halloween-title-4 text-center" style="color: var(--void-clr)">Reward :</h4>
+        <ul class="quest-rewards">
+            <li class="quest-reward">- 20x Winter Box</li>
+            <li class="quest-reward">- 1x Eternal Ice</li>
+        </ul>
+        <br/><br/><br/><br/>
+
+        <div class="ctn">
+            <h2 class="halloween-title-2">Christmas World Boss</h2>
+            <p class="halloween-text">
+                <br>Xmas World Boss will appear at: <i>(Server Time)</i> <br/>
+                - <span class="purple">07:00</span> <br/>
+                - <span class="purple">14:00</span> <br/>
+                - <span class="purple">21:00</span>
+            </p>
+            <br/>
+            <h4 class="halloween-title-4">Rewards :</h4>
+            <ul class="chest-rewards">
+                <li class="chest-reward" *ngFor="let reward of xmaswbBox">
+                    - {{ reward.reward }}
+                </li>
+                + 1% chance to drop the title "Winter is Coming"
+            </ul>
+        </div>
+        <br/><br/><br/><br/>
+
+        <h2 class="halloween-title-2">Items to craft</h2>
+        <div class="crafting-items">
+            <div class="crafting-item" *ngFor="let item of itemsToCraft">
+                <div class="crafting-item-title">
+                    <img src="../../assets/img/halloween-event/{{item.icon}}.png" alt="" />
+                    <h3 class="halloween-title-3">{{item.name}}</h3>
+                </div>
+                <a href="{{item.buff}}" target="_blank"><img src="{{item.buff}}" alt=""></a>
+            </div>
+        </div>
+        <br/><br/><br/><br/>
+
+        <h2 class="halloween-title-2">Miniland decorations</h2>
+        You can buy some decorations from the NPC for 250.000 Gold.
+        <img src="../../assets/img/xmas-event/minilandNPC.png" alt=""/> <br/>
+        <h4 class="halloween-title-4">Festive Decoration Pack! :</h4>
+        <ul class="chest-rewards">
+            <li class="chest-reward" *ngFor="let reward of minilandPack">
+                - {{ reward.reward }}
+            </li>
+        </ul>
+        <br/><br/><br/><br/>
+
+        <h2 class="halloween-title-2">Calendar NPC</h2>
+        You will be able to claim gift everyday from the Calendar NPC!
+        <img src="../../assets/img/xmas-event/calendarNPC.png" alt=""/> <br/>
+        <br/><br/><br/><br/>
+
+        <h2 class="halloween-title-2">Christmas Edition Battle Pass</h2>
+        <a href="/battle-pass">
+        <img src="../../assets/img/xmas-event/winter-nosvoid.png" alt="" width="800px"/></a> <br/>
+        <br/><br/><br/><br/>
+    </section>
+</div>
