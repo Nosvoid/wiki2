@@ -13,11 +13,11 @@ export class ShopUpdatesComponent implements OnInit {
         items: [
             {
                 name: "Solaris",
-                img: "../assets/img/fairies/buffs/solaris.png"
+                img: "../assets/img/fairies/solaris.png"
             },
             {
                 name: "Azuris",
-                img: "../assets/img/fairies/buffs/azuris.png"
+                img: "../assets/img/fairies/azuris.png"
             },
             {
                 name: "Baby Panda",
@@ -25,14 +25,14 @@ export class ShopUpdatesComponent implements OnInit {
             },
             {
               name: "Shooting Star",
-              img: "../assets/img/titles/buffs/shooting_star.png"
+              img: "../assets/img/titles/shooting_star.png"
             },
             {
-              name: "Caligor's Golden Horn",
+              name: "Lava Ghost Helmet",
               img: "../assets/img/helmets-masks/lava_helmet.png"
             },
             {
-              name: "Nurse Costume Set",
+              name: "Robber Mask",
               img: "../assets/img/helmets-masks/robber_mask.png"
             },
         ]
