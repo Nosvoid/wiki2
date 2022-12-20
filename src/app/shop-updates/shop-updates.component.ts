@@ -9,31 +9,31 @@ export class ShopUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "14/12/2022",
+        date: "20/12/2022",
         items: [
             {
-                name: "Skelekat Pet",
-                img: "../assets/img/pets/buffs/skelekat.png"
+                name: "Solaris",
+                img: "../assets/img/fairies/buffs/solaris.png"
             },
             {
-                name: "Bride Pet",
-                img: "../assets/img/pets/buffs/zombikit.png"
+                name: "Azuris",
+                img: "../assets/img/fairies/buffs/azuris.png"
             },
             {
-                name: "Macavity Pet",
-                img: "../assets/img/pets/buffs/mad_professor_macavity.png"
+                name: "Baby Panda",
+                img: "../assets/img/pets/buffs/baby_panda.png"
             },
             {
-              name: "Shadow Master Bunny Pet",
-              img: "../assets/img/pets/buffs/master_bunny.png"
+              name: "Shooting Star",
+              img: "../assets/img/titles/buffs/shooting_star.png"
             },
             {
               name: "Caligor's Golden Horn",
-              img: "../assets/img/helmets-masks/caligor_horn.png"
+              img: "../assets/img/helmets-masks/lava_helmet.png"
             },
             {
               name: "Nurse Costume Set",
-              img: "../assets/img/costumes/all-sets/buffs/plague_doctor_buffs.png"
+              img: "../assets/img/helmets-masks/robber_mask.png"
             },
         ]
     }
