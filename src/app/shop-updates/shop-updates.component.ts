@@ -45,25 +45,13 @@ export class ShopUpdatesComponent implements OnInit {
       boxName : 'Partner Card Random Box',
       mainItem: "Venus, Hongbi, Lucy and Mad March Hare PSPs",
       mainItemImg: "../../assets/img/pets/buffs/otter.png",
+      mainItemImg: "../../assets/img/psps/buffs/hongbi.png",
+      mainItemImg: "../../assets/img/psps/buffs/lucy.png",
+      mainItemImg: "../../assets/img/psps/buffs/mad_march.png",
       mainItems: [
         {
-          name: "Venus",
+          name: "Partner Card Random Box",
           img: "../../assets/img/psps/buffs/venus.png"
-        },
-
-        {
-          name: "Hongbi",
-          img: "../../assets/img/psps/buffs/hongbi.png"
-        },
-
-        {
-          name: "Lucy Lopear",
-          img: "../../assets/img/psps/buffs/lucy.png"
-        },
-
-        {
-          name: "Mad March Hare",
-          img: "../../assets/img/psps/buffs/mad_march.png"
         },
       ],
       items: [
