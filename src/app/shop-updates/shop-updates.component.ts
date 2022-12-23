@@ -47,8 +47,8 @@ export class ShopUpdatesComponent implements OnInit {
       mainItemImg: "../../assets/img/psps/buffs/Rotation_psp.png",
       mainItems: [
         {
-          name: "Partner Card Random Box",
-          img: "../../assets/img/psps/buffs/venus.png"
+          name: "Venus, Hongbi, Lucy and Mad March Hare PSPs",
+          img: "../../assets/img/psps/buffs/Rotation_psp.png"
         },
 
       ],
