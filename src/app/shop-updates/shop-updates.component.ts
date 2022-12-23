@@ -41,14 +41,29 @@ export class ShopUpdatesComponent implements OnInit {
 
   randomBox = [
     {
-      date: "14/12/2022",
-      boxName : 'Otter Random Box',
-      mainItem: "Otter Pet",
+      date: "24/12/2022",
+      boxName : 'Partner Card Random Box',
+      mainItem: "Venus, Hongbi, Lucy and Mad March Hare PSPs",
       mainItemImg: "../../assets/img/pets/buffs/otter.png",
       mainItems: [
         {
-          name: "Otter",
-          img: "../../assets/img/pets/buffs/otter.png"
+          name: "Venus",
+          img: "../../assets/img/psps/buffs/venus.png"
+        },
+
+        {
+          name: "Hongbi",
+          img: "../../assets/img/psps/buffs/hongbi.png"
+        },
+
+        {
+          name: "Lucy Lopear",
+          img: "../../assets/img/psps/buffs/lucy.png"
+        },
+
+        {
+          name: "Mad March Hare",
+          img: "../../assets/img/psps/buffs/mad_march.png"
         },
       ],
       items: [
