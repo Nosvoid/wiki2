@@ -44,16 +44,11 @@ export class ShopUpdatesComponent implements OnInit {
       date: "24/12/2022",
       boxName : 'Partner Card Random Box',
       mainItem: "Venus, Hongbi, Lucy and Mad March Hare PSPs",
-      mainItemImg: "../../assets/img/pets/buffs/otter.png",
+      mainItemImg: "../../assets/img/psps/buffs/Rotation_psp.png",
       mainItems: [
         {
           name: "Partner Card Random Box",
           img: "../../assets/img/psps/buffs/venus.png"
-        },
-
-        {
-          name: "Partner Card Random Box",
-          img: "../../assets/img/psps/buffs/hongbi.png"
         },
 
       ],
