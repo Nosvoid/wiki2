@@ -89,7 +89,7 @@ export class XmasEventComponent implements OnInit {
     {
       icon: "AAAAAA",
       name: "Christmas Costume Box", 
-      buff: "../../assets/img/xmas-event/AAAAA.png"
+      buff: "../../assets/img/xmas-event/xmas-boxX.png"
     },
     {
       icon: "AAAAAA",
@@ -108,8 +108,58 @@ export class XmasEventComponent implements OnInit {
     },
     {
       icon: "AAAAAA",
-      name: "Queen of Freeze Title", 
-      buff: "../../assets/img/xmas-event/queen-of-freeze-title.png"
+      name: "Queen of Ice Title", 
+      buff: "../../assets/img/xmas-event/queen-of-ice-title.png"
+    },
+    {
+      icon: "AAAAAA",
+      name: "Barni's Specialist Partner Card", 
+      buff: "../../assets/img/xmas-event/Barni.png"
+    },
+    {
+      icon: "AAAAAA",
+      name: "Aegir's Specialist Partner Card", 
+      buff: "../../assets/img/xmas-event/Aegir.png"
+    },
+    {
+      icon: "AAAAAA",
+      name: "Freya's Specialist Partner Card", 
+      buff: "../../assets/img/xmas-event/Freya.png"
+    },
+    {
+      icon: "AAAAAA",
+      name: "Festive Decoration Pack", 
+      buff: "../../assets/img/xmas-event/Festive-decoration-pack.png"
+    },
+    {
+      icon: "AAAAAA",
+      name: "Act4 Bracelet", 
+      buff: "../../assets/img/xmas-event/Act4-bracelet.png"
+    },
+    {
+      icon: "AAAAAA",
+      name: "Partner Skill Ticket (Single)", 
+      buff: "../../assets/img/xmas-event/blue-ticket.png"
+    },
+    {
+      icon: "AAAAAA",
+      name: "Frost Warrior Costume Set", 
+      buff: "../../assets/img/xmas-event/CCCCC.png"
+    },
+    {
+      icon: "AAAAAA",
+      name: "Snowman Pet", 
+      buff: "../../assets/img/xmas-event/CCCCC.png"
+    },
+    {
+      icon: "AAAAAA",
+      name: "Magic Sleigh", 
+      buff: "../../assets/img/xmas-event/reindeer-mount-1.png"
+    },
+    {
+      icon: "AAAAAA",
+      name: "Magic Sleigh with Red-nosed Reindeer", 
+      buff: "../../assets/img/xmas-event/reindeer-mount-2.png"
     },
   ]
 
