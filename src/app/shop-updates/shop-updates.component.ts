@@ -9,31 +9,31 @@ export class ShopUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "20/12/2022",
+        date: "30/12/2022",
         items: [
             {
-                name: "Solaris",
-                img: "../assets/img/fairies/solaris.png"
+                name: "Shadow Dragon Bee",
+                img: "../assets/img/pets/buffs/dragon_bee.png"
             },
             {
-                name: "Azuris",
-                img: "../assets/img/fairies/azuris.png"
+                name: "Shadow Master Bunny",
+                img: "../assets/img/pets/buffs/master_bunny.png"
             },
             {
-                name: "Baby Panda",
-                img: "../assets/img/pets/buffs/baby_panda.png"
+                name: "Shadow Namaju",
+                img: "../assets/img/pets/buffs/namaju.png"
             },
             {
-              name: "Shooting Star",
-              img: "../assets/img/titles/shooting_star.png"
+              name: "Knight Costume Set",
+              img: "../assets/img/costumes/all-sets/buffs/knight_buffs.png"
             },
             {
-              name: "Lava Ghost Helmet",
-              img: "../assets/img/helmets-masks/lava_helmet.png"
+              name: "Batman Mask",
+              img: "../assets/img/helmets-mask/batman_mask.png"
             },
             {
-              name: "Robber Mask",
-              img: "../assets/img/helmets-masks/robber_mask.png"
+              name: "Into the Void Title",
+              img: "../assets/img/titles/into_the_void.png"
             },
         ]
     }
@@ -41,14 +41,14 @@ export class ShopUpdatesComponent implements OnInit {
 
   randomBox = [
     {
-      date: "24/12/2022",
-      boxName : 'Partner Card Random Box',
-      mainItem: "Venus, Hongbi, Lucy and Mad March Hare PSPs",
-      mainItemImg: "../../assets/img/psps/buffs/Rotation_psp.png",
+      date: "30/12/2022",
+      boxName : 'Koala Random Box',
+      mainItem: "Koala",
+      mainItemImg: "../../assets/img/pets/buffs/koala.png",
       mainItems: [
         {
           name: "Venus, Hongbi, Lucy and Mad March Hare PSPs",
-          img: "../../assets/img/psps/buffs/Rotation_psp.png"
+          img: "../../assets/img/pets/buffs/koala.png"
         },
 
       ],
