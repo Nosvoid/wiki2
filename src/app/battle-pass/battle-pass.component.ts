@@ -110,7 +110,7 @@ export class BattlePassComponent implements OnInit {
       ]
     },
     {
-      dates: "Seventh Quests (Last) : 29 December to the 2 January",
+      dates: "Seventh Quests (Last) : 29 December to the 6 January",
       pvpQuests: [
         { quest: "Participate to Caligor 4 time.", number: "1." },
         { quest: "Kill [100] peoples in A4.", number: "2." },
