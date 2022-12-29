@@ -29,7 +29,7 @@ export class ShopUpdatesComponent implements OnInit {
             },
             {
               name: "Batman Mask",
-              img: "../assets/img/helmets-mask/batman_mask.png"
+              img: "../assets/img/helmets-masks/batman_mask.png"
             },
             {
               name: "Into the Void Title",
