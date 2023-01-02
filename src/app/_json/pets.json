@@ -84,7 +84,7 @@
         "id": "",
         "location": "Christmas Craft NPC ($warp xmas, 2nd map)",
         "buff": "mini_snowball",
-        "skin": "",
+        "skin": "mini_snowball",
         "class": "pvp"
     },
     {
@@ -332,7 +332,7 @@
         "id": "",
         "location": "Christmas Craft NPC ($warp xmas, 2nd map)",
         "buff": "red_nose",
-        "skin": "",
+        "skin": "red_nose",
         "class": "pvp"
     },
     {
