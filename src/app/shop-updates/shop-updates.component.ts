@@ -21,7 +21,7 @@ export class ShopUpdatesComponent implements OnInit {
             },
             {
                 name: "Betting Costume",
-                img: "../assets/img/costumes/buffs/betting_costume.png"
+                img: "../assets/img/costumes/costumes/betting_costume.png"
             },
             {
               name: "Plague Doctor/Nurse Costume Set",
