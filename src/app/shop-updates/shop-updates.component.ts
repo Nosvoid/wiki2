@@ -16,7 +16,7 @@ export class ShopUpdatesComponent implements OnInit {
                 img: "../assets/img/helmets-masks/caligor_horn.png"
             },
             {
-                name: "Shadow Master Fox",
+                name: "Shadow Snow Fox",
                 img: "../assets/img/pets/buffs/snow_fox.png"
             },
             {
