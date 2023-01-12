@@ -21,7 +21,7 @@ export class ShopUpdatesComponent implements OnInit {
             },
             {
                 name: "Knight Costume Set",
-                img: "../assets/img/costumes/costumes/betting_costume.png"
+                img: "../assets/img/costumes/all-sets/buffs/knight_buffs.png"
             },
             {
               name: "Shadow Snowman",
