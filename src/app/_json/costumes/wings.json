@@ -1,5 +1,10 @@
 [
     {
+        "name": "Christmas Wings",
+        "buff": "christmas_wings",
+        "class": "pvp"
+    },
+    {
         "name": "Death Lancer Wings",
         "buff": "death_lancer_wings",
         "class": "pvp"

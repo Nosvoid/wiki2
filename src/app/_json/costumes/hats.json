@@ -1,5 +1,10 @@
 [
     {
+        "name": "Christmas Hat",
+        "buff": "christmas_hat",
+        "class": "pvp"
+    },
+    {
         "name": "Concierge Hat",
         "buff": "concierge_hat",
         "class": "raid"
