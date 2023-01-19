@@ -13,15 +13,15 @@ export class ShopUpdatesComponent implements OnInit {
         items: [
             {
                 name: "Robber Mask",
-                img: "../assets/img/helmet-masks/robber_mask.png"
+                img: "../assets/img/helmets-masks/robber_mask.png"
             },
             {
                 name: "Shadow Bee",
-                img: "../assets/img/pets/all-evolutions/dragon_bee.png"
+                img: "../assets/img/pets/buffs/dragon_bee.png"
             },
             {
                 name: "Lava Ghost Helmet",
-                img: "../assets/img/helmet-masks/lava_helmet.png"
+                img: "../assets/img/helmets-masks/lava_helmet.png"
             },
             {
               name: "Aesthetic Amulet",
@@ -44,11 +44,11 @@ export class ShopUpdatesComponent implements OnInit {
       date: "20/01/2023",
       boxName : 'Partner Card Random Box',
       mainItem: "Partner Cards",
-      mainItemImg: "../../assets/img/psp/buffs/Rotation_psp.png",
+      mainItemImg: "../../assets/img/psps/buffs/Rotation_psp.png",
       mainItems: [
         {
           name: "Venus, Hongbi, Lucy and Mad March Hare PSPs",
-          img: "../../assets/img/psp/buffs/Rotation_psp.png"
+          img: "../../assets/img/psps/buffs/Rotation_psp.png"
         },
 
       ],
