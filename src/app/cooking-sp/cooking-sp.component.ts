@@ -324,7 +324,7 @@ export class CookingSpComponent implements OnInit {
         {
           icon: "chopping_board",
           name: "Chopping Board",
-          price: "4kk Each"
+          price: "2kk Each"
         },
         {
           icon: "meat",
