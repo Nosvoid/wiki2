@@ -9,31 +9,36 @@ export class ShopUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "20/01/2023",
+        date: "27/01/2023",
         items: [
             {
-                name: "Robber Mask",
-                img: "../assets/img/helmets-masks/robber_mask.png"
+                name: "Hawaii Costume Set (Male)",
+                img: "../assets/img/costumes/all-sets/buffs/hawaii_buffs.png"
             },
             {
-                name: "Shadow Bee",
-                img: "../assets/img/pets/buffs/dragon_bee.png"
+                name: "Hawaii Costume Set (Female)",
+                img: "../assets/img/costumes/all-sets/buffs/hawaii_buffs.png"
             },
             {
-                name: "Lava Ghost Helmet",
-                img: "../assets/img/helmets-masks/lava_helmet.png"
+                name: "Alitus XV",
+                img: "../assets/img/psps/buffs/AlitusXV.png"
             },
             {
-              name: "Aesthetic Amulet",
-              img: "../assets/img/halloween-event/amulet_m.png"
+              name: "Raid Ring",
+              img: "../assets/img/accessories/RaidRing.png"
             },
             {
-              name: "Aesthetic Amulet",
-              img: "../assets/img/halloween-event/amulet_f1.png"
+              name: "Raid Necklace",
+              img: "../assets/img/accessories/RaidNecklace.png"
             },
             {
-              name: "Aesthetic Amulet",
-              img: "../assets/img/halloween-event/amulet_f2.png"
+              name: "Raid Bracelet",
+              img: "../assets/img/accessories/RaidBracelet.png"
+            },
+
+            {
+              name: "Black Ink Rabbit (Available during Chinese New Year Event)",
+              img: "../assets/img/pets/buffs/BlackInk.png"
             },
         ]
     }
@@ -41,14 +46,14 @@ export class ShopUpdatesComponent implements OnInit {
 
   randomBox = [
     {
-      date: "20/01/2023",
-      boxName : 'Partner Card Random Box',
-      mainItem: "Partner Cards",
-      mainItemImg: "../../assets/img/psps/buffs/Rotation_psp.png",
+      date: "27/01/2023",
+      boxName : 'Koala Random Box',
+      mainItem: "Koala",
+      mainItemImg: "../../assets/img/pets/buffs/koala.png",
       mainItems: [
         {
           name: "Venus, Hongbi, Lucy and Mad March Hare PSPs",
-          img: "../../assets/img/psps/buffs/Rotation_psp.png"
+          img: "../../assets/img/pets/buffs/koala.png"
         },
 
       ],
