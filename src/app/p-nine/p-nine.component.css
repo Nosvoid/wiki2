@@ -1,0 +1,173 @@
+.prestige-title-1,
+.prestige-title-2,
+.prestige-title-3 {
+    font-family: 'Edu SA Beginner', cursive;
+}
+
+.prestige-title-1 {
+    font-size: 3rem;
+    margin-bottom: 1em;
+}
+
+.prestige-title-2 {
+    font-size: 2rem;
+    margin-top: 1em;
+    color: var(--void-clr);
+    text-align: center;
+    font-weight: bold;
+}
+
+.prestige-title-3 {
+    font-size: 1.75rem;
+    line-height: 1.3em;
+    color: var(--void-clr);
+    margin-top: 1.5em;
+}
+
+.prestige-title-4 {
+    font-size: 1.25rem;
+    margin-block: 1em;
+    text-decoration: underline;
+    font-weight: bold;
+    text-align: center;
+}
+
+.prestige-text,
+.prestige-list-item {
+    font-size: 1.1rem;
+    line-height: 1.5em;
+}
+
+.prestige-text,
+.prestige-title-4 {
+    text-align: center;
+}
+
+.prestige-infos {
+    padding: 1em;
+}
+
+.prestige-infos .prestige-title-2 {
+    margin-top: 0;
+}
+
+.prestige-eight {
+    width: 100%;
+    margin: auto;
+}
+
+.prestige-list {
+    width: fit-content;
+    margin: auto;
+    padding: 0;
+    text-align: start;
+    margin-block: 1em;
+}
+
+.prestige-list-item div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.prestige-article img {
+    max-width: 100%;
+    max-height: 300px;
+    border-radius: 10px;
+}
+
+.Video{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Video video {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.container{
+    padding: 10px;
+    margin-top: -12px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.285);
+}
+
+.raid{
+    max-width: 1000px;
+    padding: 10px;
+    margin-top: -12px;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.285);
+}
+.raid .rooms{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.raid .rooms .s{
+    padding: 1%;
+}
+
+.crafting{
+    padding: 0px;
+    margin-top: 0px;
+    border-radius: 10px;
+}
+.crafting .set{
+    display: flex;
+    align-items: top;
+    justify-content: center;
+}
+.crafting .set .s{
+    width: 300px;
+    text-align: center;
+}
+
+.prestige-grid-2 {
+    font-size: 1.1rem;
+    line-height: 1.5em;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.prestige-grid-2v {
+    font-size: 1.1rem;
+    line-height: 1.5em;
+    gap: 5%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+}
+.right{
+    text-align: right;
+}
+.light{
+    font-size: small;
+    font-weight: lighter;
+}
+
+.box{
+    border-radius: 10px;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.35);
+}
+
+@media screen and (max-width: 785px) {
+    .container {
+        display: contents;
+    }
+    .crafting .set .s{
+        width: auto;
+    }
+
+    .prestige-grid-2v {
+        display: contents;
+    }
+}
