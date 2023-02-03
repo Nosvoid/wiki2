@@ -9,51 +9,47 @@ export class ShopUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "27/01/2023",
+        date: "03/02/2023",
         items: [
             {
-                name: "Hawaii Costume Set (Male)",
-                img: "../assets/img/costumes/all-sets/buffs/hawaii_buffs.png"
+                name: "Shooting Star Title",
+                img: "../assets/img/titles/shooting_star.png"
             },
             {
-                name: "Hawaii Costume Set (Female)",
-                img: "../assets/img/costumes/all-sets/buffs/hawaii_buffs.png"
+                name: "Shadow Namaju Pet",
+                img: "../assets/img/pets/buffs/namaju.png"
             },
             {
-                name: "Alitus XV",
-                img: "../assets/img/psps/buffs/AlitusXV.png"
+                name: "Betting Costume",
+                img: "../assets/img/costumes/costumes/betting_costume.png"
             },
             {
-              name: "Raid Ring",
-              img: "../assets/img/accessories/RaidRing.png"
+              name: "Shadow Master Bunny",
+              img: "../assets/img/pets/buffs/master_bunny.png"
             },
             {
-              name: "Raid Necklace",
-              img: "../assets/img/accessories/RaidNecklace.png"
+              name: "Betting Necklace",
+              img: "../assets/img/accessories/BettingWheelSpecial.png"
             },
             {
-              name: "Raid Bracelet",
-              img: "../assets/img/accessories/RaidBracelet.png"
+              name: "Pleague Doctor/Nurse Set",
+              img: "../assets/img/costumes/all-sets/buffs/plague_doctor_buffs.png"
             },
 
-            {
-              name: "Black Ink Rabbit (Available during Chinese New Year Event)",
-              img: "../assets/img/pets/buffs/BlackInk.png"
-            },
         ]
     }
 ]
 
   randomBox = [
     {
-      date: "27/01/2023",
-      boxName : 'Koala Random Box',
-      mainItem: "Koala",
-      mainItemImg: "../../assets/img/pets/buffs/koala.png",
+      date: "03/02/2023",
+      boxName : 'Otter Random Box',
+      mainItem: "Otter",
+      mainItemImg: "../../assets/img/pets/buffs/otter.png",
       mainItems: [
         {
           name: "Venus, Hongbi, Lucy and Mad March Hare PSPs",
-          img: "../../assets/img/pets/buffs/koala.png"
+          img: "../../assets/img/pets/buffs/otter.png"
         },
 
       ],
