@@ -69,6 +69,7 @@ import { PEightTwoComponent } from './p-eight-two/p-eight-two.component';
 import { PNineComponent } from './p-nine/p-nine.component';
 import { PEightOneComponent } from './p-eight-one/p-eight-one.component';
 import { XmasEventComponent } from './xmas-event/xmas-event.component';
+import { ArenaComponent } from './arena-of-talents/arena-of-talents.component';
 
 
 
@@ -128,7 +129,9 @@ const appRoutes: Routes = [
   { path: 'prestige-8-1', component: PEightOneComponent },
   { path: 'prestige-8-2', component: PEightTwoComponent },
   { path: 'aaabbbcccdddeee', component: PNineComponent },
+  // Change aaabbbcccdddeee -> prestige-9 (delete this comment then)
   { path: 'xmas-event', component: XmasEventComponent },
+  { path: 'arena-of-talents', component: ArenaComponent },
   { path: '**', pathMatch: "full", component: ErrorPageComponent },
 ]
 
@@ -193,7 +196,8 @@ const appRoutes: Routes = [
     PEightTwoComponent,
     PNineComponent,
     PEightOneComponent,
-    XmasEventComponent
+    XmasEventComponent,
+    ArenaComponent
   ],
   imports: [
     BrowserModule,
