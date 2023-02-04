@@ -128,8 +128,7 @@ const appRoutes: Routes = [
   { path: 'prestige-8', component: PEightComponent },
   { path: 'prestige-8-1', component: PEightOneComponent },
   { path: 'prestige-8-2', component: PEightTwoComponent },
-  { path: 'aaabbbcccdddeee', component: PNineComponent },
-  // Change aaabbbcccdddeee -> prestige-9 (delete this comment then)
+  { path: 'prestige-9', component: PNineComponent },
   { path: 'xmas-event', component: XmasEventComponent },
   { path: 'arena-of-talents', component: ArenaComponent },
   { path: '**', pathMatch: "full", component: ErrorPageComponent },
