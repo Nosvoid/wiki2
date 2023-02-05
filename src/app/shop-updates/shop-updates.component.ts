@@ -32,8 +32,8 @@ export class ShopUpdatesComponent implements OnInit {
               img: "../assets/img/prestiges/p9/MiniAlzanorShop.png"
             },
             {
-              name: "Pleague Doctor/Nurse Set",
-              img: "../assets/img/costumes/all-sets/buffs/plague_doctor_buffs.png"
+              name: "Rocketeer Outfit Set",
+              img: "../assets/img/prestiges/p9/Other/RocketeerNew.png"
             },
 
         ]
