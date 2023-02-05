@@ -13,7 +13,7 @@ export class ShopUpdatesComponent implements OnInit {
         items: [
             {
                 name: "Retro Wings Box",
-                img: "../assets/img/prestiges/p9/Other/RetroShopUpdate.png"
+                img: "../assets/img/prestiges/p9/Crafting/Other/RetroShopUpdate.png"
             },
             {
                 name: "Mini Valehir Pet",
@@ -33,7 +33,7 @@ export class ShopUpdatesComponent implements OnInit {
             },
             {
               name: "Rocketeer Outfit Set",
-              img: "../assets/img/prestiges/p9/Other/RocketeerNew.png"
+              img: "../assets/img/prestiges/p9/Crafting/Other/RocketeerNew.png"
             },
 
         ]
