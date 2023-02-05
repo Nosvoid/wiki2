@@ -9,27 +9,27 @@ export class ShopUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "03/02/2023",
+        date: "06/02/2023",
         items: [
             {
-                name: "Shooting Star Title",
-                img: "../assets/img/titles/shooting_star.png"
+                name: "Retro Wings Box",
+                img: "../assets/img/prestiges/p9/Other/RetroShopUpdate.png"
             },
             {
-                name: "Shadow Namaju Pet",
-                img: "../assets/img/pets/buffs/namaju.png"
+                name: "Mini Valehir Pet",
+                img: "../assets/img/prestiges/p9/valebuff.png"
             },
             {
-                name: "Betting Costume",
-                img: "../assets/img/costumes/costumes/betting_costume.png"
+                name: "Mini Asgobas Pet",
+                img: "../assets/img/prestiges/p9/asgobuff.png"
             },
             {
-              name: "Shadow Master Bunny",
-              img: "../assets/img/pets/buffs/master_bunny.png"
+              name: "Dragon of Void",
+              img: "../assets/img/prestiges/p9/Dragonofvoid.png"
             },
             {
-              name: "Betting Necklace",
-              img: "../assets/img/accessories/BettingWheelSpecial.png"
+              name: "Mini Alzanor",
+              img: "../assets/img/prestiges/p9/MiniAlzanorShop.png"
             },
             {
               name: "Pleague Doctor/Nurse Set",
