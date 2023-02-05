@@ -1,0 +1,59 @@
+.badges {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-block: 3em;
+    color: white;
+    background-color: rgba(0, 0, 0, .8);
+    border-radius: 20px;
+    width: 100%;
+    padding: 3em 0;
+    text-align: center;
+}
+
+.badges-title, .badge-content h2 {
+    font-family: 'Edu SA Beginner', cursive;
+    font-size: 2rem;
+}
+
+.badge-content p,
+.badge-content ul {
+    margin-bottom: 2em;
+}
+
+.badge-content p, 
+.badge-content li, 
+.badge-content h3 
+ {
+    font-size: 1.1rem;
+}
+
+.badges-title {
+    font-size: 3rem;
+    margin-bottom: 1em;
+    display: flex;
+    justify-content: center;
+}
+
+.badge-content {
+    width: 75%;
+}
+
+.voidColor{
+    color: var(--void-clr);
+    font-weight: bold;
+}
+
+.voidSubTitle{
+    font-size: 1.25rem;
+    text-decoration: underline;
+    font-weight: bold;
+    text-align: center;
+}
+
+@media all and (min-width: 1140px) {
+    .badges {
+        width: 75%;
+    }
+}
