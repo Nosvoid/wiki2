@@ -6,6 +6,7 @@ import caligorData from "../_json/schedule/caligor.json";
 import colorpvpData from "../_json/schedule/colorpvp.json";
 import famdungeonData from "../_json/schedule/famdungeon.json";
 import icData from "../_json/schedule/instantcombat.json";
+import aicData from "../_json/schedule/asgobasinstantcombat.json";
 import meteoriteData from "../_json/schedule/meteorite.json";
 import rbbData from "../_json/schedule/rbb.json";
 import talentarenaData from "../_json/schedule/talentarena.json";
@@ -27,6 +28,9 @@ interface FamDungeon {
   hour: String;
 }
 interface Ic {
+  hour: String;
+}
+interface AIc {
   hour: String;
 }
 interface Meteorite {
@@ -87,6 +91,7 @@ export class ScheduleComponent implements OnInit {
   colorpvp : ColorPvp[] = colorpvpData;
   famdungeon : FamDungeon[] = famdungeonData;
   instantcombat : Ic[] = icData;
+  asgobasinstantcombat : AIc[] = aicData;
   meteorite : Meteorite[] = meteoriteData;
   rbb : Rbb[] = rbbData;
   talentarena : TalentArena[] = talentarenaData;
