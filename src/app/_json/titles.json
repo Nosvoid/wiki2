@@ -1,5 +1,12 @@
 [
     {
+        "name": "Dragon of Void",
+        "id": "",
+        "location": "You can get it in Fortune Wheel",
+        "img": "dragon_of_void",
+        "class": "pvp"
+    },
+    {
         "name": "Advanced Angler",
         "id": "",
         "location": "You get it after completing the Fish Encyclopedia",

@@ -1,5 +1,19 @@
 [
     {
+        "name": "Retro Wings",
+        "location": "Can be obtained in Fortune Wheel",
+        "buff": "retro_buff",
+        "skin": "retro_skin",
+        "class": "pvp"
+    },
+    {
+        "name": "Eagle Wings",
+        "location": "Can be bought for 900 coins in Void Mall",
+        "buff": "eagle_buff",
+        "skin": "eagle_skin",
+        "class": "raid"
+    },
+    {
         "name": "Angel Wings",
         "location": "Can be crafted at Low Tier Wings NPC $warp p1",
         "buff": "angel_buff",

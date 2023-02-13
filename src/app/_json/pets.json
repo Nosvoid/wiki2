@@ -1,5 +1,29 @@
 [
     {
+        "name": "Mini Alzanor",
+        "id": "",
+        "location": "Can be obtained in the Lottery IC / Fortune Wheel",
+        "buff": "mini_alzanor",
+        "skin": "Alzanor",
+        "class": "pvp"
+    },
+    {
+        "name": "Mini Valehir",
+        "id": "",
+        "location": "Can be obtained in the Lottery IC / Fortune Wheel",
+        "buff": "mini_valehir",
+        "skin": "Valehir",
+        "class": "pve"
+    },
+    {
+        "name": "Mini Asgobas",
+        "id": "",
+        "location": "Can be obtained in the Lottery IC / Fortune Wheel",
+        "buff": "mini_asgobas",
+        "skin": "Asgobas",
+        "class": "pvp"
+    },
+    {
         "name": "Baby Panda",
         "id": "",
         "location": "Can be obtained in the Fortune Wheel",
