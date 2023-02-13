@@ -1,5 +1,14 @@
 [
     {
+        "name": "Jinn",
+        "id": "",
+        "partner": "Can be used on [Magic] partners",
+        "location": "Can be obtained from Lottery IC / Fortune Wheel",
+        "buff": "jinn",
+        "skin": "jinn",
+        "class": "raid"
+    },
+    {
         "name": "Aegir",
         "id": "",
         "partner": "Can be used on [Melee] partners",

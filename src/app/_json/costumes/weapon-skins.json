@@ -1,11 +1,19 @@
 [
     {
-        "name": "Candy Weapon Skins",
+        "name": "Heavenly Weapon Skins",
         "id": "",
-        "location": "You can craft those weapon skins at Instant Combat NPC.",
-        "upgrade": "You can upgrade them to +5 maximum.",
-        "buff": "candy",
+        "location": "You can craft those weapon skins at Craft NPC (P9)",
+        "upgrade": "You can upgrade them to +7 maximum.",
+        "buff": "heaven",
         "class": "raid"
+    },
+    {
+        "name": "Hellord Weapon Skins",
+        "id": "",
+        "location": "You can craft those weapon skins at Craft NPC (P9)",
+        "upgrade": "You can upgrade them to +7 maximum.",
+        "buff": "hell",
+        "class": "pvp"
     },
     {
         "name": "Frost Weapon Skins",
