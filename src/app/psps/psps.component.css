@@ -78,6 +78,15 @@
     border-radius: 10px;
 }
 
+.show-skills {
+    border: none;
+    background-color: rgb(167, 40, 196);
+    color: white;
+    padding: .5em 1em;
+    margin-top: 1em;
+    border-radius: 10px;
+}
+
 .set-buff {
     position: fixed;
     z-index: 1;
