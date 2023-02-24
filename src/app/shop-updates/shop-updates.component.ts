@@ -9,31 +9,31 @@ export class ShopUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "18/02/2023",
+        date: "24/02/2023",
         items: [
             {
                 name: "Retro Wings Box",
                 img: "../assets/img/prestiges/p9/Crafting/Other/RetroShopUpdate.png"
             },
             {
-                name: "Lava Ghost Helmet",
-                img: "../assets/img/helmets-masks/lava_helmet.png"
+                name: "Shadow Namaju",
+                img: "../assets/img/pets/buffs/namaju.png"
             },
             {
-                name: "Robber Mask",
-                img: "../assets/img/helmets-masks/robber_mask.png"
+                name: "Shooting Star",
+                img: "../assets/img/titles/shooting_star.png"
             },
             {
-              name: "Dragon of Void",
-              img: "../assets/img/prestiges/p9/Dragonofvoid.png"
+              name: "Mini Asgobas",
+              img: "../assets/img/prestiges/p9/asgobuff.png"
             },
             {
-              name: "Aesthetic Amulet (Female)",
-              img: "../assets/img/halloween-event/amulet_f1.png"
+              name: "Mini Alzanor",
+              img: "../assets/img/prestiges/p9/MiniAlzanorShop.png"
             },
             {
-              name: "Aesthetic Amulet (Female)",
-              img: "../assets/img/halloween-event/amulet_f2.png"
+              name: "Mini Valehir",
+              img: "../assets/img/prestiges/p9/valebuff.png"
             },
 
         ]
