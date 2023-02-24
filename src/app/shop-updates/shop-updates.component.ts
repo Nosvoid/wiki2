@@ -29,7 +29,7 @@ export class ShopUpdatesComponent implements OnInit {
             },
             {
               name: "Mini Alzanor",
-              img: "../assets/img/prestiges/p9/MiniAlzanorShop.png"
+              img: "../assets/img/prestiges/p9/NewAlzanor.png"
             },
             {
               name: "Mini Valehir",
