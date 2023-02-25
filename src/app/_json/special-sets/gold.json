@@ -3,6 +3,10 @@
         "type": "Equipments",
         "items": [
             {
+                "name": "Heavenly Skin",
+                "img": "heavenly"
+            },
+            {
                 "name": "Candy Skin",
                 "img": "candy_skin"
             },

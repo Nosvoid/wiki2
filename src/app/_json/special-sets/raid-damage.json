@@ -3,6 +3,14 @@
         "type": "Equipments",
         "items": [
             {
+                "name": "Aesthetic Amulet",
+                "img": "../../assets/img/special-sets/raid-damage/amulet.png"
+            },
+            {
+                "name": "Heavenly Weapon Skins",
+                "img": "../../assets/img/special-sets/raid-damage/heavenly.png"
+            },
+            {
                 "name": "Ancient Beast Resistances",
                 "img": "../../assets/img/resistances/beast_res.png"
             },
@@ -51,6 +59,14 @@
     {
         "type": "Costumes",
         "items": [
+            {
+                "name": "Rocketeer Wings",
+                "img": "../../assets/img/costumes/wings/rocheteer.png"
+            },
+            {
+                "name": "Rocketeer Costume",
+                "img": "../../assets/img/costumes/costumes/rocheteer.png"
+            },
             {
                 "name": "Easter Bunny Hat",
                 "img": "../../assets/img/costumes/hats/easter_bunny_hat.png"
@@ -101,6 +117,10 @@
     {
         "type": "Pets",
         "items": [
+            {
+                "name": "Mini Valehir",
+                "img": "../../assets/img/special-sets/raid-damage/valehir.png"
+            },
             {
                 "name": "Darkfrost Snowman",
                 "img": "../../assets/img/pets/buffs/darkfrost_snowman.png"

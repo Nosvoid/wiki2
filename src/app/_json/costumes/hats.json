@@ -1,5 +1,10 @@
 [
     {
+        "name": "Recketeer Headset",
+        "buff": "rocheteer",
+        "class": "raid"
+    },
+    {
         "name": "Christmas Hat",
         "buff": "christmas_hat",
         "class": "pvp"

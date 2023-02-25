@@ -1,7 +1,11 @@
 [
     {
-        "type": "Costume Wings",
+        "type": "Costume",
         "items": [
+            {
+                "name": "Hawaii Costume Wings",
+                "img": "rocheteer"
+            },
             {
                 "name": "Hawaii Costume Wings",
                 "img": "hawaii_wings"

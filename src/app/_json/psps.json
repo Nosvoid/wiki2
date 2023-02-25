@@ -1,5 +1,14 @@
 [
     {
+        "name": "XV Alitus",
+        "id": "",
+        "partner": "Can be used on [Melee] partners",
+        "location": "Can be obtained from Fortune Wheel and sometimes from Montly Caligor Reward",
+        "buff": "alitus",
+        "skin": "alitus",
+        "class": "pvp"
+    },
+    {
         "name": "Jinn",
         "id": "",
         "partner": "Can be used on [Magic] partners",

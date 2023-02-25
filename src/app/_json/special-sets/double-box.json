@@ -2,6 +2,18 @@
     {
         "regular": [
             {
+                "name": "Aesthetic Amulet",
+                "img": "amulet"
+            },
+            {
+                "name": "Heavenly Weapon Skin",
+                "img": "heavenly"
+            },
+            {
+                "name": "Mini Valehir",
+                "img": "valehir"
+            },
+            {
                 "name": "Candy Skin",
                 "img": "candy_skin"
             },
@@ -39,6 +51,10 @@
             }
         ],
         "a4": [
+            {
+                "name": "XV Alitus' Blessing",
+                "img": "alitus"
+            },
             {
                 "name": "Act4 Bracelet",
                 "img": "act4_bracelet"

@@ -1,5 +1,10 @@
 [
     {
+        "name": "Rocketeer Wings",
+        "buff": "rocheteer",
+        "class": "raid"
+    },
+    {
         "name": "Christmas Wings",
         "buff": "christmas_wings",
         "class": "pvp"
