@@ -29,7 +29,7 @@ export class ShopUpdatesComponent implements OnInit {
             },
             {
               name: "Rat Hat",
-              img: "../assets/img/costumes/costumes/RatHatWheel.png"
+              img: "../assets/img/costumes/hats/RatHatWheel.png"
             },
             {
               name: "Retro Wings",
