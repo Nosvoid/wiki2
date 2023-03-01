@@ -33,7 +33,7 @@ export class ShopUpdatesComponent implements OnInit {
             },
             {
               name: "Retro Wings",
-              img: "../assets/img/prestiges/crafting/Other/RetroShopUpdate.png"
+              img: "../assets/img/prestiges/p9/Crafting/Other/RetroShopUpdate.png"
             },
 
         ]
@@ -45,7 +45,7 @@ export class ShopUpdatesComponent implements OnInit {
       date: "01/03/2023",
       boxName : 'Partner Card Random Box',
       mainItem: "Partner Card",
-      mainItemImg: "../../assets/img/pets/buffs/otter.png",
+      mainItemImg: "../../assets/img/psps/buffs/Rotation_psp.png",
       mainItems: [
         {
           name: "Venus, Hongbi, Lucy and Mad March Hare PSPs",
