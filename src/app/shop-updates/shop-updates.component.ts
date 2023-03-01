@@ -44,7 +44,7 @@ export class ShopUpdatesComponent implements OnInit {
     {
       date: "",
       boxName : 'Nothing is available for now, come back later!',
-      mainItem: "Partner Card",
+      mainItem: "None",
       mainItemImg: "../../assets/img/psps/buffs/Rotatison_psp.png",
       mainItems: [
         {
