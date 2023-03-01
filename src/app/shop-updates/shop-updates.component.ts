@@ -42,10 +42,10 @@ export class ShopUpdatesComponent implements OnInit {
 
   randomBox = [
     {
-      date: "01/03/2023",
-      boxName : 'Partner Card Random Box',
+      date: "",
+      boxName : 'Nothing is available for now, come back later!',
       mainItem: "Partner Card",
-      mainItemImg: "../../assets/img/psps/buffs/Rotation_psp.png",
+      mainItemImg: "../../assets/img/psps/buffs/Rotatison_psp.png",
       mainItems: [
         {
           name: "Venus, Hongbi, Lucy and Mad March Hare PSPs",
