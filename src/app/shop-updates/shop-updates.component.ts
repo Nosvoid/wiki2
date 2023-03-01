@@ -9,31 +9,31 @@ export class ShopUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "24/02/2023",
+        date: "01/03/2023",
         items: [
             {
-                name: "Retro Wings Box",
-                img: "../assets/img/prestiges/p9/Crafting/Other/RetroShopUpdate.png"
+                name: "Caligor Horn",
+                img: "../assets/img/helmets-masks/caligor_horn.png"
             },
             {
-                name: "Shadow Namaju",
-                img: "../assets/img/pets/buffs/namaju.png"
+                name: "Batman Mask",
+                img: "../assets/img/helmets-masks/batman_mask.png"
             },
             {
-                name: "Shooting Star",
-                img: "../assets/img/titles/shooting_star.png"
+                name: "Knight Costume Set",
+                img: "../assets/img/costumes/all-sets/buffs/knight_buffs.png"
             },
             {
-              name: "Mini Asgobas",
-              img: "../assets/img/prestiges/p9/asgobuff.png"
+              name: "Dragon of Void",
+              img: "../assets/img/titles/dragon_of_void.png"
             },
             {
-              name: "Mini Alzanor",
-              img: "../assets/img/prestiges/p9/NewAlzanor.png"
+              name: "Rat Hat",
+              img: "../assets/img/costumes/costumes/RatHatWheel.png"
             },
             {
-              name: "Mini Valehir",
-              img: "../assets/img/prestiges/p9/valebuff.png"
+              name: "Retro Wings",
+              img: "../assets/img/prestiges/crafting/Other/RetroShopUpdate.png"
             },
 
         ]
@@ -42,14 +42,14 @@ export class ShopUpdatesComponent implements OnInit {
 
   randomBox = [
     {
-      date: "03/02/2023",
-      boxName : 'Otter Random Box',
-      mainItem: "Otter",
+      date: "01/03/2023",
+      boxName : 'Partner Card Random Box',
+      mainItem: "Partner Card",
       mainItemImg: "../../assets/img/pets/buffs/otter.png",
       mainItems: [
         {
           name: "Venus, Hongbi, Lucy and Mad March Hare PSPs",
-          img: "../../assets/img/pets/buffs/otter.png"
+          img: "../../assets/img/psps/buffs/Rotation_psp.png"
         },
 
       ],
