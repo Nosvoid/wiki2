@@ -36,7 +36,7 @@
     })();
     
      (function() {
-      let prevUrl = undefined;
+      let prevUrl = window.location.href;
       setInterval(() => {
         const currUrl = window.location.href;
         if (currUrl != prevUrl) {
