@@ -19,6 +19,25 @@
 
     gtag('config', 'G-1WYEKQHR6Y');
   </script>
+  
+  <!-- Matomo -->
+  <script>
+    var _paq = window._paq = window._paq || [];
+    /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+    _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+    _paq.push(["setCookieDomain", "*.nosvoid.com"]);
+    _paq.push(["setDomains", ["*.nosvoid.com","*.forum.nosvoid.com","*.wiki.nosvoid.com"]]);
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function() {
+      var u="https://unicorn.nosvoid.com/";
+      _paq.push(['setTrackerUrl', u+'rainbow.php']);
+      _paq.push(['setSiteId', '1']);
+      var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+      g.async=true; g.src=u+'unicorn7.js'; s.parentNode.insertBefore(g,s);
+    })();
+  </script>
+  <!-- End Matomo Code -->
 </head>
 <body class="mat-typography">
   <video playsinline autoplay muted loop class="bg-video-container">
