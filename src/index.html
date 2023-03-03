@@ -36,6 +36,20 @@
       var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
       g.async=true; g.src=u+'unicorn7.js'; s.parentNode.insertBefore(g,s);
     })();
+    
+     (function() {
+      let prevUrl = undefined;
+      setInterval(() => {
+        const currUrl = window.location.href;
+        if (currUrl != prevUrl) {
+          // URL changed
+          prevUrl = currUrl;
+          _paq.push(['setCustomUrl', currUrl]);
+          _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+          _paq.push(['trackPageView']);
+        }
+      }, 60);     
+     })();
   </script>
   <!-- End Matomo Code -->
 </head>
