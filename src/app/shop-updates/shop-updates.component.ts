@@ -21,7 +21,7 @@ export class ShopUpdatesComponent implements OnInit {
             },
             {
                 name: "Rocketeer Costume Set",
-                img: "../assets/img/prestiges/p9/Crafting/other/RocketeerNew.png"
+                img: "../assets/img/prestiges/p9/Crafting/Other/RocketeerNew.png"
             },
             {
               name: "Dragon of Void",
