@@ -54,7 +54,7 @@
             {
                 "name": "Shadow King's Helmet",
                 "id": "",
-                "location": "You can get it in Fortune Wheel",
+                "location": "You can get it from Family Tower Game Craft ($warp p8.2)",
                 "buff": "shadow_kings_helmet",
                 "class": "raid"
             }
@@ -108,7 +108,7 @@
             {
                 "name": "Shadow King's Mask",
                 "id": "",
-                "location": "You can get it in Fortune Wheel",
+                "location": "You can get it from Family Tower Game Craft ($warp p8.2)",
                 "buff": "shadow_kings_mask",
                 "class": "raid"
             }

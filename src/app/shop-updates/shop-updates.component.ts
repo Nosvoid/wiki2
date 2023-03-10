@@ -9,31 +9,31 @@ export class ShopUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "01/03/2023",
+        date: "10/03/2023",
         items: [
             {
-                name: "Caligor Horn",
-                img: "../assets/img/helmets-masks/caligor_horn.png"
+                name: "Lava Ghost Helmet",
+                img: "../assets/img/helmets-masks/lava_helmet.png"
             },
             {
-                name: "Batman Mask",
-                img: "../assets/img/helmets-masks/batman_mask.png"
+                name: "Robber Mask",
+                img: "../assets/img/helmets-masks/robber_mask.png"
             },
             {
-                name: "Knight Costume Set",
-                img: "../assets/img/costumes/all-sets/buffs/knight_buffs.png"
+                name: "Rocketeer Costume Set",
+                img: "../assets/img/prestiges/p9/other/RocketeerNew.png"
             },
             {
               name: "Dragon of Void",
               img: "../assets/img/titles/dragon_of_void.png"
             },
             {
-              name: "Rat Hat",
-              img: "../assets/img/costumes/hats/RatHatWheel.png"
+              name: "Evolve Your Badge (1x)",
+              img: "../assets/img/prestiges/p82/BadgeEvolveWheel.png"
             },
             {
-              name: "Retro Wings",
-              img: "../assets/img/prestiges/p9/Crafting/Other/RetroShopUpdate.png"
+              name: "Evolution Badge Rarify Changer",
+              img: "../assets/img/prestiges/p82/BadgeRarifyWheel.png"
             },
 
         ]
