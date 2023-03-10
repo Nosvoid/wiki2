@@ -32,7 +32,7 @@ export class ShopUpdatesComponent implements OnInit {
               img: "../assets/img/prestiges/p82/BadgeEvolveWheel.png"
             },
             {
-              name: "Evolution Badge Rarify Changer",
+              name: "Evolution Badge Rarify Changer (3x)",
               img: "../assets/img/prestiges/p82/BadgeRarifyWheel.png"
             },
 
