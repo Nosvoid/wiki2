@@ -10,7 +10,25 @@
     width: 100%;
     padding: 3em 0;
 }
+.flex{
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+}
+.flex-2{
+    display: flex;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.839);
+}
+.flex-3{
+    display: flex;
+    justify-content: center;
+}
 
+img{
+    width: 100%;
+    max-width:fit-content;
+}
 .shells-title-1,
 .shells-title-2 {
     font-family: 'Edu SA Beginner', cursive;
@@ -22,8 +40,10 @@
 }
 
 .shells-title-2 {
+    color: var(--void-clr);
+    font-weight: bold;
     font-size: 2rem;
-    margin-top: 1em;
+    margin-top: 1.7em;
 }
 
 .shells-title-3 {
@@ -71,5 +91,11 @@
 
     .shells {
         width: 75%;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .flex{
+        display: block;
     }
 }
