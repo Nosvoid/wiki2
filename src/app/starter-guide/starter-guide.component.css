@@ -22,6 +22,7 @@
 }
 
 .starter-guide-title-2 {
+    font-weight: bold;
     font-size: 2rem;
     margin-top: 1em;
     color: var(--void-clr);
@@ -52,6 +53,40 @@
     max-width: 100%;
     max-height: 300px;
     border-radius: 10px;
+}
+
+.w-75{
+    margin-top: -35px;
+    margin-bottom: 80px;
+    background-color: rgba(255, 255, 255, 0.099);
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.scrollHere{
+    height: 20px;
+}
+
+.nos-bars{
+    color: white;
+}
+
+.navbar{
+    color: black;
+    border-radius: 6px;
+}
+.nav-link{
+    color: white;
+    font-weight: bold;
+    background-color: rgba(255, 255, 255, 0.31);
+    padding: 3px;
+    border-radius: 4px;
+    transition: 0.3s;
+    margin: 2px;
+}
+.nav-link:hover{
+    background-color: rgba(255, 255, 255, 0.121);
+    border-radius: 6px;
 }
 
 /* Media queries */
