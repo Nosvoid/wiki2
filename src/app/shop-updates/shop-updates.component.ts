@@ -9,31 +9,31 @@ export class ShopUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "10/03/2023",
+        date: "17/03/2023",
         items: [
             {
-                name: "Lava Ghost Helmet",
-                img: "../assets/img/helmets-masks/lava_helmet.png"
+                name: "Mini Valehir",
+                img: "../assets/img/prestiges/p9/valebuff.png"
             },
             {
-                name: "Robber Mask",
-                img: "../assets/img/helmets-masks/robber_mask.png"
+                name: "Mini Asgobas",
+                img: "../assets/img/prestiges/p9/asgobuff.png"
             },
             {
-                name: "Rocketeer Costume Set",
-                img: "../assets/img/prestiges/p9/Crafting/Other/RocketeerNewWheel.png"
+                name: "Mini Alzanor",
+                img: "../assets/img/prestiges/p9/NewAlzanor.png"
             },
             {
-              name: "Dragon of Void",
-              img: "../assets/img/titles/dragon_of_void.png"
+              name: "Plague Doctor/Nurse Costume Set",
+              img: "../assets/img/costumes/all-sets/buffs/plague_doctor_buffs.png"
             },
             {
-              name: "Evolve Your Badge (1x)",
-              img: "../assets/img/prestiges/p82/BadgeEvolveWheel.png"
+              name: "Alitus XV Partner Card",
+              img: "../assets/img/psps/buffs/alitus.png"
             },
             {
-              name: "Evolution Badge Rarify Changer (3x)",
-              img: "../assets/img/prestiges/p82/BadgeRarifyWheel.png"
+              name: "Black Ink Rabbit (Shadow Energy is buff from pet' skill.)",
+              img: "../assets/img/pets/buffs/BlackInk.png"
             },
 
         ]
