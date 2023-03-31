@@ -9,23 +9,23 @@ export class ShopUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "17/03/2023",
+        date: "31/03/2023",
         items: [
             {
-                name: "Mini Valehir",
-                img: "../assets/img/prestiges/p9/valebuff.png"
+                name: "Robber Mask",
+                img: "../assets/img/helmets-masks/robber_mask.png"
             },
             {
-                name: "Mini Asgobas",
-                img: "../assets/img/prestiges/p9/asgobuff.png"
+                name: "Lava Ghost Helmet",
+                img: "../assets/img/helmets-masks/lava_helmet.png"
             },
             {
-                name: "Mini Alzanor",
-                img: "../assets/img/prestiges/p9/NewAlzanor.png"
+                name: "Aesthetic Amulet",
+                img: "../assets/img/halloween-event/amulet_f1.png"
             },
             {
               name: "Plague Doctor/Nurse Costume Set",
-              img: "../assets/img/costumes/all-sets/buffs/plague_doctor_buffs.png"
+              img: "../assets/img/halloween-event/amulet_f2.png"
             },
             {
               name: "Alitus XV Partner Card",
