@@ -24,16 +24,16 @@ export class ShopUpdatesComponent implements OnInit {
                 img: "../assets/img/halloween-event/amulet_f1.png"
             },
             {
-              name: "Plague Doctor/Nurse Costume Set",
+              name: "Aesthetic Amulet",
               img: "../assets/img/halloween-event/amulet_f2.png"
             },
             {
-              name: "Alitus XV Partner Card",
-              img: "../assets/img/psps/buffs/alitus.png"
+              name: "Aesthetic Amulet",
+              img: "../assets/img/halloween-event/amulet_m.png"
             },
             {
-              name: "Black Ink Rabbit (Shadow Energy is buff from pet' skill.)",
-              img: "../assets/img/pets/buffs/BlackInk.png"
+              name: "Retro Wings Box",
+              img: "../assets/img/prestiges/p9/Crafting/Other/RetroShopUpdate.png"
             },
 
         ]
@@ -43,7 +43,7 @@ export class ShopUpdatesComponent implements OnInit {
   randomBox = [
     {
       date: "",
-      boxName : 'Nothing is available for now, come back later!',
+      boxName : 'Currently Rocketeer Costume Set, Dragon of Void, Valehir, Alzanor and Asgobas Boxes available at https://nosvoid.com/shop/ ',
       mainItem: "None",
       mainItemImg: "../../assets/img/psps/buffs/Rotatison_psp.png",
       mainItems: [
@@ -54,15 +54,21 @@ export class ShopUpdatesComponent implements OnInit {
 
       ],
       items: [
-          {name: "x2500 Angel's Feather"},
-          {name: "x2500 Fullmoon Crystal"},
-          {name: "x10 Perfection"},
-          {name: "x10 Random Amulet Box"},
-          {name: "x20 Rarify item"},
-          {name: "x20 Upgrade Item"},
-          {name: "x10 Jewels Bag"},
-          {name: "x2 Partner Skill ticket (all)"},
-          {name: "x1 Renaming Card"}
+          {name: "x999 Angel's Feather"},
+          {name: "x999 Fullmoon Crystal"},
+          {name: "x1 Rare Spiky Hairstyle"},
+          {name: "x15 Rarify Item"},
+          {name: "x2 Dye Bomb"},
+          {name: "x15 Upgrade Item"},
+          {name: "x1 Onyx Wings"},
+          {name: "x1 Zephyr Wings"},
+          {name: "x2 Reset Perfection"},
+          {name: "x1 Magic Bone Drake Chest"},
+          {name: "x1 Inventory Expansion Ticket (Permanent)"},
+          {name: "x1 Super Fortune Bushtail"},
+          {name: "x1 One-Winged Perti Specialist Partner Card"},
+          {name: "x5 Gold Potion"},
+          {name: "x500 Giant Lump of Gold"}
       ]
     }
   ]
