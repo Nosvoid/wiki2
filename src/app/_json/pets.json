@@ -74,7 +74,7 @@
     {
         "name": "Cuby",
         "id": "",
-        "location": "Can be crafted during the Summer Event",
+        "location": "Can be crafted during the Summer Event and sometimes in Fortune Wheel.",
         "buff": "cuby",
         "skin": "cuby",
         "class": "fish"
@@ -82,7 +82,7 @@
     {
         "name": "Darkfrost Snowman",
         "id": "",
-        "location": "Can be obtained during Evolution Event",
+        "location": "Can be obtained during Evolution Event and sometimes in Fortune Wheel.",
         "buff": "darkfrost_snowman",
         "skin": "darkfrost_snowman",
         "class": "raid"
@@ -98,7 +98,7 @@
     {
         "name": "Devil Vampie",
         "id": "",
-        "location": "Can be obtained during Evolution Event",
+        "location": "Can be obtained during Evolution Event and sometimes in Fortune Wheel.",
         "buff": "devil_vampie",
         "skin": "devil_vampie",
         "class": "raid"
@@ -106,7 +106,7 @@
     {
         "name": "Docile Mini Snowball",
         "id": "",
-        "location": "Christmas Craft NPC ($warp xmas, 2nd map)",
+        "location": "Christmas Craft NPC ($warp xmas, 2nd map) and sometimes in Fortune Wheel.",
         "buff": "mini_snowball",
         "skin": "mini_snowball",
         "class": "pvp"
@@ -114,7 +114,7 @@
     {
         "name": "Dragon Bee",
         "id": "",
-        "location": "Can be obtained during Evolution Event",
+        "location": "Can be obtained during Evolution Event and sometimes in Fortune Wheel.",
         "buff": "dragon_bee",
         "skin": "dragon_bee",
         "class": "perfing"
@@ -138,7 +138,7 @@
     {
         "name": "Fibi",
         "id": "",
-        "location": "Can be bought in VoidMall for 1000 coins",
+        "location": "Can be obtained from Clear Goddess Raids Marathon. (Marathon quest NPC in NosVille.)",
         "buff": "fibi",
         "skin": "fibi",
         "class": "pvp"
@@ -154,7 +154,7 @@
     {
         "name": "Fluffy Bally",
         "id": "",
-        "location": "Can be crafted during the Easter Event",
+        "location": "Can be crafted during the Easter Event and sometimes in Fortune Wheel.",
         "buff": "fluffy_bally",
         "skin": "fluffy_bally",
         "class": "pvp"
@@ -202,7 +202,7 @@
     {
         "name": "Long-Legged Spider",
         "id": "",
-        "location": "Can be obtained during Evolution Event",
+        "location": "Can be obtained during Evolution Event and sometimes in Fortune Wheel.",
         "buff": "long_legged_spider",
         "skin": "long_legged_spider",
         "class": "raid"
@@ -218,7 +218,7 @@
     {
         "name": "Lucky Rat",
         "id": "",
-        "location": "Can be crafted during the Mouse Event",
+        "location": "Can be crafted during the Mouse Event and from Event NPC in NosVille.",
         "buff": "lucky_rat",
         "skin": "lucky_rat",
         "class": "cooking"
@@ -226,7 +226,7 @@
     {
         "name": "Mad Professor Macavity",
         "id": "",
-        "location": "Can be crafted during Halloween Event",
+        "location": "Can be crafted during Halloween Event and sometimes in Fortune Wheel.",
         "buff": "mad_professor_macavity",
         "skin": "mad_professor_macavity",
         "class": "pvp"
@@ -234,7 +234,7 @@
     {
         "name": "Master Bunny",
         "id": "",
-        "location": "Can be obtained during Evolution Event",
+        "location": "Can be obtained during Evolution Event and sometimes in Fortune Wheel.",
         "buff": "master_bunny",
         "skin": "master_bunny",
         "class": "fish"
@@ -298,7 +298,7 @@
     {
         "name": "Namaju",
         "id": "",
-        "location": "Can be obtained during Evolution Event",
+        "location": "Can be obtained during Evolution Event and sometimes in Fortune Wheel.",
         "buff": "namaju",
         "skin": "namaju",
         "class": "betting"
@@ -354,7 +354,7 @@
     {
         "name": "Red Nose",
         "id": "",
-        "location": "Christmas Craft NPC ($warp xmas, 2nd map)",
+        "location": "Christmas Craft NPC ($warp xmas, 2nd map) and sometimes in Fortune Wheel.",
         "buff": "red_nose",
         "skin": "red_nose",
         "class": "pvp"
