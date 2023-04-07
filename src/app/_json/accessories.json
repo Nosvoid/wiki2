@@ -31,13 +31,13 @@
     },
     {
         "name": "Raid Necklace",
-        "location": "You can craft it during Mouse Event",
+        "location": "You can craft it during Mouse Event and from Prestige 8.2 Time Space.",
         "buff": "raid_necklace",
         "class": "raid"
     },
     {
         "name": "Noble Crystal Bracelet",
-        "location": "You can craft it during Halloween Event",
+        "location": "You can craft it during Halloween Event and from Prestige 8.2 Time Space.",
         "buff": "noble_bracelet",
         "class": "raid"
     }
