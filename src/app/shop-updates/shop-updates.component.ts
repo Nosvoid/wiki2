@@ -9,27 +9,27 @@ export class ShopUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "31/03/2023",
+        date: "07/04/2023",
         items: [
             {
-                name: "Robber Mask",
-                img: "../assets/img/helmets-masks/robber_mask.png"
+                name: "Caligor's Golden Horn",
+                img: "../assets/img/helmets-masks/caligor_horn.png"
             },
             {
-                name: "Lava Ghost Helmet",
-                img: "../assets/img/helmets-masks/lava_helmet.png"
+                name: "Batman Mask",
+                img: "../assets/img/helmets-masks/batman_mask.png"
             },
             {
-                name: "Aesthetic Amulet",
-                img: "../assets/img/halloween-event/amulet_f1.png"
+                name: "Alitus XV Partner Card",
+                img: "../assets/img/psps/buffs/AlitusXV.png"
             },
             {
-              name: "Aesthetic Amulet",
-              img: "../assets/img/halloween-event/amulet_f2.png"
+              name: "Shadow Bee Pet",
+              img: "../assets/img/pets/buffs/dragon_bee.png"
             },
             {
-              name: "Aesthetic Amulet",
-              img: "../assets/img/halloween-event/amulet_m.png"
+              name: "Shadow Namaju Pet",
+              img: "../assets/img/pets/buffs/namaju.png"
             },
             {
               name: "Retro Wings Box",
@@ -43,7 +43,7 @@ export class ShopUpdatesComponent implements OnInit {
   randomBox = [
     {
       date: "",
-      boxName : 'Currently Rocketeer Costume Set, Dragon of Void, Valehir, Alzanor and Asgobas Boxes available at https://nosvoid.com/shop/ ',
+      boxName : 'Currently Hawaii Costume Set, Shooting Star, Plague Doctor/Nurse Set and Black Ink Rabbit Boxes available at https://nosvoid.com/shop/ ',
       mainItem: "None",
       mainItemImg: "../../assets/img/psps/buffs/Rotatison_psp.png",
       mainItems: [
