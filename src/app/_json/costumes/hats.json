@@ -1,5 +1,10 @@
 [
     {
+        "name": "Skeleton Mask",
+        "buff": "skeleton",
+        "class": "pvp"
+    },
+    {
         "name": "Recketeer Headset",
         "buff": "rocheteer",
         "class": "raid"

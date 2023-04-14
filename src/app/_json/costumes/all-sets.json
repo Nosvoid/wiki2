@@ -1,5 +1,11 @@
 [
         {
+            "name": "Skeleton",
+            "location": "???",
+            "skins": "skeleton",
+            "buff": "skeleton"
+        },
+        {
             "name": "Aqua Bushi",
             "location": "You can buy this set at Costumes NPC in NosVille",
             "skins": "aqua_bushi",

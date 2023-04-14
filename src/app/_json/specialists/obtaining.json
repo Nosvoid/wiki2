@@ -74,10 +74,29 @@
         "class": "four-icons"
     },
     {
+        "name": "SP10 and SP6MA",
+        "location": "You can get them from Prestige 9 Craft and Void Gods Story Line.",
+        "img": [
+            { "icon": "archer10" },
+            { "icon": "sword10" },
+            { "icon": "mage10" },
+            { "icon": "ma10" }
+        ],
+        "class": "four-icons"
+    },
+    {
         "name": "Angler SP",
         "location": "You can get it from Fisherman SP Quest NPC at Fish Area",
         "img": [
             { "icon": "angler" }
+        ],
+        "class": "one-icon"
+    },
+    {
+        "name": "Cooking SP",
+        "location": "You can craft Cooking specialist card from the npc in nosville.",
+        "img": [
+            { "icon": "cooking" }
         ],
         "class": "one-icon"
     },
