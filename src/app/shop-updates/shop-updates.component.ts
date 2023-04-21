@@ -25,7 +25,7 @@ export class ShopUpdatesComponent implements OnInit {
             },
             {
               name: "Jinn Specialist Partner Card",
-              img: "../assets/img/prestiges/p9/jinnbuff.png"
+              img: "../assets/img/prestiges/p9/jinnbuffnew.png"
             },
             {
               name: "Black Ink Rabbit",
