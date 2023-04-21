@@ -9,27 +9,27 @@ export class ShopUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "07/04/2023",
+        date: "21/04/2023",
         items: [
             {
-                name: "Caligor's Golden Horn",
-                img: "../assets/img/helmets-masks/caligor_horn.png"
+                name: "Robber Mask",
+                img: "../assets/img/helmets-masks/robber_mask.png"
             },
             {
-                name: "Batman Mask",
-                img: "../assets/img/helmets-masks/batman_mask.png"
+                name: "Lava Ghost Helmet",
+                img: "../assets/img/helmets-masks/lava_helmet.png"
             },
             {
-                name: "Alitus XV Partner Card",
-                img: "../assets/img/psps/buffs/AlitusXV.png"
+                name: "Dragon of Void",
+                img: "../assets/img/prestiges/p9/Dragonofvoid.png"
             },
             {
-              name: "Shadow Bee Pet",
-              img: "../assets/img/pets/buffs/dragon_bee.png"
+              name: "Jinn Specialist Partner Card",
+              img: "../assets/img/prestiges/p9/jinnbuff.png"
             },
             {
-              name: "Shadow Namaju Pet",
-              img: "../assets/img/pets/buffs/namaju.png"
+              name: "Black Ink Rabbit",
+              img: "../assets/img/pets/buffs/BlackInk.png"
             },
             {
               name: "Retro Wings Box",
@@ -43,7 +43,7 @@ export class ShopUpdatesComponent implements OnInit {
   randomBox = [
     {
       date: "",
-      boxName : 'Currently Hawaii Costume Set, Shooting Star, Plague Doctor/Nurse Set and Black Ink Rabbit Boxes available at https://nosvoid.com/shop/ ',
+      boxName : 'Currently Mini Alzanor, Mini Valehir, Mini Asgobas and Retro Wings Boxes available at https://nosvoid.com/shop/ ',
       mainItem: "None",
       mainItemImg: "../../assets/img/psps/buffs/Rotatison_psp.png",
       mainItems: [
