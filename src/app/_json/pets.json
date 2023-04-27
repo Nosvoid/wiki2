@@ -8,6 +8,22 @@
         "class": "pvp"
     },
     {
+        "name": "Tame Golden Mushroom",
+        "id": "",
+        "location": "Can be obtained in Easter Event 2023",
+        "buff": "tame_golden_mushroom",
+        "skin": "tame_golden_mushroom",
+        "class": "pve"
+    },
+    {
+        "name": "Grasslin Fairy",
+        "id": "",
+        "location": "Can be obtained in Easter Event 2023",
+        "buff": "grasslin_fairy",
+        "skin": "grasslin_fairy",
+        "class": "gold"
+    },
+    {
         "name": "Mini Valehir",
         "id": "",
         "location": "Can be obtained in the Lottery IC / Fortune Wheel",
