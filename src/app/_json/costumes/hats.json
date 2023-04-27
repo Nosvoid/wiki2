@@ -5,6 +5,21 @@
         "class": "pvp"
     },
     {
+        "name": "Rat Hat",
+        "buff": "rat_hat",
+        "class": "pvp"
+    },
+    {
+        "name": "Cuddly Dino Hat",
+        "buff": "cuddly_dino_hat",
+        "class": "betting"
+    },
+    {
+        "name": "Puppet's Master Hat",
+        "buff": "puppet_master_hat",
+        "class": "pvp"
+    },
+    {
         "name": "Recketeer Headset",
         "buff": "rocheteer",
         "class": "raid"

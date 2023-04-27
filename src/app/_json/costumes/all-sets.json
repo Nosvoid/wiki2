@@ -36,6 +36,12 @@
             "buff": "concierge_buffs"
         },
         {
+            "name": "Cuddly Dino",
+            "location": "Obtainable from Fortune Wheel and Easter Event 2023",
+            "skins": "cuddly_dino",
+            "buff": "cuddly_dino_buffs"
+        },
+        {
             "name": "Cuddly Tiger",
             "location": "You can buy this set at Costumes NPC in NosVille",
             "skins": "cuddly_tiger",
@@ -53,6 +59,7 @@
             "skins": "desert",
             "buff": "desert_buffs"
         },
+        
         {
             "name": "Dracula",
             "location": "You can buy this set for 500 coins in VoidMall",
@@ -196,6 +203,12 @@
             "location": "You can craft this set during Halloween Event",
             "skins": "pumpkin_witch",
             "buff": "pumpkin_witch_buffs"
+        },
+        {
+            "name": "Puppet Master's",
+            "location": "Auction Event",
+            "skins": "puppet_master",
+            "buff": "puppet_master_buffs"
         },
         {
             "name": "Rafting",
