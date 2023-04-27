@@ -329,7 +329,7 @@
         "class": "fish"
     },
     {
-        "name": "Pumkpin",
+        "name": "Pumpkin",
         "id": "",
         "location": "You can craft during Halloween Event",
         "img": "pumpkin",
@@ -523,5 +523,12 @@
         "location": "You can get it during the Summer Event",
         "img": "walking_on_clouds",
         "class": "aesthetic"
+    },
+    {
+        "name": "NosVoid Turning 2",
+        "id": "",
+        "location": "Available during NosVoid Anniwersary",
+        "img": "nosvoid_turning_2",
+        "class": "double-box"
     }
 ]
