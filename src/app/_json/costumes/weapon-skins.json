@@ -16,6 +16,14 @@
         "class": "pvp"
     },
     {
+        "name": "Sweet Chocolate Skins",
+        "id": "",
+        "location": "You can get it from Fortune Wheel",
+        "upgrade": "You can upgrade them to +5 maximum.",
+        "buff": "sweet_chocolate",
+        "class": "raid"
+    },
+    {
         "name": "Frost Weapon Skins",
         "id": "",
         "location": "You can craft those weapon skins at Family Tower NPC Prestige 8.1, or you can buy them for 900 coins in VoidMall.",

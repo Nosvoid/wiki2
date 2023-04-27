@@ -10,6 +10,16 @@
         "class": "raid"
     },
     {
+        "name": "Dino Costume",
+        "buff": "dino_costume",
+        "class": "betting"
+    },
+    {
+        "name": "Puppet's Master Costume",
+        "buff": "puppet_master_costume",
+        "class": "pvp"
+    },
+    {
         "name": "Christmas Costume",
         "buff": "christmas_costume",
         "class": "gold"

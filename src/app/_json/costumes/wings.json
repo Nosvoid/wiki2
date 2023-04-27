@@ -10,6 +10,11 @@
         "class": "pvp"
     },
     {
+        "name": "Dino Wings",
+        "buff": "dino_wings",
+        "class": "pvp"
+    },
+    {
         "name": "Death Lancer Wings",
         "buff": "death_lancer_wings",
         "class": "pvp"
