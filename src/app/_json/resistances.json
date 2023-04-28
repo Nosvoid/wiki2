@@ -48,6 +48,24 @@
         "buff": "shadow_magma_pve"
     },
     {
+        "name": "Act4 resistances",
+        "id": "",
+        "location": "You can craft them in $warp p9 Prestige 9 Special Items NPC",
+        "buff": "act4_res"
+    },
+    {
+        "name": "Rainbow Battle resistances",
+        "id": "",
+        "location": "You can craft them in $warp p9 Prestige 9 Special Items NPC",
+        "buff": "rbb_res"
+    },
+    {
+        "name": "HP Resistances",
+        "id": "",
+        "location": "You can craft them in $warp p9 Prestige 9 Special Items NPC",
+        "buff": "hp_res"
+    },
+    {
         "name": "PVP Shadow Magma resistances",
         "id": "pvp-magma",
         "location": "You can craft them at Kan's Rewards NPC $warp p8.2",

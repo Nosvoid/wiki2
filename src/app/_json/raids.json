@@ -45,6 +45,57 @@
         ]
     },
     {
+        "name": "Valehir",
+        "id": "",
+        "points": "1",
+        "location": "$warp p9",
+        "box": "valehir_box",
+        "rewards": [
+            { "reward": "- 1x Dragon Crystal Weapon (3%)" },
+            { "reward": "- 1x Dragon Crystal Equipment (6%)" },
+            { "reward": "- SP9 Perfection x300 (10%)" },
+            { "reward": "- SP10 Perfection x300 (8%)" },
+            { "reward": "- 5x Golden Lump (20%)" },
+            { "reward": "- 1x Dragon Health Potion (15%)" },
+            { "reward": "- 2x Dragon Mana Potion (15%)" },
+            { "reward": "- 1x Valehir's Wing" }
+        ]
+    },
+    {
+        "name": "Alzanor",
+        "id": "",
+        "points": "1",
+        "location": "$warp p9",
+        "box": "alzanor_box",
+        "rewards": [
+            { "reward": "- 1x Dragon Crystal Secondary (3%)" },
+            { "reward": "- 1x Dragon Crystal Equipment (6%)" },
+            { "reward": "- SP9 Perfection x300 (10%)" },
+            { "reward": "- SP10 Perfection x300 (8%)" },
+            { "reward": "- 5x Golden Lump (20%)" },
+            { "reward": "- 1x Dragon Health Potion (15%)" },
+            { "reward": "- 2x Dragon Mana Potion (15%)" },
+            { "reward": "- 1x Alzanor's Tail" }
+        ]
+    },
+    {
+        "name": "Black Hand",
+        "id": "",
+        "points": "1",
+        "location": "$warp p9",
+        "box": "black_hand_box",
+        "rewards": [
+            { "reward": "- 1x Dragon Crystal Armor (3%)" },
+            { "reward": "- 1x Dragon Crystal Equipment (6%)" },
+            { "reward": "- SP9 Perfection x300 (10%)" },
+            { "reward": "- SP10 Perfection x300 (8%)" },
+            { "reward": "- 5x Golden Lump (20%)" },
+            { "reward": "- 1x Dragon Health Potion (15%)" },
+            { "reward": "- 2x Dragon Mana Potion (15%)" },
+            { "reward": "- 1x Monster Hand" }
+        ]
+    },
+    {
         "name": "Draco",
         "id": "",
         "points": "0.2",

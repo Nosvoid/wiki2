@@ -119,6 +119,37 @@
                 ]
             },
             {
+                "name": "Prestige 9 Daily/Weekly Quests",
+                "npc": "p9_quests_npc",
+                "todo": [
+                    {
+                        "name": "Complete x3 P9 Raids(Daily)",
+                        "complete": "Complete 3x Black Hand Raid, Ice Dragon Alzanor Raid, Zombie Dragon Valehir Raid",
+                        "rewards": [{ "reward": "15x Random Amulet Box (Raid Quest), Carve Runes Box 3"}]
+                    },
+                    {
+                        "name": "Participate in events(Weekly)",
+                        "complete": "Complete 1x Asobas Instant Combat, Caligor Event, A4 Raid.",
+                        "rewards": [{ "reward": "5x Ancient Dragon Runestone, 135x Dratanium"}]
+                    },
+                    {
+                        "name": "Kill monsters in Asgobas Instant Combat(Weekly)",
+                        "complete": "Kill 60x Asgobas Child, 60x Dragon Army's Dragon Harpy and 60x Giant Lava Dragon.",
+                        "rewards": [{ "reward": "1x Asgobas Lottery Ticket"}]
+                    },
+                    {
+                        "name": "Participate in Rainbow Battle(Daily)",
+                        "complete": "Participate in 1x Rainbow Battle.",
+                        "rewards": [{ "reward": "1x Carve Rune Box"}]
+                    },
+                    {
+                        "name": "Kill players on Act 4",
+                        "complete": "Kill 50 players on Act 4",
+                        "rewards": [{ "reward": "1x Carve Rune Box"}]
+                    }
+                ]
+            },
+            {
                 "name": "Act 4 Daily Quest",
                 "npc": "a4_quests_npc",
                 "todo": [
