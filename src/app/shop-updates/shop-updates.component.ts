@@ -9,31 +9,31 @@ export class ShopUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "21/04/2023",
+        date: "28/04/2023",
         items: [
             {
-                name: "Robber Mask",
-                img: "../assets/img/helmets-masks/robber_mask.png"
+                name: "Gingerbread Partner Box (Buff informations are on forum post)",
+                img: "../assets/img/psps/wheelpartners.png"
             },
             {
-                name: "Lava Ghost Helmet",
-                img: "../assets/img/helmets-masks/lava_helmet.png"
+                name: "Palina Puppet Master's Specialist Partner Card",
+                img: "../assets/img/psps/buffs/palina_buff.png"
             },
             {
-                name: "Dragon of Void",
-                img: "../assets/img/prestiges/p9/Dragonofvoid.png"
+                name: "Shadow Master Bunny Pet",
+                img: "../assets/img/pets/buffs/master_bunny.png"
             },
             {
               name: "Jinn Specialist Partner Card",
               img: "../assets/img/prestiges/p9/jinnbuffnew.png"
             },
             {
-              name: "Black Ink Rabbit",
-              img: "../assets/img/pets/buffs/BlackInk.png"
+              name: "Sweet Chocolate Weapon Box",
+              img: "../assets/img/costumes/weapon-skins/sweet_chocolate.png"
             },
             {
-              name: "Retro Wings Box",
-              img: "../assets/img/prestiges/p9/Crafting/Other/RetroShopUpdate.png"
+              name: "Knight Costume Set",
+              img: "../assets/img/costumes/all-sets/buffs/knight_buffs.png"
             },
 
         ]
@@ -43,7 +43,7 @@ export class ShopUpdatesComponent implements OnInit {
   randomBox = [
     {
       date: "",
-      boxName : 'Currently Mini Alzanor, Mini Valehir, Mini Asgobas and Retro Wings Boxes available at https://nosvoid.com/shop/ ',
+      boxName : 'Currently Rocketeer Costume Set, Shooting Star, Alitus XV and Plague Doctor/Nurse Costume Set Boxes available at https://nosvoid.com/shop/ ',
       mainItem: "None",
       mainItemImg: "../../assets/img/psps/buffs/Rotatison_psp.png",
       mainItems: [
