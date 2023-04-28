@@ -7,8 +7,20 @@
     },
     {
         "name": "Lich Set",
-        "location": "You can get this set in $warp p8.1 quests, events and raids",
+        "location": "You can get this set in $warp p8.2 quests, events and raids",
         "buff": "licht_set",
+        "class": "pvp"
+    },
+    {
+        "name": "Dragon Set",
+        "location": "You can craft this set in $warp p9 Equipments NPC",
+        "buff": "dragon_set",
+        "class": "pvp"
+    },
+    {
+        "name": "A4 Set",
+        "location": "You can get this set from Vessel Event",
+        "buff": "a4_set",
         "class": "pvp"
     },
     {
