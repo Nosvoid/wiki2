@@ -1,32 +1,61 @@
 [
     {
+        "name": "Pur",
+        "type": "Long Range",
+        "location": "You can get it from Fortune Wheel.",
+        "buff": "pur",
+        "skin": "pur",
+        "skills": "pur"
+    },
+    {
+        "name": "Pir",
+        "type": "Magic",
+        "location": "You can get it from Fortune Wheel.",
+        "buff": "pir",
+        "skin": "pir",
+        "skills": "pir"
+    },
+    {
+        "name": "Par",
+        "type": "Meele",
+        "location": "You can get it from Fortune Wheel.",
+        "buff": "par",
+        "skin": "par",
+        "skills": "pur"
+    },
+    {
         "name": "Jennifer",
         "type": "Long Range",
         "location": "You can craft Jennifer in Starting Map or you can get it doing the quest at $warp beginner",
+        "buff": "",
         "skin": "jennifer"
     },
     {
         "name": "Leona",
         "type": "Long Range",
         "location": "You can craft Leona during the Summer Event",
+        "buff": "",
         "skin": "leona"
     },
     {
         "name": "Ragnar",
         "type": "Melee",
         "location": "You can craft Ragnar in Starting Map or you can get it doing the quest at $warp beginner",
+        "buff": "",
         "skin": "ragnar"
     },
     {
         "name": "Sakura",
         "type": "Magic",
         "location": "You can craft Sakura during Mouse Event",
+        "buff": "",
         "skin": "sakura"
     },
     {
         "name": "Yertirand",
         "type": "Magic",
         "location": "You can craft Yertirand in Starting Map or you can get it doing the quest at $warp beginner",
+        "buff": "",
         "skin": "yertirand"
     }
 ]
