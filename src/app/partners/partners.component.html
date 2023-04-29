@@ -7,8 +7,18 @@
                     <h2 class="partner-name">{{partner.name}}</h2>
                     <h3 class="partner-info">{{partner.type}}</h3>
                     <h3 class="partner-info">{{partner.location}}</h3>
-                    <img src="../assets/img/partners/{{partner.skin}}.png" class="partner-skins">
+                    <img src="../assets/img/partners/skin/{{partner.skin}}.png" class="partner-skins">
                 </div>
+                <!-- Modal -->
+                    <button class="show-buffs">Show Buffs</button>
+                    <div class="set-buff display-none" id="set-buff-modal">
+                        <div class="set-buff-content">
+                            <img src="../assets/img/partners/buff/{{partner.buff}}.png" alt="">
+                            <span class="close-buffs" id="close-btn">
+                                <i class="fa fa-times" aria-hidden="true"></i>
+                            </span>
+                        </div>
+                    </div>
                 <br/><br/><br/><br/><br/>
             </div>
         </div>
