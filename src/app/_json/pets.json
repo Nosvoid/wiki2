@@ -16,6 +16,14 @@
         "class": "pve"
     },
     {
+        "name": "Black Ink Rabbit",
+        "id": "",
+        "location": "Can be obtained in Chinese New Year Event and Fortune Wheel.",
+        "buff": "black_ink_rabbit",
+        "skin": "black_ink_rabbit",
+        "class": "pvp"
+    },
+    {
         "name": "Grasslin Fairy",
         "id": "",
         "location": "Can be obtained in Easter Event 2023",

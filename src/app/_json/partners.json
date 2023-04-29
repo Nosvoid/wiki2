@@ -1,5 +1,26 @@
 [
     {
+        "name": "Pur",
+        "type": "Long Range",
+        "location": "You can get it from Fortune Wheel.",
+        "skin": "pur",
+        "skills": "pur"
+    },
+    {
+        "name": "Pir",
+        "type": "Magic",
+        "location": "You can get it from Fortune Wheel.",
+        "skin": "pir",
+        "skills": "pir"
+    },
+    {
+        "name": "Par",
+        "type": "Meele",
+        "location": "You can get it from Fortune Wheel.",
+        "skin": "pur",
+        "skills": "pur"
+    },
+    {
         "name": "Jennifer",
         "type": "Long Range",
         "location": "You can craft Jennifer in Starting Map or you can get it doing the quest at $warp beginner",
