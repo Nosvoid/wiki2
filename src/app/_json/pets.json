@@ -24,6 +24,14 @@
         "class": "pvp"
     },
     {
+        "name": "New Year Tiger",
+        "id": "",
+        "location": "Can be obtained in Chinese New Year Event and Fortune Wheel.",
+        "buff": "new_year_tiger",
+        "skin": "new_year_tiger",
+        "class": "gold"
+    },
+    {
         "name": "Grasslin Fairy",
         "id": "",
         "location": "Can be obtained in Easter Event 2023",

@@ -1,0 +1,19 @@
+<div class="d-flex justify-content-center">
+    <section class="betting-set">
+        <h1 class="betting-set-title-1">Betting Set</h1>
+
+        <div class="betting-set-system" *ngFor="let items of betting">
+            <div class="betting-set-items">
+                <div class="p-3" *ngFor="let regular of items.regular">
+                    <h3 class="betting-set-title-3">{{regular.name}}</h3>
+                   
+                    <a href="../../assets/img/special-sets/betting/{{regular.img}}.png" target="_blank">
+                        <img src="../../assets/img/special-sets/betting/{{regular.img}}.png" alt="">
+                    </a>
+                    <h3 class="betting-location">{{regular.location}}</h3>
+                </div>
+            </div>
+            
+        </div>
+    </section>
+</div>
