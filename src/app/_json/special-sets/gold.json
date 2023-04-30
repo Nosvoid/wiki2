@@ -68,6 +68,10 @@
             {
                 "name": "Seraphim",
                 "img": "seraphim"
+            },
+            {
+                "name": "New Year Tiger",
+                "img": "new_year_tiger"
             }
         ]
     },

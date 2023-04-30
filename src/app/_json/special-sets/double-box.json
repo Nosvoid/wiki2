@@ -48,7 +48,12 @@
             {
                 "name": "Venus",
                 "img": "venus"
+            },
+            {
+                "name": "New Year Tiger",
+                "img": "new_year_tiger"
             }
+
         ],
         "a4": [
             {
