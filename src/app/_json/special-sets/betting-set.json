@@ -1,0 +1,56 @@
+[
+    {
+        "regular": [
+            {
+                "name": "Betting Costume",
+                "img": "betting_costume",
+                "location": "You can get this costume in the Fortune Wheel"
+            },
+            {
+                "name": "Solaris",
+                "img": "solaris",
+                "location": "You can craft this fairy during Evolution Event"
+            },
+            {
+                "name": "Betting Necklace",
+                "img": "betting_necklace",
+                "location": "You can get this necklace in the Fortune Wheel or you can craft it at the Family Tower Rewards NPC in P8.2"
+            },
+            {
+                "name": "Playful Bunny Ears(Female)",
+                "img": "playful_bunny_ears",
+                "location": "You can get this costume hat in the Fortune Wheel or You can craft it at Costumes NPC in Act4"
+            },
+            {
+                "name": "Shooting Star",
+                "img": "shooting_star",
+                "location": "You can craft it during the Summer Event or You can get it in Fortune Wheel"
+            },
+            {
+                "name": "Police Costume",
+                "img": "police_costume",
+                "location": "You can craft this costume at 10-50Lv Fish Craft NPC at $warp fish and RBB Exchange NPC in NosVille"
+            },
+            {
+                "name": "Chocolate Dream Weapon Skins",
+                "img": "sweet_chocolate",
+                "location": "You can get this weapon skin in the Fortune Wheel"
+            },
+            {
+                "name": "Korean Cat Hat(Male)",
+                "img": "korean_cat_hat",
+                "location": "You can get this costume hat in the Fortune Wheel or You can craft it at Costumes NPC in Act4"
+            },
+            {
+                "name": "Rarity Potion",
+                "img": "rarity_potion",
+                "location": "You can craft this potion at Craft Potion NPC in P8.2"
+            },
+            {
+                "name": "Namaju",
+                "img": "namaju",
+                "location": "You can craft that pet during Evolution Event or You can get this pet in Fortune Wheel"
+            }
+        ]
+    }
+]

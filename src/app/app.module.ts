@@ -43,6 +43,7 @@ import { HelmetsMasksComponent } from './helmets-masks/helmets-masks.component';
 import { GoldComponent } from './gold/gold.component';
 import { RaidDamageComponent } from './raid-damage/raid-damage.component';
 import { ReputationComponent } from './reputation/reputation.component';
+import { BettingSetComponent } from './betting-set/betting-set.component';
 import { TitlesComponent } from './titles/titles.component';
 import { Act4Component } from './act4/act4.component';
 import { FishSystemComponent } from './fish-system/fish-system.component';
@@ -106,6 +107,7 @@ const appRoutes: Routes = [
   { path: 'gold-set', component: GoldComponent },
   { path: 'raid-set', component: RaidDamageComponent },
   { path: 'reputation-set', component: ReputationComponent },
+  { path: 'betting-set', component: BettingSetComponent },
   { path: 'titles', component: TitlesComponent },
   { path: 'act4', component: Act4Component },
   { path: 'fish-system', component: FishSystemComponent },
@@ -170,6 +172,7 @@ const appRoutes: Routes = [
     GoldComponent,
     RaidDamageComponent,
     ReputationComponent,
+    BettingSetComponent,
     TitlesComponent,
     Act4Component,
     FishSystemComponent,
