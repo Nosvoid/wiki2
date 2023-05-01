@@ -1,0 +1,47 @@
+[
+    {
+        "regular": [
+            {
+                "name": "Azuris",
+                "img": "azuris",
+                "location": "You can craft this fairy during Evolution Event"
+            },
+            {
+                "name": "Playful Bunny Costume(Female)",
+                "img": "sexy_bunny_costume",
+                "location": "You can get this costume in the Fortune Wheel or You can craft it at Costumes NPC in Act4"
+            },
+            {
+                "name": "Shooting Star",
+                "img": "shooting_star",
+                "location": "You can craft it during the Summer Event or You can get it in Fortune Wheel"
+            },
+            {
+                "name": "Chocolate Dream Weapon Skins",
+                "img": "chocolate_weapon_skin",
+                "location": "You can get this weapon skin in the Fortune Wheel"
+            },
+            {
+                "name": "Korean Cat Costume(Male)",
+                "img": "korean_cat_costume",
+                "location": "You can get this costume in the Fortune Wheel or You can craft it at Costumes NPC in Act4"
+            },
+            {
+                "name": "Perfection Potion",
+                "img": "perfection_potion",
+                "location": "You can craft this potion at Craft Potion NPC in P8.2"
+            },
+            {
+                "name": "Dragon Bee",
+                "img": "dragon_bee",
+                "location": "You can craft that pet during Evolution Event or You can get this pet in Fortune Wheel"
+            },
+            {
+                "name": "Dino Costume Hat",
+                "img": "dino_hat",
+                "location": "You can get this costume hat in the Fortune Wheel and Easter Event"
+            }
+            
+        ]
+    }
+]

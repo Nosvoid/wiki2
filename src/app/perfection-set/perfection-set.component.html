@@ -1,0 +1,19 @@
+<div class="d-flex justify-content-center">
+    <section class="perfection-set">
+        <h1 class="perfection-set-title-1">Perfection Set</h1>
+
+        <div class="perfection-set-system" *ngFor="let items of perfection">
+            <div class="perfection-set-items">
+                <div class="p-3" *ngFor="let regular of items.regular">
+                    <h3 class="perfection-set-title-3">{{regular.name}}</h3>
+                   
+                    <a href="../../assets/img/special-sets/perfection/{{regular.img}}.png" target="_blank">
+                        <img src="../../assets/img/special-sets/perfection/{{regular.img}}.png" alt="">
+                    </a>
+                    <h3 class="perfection-location">{{regular.location}}</h3>
+                </div>
+            </div>
+            
+        </div>
+    </section>
+</div>
