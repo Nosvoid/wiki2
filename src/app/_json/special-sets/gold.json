@@ -4,23 +4,28 @@
         "items": [
             {
                 "name": "Heavenly Skin",
-                "img": "heavenly"
+                "img": "heavenly",
+                "location": "Can be crafted from Prestige 9 Special Items NPC $warp p9"
             },
             {
                 "name": "Candy Skin",
-                "img": "candy_skin"
+                "img": "candy_skin",
+                "location": "Can be crafted from Instant Combat Exchange NPC in NosVille"
             },
             {
                 "name": "Shell",
-                "img": "gold_shell"
+                "img": "gold_shell",
+                "location": ""
             },
             {
                 "name": "Masks",
-                "img": "masks"
+                "img": "masks",
+                "location": "Can be crafted from Family Tower NPC ($warp p8.2) and Hardcore Rewards NPC ($warp p8)"
             }, 
             {
                 "name": "Obsidian Necklace",
-                "img": "obsidian_necklace"
+                "img": "obsidian_necklace",
+                "location": "Can be crafted from Tower Game ($warp p7) and Family Tower Rewards NPC ($warp p8.2)"
             }
         ]
     },
@@ -29,19 +34,28 @@
         "items": [
             {
                 "name": "Desert Hat",
-                "img": "desert_hat"
+                "img": "desert_hat",
+                "location": "Can be craften from Desert Rewards NPC $warp p8.2"
             },
             {
                 "name": "Illusionist's Hat",
-                "img": "illusionist_hat"
+                "img": "illusionist_hat",
+                "location": "Can be crafted from P6 40-50 Fish Craft NPC $warp fish"
             },
             {
                 "name": "Wonderland Hat",
-                "img": "wonderland_hat"
+                "img": "wonderland_hat",
+                "location": "Can be obtained from NosMall for 800 coins and from Talent Arena Random Box 2"
             },
             {
                 "name": "Winter Costume",
-                "img": "winter_costume"
+                "img": "winter_costume",
+                "location": "Can be obtained from Hardcore Raid Box."
+            },
+            {
+                "name": "Christmas Costume",
+                "img": "christmas_costume",
+                "location": "Obtainable during the Christmas Event"
             }
         ]
     },
@@ -50,11 +64,23 @@
         "items": [
             {
                 "name": "Gold Potion",
-                "img": "gold_potion"
+                "img": "gold_potion",
+                "location": "Can be crafted on the $warp p8.2 at the Craft Potion NPC"
             }, 
             {
                 "name": "Mother Nature's Tree Rune",
-                "img": "rune"
+                "img": "rune",
+                "location": "Can be crafted on the $warp p5 map at the High Tier Mother Runes NPC"
+            },
+            {
+                "name": "Mother Owlbear and Moss Stew",
+                "img": "owlbear_and_moss_stew",
+                "location": "Can be crafted with the Simmer Skill of the Cooking SP"
+            },
+            {
+                "name": "Roast Pork",
+                "img": "roast_pork",
+                "location": "Can be crafted with the Simmer Skill of the Cooking SP"
             }
         ]
     },
@@ -63,15 +89,23 @@
         "items": [
             {
                 "name": "Fortune Bushtails",
-                "img": "fortune_bushtails"
+                "img": "fortune_bushtails",
+                "location": "Beginner's pet from the starter map."
+            },
+            {
+                "name": "Super Fortune Bushtails",
+                "img": "fortune_bushtails",
+                "location": "Obtainable from $warp p5 High Tier Tittle and Pet NPC"
             },
             {
                 "name": "Seraphim",
-                "img": "seraphim"
+                "img": "seraphim",
+                "location": "Can be obtained during Evolution Event"
             },
             {
                 "name": "New Year Tiger",
-                "img": "new_year_tiger"
+                "img": "new_year_tiger",
+                "location": "Can be obtained durin Chinese New Year Event"
             }
         ]
     },
@@ -80,11 +114,13 @@
         "items": [
             {
                 "name": "Mad March Hare",
-                "img": "mad_march"
+                "img": "mad_march",
+                "location": "Can be obtained during Easter Event"
             },
             {
                 "name": "Sheriff Chloe",
-                "img": "sheriff_chloe"
+                "img": "sheriff_chloe",
+                "location": "Can be obtainted during Summer Event"
             }
         ]
     },
@@ -93,11 +129,13 @@
         "items": [
             {
                 "name": "Bomb Runner",
-                "img": "bomb_runner"
+                "img": "bomb_runner",
+                "location": "Obtainable from the Bomb Runner NPC in NosVille"
             },
             {
                 "name": "Fox Lady",
-                "img": "fox_lady"
+                "img": "fox_lady",
+                "location": "Obtainable during Easter Event"
             }
         ]
     },
@@ -106,11 +144,18 @@
         "items": [
             {
                 "name": "Golden Wings",
-                "img": "golden_wings"
+                "img": "golden_wings",
+                "location": "Can be crafted on the $warp P5 map at High Tier Wings NPC"
             },
             {
                 "name": "Wedding SP Buff",
-                "img": "wedding_buff"
+                "img": "wedding_buff",
+                "location": "Buff from the Special Wedding SP"
+            },
+            {
+                "name": "Family Blessing",
+                "img": "family_buff",
+                "location": "Obtaining by joining a Family Lv3 or higher"
             }
         ]
     }

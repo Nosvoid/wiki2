@@ -10,6 +10,7 @@ interface Gold {
 interface Items {
   name: String;
   img: String;
+  location: String;
 }
 
 @Component({
