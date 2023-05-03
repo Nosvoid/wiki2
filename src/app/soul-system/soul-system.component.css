@@ -1,0 +1,183 @@
+.soul-system {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-block: 3em;
+    color: white;
+    background-color: rgba(0, 0, 0, .8);
+    border-radius: 20px;
+    width: 100%;
+    padding: 3em 0;
+    text-align: center;
+}
+
+.soul-system-title, .soul-system-content h2 {
+    font-family: 'Edu SA Beginner', cursive;
+    font-size: 2rem;
+}
+
+.soul-system-content p,
+.soul-system-content ul {
+    margin-bottom: 2em;
+}
+
+.soul-system-content p, 
+.soul-system-content li, 
+.soul-system-content h3 
+ {
+    font-size: 1.1rem;
+}
+
+.soul-system-title {
+    font-size: 3rem;
+    margin-bottom: 1em;
+    display: flex;
+    justify-content: center;
+}
+
+
+.soul-system-content {
+    padding: 1em;
+}
+.one-icon {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    align-items: center;
+    justify-items: center;
+    gap: .3em;
+}
+.soul-container {
+    padding: 1em;
+}
+.obtaining {
+    width: 75%;
+}
+.soul.mats {
+    font-size: 1.1rem;
+    text-align: center;
+}
+/* Modal */
+
+.show-craft {
+    border: none;
+    background-color: var(--void-clr);
+    color: black;
+    padding: .5em 1em;
+    margin-top: 1em;
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+}
+.set-craft {
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, .8);
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+.set-craft-content {
+    background-color: var(--void-clr);
+    margin: 20% auto;
+    padding: 2em;
+    box-shadow: 
+    0 5px 8px 0 rgba(0, 0, 0, .2),
+    0 7px 20px 0 rgba(0, 0, 0, .17);
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 1em;
+}
+
+.close-craft {
+    color: black;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+.close-craft:hover, .close-craft:focus {
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+/* Modal */
+
+.show-buffs {
+    border: none;
+    background-color: var(--void-clr);
+    color: black;
+    padding: .5em 1em;
+    margin-top: 1em;
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+}
+
+.set-buff {
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, .8);
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.set-buff-content {
+    background-color: var(--void-clr);
+    margin: 20% auto;
+    padding: 2em;
+    box-shadow: 
+    0 5px 8px 0 rgba(0, 0, 0, .2),
+    0 7px 20px 0 rgba(0, 0, 0, .17);
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 1em;
+}
+
+.close-buffs {
+    color: black;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+.close-buffs:hover, .close-buffs:focus {
+    text-decoration: none;
+}
+
+/* Media queries */
+@media all and (min-width: 1140px) {
+    .partners-container {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        padding: 1em;
+    }
+
+}
+
+@media all and (min-width: 1140px) {
+    .soul-system {
+        width: 75%;
+    }
+}
