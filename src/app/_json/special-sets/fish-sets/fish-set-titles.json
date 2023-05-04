@@ -1,0 +1,59 @@
+[
+   
+    {
+        "regular": [
+            {
+                "name": "Rockie Angle",
+                "img": "rookie_angler",
+                "location": "Getting after reach 5% of Fishing Encyclopedia"
+            },
+            {
+                "name": "Skilled Angler",
+                "img": "skilled_angler",
+                "location": "Getting after reach 15% of Fishing Encyclopedia"
+            },
+            {
+                "name": "Intermediate Angler",
+                "img": "intermediate_angler",
+                "location": "Getting after 30% of Fishing Encyclopedia"
+            },
+            {
+                "name": "Experienced Anglerr",
+                "img": "experienced_angler",
+                "location": "Getting after 60% of Fishing Encyclopedia"
+            },
+            {
+                "name": "Advanced Angler",
+                "img": "advanced_angler",
+                "location": "Getting after 80% of Fishing Encyclopedia"
+            },
+            {
+                "name": "Fishing Maste",
+                "img": "fishing_master",
+                "location": "Getting after LvL 45 fishing SP job."
+            },
+            {
+                "name": "Fishing Student",
+                "img": "fishing_student",
+                "location": "Getting at P3 15-50 Lv Fish Craft NPC."
+            },
+            {
+                "name": "Lucky Angler",
+                "img": "lucky_angler",
+                "location": "Getting at P5 30-50 Lv Fish Craft NPC & 300 Coins at Web Coin Shop."
+            },
+            {
+                "name": "Premium Angler",
+                "img": "premium_angler",
+                "location": "Getting at Web Coin Shop buying for 450 Coins."
+            },
+            {
+                "name": "Fish Merchant",
+                "img": "fish_merchant",
+                "location": "You can get at Web Coin Shop for free (Tittle Section)."
+            }
+        ]
+    }
+   
+    
+]

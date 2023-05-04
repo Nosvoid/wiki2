@@ -1,0 +1,46 @@
+[
+    {
+        
+        
+        "regular": [
+            
+            {
+                "name": "Hawaii Headdress",
+                "img": "hawaii_hat",
+                "location": "Weekly Random Boxes rotation"
+            },
+            {
+                "name": "Gentlemans Hat",
+                "img": "old_gentleman_hat",
+                "location": "You can get going to the Fish Map (You can use $warp fish to move into the map directly) and craft it at P5 30-50Lv Fish Craft."
+            },
+            {
+                "name": "Snorkelling Mask",
+                "img": "snorkeling_hat",
+                "location": "You can get going into the Fish Map at P7 50-50 Lv Fish Craft"
+            },
+            {
+                "name": "Rafting Visor",
+                "img": "rafting_visor",
+                "location": "You can get going into the Fish Map at  P4 25-50 Lv Fish Craft"
+            }, 
+            {
+                "name": "Asian Black Bear Hat",
+                "img": "asian_black_bear_hat",
+                "location": "You can get going into the Fish Map at P3 15-50 Lv Fish Craft"
+            },
+            {
+                "name": "Straw Hat",
+                "img": "straw_hat",
+                "location": "You can get going into the Fish Map at P2 1-50 Lv Fish Craft"
+            },
+            {
+                "name": "Captain Hat",
+                "img": "captain_hat",
+                "location": "You can get going into the Fish Map at P2 1-50 Lv Fish Craft"
+            }
+        ]
+    }
+   
+    
+]

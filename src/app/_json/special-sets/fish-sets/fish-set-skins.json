@@ -1,0 +1,20 @@
+[
+    
+    {
+        "regular": [
+            {
+                "name": "Fish Weapon Skins",
+                "img": "weapon_skins",
+                "location": "You can get the it going into the Fish Map at P5 35-50 Lv Fish Craft"
+            }, 
+            {
+                "name": "Professional Angler Skin",
+                "img": "sp_skin",
+                "location": "You can get going into the Fish Map at P7 50-50 Lv Fish Craft"
+            }
+            
+        ]
+    }
+    
+    
+]

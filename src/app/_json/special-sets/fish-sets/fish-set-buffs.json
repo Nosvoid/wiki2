@@ -1,0 +1,27 @@
+[
+    
+    { "regular": [
+            {
+                "name": "Fishing Curse Buff",
+                "img": "curse_buff",
+                "location": "You can craft it at P8 Map in Craft Stuff NPC"
+            },
+            {
+                "name": "Martos Buff",
+                "img": "marto_buff",
+                "location": "You can get it at Fish Map in Martos Buff [Fish]"
+            },
+            {
+                "name": "Carp Stew",
+                "img": "carp_stew",
+                "location": "You can get by cooking with Roast Skill on Chef SP"
+            },
+            {
+                "name": "Roast Lamb",
+                "img": "roast_lamb",
+                "location": "You can get by cooking with Simmer Skill on Chef SP"
+            }
+        ]
+    }
+    
+]

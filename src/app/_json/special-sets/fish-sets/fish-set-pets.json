@@ -1,0 +1,38 @@
+[
+    
+    {
+        "regular": [
+            {
+                "name": "Merling",
+                "img": "merling",
+                "location": "You can get going into the Fish Map at P6 40-50 Lv Fish Craft"
+            },
+            {
+                "name": "Cuby",
+                "img": "cuby",
+                "location": "You can get it at Summer Event and Wheel"
+            },
+            {
+                "name": "Leo",
+                "img": "leo",
+                "location": "You can get going into A4 Map at Achievement Rewards NPC"
+            },
+            {
+                "name": "Master Bunny/Master Bunny Shadow",
+                "img": "bunny",
+                "location": "You can get it at Evolution Event and  Wheel"
+            },
+            {
+                "name": "Daniel Ducat",
+                "img": "daniel",
+                "location": "You can get it at P8 Map Hardcore Reward NPC and Winter Event."
+            },
+            {
+                "name": "Puppet Master's Palina PSP",
+                "img": "palina",
+                "location": "You can get it from Fortune Wheel"
+            }
+        ]
+    }
+    
+]
