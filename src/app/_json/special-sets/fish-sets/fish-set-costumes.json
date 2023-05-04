@@ -1,0 +1,29 @@
+[
+    
+    {
+        "regular": [
+            {
+                "name": "Rafting Costume",
+                "img": "rafting_costume",
+                "location": "You can get going into the Fish Map at P4 25-50 Lv Fish Craft"
+            },
+            {
+                "name": "Wizard of Noz Costume",
+                "img": "wizard_of_noz",
+                "location": "You can get  going into the Fish Map at P7 50-50 Lv Fish Craft"
+            },
+            {
+                "name": "Sailing Costume",
+                "img": "sailing_costume",
+                "location": "You can get going into the Fish Map  at P2 1-50 Lv Fish Craft"
+            },
+            {
+                "name": "Snorkelling Outfit",
+                "img": "snorkeling_costume",
+                "location": "You can get going into the Fish map at P7 50-50 Lv Fish Craft"
+            }
+           
+        ]
+    }
+   
+]
