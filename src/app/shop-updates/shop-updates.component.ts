@@ -9,31 +9,31 @@ export class ShopUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "28/04/2023",
+        date: "05/05/2023",
         items: [
             {
-                name: "Gingerbread Partner Box (Buff informations are on forum post)",
-                img: "../assets/img/psps/wheelpartners.png"
+                name: "Aesthetic Amulet",
+                img: "../assets/img/halloween-event/amulet_f1.png"
             },
             {
-                name: "Palina Puppet Master's Specialist Partner Card",
-                img: "../assets/img/psps/buffs/palina_buff.png"
+                name: "Alitus XV Specialist Partner Card",
+                img: "../assets/img/psps/buffs/AlitusXV.png"
             },
             {
-                name: "Shadow Master Bunny Pet",
-                img: "../assets/img/pets/buffs/master_bunny.png"
+                name: "Dragon of Void",
+                img: "../assets/img/prestiges/p9/Dragonofvoid.png"
             },
             {
               name: "Jinn Specialist Partner Card",
               img: "../assets/img/prestiges/p9/jinnbuffnew.png"
             },
             {
-              name: "Sweet Chocolate Weapon Box",
-              img: "../assets/img/costumes/weapon-skins/sweet_chocolate.png"
+              name: "Frost Warrior Costume Set",
+              img: "../assets/img/costumes/all-sets/buffs/frost_warrior_bufs.png"
             },
             {
-              name: "Knight Costume Set",
-              img: "../assets/img/costumes/all-sets/buffs/knight_buffs.png"
+              name: "Evolution Rarify Changer (2x)",
+              img: "../assets/img/prestiges/p82/BadgeRarifyWheel.png"
             },
 
         ]
@@ -43,7 +43,7 @@ export class ShopUpdatesComponent implements OnInit {
   randomBox = [
     {
       date: "",
-      boxName : 'Currently Rocketeer Costume Set, Shooting Star, Alitus XV and Plague Doctor/Nurse Costume Set Boxes available at https://nosvoid.com/shop/ ',
+      boxName : 'Currently Mini Asgobas, Mini Alzanor & Mini Valehir Boxes available at https://nosvoid.com/shop/ ',
       mainItem: "None",
       mainItemImg: "../../assets/img/psps/buffs/Rotatison_psp.png",
       mainItems: [
