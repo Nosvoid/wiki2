@@ -1,0 +1,27 @@
+<div class="d-flex justify-content-center">
+    <section class="act-four-set">
+        <h1 class="act-four-set-title-1">A4 Set <hr></h1>
+        <h1 class="act-four-set-title-2"><a href="https://wiki.nosvoid.com/act4"> Act 4 Guide</a></h1>
+        <br/>
+        <br/>
+    
+
+        
+
+        <div class="act-four-set-system" *ngFor="let items of actfourset">
+            <div class="act-four-set-items">
+                <div class="p-3" *ngFor="let regular of items.regular">
+                    
+                    <h3 class="act-four-set-title-3">{{regular.name}}<hr></h3>
+                    
+                    <a href="../../assets/img/special-sets/act-four-set/{{regular.img}}.png" target="_blank">
+                        <img src="../../assets/img/special-sets/act-four-set/{{regular.img}}.png" alt="">
+                    </a>
+                    <h3 class="act-four-set-location">{{regular.location}} <hr></h3>
+                    
+                </div>
+            </div>
+            
+        </div>
+    </section>
+</div>

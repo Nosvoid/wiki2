@@ -1,0 +1,93 @@
+[
+    {
+        "regular": [
+            {
+                "name": "Skeleton Costume Set",
+                "img": "skeleton_costume_set",
+                "location": "Can be crafted during the Vessel Event"
+            },
+            {
+                "name": "Karate Costume Set",
+                "img": "karate_buffs",
+                "location": "You can craft this set at after 2.000 kills in Act4 at Achievement Craft NPC"
+            },
+            {
+                "name": "Vessel Accessories",
+                "img": "vessel_accesories",
+                "location": "Can be crafted during the Vessel Event"
+            },
+            {
+                "name": "Act4 Gloves and Shoes",
+                "img": "gloves_shoes",
+                "location": "U can craft them at P9 Special Craft Item NPC"
+            },
+            {
+                "name": "I'm a Killer!",
+                "img": "im_a_killer",
+                "location": "You can craft it at Lost War Helmet Craft NPC in Act4"
+            },
+            {
+                "name": "Demi God",
+                "img": "demigod",
+                "location": "You can craft it at Lost War Helmet Craft NPC in Act4"
+            },
+            {
+                "name": "The Power of a God",
+                "img": "the_power_of_a_god",
+                "location": "You can craft it at Lost War Helmet Craft NPC in Act4"
+            },
+            {
+                "name": "God of War",
+                "img": "god_of_war",
+                "location": "You can craft it at Lost War Helmet Craft NPC in Act4"
+            },
+            {
+                "name": "Frost Weapon Skins",
+                "img": "frost",
+                "location": "You can craft those weapon skins at Family Tower NPC Prestige 8.2 or you can buy them for 900 coins in VoidMall."
+            },
+            {
+                "name": "Valakus Weapon Skins",
+                "img": "valakus",
+                "location": "You can craft those weapon skins at Tower Craft NPC in P8.2"
+            },
+            {
+                "name": "Lunar Wings",
+                "img": "lunar_buff",
+                "location": "Can be bought for 800 coins in VoidMall"
+            },
+            {
+                "name": "Archangel Lucifer",
+                "img": "archangel_lucifer",
+                "location": "Can be obtained at Monthly Rewards NPC Act4 and in Fortune Wheel"
+            },
+            {
+                "name": "XV Alitus",
+                "img": "alitus",
+                "location": "Can be obtained at Monthly Rewards NPC Act4 and in Fortune Wheel"
+            },
+            {
+                "name": "Baby Panda",
+                "img": "baby_panda",
+                "location": "Can be obtained at Monthly Rewards NPC Act4 and in Fortune Wheel"
+            },
+            {
+                "name": "Snow Fox",
+                "img": "snow_fox",
+                "location": "Can be crafted during the Summer Event"
+            },
+            {
+                "name": "Mini Alzanor",
+                "img": "mini_alzanor",
+                "location": "Can be obtained in the Lottery Instant Combat P9 / Fortune Wheel / Random Boxes"
+            },
+            {
+                "name": "Blizzard Wolf",
+                "img": "blizzard_wolf",
+                "location": "Can be obtained during Evolution Event"
+            }
+
+            
+        ]
+    }
+]
