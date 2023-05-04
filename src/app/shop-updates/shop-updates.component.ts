@@ -29,7 +29,7 @@ export class ShopUpdatesComponent implements OnInit {
             },
             {
               name: "Frost Warrior Costume Set",
-              img: "../assets/img/costumes/all-sets/buffs/frost_warrior_bufs.png"
+              img: "../assets/img/costumes/all-sets/buffs/frost_warrior_buffs.png"
             },
             {
               name: "Evolution Rarify Changer (2x)",
