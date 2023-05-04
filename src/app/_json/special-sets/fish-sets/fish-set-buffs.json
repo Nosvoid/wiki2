@@ -20,6 +20,21 @@
                 "name": "Roast Lamb",
                 "img": "roast_lamb",
                 "location": "You can get by cooking with Simmer Skill on Chef SP"
+            },
+            {
+                "name": "Full Belly 1",
+                "img": "full_belly1",
+                "location": "You can get it by filling Fullness Bar"
+            },
+            {
+                "name": "Full Belly 2",
+                "img": "full_belly2",
+                "location": "You can get it by filling Fullness Bar"
+            },
+            {
+                "name": "Full Belly 3",
+                "img": "full_belly3",
+                "location": "You can get it by filling Fullness Bar"
             }
         ]
     }
