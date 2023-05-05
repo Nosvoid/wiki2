@@ -11,6 +11,11 @@
                 "name": "Professional Angler Skin",
                 "img": "sp_skin",
                 "location": "You can get going into the Fish Map at P7 50-50 Lv Fish Craft"
+            },
+            {
+                "name": "Aesthetic Amulet",
+                "img": "amulet",
+                "location": "You can get it in Fortune Wheel"
             }
             
         ]
