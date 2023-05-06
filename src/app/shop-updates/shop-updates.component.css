@@ -28,6 +28,22 @@
     margin-top: 1em;
     color: var(--void-clr);
 }
+.shop-updates-title-5 {
+    font-size: 2rem;
+    margin-top: 1em;
+    color: rgba(255, 0, 0, 0.8);
+    font-family: 'Edu SA Beginner', cursive;
+}
+p.round3 {
+    border: 2px solid rgb(82, 58, 167);
+    border-radius: 12px;
+    padding: 5px;
+  }
+  p.round4 {
+    border: 2px solid rgb(235, 15, 15);
+    border-radius: 12px;
+    padding: 5px;
+  }
 
 
 .shop-updates-title-3 {
