@@ -1,35 +1,45 @@
 <div class="d-flex justify-content-center">
     <section class="shop-updates">
-        <h1 class="shop-updates-title-1">Shop Updates</h1>
+        <h1 class="shop-updates-title-1">Shop Updates<hr></h1>
 
-        <h2 class="shop-updates-title-2">Wheel Rotation</h2>
+        <img width="600x" src="../../assets/img/shop-updates/wheel.png"  alt="" class="rounded" style="border: 1px solid rgb(134, 40, 103);"><br/>
+        <br/>
+        <h2 class="shop-updates-title-1">Wheel Rotation</h2>
         <div class="shop-updates-system" *ngFor="let update of wheel">
             <h2 class="shop-updates-title-2">
-                Available in the Fortune Wheel <br>
+                 Available in the Fortune Wheel <br>
                 Last Update : 
-                {{update.date}}
             </h2>
+                <h2 class="shop-updates-title-5">
+                {{update.date}}
+                </h2>
+           
             <div class="shop-updates-items">
                 <div class="p-3" *ngFor="let items of update.items">
-                    <h3 class="shop-updates-title-3">{{items.name}}</h3>
+                    <h3 class="shop-updates-title-3">{{items.name}}<hr></h3>
                     <a href="{{items.img}}" target="_blank">
                         <img src="{{items.img}}" alt="">
                     </a>
                 </div>
             </div>
+            <hr>
         </div>
         <div class="shop-updates-system" *ngFor="let update of randomBox">
-            <h2 class="shop-updates-title-2">
+            <h2 class="shop-updates-title-1">
+                <img width="600x" src="../../assets/img/shop-updates/shop.png"  alt="" class="rounded" style="border: 1px solid rgb(134, 40, 103);"><br/><br/>
                 Random Box Rotation <br>
-                Last Update : 
-                {{update.date}}
             </h2>
-            <h3 class="shop-updates-title-3">What is Random Box : It's a new feature that you can get one main prize from box depends on your luck. Each box costs <span class="purple">150 COINS</span>.</h3>
+            <h2 class="shop-updates-title-2">
+                Last Update : </h2>
+                <h2 class="shop-updates-title-5">
+                {{update.date}}</h2>
+            
+            <h3 class="shop-updates-title-3"><p class="round4"><b>What is Random Box </b>: It's a new feature that you can get one main prize from box depends on your luck. Each box costs <u style="color: rgb(38, 182, 25)">150 coins</u>.</p></h3>
             <h2 class="shop-updates-title-4">
-                <img src="../../assets/img/shop-update/koala_box.png" alt="">
+                <img src="../../assets/img/shop-updates/box_asgo.png" alt="">
                 {{update.boxName}}
             </h2>
-            <div class="main-item">
+            <!--<div class="main-item">
                 <div>
                     <p class="shop-updates-text">{{update.mainItem}}</p>
                     <img src="{{update.mainItemImg}}" alt="">
@@ -42,25 +52,27 @@
                         </li>
                     </ul>
                 </div>
-            </div>
-            <!-- <div class="shop-reward-items">
-                <h3 class="shop-updates-title-3">Main Reward(s) : </h3>
-                <div class="main-items">
+            </div>-->
+            <div class="shop-reward-items">
+                 <h3 class="shop-updates-title-3">Main Reward(s) : <hr></h3>
+                <div class="main-items ">
+                   
                     <div *ngFor="let main of update.mainItems">
-                        <p class="shop-updates-text">{{main.name}}</p>
+                        <p class="shop-updates-text round3">{{main.name}}</p>
                         <img src="{{main.img}}" alt="">
                     </div>
                 </div>
                 <div>
-                    <h3 class="shop-updates-title-3">Other Rewards : </h3>
-                    <ul class="shop-rewards">
-                        <li class="shop-reward" *ngFor="let item of update.items">
+                    <h3 class="shop-updates-title-3">Other Rewards : <hr></h3>
+                    <ul class="shop-rewards "><p class="round3">
+                        <li class="shop-reward " *ngFor="let item of update.items">
                             - {{item.name}}
                         </li>
+                    </p>
                     </ul>
                 </div>
-            </div> -->
-        </div>
+            </div> 
+            </div> 
     </section>
 </div>
 

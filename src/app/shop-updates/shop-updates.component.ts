@@ -42,15 +42,24 @@ export class ShopUpdatesComponent implements OnInit {
 
   randomBox = [
     {
-      date: "",
-      boxName : 'Currently Mini Asgobas, Mini Alzanor & Mini Valehir Boxes available at https://nosvoid.com/shop/ ',
-      mainItem: "None",
-      mainItemImg: "../../assets/img/psps/buffs/Rotatison_psp.png",
+      date: "05/05/2023",
+      boxName : 'Mini Dragons Random Boxes ',
+      mainItem: "Mini Asgobas",
+      mainItemImg: "../../assets/img/shop_updates/box_asgo.png",
       mainItems: [
         {
-          name: "Venus, Hongbi, Lucy and Mad March Hare PSPs",
-          img: "../../assets/img/psps/buffs/Rotation_psp.png"
+          name: "Mini Asgobas",
+          img: "../../assets/img/shop_updates/box_asgo.png"
         },
+        {
+          name: "Mini Alzanor",
+          img: "../../assets/img/shop_updates/box_asgo.png"
+        },
+        {
+          name: "Mini Valehir",
+          img: "../../assets/img/shop_updates/box_asgo.png"
+        }
+
 
       ],
       items: [
