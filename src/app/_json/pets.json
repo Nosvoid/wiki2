@@ -248,6 +248,14 @@
         "class": "gold"
     },
     {
+        "name": "Lucky Pig (Event)",
+        "id": "",
+        "location": "Can be obtained in Chinese New Year Event",
+        "buff": "new_year_lucky_pig_event",
+        "skin": "new_year_lucky_pig_event",
+        "class": "pve"
+    },
+    {
         "name": "Lucky Rat",
         "id": "",
         "location": "Can be crafted during the Mouse Event and from Event NPC in NosVille.",

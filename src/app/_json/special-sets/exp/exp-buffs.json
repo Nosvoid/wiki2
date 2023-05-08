@@ -1,0 +1,67 @@
+[
+    
+    { "regular": [
+            {
+                "name": "Ancelloan's BLessing",
+                "img": "ancelloan",
+                "location": "You can craft it at $warp begginer in Fairy Booster and Ancelloan NPC"
+            },
+            {
+                "name": "Aurelios Roshu's Primordial History (1)",
+                "img": "book",
+                "location": "You can get them atfter killing Old Tree Spirit boss in Lv 85-99 map $warp p1"
+            },
+            {
+                "name": "Experience Potion",
+                "img": "exp_pot",
+                "location": "You can buy it at Nosville in Potion Shop"
+            },
+            {
+                "name": "Moss Porrigde",
+                "img": "moss_porrigde",
+                "location": "You can get by cooking with Simmer Skill on Chef SP"
+            },
+            {
+                "name": "Sweet Marinated Roast",
+                "img": "sweet_marinated_roast",
+                "location": "You can get by cooking with Roast Skill on Chef SP"
+            },
+            {
+                "name": "Full Belly 1",
+                "img": "full_belly1",
+                "location": "You can get it by filling Fullness Bar"
+            },
+            {
+                "name": "Full Belly 2",
+                "img": "full_belly2",
+                "location": "You can get it by filling Fullness Bar"
+            },
+            {
+                "name": "Full Belly 3",
+                "img": "full_belly3",
+                "location": "You can get it by filling Fullness Bar"
+            },
+            {
+                "name": "P7 Exp Boost",
+                "img": "p7_buff",
+                "location": "You can get it at $warp p7 from Marto's Buff NPC"
+            },
+            {
+                "name": "P8 Exp Boost",
+                "img": "p8_buff",
+                "location": "You can get it at $warp p8 from Marto's Buff NPC"
+            },
+            {
+                "name": "Mother Nature's Tree Rune (Rare)",
+                "img": "rune",
+                "location": "You can craft it at $warp p5 in High Tier Mother Runes"
+            },
+            {
+                "name": "Shell (Weapon)",
+                "img": "shell",
+                "location": "You can get this option in Weapon Shells"
+            }
+        ]
+    }
+    
+]

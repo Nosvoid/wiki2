@@ -1,0 +1,116 @@
+<div class="d-flex justify-content-center">
+    <section class="gold">
+
+        <a class="scrollTop" href="/exp#"> <i class="fa fa-arrow-up" aria-hidden="true"></i> </a>
+
+        <nav class="navbar navbar-expand-lg">
+            <div class="container-fluid">
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <i class="fa fa-bars nos-bars" aria-hidden="true"></i>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                  <li class="nav-item"> <a class="nav-link" href="/exp#1">Costumes</a></li>
+                  <li class="nav-item"> <a class="nav-link" href="/exp#2">Weapon Skins & Skins</a></li>
+                  <li class="nav-item"> <a class="nav-link" href="/exp#3">Pets & Partners</a></li>
+                  <li class="nav-item"> <a class="nav-link" href="/exp#4">Titles</a></li>
+                  <li class="nav-item"> <a class="nav-link" href="/exp#5">Buffs</a></li>
+                </ul>
+              </div>
+            </div>
+          </nav>
+
+          <div class="scrollItems">
+
+          </div>
+<br/>
+        <h1 class="gold-title-1">Exp Set <img width="50x" src="../../assets/img/special-sets/exp/exp_icon.png" alt=""><hr></h1>
+
+        <h1 class="act-four-set-title-2"><a href="https://wiki.nosvoid.com/starter-guide"> Starter Guide</a></h1>
+        <br/>
+        <div id="1" class="scrollHere"></div>
+        <h2 class="gold-title-1">Costumes</h2>
+        <div class="gold-system" *ngFor="let items of exp1">
+            <div class="gold-items">
+                <div class="p-3" *ngFor="let regular of items.regular">
+                    
+                    <h3 class="gold-title-3">{{regular.name}}</h3>
+                    
+                    <a href="../../assets/img/special-sets/exp/costumes/{{regular.img}}.png" target="_blank">
+                        <img src="../../assets/img/special-sets/exp/costumes/{{regular.img}}.png" alt="">
+                    </a>
+                    <h4 class="gold-location"><i> {{regular.location}} </i></h4>
+                </div>
+                </div>
+            <hr>
+        </div>
+        
+        <div id="2" class="scrollHere"></div>
+        <h2 class="gold-title-1">Skins</h2>
+        <div class="gold-system" *ngFor="let items of exp3">
+            <div class="gold-items">
+                <div class="p-3" *ngFor="let regular of items.regular">
+                    
+                    <h3 class="gold-title-3">{{regular.name}}</h3>
+                    
+                    <a href="../../assets/img/special-sets/exp/skins/{{regular.img}}.png" target="_blank">
+                        <img src="../../assets/img/special-sets/exp/skins/{{regular.img}}.png" alt="">
+                    </a>
+                    <h4 class="gold-location"><i> {{regular.location}} </i></h4>
+                </div>
+                </div>
+            <hr>
+        </div>
+        <div id="3" class="scrollHere"></div>
+        <h2 class="gold-title-1">Pets & PSPs</h2>
+        <div class="gold-system" *ngFor="let items of exp2">
+            <div class="gold-items">
+                <div class="p-3" *ngFor="let regular of items.regular">
+                    
+                    <h3 class="gold-title-3">{{regular.name}}</h3>
+                    
+                    <a href="../../assets/img/special-sets/exp/pets/{{regular.img}}.png" target="_blank">
+                        <img src="../../assets/img/special-sets/exp/pets/{{regular.img}}.png" alt="">
+                    </a>
+                    <h4 class="gold-location"><i> {{regular.location}} </i></h4>
+                </div>
+                </div>
+            <hr>
+        </div>
+        <div id="4" class="scrollHere"></div>
+        <h2 class="gold-title-1">Titles</h2>
+        <div class="gold-system" *ngFor="let items of exp4">
+            <div class="gold-items">
+                <div class="p-3" *ngFor="let regular of items.regular">
+                    
+                    <h3 class="gold-title-3">{{regular.name }}</h3>
+                    
+                    <a href="../../assets/img/special-sets/exp/titles/{{regular.img}}.png" target="_blank">
+                        <img src="../../assets/img/special-sets/exp/titles/{{regular.img}}.png" alt="">
+                    </a>
+                    <h4 class="gold-location"><i> {{regular.location}} </i></h4>
+                </div>
+                </div>
+            <hr>
+        </div>
+        <div id="5" class="scrollHere"></div>
+        <h2 class="gold-title-1">Buffs</h2>
+        <div class="gold-system" *ngFor="let items of exp5">
+            <div class="gold-items">
+                <div class="p-3" *ngFor="let regular of items.regular">
+                    
+                    <h3 class="gold-title-3">{{regular.name}}</h3>
+                    
+                    <a href="../../assets/img/special-sets/exp/buffs/{{regular.img}}.png" target="_blank">
+                        <img src="../../assets/img/special-sets/exp/buffs/{{regular.img}}.png" alt="">
+                    </a>
+                    <h4 class="gold-location"><i> {{regular.location}} </i></h4>
+                </div>
+                </div>
+            <hr>
+        </div>
+
+    
+    </section>
+</div>

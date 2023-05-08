@@ -1,0 +1,30 @@
+[
+   
+    {
+        "regular": [
+            {
+                "name": "Annihilator",
+                "img": "annihilator",
+                "location": "You can buy it for 100 coins in VoidMall"
+            },
+            {
+                "name": "Bomb Bunner",
+                "img": "bomb_runner",
+                "location": "You can craft it at Bold Exchange NPC in NosVille"
+            },
+            {
+                "name": "Phantom",
+                "img": "phantom",
+                "location": "You can craft it at Craft Title NPC $warp p2"
+            },
+            {
+                "name": "Real Hero",
+                "img": "real_hero",
+                "location": "You can craft it at P3 10-50Lv Fish NPC $warp fish and for 250 coins in VoidMall"
+            }
+            
+        ]
+    }
+   
+    
+]

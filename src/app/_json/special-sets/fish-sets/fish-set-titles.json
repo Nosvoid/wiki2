@@ -3,7 +3,7 @@
     {
         "regular": [
             {
-                "name": "Rockie Angle",
+                "name": "Rookie Angler",
                 "img": "rookie_angler",
                 "location": "Getting after reach 5% of Fishing Encyclopedia"
             },
@@ -18,7 +18,7 @@
                 "location": "Getting after 30% of Fishing Encyclopedia"
             },
             {
-                "name": "Experienced Anglerr",
+                "name": "Experienced Angler",
                 "img": "experienced_angler",
                 "location": "Getting after 60% of Fishing Encyclopedia"
             },
@@ -28,7 +28,7 @@
                 "location": "Getting after 80% of Fishing Encyclopedia"
             },
             {
-                "name": "Fishing Maste",
+                "name": "Fishing Master",
                 "img": "fishing_master",
                 "location": "Getting after LvL 45 fishing SP job."
             },
