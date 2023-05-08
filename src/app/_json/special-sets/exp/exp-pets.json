@@ -1,0 +1,39 @@
+[
+    
+    {
+        "regular": [
+            {
+                "name": "Centurio Bushtail",
+                "img": "centurio",
+                "location": "Can be obtained in the chest after killing the Bushi King boss, map 40-50 $warp p8"
+            },
+            {
+                "name": "Dusi Fox",
+                "img": "dusi_fox",
+                "location": "Can be crafted in the Starting Map"
+            },
+            {
+                "name": "New Year Lucky Pig (Event)",
+                "img": "new_year_lucky_pig_event",
+                "location": "You can get it from Chinese New Year Event"
+            },
+            {
+                "name": "Tame Golden Mushroom",
+                "img": "tame_golden_mushroom",
+                "location": "Can be obtained in Easter Event 2023"
+            },
+            {
+                "name": "Sheriff Cloe",
+                "img": "sheriff_chloe",
+                "location": "Can be obtained during Summer Event"
+                
+            },
+            {
+                "name": "Venus",
+                "img": "venus",
+                "location": "Can be obtained during Easter Event, in Fortune Wheel and in VoidMall for 900"
+            }
+        ]
+    }
+    
+]

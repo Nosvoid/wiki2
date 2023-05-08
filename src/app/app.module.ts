@@ -46,6 +46,7 @@ import { ReputationComponent } from './reputation/reputation.component';
 import { BettingSetComponent } from './betting-set/betting-set.component';
 import { PerfectionSetComponent } from './perfection-set/perfection-set.component';
 import { FishSetComponent } from './fish-set/fish-set.component';
+import { ExpComponent } from './exp/exp.component';
 import { ActFourSetComponent } from './act-four-set/act-four-set.component';
 import { TitlesComponent } from './titles/titles.component';
 import { Act4Component } from './act4/act4.component';
@@ -115,6 +116,7 @@ const appRoutes: Routes = [
   { path: 'perfection-set', component: PerfectionSetComponent },
   { path: 'act-four-set', component: ActFourSetComponent },
   { path: 'fish-set', component: FishSetComponent },
+  { path: 'exp', component: ExpComponent },
   { path: 'titles', component: TitlesComponent },
   { path: 'act4', component: Act4Component },
   { path: 'fish-system', component: FishSystemComponent },
@@ -183,6 +185,7 @@ const appRoutes: Routes = [
     BettingSetComponent,
     PerfectionSetComponent,
     FishSetComponent,
+    ExpComponent,
     ActFourSetComponent,
     TitlesComponent,
     Act4Component,

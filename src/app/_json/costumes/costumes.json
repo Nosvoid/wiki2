@@ -5,6 +5,11 @@
         "class": "pvp"
     },
     {
+        "name": "Dracula Costume",
+        "buff": "dracula_costume",
+        "class": "pve"
+    },
+    {
         "name": "Rocketeer Costume",
         "buff": "rocheteer",
         "class": "raid"

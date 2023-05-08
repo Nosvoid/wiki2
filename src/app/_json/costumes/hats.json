@@ -10,6 +10,11 @@
         "class": "pvp"
     },
     {
+        "name": "Dracula Hat",
+        "buff": "dracula_hat",
+        "class": "pve"
+    },
+    {
         "name": "Cuddly Dino Hat",
         "buff": "cuddly_dino_hat",
         "class": "betting"

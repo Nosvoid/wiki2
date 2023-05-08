@@ -14,6 +14,13 @@
         "class": "fish"
     },
     {
+        "name": "Monster Hunter",
+        "id": "",
+        "location": "You can it from $warp p8.2 Time Space",
+        "img": "monster_hunter",
+        "class": "pve"
+    },
+    {
         "name": "Annihilator",
         "id": "",
         "location": "You can buy it for 100 coins in VoidMall",

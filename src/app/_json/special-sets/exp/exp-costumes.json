@@ -1,0 +1,24 @@
+[
+    
+    {
+        "regular": [
+            {
+                "name": "Dracula Hat",
+                "img": "dracula_hat",
+                "location": "You can buy this set for 500 coins in VoidMall"
+            },
+            {
+                "name": "Dracula Costume",
+                "img": "dracula_costume",
+                "location": "You can buy this set for 500 coins in VoidMall"
+            },
+            {
+                "name": "Reindeer Costume Wings",
+                "img": "reindeer_wings",
+                "location": "You can get this set at Family Tower Rewards NPC $warp p8.1 or for 450 coins in VoidMall"
+            }
+           
+        ]
+    }
+   
+]
