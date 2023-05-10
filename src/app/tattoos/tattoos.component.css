@@ -1,0 +1,97 @@
+.tattoo-carve {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-block: 3em;
+    color: white;
+    background-color: rgba(0, 0, 0, .8);
+    border-radius: 20px;
+    width: 100%;
+    padding: 3em 1em;
+    text-align: center;
+}
+
+.tattoo-carve-title-1,
+.tattoo-carve-title-2,
+.tattoo-carve-title-3,
+.tattoo-carve-title-4 {
+    font-family: 'Edu SA Beginner', cursive;
+}
+
+.tattoo-carve-title-1 {
+    font-size: 3rem;
+    margin-bottom: 1em;
+}
+
+.tattoo-carve-title-2 {
+    font-size: 2.5rem;
+    margin-top: 1em;
+}
+
+.tattoo-carve-title-3 {
+    font-size: 2rem;
+    line-height: 1.3em;
+}
+
+.tattoo-carve-title-4 {
+    font-size: 1.5rem;
+    line-height: 1.3em;
+}
+
+.tattoo-carve-text {
+    font-size: 1.1rem;
+    line-height: 1.5em;
+}
+
+.tattoos img {
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 10px;
+}
+
+.tattoo-carve-options {
+    text-align: start;
+    font-size: 1.2rem;
+    line-height: 1.4em;
+}
+
+.option-type {
+    color: var(--void-clr);
+}
+
+.tattoo-carve-powers div {
+    padding: 1.5em;
+}
+
+.tattoo {
+    margin-block: 1em;
+}
+
+.tattoo-scroll {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1em;
+    margin-bottom: 1em;
+}
+
+.tattoo .tattoo-carve-text {
+    margin-bottom: 0;
+}
+
+/* Media queries */
+@media all and (min-width: 1140px) {
+    .tattoo-carve, .tattoos {
+        width: 75%;
+    }
+    .tattoo-carve-powers {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+    
+    .all-tattoos {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
