@@ -54,7 +54,8 @@ import { FishSystemComponent } from './fish-system/fish-system.component';
 import { PrestigeSystemComponent } from './prestige-system/prestige-system.component';
 import { WorldBossesComponent } from './world-bosses/world-bosses.component';
 import { SoulSystemComponent } from './soul-system/soul-system.component';
-import { TattooCarveComponent } from './tattoo-carve/tattoo-carve.component';
+import { TattoosComponent } from './tattoos/tattoos.component';
+import { CarvesComponent } from './carves/carves.component';
 import { StaffMembersComponent } from './staff-members/staff-members.component';
 import { BecomingCcComponent } from './becoming-cc/becoming-cc.component';
 import { ContentCreatorsComponent } from './content-creators/content-creators.component';
@@ -123,7 +124,8 @@ const appRoutes: Routes = [
   { path: 'prestige-system', component: PrestigeSystemComponent },
   { path: 'world-bosses', component: WorldBossesComponent },
   { path: 'soul-system', component: SoulSystemComponent },
-  { path: 'tattoos-carves', component: TattooCarveComponent },
+  { path: 'tattoos', component: TattoosComponent },
+  { path: 'carves', component: CarvesComponent },
   { path: 'becoming-content-creator', component: BecomingCcComponent },
   { path: 'content-creators', component: ContentCreatorsComponent },
   { path: 'shop-updates', component: ShopUpdatesComponent },
@@ -193,7 +195,8 @@ const appRoutes: Routes = [
     PrestigeSystemComponent,
     WorldBossesComponent,
     SoulSystemComponent,
-    TattooCarveComponent,
+    TattoosComponent,
+    CarvesComponent,
     StaffMembersComponent,
     BecomingCcComponent,
     ContentCreatorsComponent,

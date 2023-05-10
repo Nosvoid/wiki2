@@ -1,0 +1,157 @@
+<div class="d-flex justify-content-center w-100">
+    <section class="tattoo-carve">
+
+        <a class="scrollTop" href="/carves#"> <i class="fa fa-arrow-up" aria-hidden="true"></i> </a>
+
+        <nav class="navbar navbar-expand-lg">
+            <div class="container-fluid">
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <i class="fa fa-bars nos-bars" aria-hidden="true"></i>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                  <li class="nav-item"> <a class="nav-link" href="/carves#1">Weapon Carves</a></li>
+                  <li class="nav-item"> <a class="nav-link" href="/carves#2">Armour Carves</a></li>
+                </ul>
+              </div>
+            </div>
+          </nav>
+
+          <div class="scrollItems">
+
+          </div>
+          <div id="1" class="scrollHere"></div>
+      <h1 class="tattoo-carve-title-1">Carve Runes - weapons</h1>
+  
+        <div class="tattoos">
+            
+            
+            
+            <h3 class="tattoo-carve-title-3">How to get your Carve Runes ?</h3>
+            <p class="tattoo-carve-text">
+                To get your Carve Runes, you can upgrade your Rune at Carve Rune NPC in the Tattoo & Rune Map in NosVille 
+                or you can use scrolls.<br/>
+                <img width="600x" src="../../assets/img/carves/entry_map.png"  alt="" class="rounded" style="border: 1px solid rgb(134, 40, 103);"><br/>
+                <br/>
+                 There are two different scrolls : Rune of Fortune Scroll & Premium Rune of Fortune
+                Scroll. Both scrolls prevent the weapon from being damaged and might save your materials while upgrading. 
+                The Premium one adds 2% chance of success. <img width="32px" src="../../assets/img/carves/scroll.png"  alt="" class="rounded">
+            </p>
+            <hr>
+            <h3 class="tattoo-carve-title-3">Carve Runes Materials (Weapon)</h3>
+            <p class="tattoo-carve-text">
+                <img width="1500px" src="../../assets/img/carves/weapon_table.png"  alt="" class="rounded" style="border: 1px solid rgb(134, 40, 103);"><br/>
+            </p>
+            <hr>
+            <h3 class="tattoo-carve-title-3">Which options can you get ?</h3>
+            <div class="d-flex justify-content-center">
+                <ul class="tattoo-carve-options">
+                    <li class="tattoo-carve-option">
+                        - All attacks are increased by 20 (<b>250 max</b>) <b class="option-type">VERY GOOD</b>
+                    </li>
+                    <li class="tattoo-carve-option">
+                        - Hit rate of all attacks is increased by 20 (<b>190 max</b>)<b class="option-type"> BONUS</b>
+                    </li>
+                    <li class="tattoo-carve-option">
+                        - All attacks are increased by 1%. (<b>13% max</b>)<b class="option-type"> MUST HAVE</b>
+                    </li>
+                    <li class="tattoo-carve-option">
+                        - Your specialist's elemental skill points are increased by 1 (<b>6 max</b>)<b class="option-type"> VERY GOOD PVE</b>
+                    </li>
+                    <li class="tattoo-carve-option">
+
+                        - Your specialist's attack skill points are increased by 1 (<b>6 max</b>)<b class="option-type"> MUST HAVE AT LEAST 3</b>
+                    </li>
+                    <li class="tattoo-carve-option">
+                        - The equipped fairy's element increases by 3. (<b>20 max</b>)<b class="option-type"> GOOD PVE</b>
+                    </li>
+                    <li class="tattoo-carve-option">
+                        - Damage is increased to Dragon 3%. (<b>20% max</b>)<b class="option-type"> BONUS PVE (P9 RAIDS)</b></li>
+                    <li class="tattoo-carve-option">
+                        - Increases damage from critical hits by 3% (<b>25% max</b>)<b class="option-type"> BONUS</b>
+                    </li>
+                    <li class="tattoo-carve-option">
+                        - Chance of inflicting critical hits is increased by 1% (<b>10% max</b>)<b class="option-type"> VERY GOOD - NO MAGE</b>
+                    </li>
+                    <li class="tattoo-carve-option">
+                        - Damage to monsters is increased by 3% (<b>20% max</b>)<b class="option-type"> BAD</b>
+                    </li>
+                    <li class="tattoo-carve-option">
+                        - Concentration is increased by 1 during the magic attack. (<b>22 max</b>)<b class="option-type"> BAD</b>
+                    </li>
+                </ul>
+            </div>
+            <hr>
+            <h3 class="tattoo-carve-title-3">Which powers can you get ?</h3>
+            <p class="tattoo-carve-text">
+                Note that each power becomes
+                "strong" at Lv 5 & 6. Before, they are only "small bonuses" on which you can't really count on. You can get a 
+                power or a power Lv every 3 Rune Lv (3 - 6 - 9 - 12 - 15 - 18 - 21).
+            </p>
+            <div class="tattoo-carve-powers">
+                <div  *ngFor="let carve of carve">
+                    <h4 class="tattoo-carve-title-4">{{carve.name}}</h4>
+                    <a href="../../assets/img/tattoo-carve/carve-buffs/{{carve.img}}.png" target="_blank">
+                        <img src="../../assets/img/tattoo-carve/carve-buffs/{{carve.img}}.png" alt="">
+                    </a>
+                </div>
+            </div>
+            <HR>
+                <div id="2" class="scrollHere"></div>
+                <h1 class="tattoo-carve-title-1">Carve Runes - armours</h1>
+                <h3 class="tattoo-carve-title-3">Carve Runes Materials (Armour)</h3>
+                <p class="tattoo-carve-text">
+                    <img width="1500px" src="../../assets/img/carves/armor_table.png"  alt="" class="rounded" style="border: 1px solid rgb(134, 40, 103);"><br/>
+                </p>
+                <hr>
+                <h3 class="tattoo-carve-title-3">Which options can you get ?</h3>
+                <div class="d-flex justify-content-center">
+                    <ul class="tattoo-carve-options">
+                        <li class="tattoo-carve-option">
+                            - All elemental resistance is increased by 3 (<b>20 max</b>) <b class="option-type">BAD</b>
+                        </li>
+                        <li class="tattoo-carve-option">
+                            - All defence powers are increased by 50 (<b>300 max</b>)<b class="option-type"> VERY GOOD</b>
+                        </li>
+                        <li class="tattoo-carve-option">
+                            - Defence is increased by 3% (<b>18% max</b>)<b class="option-type"> MUST HAVE</b>
+                        </li>
+                        <li class="tattoo-carve-option">
+                            - Your specialist's defence skill points are increased by 1 (<b>5 max</b>)<b class="option-type"> GOOD</b>
+                        </li>
+                        <li class="tattoo-carve-option">
+    
+                            - Your specialist's HP/MP skill points are increased by 1 (<b>5 max</b>)<b class="option-type"> VERY GOOD</b>
+                        </li>
+                        <li class="tattoo-carve-option">
+                            - With a 100% probability all elemental damage is reduced by 2% (<b>25% max</b>)<b class="option-type"> BAD</b>
+                        </li>
+                        <li class="tattoo-carve-option">
+                            -  Damage from critical hits is reduced by 4% (<b>25% max</b>)<b class="option-type"> VERY GOOD</b></li>
+                        <li class="tattoo-carve-option">
+                            - Probability to receive critical hits is decreased by 1%  (<b>12% max</b>)<b class="option-type"> GOOD</b>
+                        </li>
+                        
+                    </ul>
+                    <hr>
+                </div>
+                <hr>
+                <h3 class="tattoo-carve-title-3">Which powers can you get ?</h3>
+                <p class="tattoo-carve-text">
+                    There isn't "MUST HAVE" powers, it depends of the way you want to play. Note that each power becomes
+                    "strong" at Lv 5 & 6. Before, they are only "small bonuses" on which you can't really count on. You can get a 
+                    power or a power Lv every 3 Rune Lv (3 - 6 - 9 - 12 - 15 - 18 - 21).
+                </p>
+                <div class="tattoo-carve-powers">
+                    <div  *ngFor="let carve of carve1">
+                        <h4 class="tattoo-carve-title-4">{{carve.name}}</h4>
+                        <a href="../../assets/img/carves/{{carve.img}}.png" target="_blank">
+                            <img src="../../assets/img/carves/{{carve.img}}.png" alt="">
+                        </a>
+                    </div>
+            </div>
+            <hr>
+        </div>
+    </section>
+</div>
