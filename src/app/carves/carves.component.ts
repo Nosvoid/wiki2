@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
-import carveData from "../_json/carve-runes.json";
+import carveData from "../_json/carve-runes-weapons.json";
+import carveData1 from "../_json/carve-runes-armours.json";
 import tattoosData from "../_json/tattoos.json";
 
 interface Carve {
@@ -16,11 +17,11 @@ interface Tattoos {
 }
 
 @Component({
-  selector: 'app-tattoo-carve',
-  templateUrl: './tattoo-carve.component.html',
-  styleUrls: ['./tattoo-carve.component.css']
+  selector: 'app-carves',
+  templateUrl: './carves.component.html',
+  styleUrls: ['./carves.component.css']
 })
-export class TattooCarveComponent implements OnInit {
+export class CarvesComponent implements OnInit {
 
   constructor() { }
 
@@ -28,5 +29,6 @@ export class TattooCarveComponent implements OnInit {
   }
 
   carve: Carve[] = carveData;
+  carve1: Carve[] = carveData1;
   tattoos: Tattoos[] = tattoosData;
 }

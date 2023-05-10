@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 
-import carveData from "../_json/carve-runes.json";
+
 import tattoosData from "../_json/tattoos.json";
 
 interface Carve {
@@ -27,6 +27,6 @@ export class TattoosComponent implements OnInit {
   ngOnInit(): void {
   }
 
-  carve: Carve[] = carveData;
+  
   tattoos: Tattoos[] = tattoosData;
 }
