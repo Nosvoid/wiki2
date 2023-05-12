@@ -25,7 +25,7 @@ export class ShopUpdatesComponent implements OnInit {
             },
             {
               name: "Weapon Skin Box 'Chocolate Dream'",
-              img: "../assets/img/costumes/weapon-skins/sweet_chocolate.png.png"
+              img: "../assets/img/costumes/weapon-skins/sweet_chocolate.png"
             },
             {
               name: "Batman Mask",
