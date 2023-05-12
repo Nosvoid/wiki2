@@ -9,31 +9,31 @@ export class ShopUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "05/05/2023",
+        date: "12/05/2023",
         items: [
             {
-                name: "Aesthetic Amulet",
-                img: "../assets/img/halloween-event/amulet_f1.png"
+                name: "Robber Mask",
+                img: "../assets/img/helmets-masks/robber_mask.png"
             },
             {
-                name: "Alitus XV Specialist Partner Card",
-                img: "../assets/img/psps/buffs/AlitusXV.png"
+                name: "Lava Ghost Helmet",
+                img: "../assets/img/helmets-masks/lava_helmet.png"
             },
             {
-                name: "Dragon of Void",
-                img: "../assets/img/prestiges/p9/Dragonofvoid.png"
+                name: "Rocketeer Outfit Set",
+                img: "../assets/img/prestiges/p9/Crafting/Other/RocketeerNewWheel.png"
             },
             {
-              name: "Jinn Specialist Partner Card",
-              img: "../assets/img/prestiges/p9/jinnbuffnew.png"
+              name: "Weapon Skin Box 'Chocolate Dream'",
+              img: "../assets/img/costumes/weapon-skins/sweet_chocolate.png.png"
             },
             {
-              name: "Frost Warrior Costume Set",
-              img: "../assets/img/costumes/all-sets/buffs/frost_warrior_buffs.png"
+              name: "Batman Mask",
+              img: "../assets/img/helmets-masks/batman_mask.png"
             },
             {
-              name: "Evolution Rarify Changer (2x)",
-              img: "../assets/img/prestiges/p82/BadgeRarifyWheel.png"
+              name: "Palina Puppet Master's Specialist Partner Card",
+              img: "../assets/img/psps/buffs/palina_buff.png"
             },
 
         ]
@@ -42,21 +42,21 @@ export class ShopUpdatesComponent implements OnInit {
 
   randomBox = [
     {
-      date: "05/05/2023",
-      boxName : 'Mini Dragons Random Boxes ',
+      date: "12/05/2023",
+      boxName : 'Random Boxes ',
       mainItem: "Mini Asgobas",
       mainItemImg: "../../assets/img/shop_updates/box_asgo.png",
       mainItems: [
         {
-          name: "Mini Asgobas",
+          name: "Plague Doctor/Nurse Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Mini Alzanor",
+          name: "Black Ink Rabbit Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Mini Valehir",
+          name: "Hawaii Costume Set Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         }
 
