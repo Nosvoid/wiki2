@@ -4,6 +4,7 @@
         "location": "Can be obtained in Fortune Wheel",
         "buff": "retro_buff",
         "skin": "retro_skin",
+        "id": "",
         "class": "pvp"
     },
     {
@@ -11,6 +12,7 @@
         "location": "Can be bought for 900 coins in Void Mall",
         "buff": "eagle_buff",
         "skin": "eagle_skin",
+        "id": "",
         "class": "raid"
     },
     {
@@ -18,6 +20,7 @@
         "location": "Can be crafted at Low Tier Wings NPC $warp p1",
         "buff": "angel_buff",
         "skin": "angel_skin",
+        "id": "",
         "class": "raid"
     },
     {
@@ -25,6 +28,7 @@
         "location": "Can be crafted at Rainbow Battle NPC in NosVille and TS Craft NPC $warp p8.2",
         "buff": "archangel_buff",
         "skin": "archangel_skin",
+        "id": "",
         "class": "pvp"
     },
     {
@@ -32,6 +36,7 @@
         "location": "Can be crafted at TS Craft NPC $warp p8.2",
         "buff": "archdaemon_buff",
         "skin": "archdaemon_skin",
+        "id": "",
         "class": "pvp"
     },
     {
@@ -39,6 +44,7 @@
         "location": "Can be obtained in Caligor boxes or you can buy them for 100 coins in VoidMall",
         "buff": "blade_buff",
         "skin": "blade_skin",
+        "id": "",
         "class": "raid"
     },
     {
@@ -46,6 +52,7 @@
         "location": "Can be crafted at TS Craft NPC $warp p8.2",
         "buff": "blazing_buff",
         "skin": "blazing_skin",
+        "id": "",
         "class": "raid"
     },
     {
@@ -53,6 +60,7 @@
         "location": "Can be crafted at Useful Stuff NPC Act4 or you can buy them for 900 coins in VoidMall",
         "buff": "crystal_buff",
         "skin": "crystal_skin",
+        "id": "",
         "class": "pvp"
     },
     {
@@ -60,6 +68,7 @@
         "location": "Can be crafted at Low Tier Wings NPC $warp p1",
         "buff": "devil_buff",
         "skin": "devil_skin",
+        "id": "",
         "class": "raid"
     },
     {
@@ -67,6 +76,7 @@
         "location": "Can be crafted at Wings NPC $warp p2",
         "buff": "fire_buff",
         "skin": "fire_skin",
+        "id": "",
         "class": "raid"
     },
     {
@@ -74,6 +84,7 @@
         "location": "Can be crafted at TS Craft NPC $warp p8.2",
         "buff": "frosty_buff",
         "skin": "frosty_skin",
+        "id": "",
         "class": "raid"
     },
     {
@@ -81,6 +92,7 @@
         "location": "Can be crafted at High Tier Wings NPC $warp p5",
         "buff": "golden_buff",
         "skin": "golden_skin",
+        "id": "",
         "class": "gold"
     },
     {
@@ -88,6 +100,7 @@
         "location": "Can be crafted at Wings NPC $warp p2",
         "buff": "ice_buff",
         "skin": "ice_skin",
+        "id": "",
         "class": "raid"
     },
     {
@@ -95,6 +108,7 @@
         "location": "Can be crafted at Useful Stuff NPC Act4 or you can buy them for 550 coins in VoidMall",
         "buff": "lightning_buff",
         "skin": "lightning_skin",
+        "id": "",
         "class": "pvp"
     },
     {
@@ -102,6 +116,7 @@
         "location": "Can be bought for 800 coins in VoidMall",
         "buff": "lunar_buff",
         "skin": "lunar_skin",
+        "id": "",
         "class": "pvp"
     },
     {
@@ -109,6 +124,7 @@
         "location": "Can be obtained in Fortune Wheel and Daily Gifts",
         "buff": "mega_titan_buff",
         "skin": "mega_titan_skin",
+        "id": "",
         "class": "pvp"
     },
     {
@@ -116,6 +132,7 @@
         "location": "Can be crafted at Useful Stuff NPC Act4 or you can buy them for 600 coins in VoidMall",
         "buff": "onyx_buff",
         "skin": "onyx_skin",
+        "id": "",
         "class": "pvp"
     },
     {
@@ -123,6 +140,7 @@
         "location": "Can be crafted at Hardcore Rewards NPC $warp p8",
         "buff": "petal_buff",
         "skin": "petal_skin",
+        "id": "",
         "class": "raid"
     },
     {
@@ -130,6 +148,7 @@
         "location": "Can be crafted at Wings NPC $warp p2",
         "buff": "titan_buff",
         "skin": "titan_skin",
+        "id": "",
         "class": "pvp"
     },
     {
@@ -137,6 +156,7 @@
         "location": "Can be obtained in Fortune Wheel",
         "buff": "void_buff",
         "skin": "void_skin",
+        "id": "",
         "class": "raid"
     },
     {
@@ -144,6 +164,7 @@
         "location": "Can be crafted at Useful Stuff NPC Act4 or you can buy them for 550 coins in VoidMall",
         "buff": "zephyr_buff",
         "skin": "zephyr_skin",
+        "id": "",
         "class": "raid"
     }
 ]
