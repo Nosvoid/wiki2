@@ -15,11 +15,54 @@ export class MountsComponent implements OnInit {
       speed: "34",
       img: "fluffy_mcfly"
     },
+    
     {
       name: "Magic Convertible",
       location: "Can be crafted at Achievement Rewards NPC in Act 4",
       speed: "34",
       img: "magic_convertible"
+    },
+    {
+      name: "Magic Sleigh with Red-nosed Reindeer",
+      location: "Obtainable in Winter Event",
+      speed: "34",
+      img: "magic_sleigh"
+    },
+    {
+      name: "Magic Sleigh",
+      location: "Obtainable in Winter Event",
+      speed: "31",
+      img: "sleigh"
+    },
+    {
+      name: "12th Anniversary Speedy Alpaca",
+      location: "",
+      speed: "34",
+      img: "speedy_alpaca"
+    },
+    {
+      name: "12th Anniversary Alpaca",
+      location: "",
+      speed: "31",
+      img: "alpaca"
+    },
+    {
+      name: "Marco Pollo",
+      location: "Obtainable from Easter Event",
+      speed: "34",
+      img: "marco_pollo"
+    },
+    {
+      name: "Magical Camel",
+      location: "Obtainable from $warp p8.2 Desert Rewards NPS",
+      speed: "34",
+      img: "camel"
+    },
+    {
+      name: "Magic Donkey Pinata",
+      location: "",
+      speed: "34",
+      img: "piniata"
     },
     {
       name: "Royal Rabbit Carriage",
