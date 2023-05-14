@@ -36,7 +36,7 @@ export class MountsComponent implements OnInit {
     },
     {
       name: "12th Anniversary Speedy Alpaca",
-      location: "",
+      location: "Obtainable from Nosmall",
       speed: "34",
       img: "speedy_alpaca"
     },
@@ -60,7 +60,7 @@ export class MountsComponent implements OnInit {
     },
     {
       name: "Magic Donkey Pinata",
-      location: "",
+      location: "Obtainable from P5 30-50 Fish Craft NPC $warp fish",
       speed: "34",
       img: "piniata"
     },
@@ -102,7 +102,7 @@ export class MountsComponent implements OnInit {
     },
     {
       name: "Rodeo Bull",
-      location: "Can be obtained in the Fortune Wheel",
+      location: "Can be obtained from Nosmall",
       speed: "29",
       img: "rodeo_bull"
     },
