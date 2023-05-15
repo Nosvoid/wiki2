@@ -54,6 +54,7 @@ import { FishSystemComponent } from './fish-system/fish-system.component';
 import { PrestigeSystemComponent } from './prestige-system/prestige-system.component';
 import { WorldBossesComponent } from './world-bosses/world-bosses.component';
 import { SoulSystemComponent } from './soul-system/soul-system.component';
+import { MoneyComponent } from './money/money.component';
 import { TattoosComponent } from './tattoos/tattoos.component';
 import { CarvesComponent } from './carves/carves.component';
 import { StaffMembersComponent } from './staff-members/staff-members.component';
@@ -124,6 +125,7 @@ const appRoutes: Routes = [
   { path: 'prestige-system', component: PrestigeSystemComponent },
   { path: 'world-bosses', component: WorldBossesComponent },
   { path: 'soul-system', component: SoulSystemComponent },
+  { path: 'money', component: MoneyComponent },
   { path: 'tattoos', component: TattoosComponent },
   { path: 'carves', component: CarvesComponent },
   { path: 'becoming-content-creator', component: BecomingCcComponent },
@@ -195,6 +197,7 @@ const appRoutes: Routes = [
     PrestigeSystemComponent,
     WorldBossesComponent,
     SoulSystemComponent,
+    MoneyComponent,
     TattoosComponent,
     CarvesComponent,
     StaffMembersComponent,
