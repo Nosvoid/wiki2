@@ -61,6 +61,7 @@ import { StaffMembersComponent } from './staff-members/staff-members.component';
 import { BecomingCcComponent } from './becoming-cc/becoming-cc.component';
 import { ContentCreatorsComponent } from './content-creators/content-creators.component';
 import { ShopUpdatesComponent } from './shop-updates/shop-updates.component';
+import { VesselComponent } from './vessel/vessel.component';
 import { PatchNotesComponent } from './patch-notes/patch-notes.component';
 import { TicketSystemComponent } from './ticket-system/ticket-system.component';
 import { ErrorPageComponent } from './error-page/error-page.component';
@@ -131,6 +132,7 @@ const appRoutes: Routes = [
   { path: 'becoming-content-creator', component: BecomingCcComponent },
   { path: 'content-creators', component: ContentCreatorsComponent },
   { path: 'shop-updates', component: ShopUpdatesComponent },
+  { path: 'vessel', component: VesselComponent },
   { path: 'patch-notes', component: PatchNotesComponent },
   { path: 'ticket-system', component: TicketSystemComponent },
   { path: 'shells', component: ShellsComponent },
@@ -204,6 +206,7 @@ const appRoutes: Routes = [
     BecomingCcComponent,
     ContentCreatorsComponent,
     ShopUpdatesComponent,
+    VesselComponent,
     PatchNotesComponent,
     TicketSystemComponent,
     ErrorPageComponent,
