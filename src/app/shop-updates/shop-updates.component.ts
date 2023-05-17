@@ -24,7 +24,7 @@ export class ShopUpdatesComponent implements OnInit {
                 img: "../assets/img/prestiges/p9/Crafting/Other/RocketeerNewWheel.png"
             },
             {
-              name: "Weapon Skin Box 'Chocolate Dream'",
+              name: "Weapon Skin Box the 'Chocolate Dream'",
               img: "../assets/img/costumes/weapon-skins/sweet_chocolate.png"
             },
             {
