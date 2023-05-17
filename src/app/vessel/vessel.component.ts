@@ -3,6 +3,9 @@ import { Component, OnInit } from '@angular/core';
 
 import tattoosData from "../_json/tattoos.json";
 
+
+
+
 interface Carve {
   name: String;
   img: String;
