@@ -33,7 +33,7 @@ export class ShopUpdatesComponent implements OnInit {
             },
             {
               name: "Shadow Namaju",
-              img: "../assets/img/pets/all-evolutions/namaju.png"
+              img: "../assets/img/pets/buffs/namaju.png"
             },
 
         ]
