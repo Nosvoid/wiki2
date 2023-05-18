@@ -271,11 +271,12 @@ a:hover { color: tomato; }
   /* tab content must clear this */
     height: 40px;
   
-  padding: 10px;
+  padding: 1px;
   text-align: center;
   background-image: url('https://www.wallpaperup.com/uploads/wallpapers/2015/03/22/642928/a6fe212cd459f71f27f6cdc620ddb978.jpg');;
   cursor: pointer;
   transition: background 0.5s ease;
+  min-height: 50px;
   
 }
 
@@ -461,4 +462,7 @@ input:checked + label {
   label {
     padding: 15px;
   }
+}
+.rounded {
+  border-radius: 30px;
 }
