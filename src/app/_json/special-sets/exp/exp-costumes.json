@@ -16,6 +16,11 @@
                 "name": "Reindeer Costume Wings",
                 "img": "reindeer_wings",
                 "location": "You can get this set at Family Tower Rewards NPC $warp p8.1 or for 450 coins in VoidMall"
+            },
+            {
+                "name": "Black Stone Leather Gloves",
+                "img": "gloves",
+                "location": "You can get this in $warp p4 Resis NPC"
             }
            
         ]
