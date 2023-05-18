@@ -29,11 +29,11 @@ export class ShopUpdatesComponent implements OnInit {
             },
             {
               name: "Retro Wings",
-              img: "../assets/img/prestiges/p9/Crafting/RetroShopUpdate.png"
+              img: "../assets/img/prestiges/p9/Crafting/Other/RetroShopUpdate.png"
             },
             {
               name: "Shadow Namaju",
-              img: "../assets/img/pets/all-evolutions/namaju.pg"
+              img: "../assets/img/pets/all-evolutions/namaju.png"
             },
 
         ]
