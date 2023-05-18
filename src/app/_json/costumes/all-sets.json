@@ -12,6 +12,18 @@
             "buff": "aqua_bushi_buffs"
         },
         {
+            "name": "Rocketeer",
+            "location": "You can craft it in $warp p9",
+            "skins": "rocketer",
+            "buff": "rocketer"
+        },
+        {
+            "name": "Christmas",
+            "location": "Obtainable in Winter Event",
+            "skins": "christmas",
+            "buff": "christmas"
+        },
+        {
             "name": "Asian Black Bear",
             "location": "You can get this set at Costume Shop 1 NPC",
             "skins": "asian_black_bear",

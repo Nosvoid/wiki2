@@ -16,6 +16,30 @@
         "class": "pve"
     },
     {
+        "name": "New Year Magic White Tiger",
+        "id": "",
+        "location": "Can be obtained in Vessel Event",
+        "buff": "new_year_white_tiger",
+        "skin": "new_year_white_tiger",
+        "class": "pve"
+    },
+    {
+        "name": "Snowman",
+        "id": "",
+        "location": "Can be obtained in Winter Event",
+        "buff": "snowman",
+        "skin": "snowman",
+        "class": "pvp"
+    },
+    {
+        "name": "Cute Bunny",
+        "id": "",
+        "location": "Can be obtained in Chinese New Year Event",
+        "buff": "cute_bunny",
+        "skin": "cute_bunny",
+        "class": ""
+    },
+    {
         "name": "Black Ink Rabbit",
         "id": "",
         "location": "Can be obtained in Chinese New Year Event and Fortune Wheel.",
@@ -368,7 +392,7 @@
         "class": "raid"
     },
     {
-        "name": "Racoon",
+        "name": "Raccoon",
         "id": "",
         "location": "Can be bought in VoidMall for 1000 coins",
         "buff": "racoon",
