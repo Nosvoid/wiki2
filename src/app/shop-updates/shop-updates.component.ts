@@ -9,31 +9,31 @@ export class ShopUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "12/05/2023",
+        date: "19/05/2023",
         items: [
             {
-                name: "Robber Mask",
-                img: "../assets/img/helmets-masks/robber_mask.png"
+                name: "Caligor's Golden Horn",
+                img: "../assets/img/helmets-masks/caligor_horn.png"
             },
             {
-                name: "Lava Ghost Helmet",
-                img: "../assets/img/helmets-masks/lava_helmet.png"
+                name: "Evolution Badge Rarify Changer (2x)",
+                img: "../assets/img/prestiges/p82/BadgeRarifyWheel.png"
             },
             {
-                name: "Rocketeer Outfit Set",
-                img: "../assets/img/prestiges/p9/Crafting/Other/RocketeerNewWheel.png"
+                name: "Rat Hat",
+                img: "../assets/img/costumes/hats/rat_hat.png"
             },
             {
-              name: "Weapon Skin Box the 'Chocolate Dream'",
-              img: "../assets/img/costumes/weapon-skins/sweet_chocolate.png"
+              name: "Knight Costume Set",
+              img: "../assets/img/costumes/all-sets/buffs/knight_buffs.png"
             },
             {
-              name: "Batman Mask",
-              img: "../assets/img/helmets-masks/batman_mask.png"
+              name: "Retro Wings",
+              img: "../assets/img/prestiges/p9/Crafting/RetroShopUpdate.png"
             },
             {
-              name: "Palina Puppet Master's Specialist Partner Card",
-              img: "../assets/img/psps/buffs/palina_buff.png"
+              name: "Shadow Namaju",
+              img: "../assets/img/pets/all-evolutions/namaju.pg"
             },
 
         ]
@@ -42,21 +42,21 @@ export class ShopUpdatesComponent implements OnInit {
 
   randomBox = [
     {
-      date: "12/05/2023",
+      date: "19/05/2023",
       boxName : 'Random Boxes ',
       mainItem: "Mini Asgobas",
       mainItemImg: "../../assets/img/shop_updates/box_asgo.png",
       mainItems: [
         {
-          name: "Plague Doctor/Nurse Random Box",
+          name: "Dragon of Void Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Black Ink Rabbit Random Box",
+          name: "Alitus XV Partner Card Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Hawaii Costume Set Random Box",
+          name: "Mini Valehir Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         }
 
