@@ -359,7 +359,7 @@ a:hover { color: tomato; }
     font-weight: bold;
     font-size: 2rem;
     margin-top: 1em;
-    margin-bottom: -1em;
+    margin-bottom: 0em;
  
     color: var(--void-clr);
 }
