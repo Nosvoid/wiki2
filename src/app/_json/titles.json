@@ -21,6 +21,13 @@
         "class": "pve"
     },
     {
+        "name": "Vessel Hunter",
+        "id": "",
+        "location": "You can get it from Vessel Event",
+        "img": "vessel_hunter",
+        "class": "pve"
+    },
+    {
         "name": "Annihilator",
         "id": "",
         "location": "You can buy it for 100 coins in VoidMall",
