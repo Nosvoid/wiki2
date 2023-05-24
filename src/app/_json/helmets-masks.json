@@ -78,6 +78,13 @@
                 "class": "pvp"
             },
             {
+                "name": "Abyssal Bandage Mask A",
+                "id": "",
+                "location": "You can get it from Vessel Event",
+                "buff": "abyssal_mask",
+                "class": "pve"
+            },
+            {
                 "name": "Dark Knight Mask",
                 "id": "",
                 "location": "You can craft it at Hardcore Rewards NPC $warp p8",

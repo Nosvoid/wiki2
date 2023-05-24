@@ -13,6 +13,10 @@
             {
                 "name": "Easter Bunny Wings",
                 "img": "easter_wings"
+            },
+            {
+                "name": "Phantom's Amulet",
+                "img": "amulet"
             }
         ]
     },
