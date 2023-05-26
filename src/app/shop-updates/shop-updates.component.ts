@@ -20,8 +20,8 @@ export class ShopUpdatesComponent implements OnInit {
                 img: "../assets/img/psps/buffs/jinn.png"
             },
             {
-                name: "Gingerbread Partner Box",
-                img: "Check https://wiki.nosvoid.com/partners "
+                name: "Gingerbread Partner Box Check https://wiki.nosvoid.com/partners" ,
+                img: " "
             },
             {
               name: "Weapon skin Box 'Chocolate Dream'",
@@ -42,7 +42,7 @@ export class ShopUpdatesComponent implements OnInit {
 
   randomBox = [
     {
-      date: "19/05/2023",
+      date: "26/05/2023",
       boxName : 'Random Boxes ',
       mainItem: "Mini Asgobas",
       mainItemImg: "../../assets/img/shop_updates/box_asgo.png",
@@ -52,7 +52,7 @@ export class ShopUpdatesComponent implements OnInit {
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Alitus XV Partner Card Random Box",
+          name: "Mini Alzanor Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
