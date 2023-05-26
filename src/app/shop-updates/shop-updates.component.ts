@@ -9,31 +9,31 @@ export class ShopUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "19/05/2023",
+        date: "26/05/2023",
         items: [
             {
-                name: "Caligor's Golden Horn",
-                img: "../assets/img/helmets-masks/caligor_horn.png"
+                name: "Batman Mask",
+                img: "../assets/img/helmets-masks/batman_mask.png"
             },
             {
-                name: "Evolution Badge Rarify Changer (2x)",
-                img: "../assets/img/prestiges/p82/BadgeRarifyWheel.png"
+                name: "Jinn Specialist Partner Card",
+                img: "../assets/img/psps/buffs/jinn.png"
             },
             {
-                name: "Rat Hat",
-                img: "../assets/img/costumes/hats/rat_hat.png"
+                name: "Gingerbread Partner Box",
+                img: "Check https://wiki.nosvoid.com/partners "
             },
             {
-              name: "Knight Costume Set",
-              img: "../assets/img/costumes/all-sets/buffs/knight_buffs.png"
+              name: "Weapon skin Box 'Chocolate Dream'",
+              img: "../assets/img/costumes/weapon-skins/sweet_chocolate.png"
             },
             {
               name: "Retro Wings",
               img: "../assets/img/prestiges/p9/Crafting/Other/RetroShopUpdate.png"
             },
             {
-              name: "Shadow Namaju",
-              img: "../assets/img/pets/buffs/namaju.png"
+              name: "Shadow Bee",
+              img: "../assets/img/pets/buffs/dragon_bee.png"
             },
 
         ]
