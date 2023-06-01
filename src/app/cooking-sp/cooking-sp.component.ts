@@ -299,7 +299,7 @@ export class CookingSpComponent implements OnInit {
 
   boughtIngredients = [
     {
-      type: "Can be bought at Terry Chef NPC in NosVille",
+      type: "Can be bought at Terry Chef NPC in Cooking Area",
       ingr: [
         {
           icon: "chilli_powder",
