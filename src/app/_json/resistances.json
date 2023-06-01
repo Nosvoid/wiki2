@@ -38,7 +38,7 @@
     {
         "name": "Orc resitances",
         "id": "",
-        "location": "You can buy them at Reputation Shop $warp p8",
+        "location": "You can get them from P7 raids.",
         "buff": "orc_res"
     },
     {

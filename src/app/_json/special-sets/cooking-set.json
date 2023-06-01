@@ -1,0 +1,41 @@
+[
+    {
+        "regular": [
+            {
+                "name": "Masterchef Skin",
+                "img": "skin",
+                "location": "You can craft it at Chef Specialist Card & Title NPC in Cooking Area and from NosMall"
+            },
+            {
+                "name": "Lucky Rat",
+                "img": "rat",
+                "location": "You can craft it at Event NPC in $home"
+            },
+            {
+                "name": "Orkani",
+                "img": "orkani",
+                "location": "You can get it from Fortune Wheel"
+            },
+            {
+                "name": "Apprentice Chef",
+                "img": "apprentice",
+                "location": "You can get this from Cooking Starter Pack (NosMall) or buy from Chef Terry NPC at Cooking Area"
+            },
+            {
+                "name": "Royal Chef",
+                "img": "royal",
+                "location": "You can get this for level your Cooking SP to job lvl 5."
+            },
+            {
+                "name": "Ratatouile",
+                "img": "ratatouile",
+                "location": "You can get this for level your Cooking SP to job lvl 20."
+            },
+            {
+                "name": "Void Chef",
+                "img": "voidchef",
+                "location": "You can craft it at Chef Specialist Card & Title NPC in Cooking Area"
+            }
+        ]
+    }
+]

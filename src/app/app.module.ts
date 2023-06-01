@@ -44,6 +44,7 @@ import { GoldComponent } from './gold/gold.component';
 import { RaidDamageComponent } from './raid-damage/raid-damage.component';
 import { ReputationComponent } from './reputation/reputation.component';
 import { BettingSetComponent } from './betting-set/betting-set.component';
+import { CookingSetComponent } from './cooking-set/cooking-set.component';
 import { PerfectionSetComponent } from './perfection-set/perfection-set.component';
 import { FishSetComponent } from './fish-set/fish-set.component';
 import { ExpComponent } from './exp/exp.component';
@@ -116,6 +117,7 @@ const appRoutes: Routes = [
   { path: 'raid-set', component: RaidDamageComponent },
   { path: 'reputation-set', component: ReputationComponent },
   { path: 'betting-set', component: BettingSetComponent },
+  { path: 'cooking-set', component: CookingSetComponent },
   { path: 'perfection-set', component: PerfectionSetComponent },
   { path: 'act-four-set', component: ActFourSetComponent },
   { path: 'fish-set', component: FishSetComponent },
@@ -189,6 +191,7 @@ const appRoutes: Routes = [
     RaidDamageComponent,
     ReputationComponent,
     BettingSetComponent,
+    CookingSetComponent,
     PerfectionSetComponent,
     FishSetComponent,
     ExpComponent,

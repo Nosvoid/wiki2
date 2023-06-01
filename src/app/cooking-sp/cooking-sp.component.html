@@ -1,9 +1,34 @@
 <div class="d-flex justify-content-center">
     <section class="cooking-sp">
         <h1 class="cooking-sp-title-1">Cooking SP</h1>
+
+        <h1 class="act-four-set-title-2"><a href="https://wiki.nosvoid.com/cooking-set"> Cooking Set</a></h1>
+
         <h4 class="cooking-sp-title-4">You can buy the <a href="/special-items#masterchef">Masterchef Skin</a> from NosVoid Mall.</h4>
 
-        <h2 class="cooking-sp-title-2">Cooking Starter Pack</h2>
+
+        <h2 class="cooking-sp-title-2">Cooking Area<hr></h2>
+        <br/>
+        <p class="cooking-sp-title-4">You can craft Cooking SP in Cooking Area<br/>
+            
+            <img width="150px" src="../../assets/img/specialists/cooking-sp/location.png"  alt="" style="border: 1px solid rgb(134, 40, 103);"><br/>
+           
+            in Chef Specialist Card & Title NPC.<br/>
+           
+            <img width="300px" src="../../assets/img/specialists/cooking-sp/craft.png"  alt="" style="border: 1px solid rgb(134, 40, 103);"><br/>
+
+            <br/>
+            At Chef Specialist Card & Title NPC you can also craft Masterchef Skin, Void Chef tittle and take Daily Quest <br/>
+            <img width="300px" src="../../assets/img/specialists/cooking-sp/quest.png"  alt="" style="border: 1px solid rgb(134, 40, 103);"><br/>
+            <br/>
+            From Chef Terry NPC you can buy cooking ingredients<br/>
+            <img width="300px" src="../../assets/img/specialists/cooking-sp/npc.png"  alt="" style="border: 1px solid rgb(134, 40, 103);"><br/>
+            
+        
+        </p>
+        <br/>
+        
+        <h2 class="cooking-sp-title-2">Cooking Starter Pack<hr></h2>
         <p class="cooking-sp-text-ita">[Available on NosVoid Mall for 2000 coins]</p>
         <button class="show-pack">Show Pack</button>
         <div class="cooking-pack display-none" id="set-buff-modal">
@@ -28,7 +53,7 @@
             </div>
         </div>
 
-        <h2 class="cooking-sp-title-2">Cooking SP Skills</h2>
+        <h2 class="cooking-sp-title-2">Cooking SP Skills<hr></h2>
         <div class="cooking-sp-skills w-75">
             <div class="cooking-sp-skill" *ngFor="let skill of cookingSkills">
                 <div class="cooking-sp-skill-name">
@@ -42,7 +67,7 @@
             </div>
         </div>
 
-        <h2 class="cooking-sp-title-2">Meals Buffs</h2>
+        <h2 class="cooking-sp-title-2">Meals Buffs<hr></h2>
         <p class="cooking-sp-text-ita">[All buffs last 30 minutes]</p>
         <div class="cooking-sp-meal-skills w-75" *ngFor="let cook of cookingMeals">
             <h3 class="cooking-sp-title-3">{{cook.skill}}</h3>
@@ -57,7 +82,7 @@
             </div>
         </div>
 
-        <h2 class="cooking-sp-title-2">Cooking Ingredients</h2>
+        <h2 class="cooking-sp-title-2">Cooking Ingredients<hr></h2>
         <div class="cooking-sp-meal-skills w-75" *ngFor="let cat of wildIngredients">
             <h3 class="cooking-sp-title-3">{{cat.type}}</h3>
             <div class="cooking-sp-meals">
@@ -95,7 +120,7 @@
         </div>
 
         <div class="fullness">
-            <h2 class="cooking-sp-title-2">Fullness Points</h2>
+            <h2 class="cooking-sp-title-2">Fullness Points<hr></h2>
             <p class="cooking-sp-text">
                 When you eat meals, you get Fullness Points which fill your Fullness Bar. <br>
                 Points won't stay forever, you lose <b>10 points</b> per second.
