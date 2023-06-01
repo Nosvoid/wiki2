@@ -9,31 +9,31 @@ export class ShopUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "26/05/2023",
+        date: "01/06/2023",
         items: [
             {
-                name: "Batman Mask",
-                img: "../assets/img/helmets-masks/batman_mask.png"
+                name: "Freya Specialist Partner Card",
+                img: "../assets/img/psps/buffs/freya.png"
             },
             {
-                name: "Jinn Specialist Partner Card",
-                img: "../assets/img/psps/buffs/jinn.png"
+                name: "Palina Specialist Partner Card",
+                img: "../assets/img/psps/buffs/palina_buff.png"
             },
             {
-                name: "Gingerbread Partner Box Check https://wiki.nosvoid.com/partners" ,
-                img: " "
+                name: "Aegir Specialist Partner Card" ,
+                img: "../assets/img/psps/buffs/aegir.png"
             },
             {
-              name: "Weapon skin Box 'Chocolate Dream'",
-              img: "../assets/img/costumes/weapon-skins/sweet_chocolate.png"
+              name: "Barni Specialist Partner Card'",
+              img: "../assets/img/psps/buffs/barni.png"
             },
             {
-              name: "Retro Wings",
-              img: "../assets/img/prestiges/p9/Crafting/Other/RetroShopUpdate.png"
+              name: "(New) Tree Wings",
+              img: "../assets/img/specialists/wings/buffs/Tree_wings.png"
             },
             {
-              name: "Shadow Bee",
-              img: "../assets/img/pets/buffs/dragon_bee.png"
+              name: "Frost Warrior Costume Set",
+              img: "../assets/img/costumes/all-sets/buffs/frost_warrior_buffs.png"
             },
 
         ]
@@ -42,21 +42,21 @@ export class ShopUpdatesComponent implements OnInit {
 
   randomBox = [
     {
-      date: "26/05/2023",
+      date: "01/06/2023",
       boxName : 'Random Boxes ',
       mainItem: "Mini Asgobas",
       mainItemImg: "../../assets/img/shop_updates/box_asgo.png",
       mainItems: [
         {
-          name: "Dragon of Void Random Box",
+          name: "Rocketeer Costume Set Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Mini Alzanor Random Box",
+          name: "Alitus XV Partner Card Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Mini Valehir Random Box",
+          name: "Black Ink Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         }
 
