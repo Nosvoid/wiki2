@@ -13,7 +13,7 @@
         "location": "Can be obtained in Easter Event 2023",
         "buff": "tame_golden_mushroom",
         "skin": "tame_golden_mushroom",
-        "class": "pve"
+        "class": "raid"
     },
     {
         "name": "New Year Magic White Tiger",
@@ -21,7 +21,7 @@
         "location": "Can be obtained in Vessel Event",
         "buff": "new_year_white_tiger",
         "skin": "new_year_white_tiger",
-        "class": "pve"
+        "class": "raid"
     },
     {
         "name": "Snowman",
@@ -37,7 +37,7 @@
         "location": "Can be obtained in Chinese New Year Event",
         "buff": "cute_bunny",
         "skin": "cute_bunny",
-        "class": ""
+        "class": "raid"
     },
     {
         "name": "Black Ink Rabbit",
@@ -277,7 +277,7 @@
         "location": "Can be obtained in Chinese New Year Event",
         "buff": "new_year_lucky_pig_event",
         "skin": "new_year_lucky_pig_event",
-        "class": "pve"
+        "class": "raid"
     },
     {
         "name": "Lucky Rat",

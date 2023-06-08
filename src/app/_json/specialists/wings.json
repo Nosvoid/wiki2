@@ -16,6 +16,14 @@
         "class": "raid"
     },
     {
+        "name": "Tree Wings",
+        "location": "Can be obtained in Fortune Wheel",
+        "buff": "Tree_wings",
+        "skin": "tree_skin",
+        "id": "",
+        "class": "pvp"
+    },
+    {
         "name": "Angel Wings",
         "location": "Can be crafted at Low Tier Wings NPC $warp p1",
         "buff": "angel_buff",
