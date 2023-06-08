@@ -16,7 +16,7 @@ export class ShopUpdatesComponent implements OnInit {
                 img: "../assets/img/psps/buffs/jinn.png"
             },
             {
-                name: "Gingerbread Partner Box",
+                name: "Gingerbread Partner Box (You can check buffs from https://wiki.nosvoid.com/partners)",
                 img: "You can check buffs from https://wiki.nosvoid.com/partners"
             },
             {
