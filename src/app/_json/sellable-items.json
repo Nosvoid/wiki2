@@ -1,0 +1,100 @@
+[
+    {
+        "type": "You will be able to sell to a NPC all this following items.",
+        "items": [
+            {
+                "name": "Fernon's Energy - 80kk",
+                "img": "../../assets/img/sellable/fernon_energy.png"
+            },
+            {
+                "name": "Timespace Master - 50kk",
+                "img": "../../assets/img/sellable/timespace_master.png"
+                
+            },
+            {
+                "name": "C55 EQ - 40kk",
+                "img": "../../assets/img/sellable/c55.png"
+                
+            },
+            {
+                "name": "C50 EQ - 30kk",
+                "img": "../../assets/img/sellable/c50.png"
+            },
+            {
+                "name": "EQ Crystals - 30kk",
+                "img": "../../assets/img/sellable/crystals.png"
+            },
+            {
+                "name": "Jewel Crystal - 30kk",
+                "img": "../../assets/img/sellable/jewel.png"
+            },
+            {
+                "name": "Empty Bottle - 25kk",
+                "img": "../../assets/img/sellable/empty_bottle.png"
+            },
+            {
+                "name": "Dark Energy Stone - 25kk",
+                "img": "../../assets/img/sellable/dark_energy_stone.png"
+            },
+            {
+                "name": "Soul of Erenia - 7kk",
+                "img": "../../assets/img/sellable/erenia_soul.png"
+            },
+            {
+                "name": "Soul of Zenas - 7kk",
+                "img": "../../assets/img/sellable/zenas_soul.png"
+            },
+            {
+                "name": "Soul of Fernon - 7kk",
+                "img": "../../assets/img/sellable/fernon_soul.png"
+            },
+            {
+                "name": "Ancient EQ materials - 7kk",
+                "img": "../../assets/img/sellable/ancient.png"
+            },
+            {
+                "name": "Auras - 7kk",
+                "img": "../../assets/img/sellable/auras.png"
+            },
+            {
+                "name": "Azrael Mask - 5kk",
+                "img": "../../assets/img/sellable/mask.png"
+            },
+        
+   
+            {
+                "name": "Fernon's Gloves and Shoes - 5kk",
+                "img": "../../assets/img/sellable/fernon_res.png"
+            },
+            {
+                "name": "Iron Key - 5kk",
+                "img": "../../assets/img/sellable/iron_key.png"
+            },
+            {
+                "name": "Erenia & Zenas Gloves and Shoes - 4kk",
+                "img": "../../assets/img/sellable/sealed_res.png"
+            },
+            {
+                "name": "Lich King Jewels - 3kk",
+                "img": "../../assets/img/sellable/lich_king_jewels.png"
+            },
+            {
+                "name": "Erenia & Zenas Jewels - 2kk",
+                "img": "../../assets/img/sellable/sealed_jewels.png"
+            },
+            {
+                "name": "Ancient Orc Statue - 1kk",
+                "img": "../../assets/img/sellable/statue.png"
+            },
+            {
+                "name": "Rare Intact Diamond - 1kk",
+                "img": "../../assets/img/sellable/rare_intact.png"
+            },
+            {
+                "name": "Rare Broken Diamond - 200k",
+                "img": "../../assets/img/sellable/rare_broken.png"
+            }
+           
+        ]
+    }
+]
