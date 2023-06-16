@@ -9,31 +9,31 @@ export class ShopUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "09/06/2023",
+        date: "16/06/2023",
         items: [
             {
-                name: "Jinn Specialist Partner Card",
-                img: "../assets/img/psps/buffs/jinn.png"
+                name: "Lucy Lopear Specialist Partner Card",
+                img: "../assets/img/psps/buffs/lucy.png"
             },
             {
-                name: "Gingerbread Partner Box (You can check buffs from https://wiki.nosvoid.com/partners)",
-                img: "You can check buffs from https://wiki.nosvoid.com/partners"
+                name: "Retro Wings Box",
+                img: "../assets/img/prestiges/p9/Crafting/Other/RetroShopUpdate.png"
             },
             {
-                name: "Weapon Skin Box 'Chocolate Dream'" ,
-                img: "../assets/img/costumes/weapon-skins/sweet_chocolate.png"
+                name: "Robber Mask'" ,
+                img: "../assets/img/helmets-masks/robber_mask.png"
             },
             {
-              name: "Dragon of Void'",
-              img: "../assets/img/titles/dragon_of_void.png"
+              name: "Lava Ghost Helmet'",
+              img: "../assets/img/helmets-masks/lava_helmet.png"
             },
             {
-              name: "(New) Tree Wings",
-              img: "../assets/img/specialists/wings/buffs/Tree_wings.png"
+              name: "Evolution Badge Rarify Changer (2x)",
+              img: "../assets/img/prestiges/p82/BadgeRarifyWheel.png"
             },
             {
-              name: "Aesthetic Amulet (Female)",
-              img: "../assets/img/halloween-event/amulet_f2.png"
+              name: "Aesthetic Amulet (Male)",
+              img: "../assets/img/halloween-event/amulet_m.png"
             },
 
         ]
@@ -42,21 +42,21 @@ export class ShopUpdatesComponent implements OnInit {
 
   randomBox = [
     {
-      date: "09/06/2023",
+      date: "16/06/2023",
       boxName : 'Random Boxes ',
       mainItem: "Mini Asgobas",
       mainItemImg: "../../assets/img/shop_updates/box_asgo.png",
       mainItems: [
         {
-          name: "Mini Asgobas Random Box",
+          name: "Black Ink Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Mini Valehir Random Box",
+          name: "Alitus XV Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Mini Alzanor Random Box",
+          name: "Knight Costume Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         }
 
