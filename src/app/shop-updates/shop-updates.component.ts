@@ -9,31 +9,31 @@ export class ShopUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "16/06/2023",
+        date: "23/06/2023",
         items: [
             {
-                name: "Lucy Lopear Specialist Partner Card",
-                img: "../assets/img/psps/buffs/lucy.png"
+                name: "Jinn Specialist Partner Card",
+                img: "../assets/img/psps/buffs/jinn.png"
             },
             {
-                name: "Retro Wings Box",
-                img: "../assets/img/prestiges/p9/Crafting/Other/RetroShopUpdate.png"
+                name: "Plague Doctor/Nurse Set",
+                img: "../assets/img/costumes/all-sets/buffs/plague_doctor_buffs.png"
             },
             {
-                name: "Robber Mask'" ,
-                img: "../assets/img/helmets-masks/robber_mask.png"
+                name: "Knight Costume Set" ,
+                img: "../assets/img/costumes/all-sets/buffs/knight_buffs.png"
             },
             {
-              name: "Lava Ghost Helmet'",
-              img: "../assets/img/helmets-masks/lava_helmet.png"
+              name: "Rat Hat",
+              img: "../assets/img/costumes/hats/rat_hat.png"
             },
             {
-              name: "Evolution Badge Rarify Changer (2x)",
-              img: "../assets/img/prestiges/p82/BadgeRarifyWheel.png"
+              name: "Shadow Bee",
+              img: "../assets/img/pets/buffs/dragon_bee.png"
             },
             {
-              name: "Aesthetic Amulet (Male)",
-              img: "../assets/img/halloween-event/amulet_m.png"
+              name: "Tree Wings",
+              img: "../assets/img/specialists/wings/buffs/Tree_wings.png"
             },
 
         ]
@@ -42,21 +42,21 @@ export class ShopUpdatesComponent implements OnInit {
 
   randomBox = [
     {
-      date: "16/06/2023",
+      date: "23/06/2023",
       boxName : 'Random Boxes ',
       mainItem: "Mini Asgobas",
       mainItemImg: "../../assets/img/shop_updates/box_asgo.png",
       mainItems: [
         {
-          name: "Black Ink Random Box",
+          name: "Alzanor Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Alitus XV Random Box",
+          name: "Asgobas Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Knight Costume Random Box",
+          name: "Valehir Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         }
 
