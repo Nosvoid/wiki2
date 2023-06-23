@@ -20,8 +20,8 @@ export class ShopUpdatesComponent implements OnInit {
                 img: "../assets/img/costumes/all-sets/buffs/plague_doctor_buffs.png"
             },
             {
-                name: "Knight Costume Set" ,
-                img: "../assets/img/costumes/all-sets/buffs/knight_buffs.png"
+                name: "Batman Mask" ,
+                img: "../assets/img/helmets-masks/batman_mask.png"
             },
             {
               name: "Rat Hat",
