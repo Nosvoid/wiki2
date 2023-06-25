@@ -9,31 +9,31 @@ export class ShopUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "09/06/2023",
+        date: "23/06/2023",
         items: [
             {
                 name: "Jinn Specialist Partner Card",
                 img: "../assets/img/psps/buffs/jinn.png"
             },
             {
-                name: "Gingerbread Partner Box (You can check buffs from https://wiki.nosvoid.com/partners)",
-                img: "You can check buffs from https://wiki.nosvoid.com/partners"
+                name: "Plague Doctor/Nurse Set",
+                img: "../assets/img/costumes/all-sets/buffs/plague_doctor_buffs.png"
             },
             {
-                name: "Weapon Skin Box 'Chocolate Dream'" ,
-                img: "../assets/img/costumes/weapon-skins/sweet_chocolate.png"
+                name: "Batman Mask" ,
+                img: "../assets/img/helmets-masks/batman_mask.png"
             },
             {
-              name: "Dragon of Void'",
-              img: "../assets/img/titles/dragon_of_void.png"
+              name: "Rat Hat",
+              img: "../assets/img/costumes/hats/rat_hat.png"
             },
             {
-              name: "(New) Tree Wings",
+              name: "Shadow Bee",
+              img: "../assets/img/pets/buffs/dragon_bee.png"
+            },
+            {
+              name: "Tree Wings",
               img: "../assets/img/specialists/wings/buffs/Tree_wings.png"
-            },
-            {
-              name: "Aesthetic Amulet (Female)",
-              img: "../assets/img/halloween-event/amulet_f2.png"
             },
 
         ]
@@ -42,21 +42,21 @@ export class ShopUpdatesComponent implements OnInit {
 
   randomBox = [
     {
-      date: "09/06/2023",
+      date: "23/06/2023",
       boxName : 'Random Boxes ',
       mainItem: "Mini Asgobas",
       mainItemImg: "../../assets/img/shop_updates/box_asgo.png",
       mainItems: [
         {
-          name: "Mini Asgobas Random Box",
+          name: "Alzanor Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Mini Valehir Random Box",
+          name: "Asgobas Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Mini Alzanor Random Box",
+          name: "Valehir Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         }
 
