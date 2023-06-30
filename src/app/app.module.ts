@@ -136,7 +136,7 @@ const appRoutes: Routes = [
   { path: 'becoming-content-creator', component: BecomingCcComponent },
   { path: 'content-creators', component: ContentCreatorsComponent },
   { path: 'shop-updates', component: ShopUpdatesComponent },
-  { path: 'lessev', component: VesselComponent },
+  { path: 'vessel', component: VesselComponent },
   { path: 'patch-notes', component: PatchNotesComponent },
   { path: 'ticket-system', component: TicketSystemComponent },
   { path: 'shells', component: ShellsComponent },
