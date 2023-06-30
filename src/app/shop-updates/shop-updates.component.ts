@@ -9,27 +9,27 @@ export class ShopUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "23/06/2023",
+        date: "30/06/2023",
         items: [
             {
-                name: "Jinn Specialist Partner Card",
-                img: "../assets/img/psps/buffs/jinn.png"
+                name: "Weapon Skin Box 'Chocolate Dream'",
+                img: "../assets/img/costumes/weapon-skins/sweet_chocolate.png"
             },
             {
-                name: "Plague Doctor/Nurse Set",
-                img: "../assets/img/costumes/all-sets/buffs/plague_doctor_buffs.png"
+                name: "Gingerbread Partner Box You can check skill buffs here : https://wiki.nosvoid.com/partners",
+                img: ""
             },
             {
-                name: "Batman Mask" ,
-                img: "../assets/img/helmets-masks/batman_mask.png"
+                name: "Dragon of Void" ,
+                img: "../assets/img/titles/dragon_of_void.png"
             },
             {
-              name: "Rat Hat",
-              img: "../assets/img/costumes/hats/rat_hat.png"
+              name: "Aesthetic Amulet",
+              img: "../assets/img/halloween-event/amulet_m.png"
             },
             {
-              name: "Shadow Bee",
-              img: "../assets/img/pets/buffs/dragon_bee.png"
+              name: "Aesthetic Amulet 2",
+              img: "../assets/img/halloween-event/amulet_f2.png"
             },
             {
               name: "Tree Wings",
@@ -42,7 +42,7 @@ export class ShopUpdatesComponent implements OnInit {
 
   randomBox = [
     {
-      date: "23/06/2023",
+      date: "30/06/2023",
       boxName : 'Random Boxes ',
       mainItem: "Mini Asgobas",
       mainItemImg: "../../assets/img/shop_updates/box_asgo.png",
