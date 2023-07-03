@@ -158,7 +158,7 @@
         },
         {
             "name": "Korean Cat (Male)",
-            "location": "You can get this costume in the Fortune Wheel",
+            "location": "You can craft it on Act 4",
             "skins": "korean_cat",
             "buff": "korean_cat_buffs"
         },
@@ -248,7 +248,7 @@
         },
         {
             "name": "Sexy Bunny (Female)",
-            "location": "You can get this set in the Fortune Wheel",
+            "location": "You can craft it on Act 4",
             "skins": "sexy_bunny",
             "buff": "sexy_bunny_buffs"
         },

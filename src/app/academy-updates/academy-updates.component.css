@@ -1,0 +1,116 @@
+.shop-updates {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-block: 3em;
+    color: white;
+    background-color: rgba(0, 0, 0, .8);
+    border-radius: 20px;
+    width: 100%;
+    padding: 3em 0;
+}
+
+.shop-updates-title-1,
+.shop-updates-title-2,
+.shop-updates-title-3,
+.shop-updates-title-4 {
+    font-family: 'Edu SA Beginner', cursive;
+}
+
+.shop-updates-title-1 {
+    font-size: 3rem;
+    margin-bottom: 1em;
+}
+
+.shop-updates-title-2 {
+    font-size: 2rem;
+    margin-top: 1em;
+    color: rgba(221, 69, 10, 0.8);
+}
+.shop-updates-title-5 {
+    font-size: 2rem;
+    margin-top: 1em;
+    color: rgba(255, 0, 0, 0.8);
+    font-family: 'Edu SA Beginner', cursive;
+}
+p.round3 {
+    border: 2px solid rgba(221, 69, 10, 0.8);;
+    border-radius: 12px;
+    padding: 5px;
+  }
+  p.round4 {
+    border: 2px solid rgb(235, 15, 15);
+    border-radius: 12px;
+    padding: 5px;
+  }
+
+
+.shop-updates-title-3 {
+    font-size: 1.5rem;
+    width: 75%;
+    text-align: center;
+    margin: auto;
+    margin-bottom: .5em;
+}
+
+.shop-updates-title-4 {
+    font-size: 2rem;
+    margin-top: 1em;
+    color: var(--void-clr);
+    display: flex;
+    justify-content: center;
+    gap: .3em;
+}
+
+.shop-updates-text,
+.shop-reward {
+    font-size: 1.1rem;
+    line-height: 1.5em;
+}
+
+.purple {
+    color: var(--void-clr);
+    font-weight: bold;
+}
+
+.shop-updates-system {
+    text-align: center;
+    width: 75%;
+}
+
+.shop-updates-items img,
+.main-item img,
+.main-items img {
+    max-width: 100%;
+    max-height: 300px;
+    border-radius: 10px;
+}
+
+.shop-rewards {
+    margin: auto;
+    width: fit-content;
+}
+
+.shop-reward {
+    text-align: start;
+}
+
+@media all and (min-width: 1140px) {
+    .shop-updates-items,
+    .main-items,
+    .main-item {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        padding: 2em;
+    }
+
+    .shop-reward-items {
+        width: 75%;
+        margin: auto;
+    }
+
+    .shop-updates {
+        width: 75%;
+    }
+}
