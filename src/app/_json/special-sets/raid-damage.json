@@ -27,8 +27,16 @@
                 "img": "../../assets/img/helmets-masks/lava_helmet.png"
             },
             {
+                "name": "Broken Frost Warrior Helmet",
+                "img": "../../assets/img/helmets-masks/broken_frost.png"
+            },
+            {
                 "name": "Mask of the Elite",
                 "img": "../../assets/img/helmets-masks/mask_elite.png"
+            },
+            {
+                "name": "Robber Mask",
+                "img": "../../assets/img/helmets-masks/robber_mask.png"
             },
             {
                 "name": "Shadow King's & Dark Knight's Helmet",
