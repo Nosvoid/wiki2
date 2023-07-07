@@ -9,19 +9,19 @@ export class AcademyUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "30/06/2023",
+        date: "07/07/2023",
         items: [
             {
-                name: "Dragon of Void",
-                img: "../assets/img/titles/dragon_of_void.png"
+                name: "Dino Costume Set",
+                img: "../assets/img/costumes/all-sets/buffs/cuddly_dino_buffs.png"
             },
             {
-                name: "Robber Mask",
-                img: "../assets/img/helmets-masks/robber_mask.png"
+                name: "Weapon Skin Box 'Chocolate Dream'",
+                img: "../assets/img/costumes/weapon-skins/sweet_chocolate.png"
             },
             {
-                name: "Lava Ghost Helmet" ,
-                img: "../assets/img/helmets-masks/lava_helmet.png"
+                name: "Betting Costume" ,
+                img: "../assets/img/costumes/costumes/betting_costume.png"
             },
            
 
@@ -31,21 +31,21 @@ export class AcademyUpdatesComponent implements OnInit {
 
   randomBox = [
     {
-      date: "30/06/2023",
+      date: "07/07/2023",
       boxName : 'Random Boxes ',
       mainItem: "Mini Asgobas",
       mainItemImg: "../../assets/img/shop_updates/box_asgo.png",
       mainItems: [
         {
-          name: "Alzanor Random Box",
+          name: "Shadow Namaju Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Asgobas Random Box",
+          name: "Shadow Dragon Bee Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Valehir Random Box",
+          name: "Dragon Knight Costume Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         }
 
