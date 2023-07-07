@@ -9,27 +9,27 @@ export class ShopUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "30/06/2023",
+        date: "07/07/2023",
         items: [
             {
-                name: "Weapon Skin Box 'Chocolate Dream'",
-                img: "../assets/img/costumes/weapon-skins/sweet_chocolate.png"
+                name: "Jinn Partner Specialist Card",
+                img: "../assets/img/psps/buffs/jinn.png"
             },
             {
-                name: "Gingerbread Partner Box You can check skill buffs here : https://wiki.nosvoid.com/partners",
-                img: ""
+                name: "Retro Wings Box",
+                img: "../assets/prestiges/p9/Crafting/Other/RetroShopUpdate.png"
             },
             {
-                name: "Dragon of Void" ,
-                img: "../assets/img/titles/dragon_of_void.png"
+                name: "Batman Mask" ,
+                img: "../assets/img/helmets-masks/batman_mask.png"
             },
             {
-              name: "Aesthetic Amulet",
-              img: "../assets/img/halloween-event/amulet_m.png"
+              name: "Rat Hat",
+              img: "../assets/img/costumes/hats/rat_hat.png"
             },
             {
               name: "Aesthetic Amulet 2",
-              img: "../assets/img/halloween-event/amulet_f2.png"
+              img: "../assets/img/halloween-event/amulet_f1.png"
             },
             {
               name: "Tree Wings",
@@ -42,21 +42,21 @@ export class ShopUpdatesComponent implements OnInit {
 
   randomBox = [
     {
-      date: "30/06/2023",
+      date: "07/07/2023",
       boxName : 'Random Boxes ',
       mainItem: "Mini Asgobas",
       mainItemImg: "../../assets/img/shop_updates/box_asgo.png",
       mainItems: [
         {
-          name: "Alzanor Random Box",
+          name: "Dragon Knight Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Asgobas Random Box",
+          name: "Black Ink Rabbit Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Valehir Random Box",
+          name: "Rocketeer Costume Set Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         }
 
