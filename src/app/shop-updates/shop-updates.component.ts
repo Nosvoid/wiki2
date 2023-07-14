@@ -17,11 +17,11 @@ export class ShopUpdatesComponent implements OnInit {
             },
             {
                 name: "Frost Warrior Costume Set",
-                img: "../assets/costumes/all-sets/buffs/frost_warrior_buffs.png"
+                img: "../assets/img/costumes/all-sets/buffs/frost_warrior_buffs.png"
             },
             {
                 name: "Palina Specialist Partner Card" ,
-                img: "../assets/img/helmets-masks/batman_mask.png"
+                img: "../assets/img/psps/buffs/palina_buff.png"
             },
 
         ]
