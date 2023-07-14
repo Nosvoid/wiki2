@@ -9,31 +9,19 @@ export class ShopUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "07/07/2023",
+        date: "14/07/2023",
         items: [
             {
-                name: "Jinn Partner Specialist Card",
-                img: "../assets/img/psps/buffs/jinn.png"
+                name: "Gingerbread Partner Box. You can check buffs from there : https://wiki.nosvoid.com/partners",
+                img: ""
             },
             {
-                name: "Retro Wings Box",
-                img: "../assets/prestiges/p9/Crafting/Other/RetroShopUpdate.png"
+                name: "Frost Warrior Costume Set",
+                img: "../assets/costumes/all-sets/buffs/frost_warrior_buffs.png"
             },
             {
-                name: "Batman Mask" ,
+                name: "Palina Specialist Partner Card" ,
                 img: "../assets/img/helmets-masks/batman_mask.png"
-            },
-            {
-              name: "Rat Hat",
-              img: "../assets/img/costumes/hats/rat_hat.png"
-            },
-            {
-              name: "Aesthetic Amulet 2",
-              img: "../assets/img/halloween-event/amulet_f1.png"
-            },
-            {
-              name: "Tree Wings",
-              img: "../assets/img/specialists/wings/buffs/Tree_wings.png"
             },
 
         ]
@@ -42,21 +30,21 @@ export class ShopUpdatesComponent implements OnInit {
 
   randomBox = [
     {
-      date: "07/07/2023",
+      date: "14/07/2023",
       boxName : 'Random Boxes ',
       mainItem: "Mini Asgobas",
       mainItemImg: "../../assets/img/shop_updates/box_asgo.png",
       mainItems: [
         {
-          name: "Dragon Knight Random Box",
+          name: "Mini Alzanor Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Black Ink Rabbit Random Box",
+          name: "Mini Valehir Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Rocketeer Costume Set Random Box",
+          name: "Mini Asgobas Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         }
 
