@@ -17,7 +17,7 @@ export class AcademyUpdatesComponent implements OnInit {
             },
             {
                 name: "Gingerbread Partner Box. You can check buffs of partners on our wiki : https://wiki.nosvoid.com/partners",
-                img: 
+                img: ""
             },
             {
                 name: "Dino Costume Set" ,
@@ -33,7 +33,7 @@ export class AcademyUpdatesComponent implements OnInit {
     {
       date: "21/07/2023",
       boxName : 'Random Boxes ',
-      mainItem: "Mini Asgobas",
+      mainItem: "Mini Boxes",
       mainItemImg: "../../assets/img/shop_updates/box_asgo.png",
       mainItems: [
         {
