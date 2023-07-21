@@ -17,7 +17,7 @@ export class ShopUpdatesComponent implements OnInit {
             },
             {
                 name: "Rat Hat",
-                img: "../assets/img/costumes/buffs/rat_hat_buffs.png"
+                img: "../assets/img/costumes/all-sets/buffs/rat_hat_buffs.png"
             },
             {
                 name: "Tree Wings" ,
