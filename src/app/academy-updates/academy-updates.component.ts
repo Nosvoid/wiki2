@@ -9,19 +9,19 @@ export class AcademyUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "14/07/2023",
+        date: "21/07/2023",
         items: [
             {
-                name: "Caligor's Golden Horn",
-                img: "../assets/img/helmets-masks/caligor_horn.png"
+                name: "Jinn Specialist Partner Card",
+                img: "../assets/img/psps/buffs/jinn.png"
             },
             {
-                name: "Batman Mask",
-                img: "../assets/img/helmets-masks/batman_mask.png"
+                name: "Gingerbread Partner Box. You can check buffs of partners on our wiki : https://wiki.nosvoid.com/partners",
+                img: 
             },
             {
-                name: "Rocketeer Costume Set" ,
-                img: "../assets/img/costumes/all-sets/buffs/rocketer.png"
+                name: "Dino Costume Set" ,
+                img: "../assets/img/costumes/all-sets/buffs/cuddly_dino_buffs.png"
             },
            
 
@@ -31,21 +31,21 @@ export class AcademyUpdatesComponent implements OnInit {
 
   randomBox = [
     {
-      date: "14/07/2023",
+      date: "21/07/2023",
       boxName : 'Random Boxes ',
       mainItem: "Mini Asgobas",
       mainItemImg: "../../assets/img/shop_updates/box_asgo.png",
       mainItems: [
         {
-          name: "Retro Wings Random Box",
+          name: "Freya Partner Card Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Alitus XV Random Box",
+          name: "Aegir Partner Card Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Mini Valehir Random Box",
+          name: "Barni Partner Card Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         }
 
