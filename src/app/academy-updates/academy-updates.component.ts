@@ -21,7 +21,7 @@ export class AcademyUpdatesComponent implements OnInit {
             },
             {
                 name: "Palina Specialist Partner Card" ,
-                img: "../assets/img/psp/buffs/palina.png"
+                img: "../assets/img/psps/buffs/palina.png"
             },
            
 
@@ -31,21 +31,21 @@ export class AcademyUpdatesComponent implements OnInit {
 
   randomBox = [
     {
-      date: "21/07/2023",
+      date: "28/07/2023",
       boxName : 'Random Boxes ',
       mainItem: "Mini Boxes",
       mainItemImg: "../../assets/img/shop_updates/box_asgo.png",
       mainItems: [
         {
-          name: "Freya Partner Card Random Box",
+          name: "Shadow Namaju Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Aegir Partner Card Random Box",
+          name: "Shadow Dragon Bee Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Barni Partner Card Random Box",
+          name: "Shadow Master Bunny Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         }
 
