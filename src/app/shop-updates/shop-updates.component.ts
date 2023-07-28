@@ -9,19 +9,19 @@ export class ShopUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "21/07/2023",
+        date: "28/07/2023",
         items: [
             {
-                name: "Weapon Skin Box 'Chocolate Dream'",
-                img: "../assets/img/costumes/weapon-skins/sweet_chocolate.png"
+                name: "Knight Costume Set'",
+                img: "../assets/img/costumes/all-sets/buffs/knight_buffs.png"
             },
             {
-                name: "Rat Hat",
-                img: "../assets/img/costumes/all-sets/buffs/rat_hat_buffs.png"
+                name: "Lava Ghost Helmet",
+                img: "../assets/img/helmets-masks/lava_helmet.png"
             },
             {
-                name: "Tree Wings" ,
-                img: "../assets/img/specialists/wings/buffs/Tree_wings.png"
+                name: "Robber Mask" ,
+                img: "../assets/img/helmets-masks/robber_mask.png"
             },
 
         ]
@@ -30,7 +30,7 @@ export class ShopUpdatesComponent implements OnInit {
 
   randomBox = [
     {
-      date: "21/07/2023",
+      date: "28/07/2023",
       boxName : 'Random Boxes ',
       mainItem: "Mini Asgobas",
       mainItemImg: "../../assets/img/shop_updates/box_asgo.png",

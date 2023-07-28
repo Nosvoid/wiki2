@@ -9,19 +9,19 @@ export class AcademyUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "21/07/2023",
+        date: "28/07/2023",
         items: [
             {
-                name: "Jinn Specialist Partner Card",
-                img: "../assets/img/psps/buffs/jinn.png"
+                name: "Azuris",
+                img: "../assets/img/fairies/azuris.png"
             },
             {
-                name: "Gingerbread Partner Box. You can check buffs of partners on our wiki : https://wiki.nosvoid.com/partners",
-                img: ""
+                name: "Solaris",
+                img: "../assets/img/fairies/solaris.png"
             },
             {
-                name: "Dino Costume Set" ,
-                img: "../assets/img/costumes/all-sets/buffs/cuddly_dino_buffs.png"
+                name: "Palina Specialist Partner Card" ,
+                img: "../assets/img/psp/buffs/palina.png"
             },
            
 
