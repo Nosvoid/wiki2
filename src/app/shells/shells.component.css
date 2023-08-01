@@ -43,7 +43,8 @@ img{
     color: var(--void-clr);
     font-weight: bold;
     font-size: 2rem;
-    margin-top: 1.7em;
+    margin-top: 1em;
+    text-align: center;
 }
 
 .shells-title-3 {
@@ -73,6 +74,19 @@ img{
 .class img, .support img {
     max-width: 100%;
     max-height: 100%;
+}
+.w-75{
+    margin-top: -35px;
+    margin-bottom: 80px;
+    background-color: rgba(255, 255, 255, 0.065);
+    border-radius: 12px;
+    padding: 10px;
+    
+}
+.sg-text {
+    font-size: 1.1rem;
+    line-height: 1.5em;
+    text-align: center;
 }
 
 /* Media queries */
