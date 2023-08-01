@@ -57,6 +57,13 @@
     text-align: center;
     width: 75%;
 }
+.w-75{
+    margin-top: -35px;
+    margin-bottom: 80px;
+    background-color: rgba(255, 255, 255, 0.065);
+    border-radius: 12px;
+    padding: 10px;
+}
 
 /* Media queries */
 @media all and (min-width: 1140px) {
