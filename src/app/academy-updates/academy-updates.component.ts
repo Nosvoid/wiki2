@@ -9,19 +9,23 @@ export class AcademyUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "28/07/2023",
+        date: "04/08/2023",
         items: [
             {
-                name: "Azuris",
-                img: "../assets/img/fairies/azuris.png"
+                name: "Rat Hat",
+                img: "../assets/img/costumes/hats/rat_hat.png"
             },
             {
-                name: "Solaris",
-                img: "../assets/img/fairies/solaris.png"
+                name: "Skeleton Costume Set",
+                img: "../assets/img/costumes/all-sets/buffs/skeleton.png"
             },
             {
-                name: "Palina Specialist Partner Card" ,
-                img: "../assets/img/psps/buffs/palina.png"
+              name: "Frost Warrior Costume Set",
+              img: "../assets/img/costumes/all-sets/buffs/frost_warrior_buffs.png"
+            },
+            {
+                name: "Knight Costume Set" ,
+                img: "../assets/img/costumes/all-sets/buffs/knight_buffs.png"
             },
            
 
@@ -31,21 +35,21 @@ export class AcademyUpdatesComponent implements OnInit {
 
   randomBox = [
     {
-      date: "28/07/2023",
+      date: "04/08/2023",
       boxName : 'Random Boxes ',
       mainItem: "Mini Boxes",
       mainItemImg: "../../assets/img/shop_updates/box_asgo.png",
       mainItems: [
         {
-          name: "Shadow Namaju Random Box",
+          name: "Mini Alzanor Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Shadow Dragon Bee Random Box",
+          name: "Mini Valehir Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Shadow Master Bunny Random Box",
+          name: "Mini Asgobas Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         }
 
