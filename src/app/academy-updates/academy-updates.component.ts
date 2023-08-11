@@ -24,7 +24,7 @@ export class AcademyUpdatesComponent implements OnInit {
               img: "../assets/img/costumes/all-sets/buffs/cuddly_dino_buffs.png"
             },
             {
-                name: "Rocketeer Costume Set" ,
+                name: "Rocketeer Costume Set",
                 img: "../assets/img/costumes/all-sets/buffs/rocketer.png"
             },
            
