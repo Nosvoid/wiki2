@@ -9,19 +9,19 @@ export class ShopUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "04/08/2023",
+        date: "11/08/2023",
         items: [
             {
-                name: "Tree Wings'",
-                img: "../assets/img/specialists/wings/buffs/Tree_wings.png"
+                name: "Frost Warrior Costume Set'",
+                img: "../assets/img/costumes/all-sets/buffs/frost_warrior_buffs.png"
             },
             {
-                name: "Dragon of Void",
-                img: "../assets/img/titles/dragon_of_void.png"
+                name: "Robber Mask",
+                img: "../assets/img/helmets-masks/robber_mask.png"
             },
             {
-                name: "Gingerbread Partner Box. You can check them there : https://wiki.nosvoid.com/partners" ,
-                img: ""
+                name: "Lava Ghost Helmet" ,
+                img: "../assets/img/helmets-masks/lava_helmet.png"
             },
 
         ]
@@ -30,7 +30,7 @@ export class ShopUpdatesComponent implements OnInit {
 
   randomBox = [
     {
-      date: "04/08/2023",
+      date: "11/08/2023",
       boxName : 'Random Boxes ',
       mainItem: "Mini Asgobas",
       mainItemImg: "../../assets/img/shop_updates/box_asgo.png",
