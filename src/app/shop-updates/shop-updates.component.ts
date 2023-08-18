@@ -9,20 +9,24 @@ export class ShopUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "11/08/2023",
+        date: "18/08/2023",
         items: [
             {
                 name: "Frost Warrior Costume Set'",
                 img: "../assets/img/costumes/all-sets/buffs/frost_warrior_buffs.png"
             },
             {
-                name: "Robber Mask",
+                name: "Tree Wings",
                 img: "../assets/img/helmets-masks/robber_mask.png"
             },
             {
-                name: "Lava Ghost Helmet" ,
-                img: "../assets/img/helmets-masks/lava_helmet.png"
+                name: "Knight Costume Set" ,
+                img: "../assets/img/costumes/all-sets/buffs/knight_buffs.png"
             },
+            {
+              name: "Rocketeer Costume Set" ,
+              img: "../assets/img/costumes/all-sets/buffs/rocketer.png"
+          },
 
         ]
     }
@@ -30,7 +34,7 @@ export class ShopUpdatesComponent implements OnInit {
 
   randomBox = [
     {
-      date: "11/08/2023",
+      date: "18/08/2023",
       boxName : 'Random Boxes ',
       mainItem: "Mini Asgobas",
       mainItemImg: "../../assets/img/shop_updates/box_asgo.png",
