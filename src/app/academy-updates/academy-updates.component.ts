@@ -9,24 +9,32 @@ export class AcademyUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "11/08/2023",
+        date: "18/08/2023",
         items: [
             {
-                name: "Jinn Specialist Partner Card",
-                img: "../assets/img/psps/buffs/jinn.png"
+                name: "Gingerbread Partner Box. You can see their buffs at : https://wiki.nosvoid.com/partners",
+                img: ""
             },
             {
-                name: "Dragon of Void",
-                img: "../assets/img/titles/dragon_of_void.png"
+                name: "Caligor's Golden Horn",
+                img: "../assets/img/helmets-masks/caligor_horn.png"
             },
             {
-              name: "Dino Costume Set",
-              img: "../assets/img/costumes/all-sets/buffs/cuddly_dino_buffs.png"
+              name: "Batman Mask",
+              img: "../assets/img/helmets-masks/batman_mask.png"
             },
             {
-                name: "Rocketeer Costume Set",
-                img: "../assets/img/costumes/all-sets/buffs/rocketer.png"
+                name: "Weapon Skin Box 'Chocolate Dream'",
+                img: "../assets/img/costumes/weapon-skins/sweet_chocolate.png"
             },
+            {
+              name: "Robber Mask'",
+              img: "../assets/img/helmets-masks/robber_mask.png"
+          },
+          {
+            name: "Lava Ghost Helmet'",
+            img: "../assets/img/helmets-masks/lava_helmet.png"
+        },
            
 
         ]
@@ -35,21 +43,33 @@ export class AcademyUpdatesComponent implements OnInit {
 
   randomBox = [
     {
-      date: "11/08/2023",
+      date: "18/08/2023",
       boxName : 'Random Boxes ',
       mainItem: "Mini Boxes",
       mainItemImg: "../../assets/img/shop_updates/box_asgo.png",
       mainItems: [
         {
-          name: "Tree Wings Random Box",
+          name: "Asgobas Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Retro Wings Random Box",
+          name: "Alzanor Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Alitus XV Random Box",
+          name: "Valehir Random Box",
+          img: "../../assets/img/shop_updates/box_asgo.png"
+        },
+        {
+          name: "Aegir Random Box",
+          img: "../../assets/img/shop_updates/box_asgo.png"
+        },
+        {
+          name: "Barni Random Box",
+          img: "../../assets/img/shop_updates/box_asgo.png"
+        },
+        {
+          name: "Freya Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         }
 
