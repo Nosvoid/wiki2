@@ -1,0 +1,148 @@
+<div class="d-flex justify-content-center">
+    <div class="soul-system">
+        <h1 class="soul-system-title">Soul System</h1>
+        <div class="soul-system-content">
+            <h2>What is Soul System?</h2>
+            <p>
+                Soul System is a system that introduces the Souls of Raid Bosses in the form of an item.<br/>
+                You can get them from the box of a given raid.<br/>
+                 You can craft valuable items from Souls.<br/>
+                The entrance to the Soul System is at <u style="color: rgb(38, 182, 25)">$warp p4</u>.<br/>
+            <img width="150px" src="../../assets/img/soul-system/map_location.png" alt=""></p>
+            <p>
+                You can get souls only from these Raid Bosses:<br/>
+                <br/>
+               Lord Draco <img width="24px" src="../../assets/img/soul-system/draco_box.png" alt=""><br/>
+               Glacerus &nbsp; &nbsp; <img width="24px" src="../../assets/img/soul-system/glacerus_box.png" alt=""><br/>
+               Laurena &nbsp; &nbsp; <img width="24px" src="../../assets/img/soul-system/laurena_box.png" alt=""><br/>     
+               Kirollas &nbsp; &nbsp; <img width="24px" src="../../assets/img/soul-system/kirollas_box.png" alt=""><br/>
+               Pure Beast <img width="24px" src="../../assets/img/soul-system/pure_beast_box.png" alt=""></p>
+               <br/>
+               <br/>
+               <hr>
+            <h2>Raid Ticket</h2><img width="200px" src="../../assets/img/soul-system/raid_ticket.png" alt=""><br/>
+            <br/>
+
+            <p>After completing each raid, you will get a certain amount of Raid Tickets. <br/>
+            You will need them for crafting Minor and Major Rewards.<br/>
+            You can get Raid Tickets from:<br/>
+            <br/>
+            Draco, Glacerus, Laurena, Maru, Fernon, Kirollas, Pure Beast <u style="color: rgb(38, 182, 25)">(1x Raid Ticket)<br/></u>
+            Paimon, Belial, Sandstorm, Grenigas <u style="color: rgb(38, 182, 25)">(2x Raid Ticket)<br/></u>
+            Hardcore, Ibrahim,Kertos <u style="color: rgb(38, 182, 25)">(4x Raid Ticket)</u>
+            <br/>
+            <br/>
+            <hr>
+            <h2>Pity System</h2><br/>
+            <p>Pity System has been implemented for Soul System.<br/>
+                Purpose of Pity System is to help our players to farm Souls quicker! <br/>There will be counter of <b>500</b> boxes where you get a guaranteed reward when you reach 500 box.<br/>
+                Pity System works for following raid boxes: <u style="color: rgb(38, 182, 25)">Draco, Glacerus, Carno, Kirollas, Laurena.</u></p>
+                <div class='d-flex justify-content-center align-items-center flex-column'>
+                    <img src="../../assets/img/soul-system/pity_system.png" alt="">
+                </div>
+                <br/>
+                <hr>
+<br/>
+<br/>
+
+<section class="">
+<h2>Minor Rewards</h2>
+    <div class="partners-container">
+        <div class="partner-container" *ngFor="let soul of soulsystem">
+            <div class="d-flex justify-content-center align-items-center flex-column">
+                
+                <img src="../assets/img/soul-system/Minor/{{soul.name}}.png" >
+            
+            <!-- Modal -->
+                <button class="show-craft">Show Craft</button>
+                <div class="set-craft display-none" id="set-craft-modal">
+                    <div class="set-craft-content">
+                        <img src="../assets/img/soul-system/Minor/{{soul.img}}.png" alt="">
+
+                        <span class="close-craft" id="close-btn">
+                            <i class="fa fa-times" aria-hidden="true"></i>
+                        </span>
+                    </div>
+                </div>
+            <br/><br/><br/><br/><br/>
+        </div>
+    </div>
+</div>
+</section>
+<hr>
+<section class="">
+    <h2>Major Rewards</h2>
+
+            <div class="partner-container">
+                <div class="d-flex justify-content-center align-items-center flex-column">
+                    
+                <h3>Rarify Item x100</h3>
+                
+                <!-- Modal -->
+                    <button class="show-craft">Show Craft</button>
+                    <div class="set-craft display-none" id="set-craft-modal">
+                        <div class="set-craft-content">
+                            <img src="../assets/img/soul-system/Major/rarify_item.png" alt="">
+                            <span class="close-craft" id="close-btn">
+                                <i class="fa fa-times" aria-hidden="true"></i>
+                            </span>
+                        </div>
+                    </div>
+                    <br/>
+                    <h3>Upgrade Item x100</h3>
+                    <button class="show-craft">Show Craft</button>
+                    <div class="set-craft display-none" id="set-craft-modal">
+                        <div class="set-craft-content">
+                            <img src="../assets/img/soul-system/Major/upgrade_item.png" alt="">
+                            <span class="close-craft" id="close-btn">
+                                <i class="fa fa-times" aria-hidden="true"></i>
+                            </span>
+                        </div>
+                    </div>
+                    <br/>
+                    <h3>Evolve Your Badge x1</h3>
+                    <button class="show-craft">Show Craft</button>
+                    <div class="set-craft display-none" id="set-craft-modal">
+                        <div class="set-craft-content">
+                            <img src="../assets/img/soul-system/Major/evolve_badge.png" alt="">
+                            <span class="close-craft" id="close-btn">
+                                <i class="fa fa-times" aria-hidden="true"></i>
+                            </span>
+                        </div>
+                    </div>
+                    <br/>
+                    <h3> Evolution Badge Rarify Changer x1</h3>
+                    <button class="show-craft">Show Craft</button>
+                    <div class="set-craft display-none" id="set-craft-modal">
+                        <div class="set-craft-content">
+                            <img src="../assets/img/soul-system/Major/evolve_badge_rarify.png" alt="">
+                            <span class="close-craft" id="close-btn">
+                                <i class="fa fa-times" aria-hidden="true"></i>
+                            </span>
+                        </div>
+                    </div>
+                <br/><br/><br/><br/><br/>
+                
+            </div>
+        </div>
+  
+    </section>
+               
+              
+                
+                
+            
+
+
+
+
+
+
+
+
+        
+        
+                
+            
+
+           
