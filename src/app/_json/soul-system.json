@@ -9,14 +9,6 @@
         
         
     },
-    
-    {
-        "name": "erenia_banner",
-        "img": "soul_craft_erenia",
-        "mats": "500x Raid Ticket, Draco Soul"
-        
-        
-    },
     {
         "name": "laurena_banner",
         "img": "soul_craft_laurena",
@@ -34,13 +26,6 @@
     {
         "name": "kirollas_banner",
         "img": "soul_craft_kirollas",
-        "mats": "500x Raid Ticket, Draco Soul"
-        
-        
-    },
-    {
-        "name": "zenas_banner",
-        "img": "soul_craft_zenas",
         "mats": "500x Raid Ticket, Draco Soul"
         
         

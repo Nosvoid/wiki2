@@ -64,7 +64,7 @@
     },
     {
         "name": "SP9 and SP5MA",
-        "location": "You can get them in Paimon raid boxes ($warp raidarea) or you can craft them at Craft Specialist 9 NPC ($warp p8)",
+        "location": "You can get them in Paimon raid boxes ($warp raidarea) or you can craft them at Craft Specialist 5 NPC ($warp p5)",
         "img": [
             { "icon": "sunchaser" },
             { "icon": "waterfall" },
@@ -75,7 +75,7 @@
     },
     {
         "name": "SP10 and SP6MA",
-        "location": "You can get them from Prestige 9 Craft and Void Gods Story Line.",
+        "location": "You can get them from Prestige 5 Craft and Void Gods Story Line.",
         "img": [
             { "icon": "archer10" },
             { "icon": "sword10" },

@@ -37,24 +37,8 @@
                 "img": "../../assets/img/sellable/dark_energy_stone.png"
             },
             {
-                "name": "Soul of Erenia - 7kk",
-                "img": "../../assets/img/sellable/erenia_soul.png"
-            },
-            {
-                "name": "Soul of Zenas - 7kk",
-                "img": "../../assets/img/sellable/zenas_soul.png"
-            },
-            {
                 "name": "Soul of Fernon - 7kk",
                 "img": "../../assets/img/sellable/fernon_soul.png"
-            },
-            {
-                "name": "Ancient EQ materials - 7kk",
-                "img": "../../assets/img/sellable/ancient.png"
-            },
-            {
-                "name": "Auras - 7kk",
-                "img": "../../assets/img/sellable/auras.png"
             },
             {
                 "name": "Azrael Mask - 5kk",
@@ -67,20 +51,12 @@
                 "img": "../../assets/img/sellable/fernon_res.png"
             },
             {
-                "name": "Iron Key - 5kk",
-                "img": "../../assets/img/sellable/iron_key.png"
-            },
-            {
                 "name": "Erenia & Zenas Gloves and Shoes - 4kk",
                 "img": "../../assets/img/sellable/sealed_res.png"
             },
             {
                 "name": "Lich King Jewels - 3kk",
                 "img": "../../assets/img/sellable/lich_king_jewels.png"
-            },
-            {
-                "name": "Erenia & Zenas Jewels - 2kk",
-                "img": "../../assets/img/sellable/sealed_jewels.png"
             },
             {
                 "name": "Ancient Orc Statue - 1kk",

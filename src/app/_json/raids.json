@@ -3,7 +3,7 @@
         "name": "Accessory",
         "id": "",
         "points": "0",
-        "location": "$warp p3",
+        "location": "$warp p1",
         "box": "accessory_box",
         "rewards": [
             { "reward": "- 1x Laurena's Bracelet" },
@@ -29,7 +29,7 @@
         "name": "Belial",
         "id": "",
         "points": "1",
-        "location": "$warp p8",
+        "location": "$warp p4",
         "box": "belial_box",
         "rewards": [
             { "reward": "- 1x Broken Magic Sword of Belial" },
@@ -48,7 +48,7 @@
         "name": "Valehir",
         "id": "",
         "points": "1",
-        "location": "$warp p9",
+        "location": "$warp p5",
         "box": "valehir_box",
         "rewards": [
             { "reward": "- 1x Dragon Crystal Weapon (3%)" },
@@ -65,7 +65,7 @@
         "name": "Alzanor",
         "id": "",
         "points": "1",
-        "location": "$warp p9",
+        "location": "$warp p5",
         "box": "alzanor_box",
         "rewards": [
             { "reward": "- 1x Dragon Crystal Secondary (3%)" },
@@ -82,7 +82,7 @@
         "name": "Black Hand",
         "id": "",
         "points": "1",
-        "location": "$warp p9",
+        "location": "$warp p5",
         "box": "black_hand_box",
         "rewards": [
             { "reward": "- 1x Dragon Crystal Armor (3%)" },
@@ -114,40 +114,18 @@
         ]
     },
     {
-        "name": "Erenia",
-        "id": "",
-        "points": "0.4",
-        "location": "$warp p3",
-        "box": "erenia_box",
-        "rewards": [
-            { "reward": "- 200x Angel's Feather" },
-            { "reward": "- 1x Erenia (Fire)" },
-            { "reward": "- 1x Erenia (Water)" },
-            { "reward": "- 1x Erenia (Shadow)" },
-            { "reward": "- 1x Erenia (Light)" },
-            { "reward": "- 1x Erenia's Necklace" },
-            { "reward": "- 1x Erenia's Ring" },
-            { "reward": "- 1x Erenia's Bracelet" },
-            { "reward": "- 1x Sealed Hellord Gloves" },
-            { "reward": "- 1x Sealed Hellord Shoes" },
-            { "reward": "- 1x The Elementary Book of Adventurer" },
-            { "reward": "- 1x Upgrade Item" },
-            { "reward": "- 1x Soul of Erenia" }
-        ]
-    },
-    {
         "name": "Fernon",
         "id": "",
         "points": "0.6",
-        "location": "$warp p5",
+        "location": "$warp p2",
         "box": "fernon_box",
         "rewards": [
             { "reward": "- 100x Full Moon Crystal" },
             { "reward": "- 100x Angel's Feather" },
             { "reward": "- 100x Cella Powder" },
-            { "reward": "- Archer's c50 eqs" },
-            { "reward": "- Swordman's c50 eqs" },
-            { "reward": "- Mage's c50 eqs" },
+            { "reward": "- Archer's c55 eqs" },
+            { "reward": "- Swordman's c55 eqs" },
+            { "reward": "- Mage's c55 eqs" },
             { "reward": "- MA's c50 eqs" },
             { "reward": "- 3x Small Lump of Gold" },
             { "reward": "- 1x Random Amulet Box (1x)" },
@@ -180,7 +158,7 @@
         "name": "Grenigas",
         "id": "grenigas",
         "points": "0.8",
-        "location": "$warp 8.2",
+        "location": "$warp p4",
         "box": "grenigas",
         "rewards": [
             { "reward": "- 100x Angel's Feather" },
@@ -197,7 +175,7 @@
         "name": "Hardcore",
         "id": "",
         "points": "2",
-        "location": "$warp p8",
+        "location": "$warp p4",
         "box": "hardcore_box",
         "rewards": [
             { "reward": "- 1x Holy Light" },
@@ -214,7 +192,7 @@
         "name": "Ibrahim",
         "id": "ibrah",
         "points": "4",
-        "location": "$warp p8.1",
+        "location": "$warp p4",
         "box": "ibrahim_box",
         "rewards": [
             { "reward": "- 1x Licht Energy Ring" },
@@ -230,7 +208,7 @@
         "name": "Kertos",
         "id": "kertos",
         "points": "2",
-        "location": "$warp p8.2",
+        "location": "$warp p4",
         "box": "kertos",
         "rewards": [
             { "reward": "- 3x Perfection" },
@@ -245,21 +223,13 @@
         "name": "Kirollas",
         "id": "",
         "points": "0.6",
-        "location": "$warp p7",
+        "location": "$warp p3",
         "box": "kirollas_box",
         "rewards": [
             { "reward": "- 150x Angel's Feather" },
             { "reward": "- 150x Full Moon Crystal" },
             { "reward": "- 150x Cella Powder" },
-            { "reward": "- 1x Ancient Bow" },
-            { "reward": "- 1x Ancient Dagger" },
-            { "reward": "- 1x Ancient Armour" },
-            { "reward": "- 1x Ancient Sword" },
-            { "reward": "- 1x Ancient Crossbow" },
-            { "reward": "- 1x Ancient Wand" },
-            { "reward": "- 1x Ancient Spell Gun" },
-            { "reward": "- 1x Ancient Gauntlet" },
-            { "reward": "- 1x Ancient Token" },
+
             { "reward": "- 1x Random Amulet Box (1x)" },
             { "reward": "- 1x C55 Armours" }
         ]
@@ -310,7 +280,7 @@
         "name": "Paimon",
         "id": "",
         "points": "1.2",
-        "location": "$warp p8",
+        "location": "$warp p4",
         "box": "paimon_box",
         "rewards": [
             { "reward": "- 1x Sunchaser Specialist Card" },
@@ -332,16 +302,12 @@
         "name": "Pure Beast",
         "id": "",
         "points": "0.6",
-        "location": "$warp p7",
+        "location": "$warp p3",
         "box": "pure_beast_box",
         "rewards": [
             { "reward": "- 150x Angel's Feather" },
             { "reward": "- 150x Full Moon Crystal" },
             { "reward": "- 200x Cella Powder" },
-            { "reward": "- 1x Archer's Aura" },
-            { "reward": "- 1x Swordsman's Aura" },
-            { "reward": "- 1x Mage's Aura" },
-            { "reward": "- 1x Martial's Aura" },
             { "reward": "- 1x Obsidian" },
             { "reward": "- 1x Magical Fang" },
             { "reward": "- 1x Wolf Foot Print" },
@@ -352,7 +318,7 @@
         "name": "Sandstorm",
         "id": "sandstorm",
         "points": "1",
-        "location": "$warp p8.1",
+        "location": "$warp p4",
         "box": "sandstorm_box",
         "rewards": [
             { "reward": "- 1x Soul of Sandstorm" },
@@ -374,7 +340,7 @@
         "name": "Valakus",
         "id": "valakus",
         "points": "0.8",
-        "location": "$warp p8.2",
+        "location": "$warp p4",
         "box": "valakus",
         "rewards": [
             { "reward": "- 100x Angel's Feather" },
@@ -386,40 +352,7 @@
             { "reward": "- 2x Upgrade Item" },
             { "reward": "- 2x Rarify Item" }
         ]
-    },
-    {
-        "name": "Zenas",
-        "id": "",
-        "points": "0.4",
-        "location": "$warp p2",
-        "box": "zenas_box",
-        "rewards": [
-            { "reward": "- 200x Angel's Feather" },
-            { "reward": "- 1x Zenas (Fire)" },
-            { "reward": "- 1x Zenas (Water)" },
-            { "reward": "- 1x Zenas (Shadow)" },
-            { "reward": "- 1x Zenas (Light)" },
-            { "reward": "- 1x Zenas' Necklace" },
-            { "reward": "- 1x Zenas' Ring" },
-            { "reward": "- 1x Zenas' Bracelet" },
-            { "reward": "- 1x Sealed Heavenly Gloves" },
-            { "reward": "- 1x Sealed Heavenly Shoes" },
-            { "reward": "- 1x Moth Powder" },
-            { "reward": "- 1x Upgrade Item" },
-            { "reward": "- 1x Random Amulet Box (1x)" },
-            { "reward": "- 1x Soul of Zenas" }
-        ]
-    },
-    {
-        "name": "92-93 Eqs Raid",
-        "id": "",
-        "points": "0",
-        "location": "$warp p1",
-        "box": "92_93_box",
-        "rewards": [
-            { "reward": "- 2x Torn Pages" },
-            { "reward": "- 50x Angel's Feather" },
-            { "reward": "- 50x Full Moon Crystal" }
-        ]
     }
+   
+   
 ]

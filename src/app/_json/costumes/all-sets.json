@@ -43,7 +43,7 @@
         },
         {
             "name": "Concierge Uniform",
-            "location": "You can craft this set at Family Tower Rewards NPC $warp p8.1",
+            "location": "You can craft this set at Family Tower Rewards NPC $warp p4",
             "skins": "concierge",
             "buff": "concierge_buffs"
         },
@@ -61,7 +61,7 @@
         },
         {
             "name": "Death Lancer",
-            "location": "You can craft this set at Family Tower Rewards NPC $warp p8.1 or in the Fortune Wheel",
+            "location": "You can craft this set at Family Tower Rewards NPC $warp p4 or in the Fortune Wheel",
             "skins": "death_lancer",
             "buff": "death_lancer_buffs"
         },
@@ -74,7 +74,7 @@
         
         {
             "name": "Dracula",
-            "location": "You can buy this set for 500 coins in VoidMall",
+            "location": "You can buy this set for 500 coins in VoidMall or can be crafted in Fernons Egg Craft NPC in $warp p2",
             "skins": "dracula",
             "buff": "dracula_buffs"
         },
@@ -86,7 +86,7 @@
         },
         {
             "name": "Fire Devil",
-            "location": "You can craft this set at Prestige 4 lobby or you can buy it for 350 coins in VoidMall",
+            "location": "You can craft this set atPrestige 2 Rewards NPC or you can buy it for 350 coins in VoidMall",
             "skins": "fire_devil",
             "buff": "fire_devil_buffs"
         },
@@ -182,7 +182,7 @@
         },
         {
             "name": "Nutcracker",
-            "location": "You can craft this set at P2 Costume NPC",
+            "location": "You can craft this set at Prestige 1 Rewards NPC",
             "skins": "nutcracker",
             "buff": "nutcracker_buffs"
         },
@@ -236,7 +236,7 @@
         },
         {
             "name": "Reindeer",
-            "location": "You can get this set at Family Tower Rewards NPC $warp p8.1 or for 450 coins in VoidMall",
+            "location": "You can get this set at Family Tower Rewards NPC $warp p4 or for 450 coins in VoidMall",
             "skins": "reindeer",
             "buff": "reindeer_buffs"
         },
