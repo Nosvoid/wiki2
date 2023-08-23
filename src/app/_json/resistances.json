@@ -8,19 +8,19 @@
     {
         "name": "Magma resistances",
         "id": "",
-        "location": "You can craft them at 92-93 Equipements NPC $warp p1",
+        "location": "You can craft them at Prestige 1 Rewards NPC $warp p1",
         "buff": "magma_res"
     },
     {
         "name": "Sealed Heavenly resistances",
         "id": "",
-        "location": "You can get them in Zenas raid boxes",
+        "location": "You can get them in Resistances Shop in Nosvile",
         "buff": "heavenly_res"
     },
     {
         "name": "Sealed Hellord resistances",
         "id": "",
-        "location": "You can get them in Erenia raid boxes",
+        "location": "You can get them in Resistances Shop in Nosvile",
         "buff": "hellord_res"
     },
     {
@@ -32,43 +32,43 @@
     {
         "name": "Beast resistances",
         "id": "",
-        "location": "You can craft them at Tower NPC $warp p7 or Family Tower Rewards NPC $warp p8.1",
+        "location": "You can craft them at Tower NPC $warp p3 or Family Tower Rewards NPC $warp p4",
         "buff": "beast_res"
     },
     {
         "name": "Orc resitances",
         "id": "",
-        "location": "You can get them from P7 raids.",
+        "location": "You can get them from P3 raids.",
         "buff": "orc_res"
     },
     {
         "name": "PVE Shadow Magma resistances",
         "id": "pve-magma",
-        "location": "You can craft them at Kan's Rewards NPC $warp p8.2",
+        "location": "You can craft them at Kan's Rewards NPC $warp p4",
         "buff": "shadow_magma_pve"
     },
     {
         "name": "Act4 resistances",
         "id": "",
-        "location": "You can craft them in $warp p9 Prestige 9 Special Items NPC",
+        "location": "You can craft them in $warp p5 Prestige 5 Special Items NPC",
         "buff": "act4_res"
     },
     {
         "name": "Rainbow Battle resistances",
         "id": "",
-        "location": "You can craft them in $warp p9 Prestige 9 Special Items NPC",
+        "location": "You can craft them in $warp p5 Prestige 5 Special Items NPC",
         "buff": "rbb_res"
     },
     {
         "name": "HP Resistances",
         "id": "",
-        "location": "You can craft them in $warp p9 Prestige 9 Special Items NPC",
+        "location": "You can craft them in $warp p5 Prestige 5 Special Items NPC",
         "buff": "hp_res"
     },
     {
         "name": "PVP Shadow Magma resistances",
         "id": "pvp-magma",
-        "location": "You can craft them at Kan's Rewards NPC $warp p8.2",
+        "location": "You can craft them at Kan's Rewards NPC $warp p4",
         "buff": "shadow_magma_pvp"
     }
 ]

@@ -231,47 +231,47 @@ export class CookingSpComponent implements OnInit {
 
   wildIngredients = [
     {
-      type: "Can be found in the wild",
+      type: "Can be found in Cooking Materials Map",
       ingr: [
         {
           icon: "big_lettuce",
           name: "Big Lettuce",
-          location: "Can be found in NosVille"
+          location: "Can be found in Cooking Materials Map"
         },
         {
           icon: "big_tomato",
           name: "Big Tomato",
-          location: "Can be found in Prestige 1 Map"
+          location: "Can be found in Cooking Materials Map"
         },
         {
           icon: "big_onion",
           name: "Big Onion",
-          location: "Can be found in Prestige 2 Map"
+          location: "Can be found in Cooking Materials Map"
         },
         {
           icon: "big_mango",
           name: "Big Mango",
-          location: "Can be found in Prestige 3 Map"
+          location: "Can be found in Cooking Materials Map"
         },
         {
           icon: "big_strawberry",
           name: "Big Strawberry",
-          location: "Can be found in Prestige 4 Map"
+          location: "Can be found in Cooking Materials Map"
         },
         {
           icon: "big_cherry_apple",
           name: "Big Cherry Apple",
-          location: "Can be found in Prestige 6 Map"
+          location: "Can be found in Cooking Materials Map"
         },
         {
           icon: "pricly_pear",
           name: "Pricly Pear",
-          location: "Can be found in Prestige 7 Map"
+          location: "Can be found in Cooking Materials Map"
         },
         {
           icon: "big_cherries",
           name: "Big Cherries",
-          location: "Can be found in Prestige 8 Map"
+          location: "Can be found in Cooking Materials Map"
         }
       ] 
     }

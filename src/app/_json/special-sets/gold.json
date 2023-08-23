@@ -5,7 +5,7 @@
             {
                 "name": "Heavenly Skin",
                 "img": "heavenly",
-                "location": "Can be crafted from Prestige 9 Special Items NPC $warp p9"
+                "location": "Can be crafted from Prestige 5 Special Items NPC $warp p5"
             },
             {
                 "name": "Candy Skin",
@@ -20,12 +20,12 @@
             {
                 "name": "Masks",
                 "img": "masks",
-                "location": "Can be crafted from Family Tower NPC ($warp p8.2) and Hardcore Rewards NPC ($warp p8)"
+                "location": "Can be crafted from Family Tower NPC ($warp p4) and Hardcore Rewards NPC ($warp p4)"
             }, 
             {
                 "name": "Obsidian Necklace",
                 "img": "obsidian_necklace",
-                "location": "Can be crafted from Tower Game ($warp p7) and Family Tower Rewards NPC ($warp p8.2)"
+                "location": "Can be crafted from Tower Game ($warp p3) and Family Tower Rewards NPC ($warp p4)"
             }
         ]
     },
@@ -35,7 +35,7 @@
             {
                 "name": "Desert Hat",
                 "img": "desert_hat",
-                "location": "Can be craften from Desert Rewards NPC $warp p8.2"
+                "location": "Can be craften from Desert Rewards NPC $warp p4"
             },
             {
                 "name": "Illusionist's Hat",
@@ -65,12 +65,12 @@
             {
                 "name": "Gold Potion",
                 "img": "gold_potion",
-                "location": "Can be crafted on the $warp p8.2 at the Craft Potion NPC"
+                "location": "Can be crafted on the $warp p4 at the Craft Potion NPC"
             }, 
             {
                 "name": "Mother Nature's Tree Rune",
                 "img": "rune",
-                "location": "Can be crafted on the $warp p5 map at the High Tier Mother Runes NPC"
+                "location": "Can be crafted on the $warp p2 map at the High Tier Mother Runes NPC"
             },
             {
                 "name": "Mother Owlbear and Moss Stew",
@@ -95,7 +95,7 @@
             {
                 "name": "Super Fortune Bushtails",
                 "img": "fortune_bushtails",
-                "location": "Obtainable from $warp p5 High Tier Tittle and Pet NPC"
+                "location": ""
             },
             {
                 "name": "Seraphim",
@@ -145,7 +145,7 @@
             {
                 "name": "Golden Wings",
                 "img": "golden_wings",
-                "location": "Can be crafted on the $warp P5 map at High Tier Wings NPC"
+                "location": "Can be crafted on the $warp P2 map at High Tier Wings NPC"
             },
             {
                 "name": "Wedding SP Buff",

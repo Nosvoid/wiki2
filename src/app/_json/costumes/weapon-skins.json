@@ -2,7 +2,7 @@
     {
         "name": "Heavenly Weapon Skins",
         "id": "",
-        "location": "You can craft those weapon skins at Craft NPC (P9)",
+        "location": "You can craft those weapon skins at Craft NPC (P5)",
         "upgrade": "You can upgrade them to +7 maximum.",
         "buff": "heaven",
         "class": "raid"
@@ -10,7 +10,7 @@
     {
         "name": "Hellord Weapon Skins",
         "id": "",
-        "location": "You can craft those weapon skins at Craft NPC (P9)",
+        "location": "You can craft those weapon skins at Craft NPC (P5)",
         "upgrade": "You can upgrade them to +7 maximum.",
         "buff": "hell",
         "class": "pvp"
@@ -26,23 +26,23 @@
     {
         "name": "Frost Weapon Skins",
         "id": "",
-        "location": "You can craft those weapon skins at Family Tower NPC Prestige 8.1, or you can buy them for 900 coins in VoidMall.",
+        "location": "You can craft those weapon skins at Family Tower NPC Prestige 4, or you can buy them for 900 coins in VoidMall.",
         "upgrade": "You can upgrade them to +10 maximum.",
         "buff": "frost",
         "class": "pvp"
     },
     {
-        "name": "Prestige 4 Weapon Skins",
+        "name": "Prestige 2 Weapon Skins",
         "id": "",
-        "location": "You can craft those weapon skins at High Tier Weapon Skin NPC Prestige 4 lobby.",
+        "location": "You can craft those weapon skins at Prestige 2 Rewards NPC.",
         "upgrade": "You can't upgrade them.",
         "buff": "prestige4",
         "class": "raid"
     },
     {
-        "name": "Prestige 8 Weapon Skins",
+        "name": "Prestige 4 Weapon Skins",
         "id": "",
-        "location": "You can craft those weapon skins at Craft Stuff NPC Prestige 8 lobby, or you can buy them for 900 coins in VoidMall.",
+        "location": "You can craft those weapon skins at Craft Stuff NPC Prestige 84 lobby, or you can buy them for 900 coins in VoidMall.",
         "upgrade": "You can upgrade them to +10 maximum.",
         "buff": "prestige8",
         "class": "pvp"

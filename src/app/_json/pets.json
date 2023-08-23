@@ -90,7 +90,7 @@
     {
         "name": "Beast King's Avatar",
         "id": "pure-beast",
-        "location": "Can be crafted at Soul Craft [Pure Beast] NPC in Soul System map $warp p8.2",
+        "location": "Can be crafted at Soul Craft [Pure Beast] NPC in Soul System map $warp p4",
         "buff": "pure_beast",
         "skin": "pure_beast",
         "class": "raid"
@@ -114,7 +114,7 @@
     {
         "name": "Centurio Bushtail",
         "id": "",
-        "location": "Can be obtained in the chest after killing the Bushi King boss, map 40-50 $warp p8",
+        "location": "You can craft it in Fernons Egg Craft NPC in $warp p2",
         "buff": "centurio",
         "skin": "centurio",
         "class": "raid"
@@ -146,7 +146,7 @@
     {
         "name": "Darko",
         "id": "darko",
-        "location": "Can be crafted at Tower Craft NPC $warp p8.2",
+        "location": "Can be crafted at Tower Craft NPC $warp p4",
         "buff": "darko",
         "skin": "darko",
         "class": "pvp"
@@ -314,7 +314,7 @@
     {
         "name": "Mini Belial",
         "id": "",
-        "location": "Can be crafted at Craft Stuff NPC $warp p8",
+        "location": "Can be crafted at Craft Stuff NPC $warp p4",
         "buff": "mini_belial",
         "skin": "mini_belial",
         "class": "raid"
@@ -378,7 +378,7 @@
     {
         "name": "Polar Bear",
         "id": "",
-        "location": "Can be crafted at Desert Rewards NPC $warp p8.1",
+        "location": "Can be crafted at Desert Rewards NPC $warp p4",
         "buff": "polar_bear",
         "skin": "polar_bear",
         "class": "pvp"
@@ -410,7 +410,7 @@
     {
         "name": "Raptor",
         "id": "",
-        "location": "Can be crafted at Hardcore Rewards NPC $warp p8",
+        "location": "Can be crafted at Hardcore Rewards NPC $warp p4",
         "buff": "raptor",
         "skin": "raptor",
         "class": "pvp"
@@ -426,7 +426,7 @@
     {
         "name": "Santa Bushi",
         "id": "",
-        "location": "Can be crafted during the Christmas Event or at Hardcore Rewards NPC $warp p8",
+        "location": "Can be crafted during the Christmas Event or at Hardcore Rewards NPC $warp p4",
         "buff": "santa_bushi",
         "skin": "santa_bushi",
         "class": "pvp"
@@ -434,7 +434,7 @@
     {
         "name": "Screeching Wingworm",
         "id": "",
-        "location": "Can be crafted at Family Tower Rewards NPC $warp p8.1",
+        "location": "Can be crafted at Family Tower Rewards NPC $warp p4",
         "buff": "screeching_wingworm",
         "skin": "screeching_wingworm",
         "class": "raid"
@@ -466,7 +466,7 @@
     {
         "name": "Spirit King's Avatar",
         "id": "kirollas",
-        "location": "Can be crafted at Soul Craft [Kirollas] NPC in Soul System map $warp p8.2",
+        "location": "Can be crafted at Soul Craft [Kirollas] NPC in Soul System map $warp p4",
         "buff": "kirrollas",
         "skin": "kirrollas",
         "class": "raid"
@@ -482,7 +482,7 @@
     {
         "name": "Super Fortune Bushtail",
         "id": "",
-        "location": "Can be crafted at NPC $warp p5",
+        "location": "",
         "buff": "super_fortune_bushtail",
         "skin": "super_fortune_bushtail",
         "class": "gold"
@@ -490,7 +490,7 @@
     {
         "name": "Tame Queen Bee",
         "id": "",
-        "location": "Can be crafted at Hardcore Rewards NPC $warp p8",
+        "location": "Can be crafted at Hardcore Rewards NPC $warp p4",
         "buff": "tame_queen_bee",
         "skin": "tame_queen_bee",
         "class": "raid"

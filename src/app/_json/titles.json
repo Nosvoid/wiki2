@@ -16,7 +16,7 @@
     {
         "name": "Monster Hunter",
         "id": "",
-        "location": "You can it from $warp p8.2 Time Space",
+        "location": "You can it from $warp p4 Time Space",
         "img": "monster_hunter",
         "class": "pve"
     },
@@ -65,7 +65,7 @@
     {
         "name": "Celestial Spire Guard",
         "id": "",
-        "location": "You can craft it at Tower NPC $warp p7",
+        "location": "You can craft it at Tower NPC $warp p3",
         "img": "celestial_spire_guard",
         "class": "pve"
     },
@@ -156,7 +156,7 @@
     {
         "name": "God of Cylloan",
         "id": "",
-        "location": "You can craft it at High Tier Title and Pet NPC $warp p5",
+        "location": "",
         "img": "god_of_cylloan",
         "class": "pvp"
     },
@@ -226,7 +226,7 @@
     {
         "name": "King of Erenia",
         "id": "",
-        "location": "You can get if after completing the Erenia Marathon Quest",
+        "location": "",
         "img": "king_of_erenia",
         "class": "raid"
     },
@@ -240,21 +240,21 @@
     {
         "name": "King of Raids",
         "id": "",
-        "location": "You can craft it with King of Erenia, Fernon & Zenas titles",
+        "location": "You can craft it with King of Fernon title.",
         "img": "king_of_raids",
         "class": "raid"
     },
     {
         "name": "King of Void",
         "id": "",
-        "location": "You can get it in Fortune Wheel",
+        "location": "You can craft it at Fernons Egg Craft NPC in $warp p2",
         "img": "king_of_void",
         "class": "pvp"
     },
     {
         "name": "King of Zenas",
         "id": "",
-        "location": "You can get if after completing the Zenas Marathon Quest",
+        "location": "",
         "img": "king_of_zenas",
         "class": "raid"
     },
@@ -317,7 +317,7 @@
     {
         "name": "Phantom",
         "id": "",
-        "location": "You can craft it at Craft Title NPC $warp p2",
+        "location": "You can craft it at Prestige 1 Rewards NPC $warp p1",
         "img": "phantom",
         "class": "exp"
     },
@@ -352,7 +352,7 @@
     {
         "name": "Queen of Raids",
         "id": "",
-        "location": "You can craft it with King of Erenia, Fernon & Zenas titles",
+        "location": "You can craft it with King of Fernon title.",
         "img": "queen_of_raids",
         "class": "raid"
     },
@@ -415,7 +415,7 @@
     {
         "name": "Sandstorm Slayer",
         "id": "",
-        "location": "You can craft it at Family Tower Rewards NPC $warp p8.1",
+        "location": "You can craft it at Family Tower Rewards NPC $warp p4",
         "img": "sandstorm_slayer",
         "class": "pve"
     },
@@ -506,7 +506,7 @@
     {
         "name": "Vanquisher",
         "id": "vanquisher",
-        "location": "You can craft it at Soul Craft [Laurena] NPC in Soul System map $warp p8.2",
+        "location": "You can craft it at Soul Craft [Laurena] NPC in Soul System map $warp p4",
         "img": "vanquisher",
         "class": "raid"
     },
@@ -527,7 +527,7 @@
     {
         "name": "Vulcanic Eruption",
         "id": "vulcanic",
-        "location": "You can after completing the Vulcanic Eruption Quest at $warp p8.2",
+        "location": "You can after completing the Vulcanic Eruption Quest at $warp p4",
         "img": "vulcanic_eruption",
         "class": "pve"
     },
