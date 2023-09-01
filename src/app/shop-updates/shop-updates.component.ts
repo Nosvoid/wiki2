@@ -9,7 +9,7 @@ export class ShopUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "18/08/2023",
+        date: "02/09/2023",
         items: [
             {
                 name: "Frost Warrior Costume Set'",
@@ -20,8 +20,8 @@ export class ShopUpdatesComponent implements OnInit {
                 img: "../assets/img/helmets-masks/robber_mask.png"
             },
             {
-                name: "Knight Costume Set" ,
-                img: "../assets/img/costumes/all-sets/buffs/knight_buffs.png"
+                name: "Docile Mini Snowball" ,
+                img: "../assets/img/pets/buffs/mini_snowball.png"
             },
             {
               name: "Rocketeer Costume Set" ,
@@ -34,21 +34,21 @@ export class ShopUpdatesComponent implements OnInit {
 
   randomBox = [
     {
-      date: "18/08/2023",
+      date: "02/09/2023",
       boxName : 'Random Boxes ',
       mainItem: "Mini Asgobas",
       mainItemImg: "../../assets/img/shop_updates/box_asgo.png",
       mainItems: [
         {
-          name: "Mini Alzanor Random Box",
+          name: "Knight Costume Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Mini Valehir Random Box",
+          name: "Dragon of Void Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Mini Asgobas Random Box",
+          name: "Retro Wings Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         }
 
