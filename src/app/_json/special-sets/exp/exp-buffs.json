@@ -9,7 +9,7 @@
             {
                 "name": "Aurelios Roshu's Primordial History (1)",
                 "img": "book",
-                "location": "You can get them atfter killing Old Tree Spirit boss in Lv 85-99 map $warp p1"
+                "location": "You can get it atfter completing Quest Obtain your hidden power"
             },
             {
                 "name": "Experience Potion",
@@ -42,19 +42,19 @@
                 "location": "You can get it by filling Fullness Bar"
             },
             {
-                "name": "P7 Exp Boost",
+                "name": "P3 Exp Boost",
                 "img": "p7_buff",
-                "location": "You can get it at $warp p7 from Marto's Buff NPC"
+                "location": "You can get it at $warp p3 from Marto's Buff NPC"
             },
             {
-                "name": "P8 Exp Boost",
+                "name": "P4 Exp Boost",
                 "img": "p8_buff",
-                "location": "You can get it at $warp p8 from Marto's Buff NPC"
+                "location": "You can get it at $warp p4 from Marto's Buff NPC"
             },
             {
                 "name": "Mother Nature's Tree Rune (Rare)",
                 "img": "rune",
-                "location": "You can craft it at $warp p5 in High Tier Mother Runes"
+                "location": "You can craft it at $warp p2 in High Tier Mother Runes"
             },
             {
                 "name": "Shell (Weapon)",

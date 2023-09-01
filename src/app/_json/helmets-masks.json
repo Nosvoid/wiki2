@@ -5,7 +5,7 @@
             {
                 "name": "Broken Frost Warrior Helmet",
                 "id": "broken-frost",
-                "location": "You can craft it at Kan's Rewards NPC $warp p8.2",
+                "location": "You can craft it at Kan's Rewards NPC $warp p4",
                 "buff": "broken_frost",
                 "class": "raid"
             },
@@ -19,14 +19,14 @@
             {
                 "name": "Ceremonial Helmet",
                 "id": "",
-                "location": "You can craft it at Family Tower Rewards NPC $warp p8.1",
+                "location": "You can craft it at Family Tower Rewards NPC $warp p4",
                 "buff": "ceremonial",
                 "class": "pvp"
             },
             {
                 "name": "Dark Knight Helmet",
                 "id": "",
-                "location": "You can craft it at Hardcore Rewards NPC $warp p8",
+                "location": "You can craft it at Hardcore Rewards NPC $warp p4",
                 "buff": "dark_knight_helmet",
                 "class": "raid"
             },
@@ -47,14 +47,14 @@
             {
                 "name": "Orc's Crown",
                 "id": "",
-                "location": "You can buy at Reputation Shop NPC $warp p8",
+                "location": "You can buy at Reputation Shop NPC $warp p4",
                 "buff": "orc_crown",
                 "class": "pvp"
             },
             {
                 "name": "Shadow King's Helmet",
                 "id": "",
-                "location": "You can get it from Family Tower Game Craft ($warp p8.2)",
+                "location": "You can get it from Family Tower Game Craft ($warp p4)",
                 "buff": "shadow_kings_helmet",
                 "class": "raid"
             }
@@ -73,7 +73,7 @@
             {
                 "name": "Crystal Mask",
                 "id": "",
-                "location": "You can buy at Reputation Shop NPC $warp p8",
+                "location": "You can buy at Reputation Shop NPC $warp p4",
                 "buff": "crystal_mask",
                 "class": "pvp"
             },
@@ -87,21 +87,21 @@
             {
                 "name": "Dark Knight Mask",
                 "id": "",
-                "location": "You can craft it at Hardcore Rewards NPC $warp p8",
+                "location": "You can craft it at Hardcore Rewards NPC $warp p4",
                 "buff": "dark_knight_mask",
                 "class": "raid"
             },
             {
                 "name": "Honeybee Shades",
                 "id": "",
-                "location": "You can craft it at Hardcore Rewards NPC $warp p8",
+                "location": "You can craft it at Hardcore Rewards NPC $warp p4",
                 "buff": "honeybee",
                 "class": "pvp"
             },
             {
                 "name": "Mask of the Elite",
                 "id": "mask-elite",
-                "location": "You can craft it at Kan's Rewards NPC $warp p8.2",
+                "location": "You can craft it at Kan's Rewards NPC $warp p4",
                 "buff": "mask_elite",
                 "class": "raid"
             },
@@ -115,7 +115,7 @@
             {
                 "name": "Shadow King's Mask",
                 "id": "",
-                "location": "You can get it from Family Tower Game Craft ($warp p8.2)",
+                "location": "You can get it from Family Tower Game Craft ($warp p4)",
                 "buff": "shadow_kings_mask",
                 "class": "raid"
             }

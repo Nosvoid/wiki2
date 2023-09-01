@@ -25,7 +25,7 @@
     },
     {
         "name": "Angel Wings",
-        "location": "Can be crafted at Low Tier Wings NPC $warp p1",
+        "location": "",
         "buff": "angel_buff",
         "skin": "angel_skin",
         "id": "",
@@ -33,7 +33,7 @@
     },
     {
         "name": "Archangel Wings",
-        "location": "Can be crafted at Rainbow Battle NPC in NosVille and TS Craft NPC $warp p8.2",
+        "location": "Can be crafted at Rainbow Battle NPC in NosVille and TS Craft NPC $warp p4",
         "buff": "archangel_buff",
         "skin": "archangel_skin",
         "id": "",
@@ -41,7 +41,7 @@
     },
     {
         "name": "Archdaemon Wings",
-        "location": "Can be crafted at TS Craft NPC $warp p8.2",
+        "location": "Can be crafted at TS Craft NPC $warp p4",
         "buff": "archdaemon_buff",
         "skin": "archdaemon_skin",
         "id": "",
@@ -57,7 +57,7 @@
     },
     {
         "name": "Blazing Fire Wings",
-        "location": "Can be crafted at TS Craft NPC $warp p8.2",
+        "location": "Can be crafted at TS Craft NPC $warp p4",
         "buff": "blazing_buff",
         "skin": "blazing_skin",
         "id": "",
@@ -81,7 +81,7 @@
     },
     {
         "name": "Fire Wings",
-        "location": "Can be crafted at Wings NPC $warp p2",
+        "location": "",
         "buff": "fire_buff",
         "skin": "fire_skin",
         "id": "",
@@ -89,7 +89,7 @@
     },
     {
         "name": "Frosty Ice Wings",
-        "location": "Can be crafted at TS Craft NPC $warp p8.2",
+        "location": "Can be crafted at TS Craft NPC $warp p4",
         "buff": "frosty_buff",
         "skin": "frosty_skin",
         "id": "",
@@ -105,7 +105,7 @@
     },
     {
         "name": "Ice Wings",
-        "location": "Can be crafted at Wings NPC $warp p2",
+        "location": "",
         "buff": "ice_buff",
         "skin": "ice_skin",
         "id": "",
@@ -145,7 +145,7 @@
     },
     {
         "name": "Petal Wings",
-        "location": "Can be crafted at Hardcore Rewards NPC $warp p8",
+        "location": "Can be crafted at Hardcore Rewards NPC $warp p4",
         "buff": "petal_buff",
         "skin": "petal_skin",
         "id": "",
@@ -153,7 +153,7 @@
     },
     {
         "name": "Titan Wings",
-        "location": "Can be crafted at Wings NPC $warp p2",
+        "location": "",
         "buff": "titan_buff",
         "skin": "titan_skin",
         "id": "",

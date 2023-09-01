@@ -12,14 +12,14 @@
                         "rewards": [{ "reward": "7x Random Amulet Box (Raid Quest)" }]
                     },
                     {
-                        "name": "Zenas, Erenia and Fernon",
-                        "complete": "Complete 7x Zenas, Erenia and Fernon raids",
+                        "name": "Fernon Raid",
+                        "complete": "15x Fernon Raid",
                         "rewards": [{ "reward": "7x Random Amulet Box (Raid Quest)"}]
                     }
                 ]
             },
             {
-                "name": "Prestige 7 Daily Quests",
+                "name": "Prestige 3 Daily Quests",
                 "npc": "p7_quests_npc",
                 "todo": [
                     {
@@ -45,7 +45,7 @@
                 ]
             },
             {
-                "name": "Prestige 8 Daily Quests",
+                "name": "Prestige 4 Daily Quests",
                 "npc": "p8_quests_npc",
                 "todo": [
                     {
@@ -86,7 +86,7 @@
                 ]
             },
             {
-                "name": "Prestige 8.1 Daily Quests",
+                "name": "Prestige 4 Daily Quests",
                 "npc": "p81_quests_npc",
                 "todo": [
                     {
@@ -119,7 +119,7 @@
                 ]
             },
             {
-                "name": "Prestige 9 Daily/Weekly Quests",
+                "name": "Prestige 5 Daily/Weekly Quests",
                 "npc": "p9_quests_npc",
                 "todo": [
                     {
@@ -169,31 +169,12 @@
                 "name": "NosVille Marathon Quests",
                 "npc": "p0_mara_quests_npc",
                 "todo": [
-                    {
-                        "name": "Zenas Marathon",
-                        "complete": "Complete 200x Zenas raid (Can be done once per char)",
-                        "rewards": [{ "reward": "King of Zenas Title"}]
-                    },
-                    {
-                        "name": "Erenia Marathon",
-                        "complete": "Complete 300x Erenia raid (Can be done once per char)",
-                        "rewards": [{ "reward": "King of Erenia Title"}]
-                    },
+                    
                     {
                         "name": "Fernon Marathon",
                         "complete": "Complete 400x Fernon raid (Can be done once per char)",
                         "rewards": [{ "reward": "King of Fernon Title"}]
-                    },
-                    {
-                        "name": "Zenas Marathon 2",
-                        "complete": "Complete 600x Zenas raid",
-                        "rewards": [{ "reward": "Mini Zenas Pet"}]
-                    },
-                    {
-                        "name": "Erenia Marathon 2",
-                        "complete": "Complete 700x Erenia raid",
-                        "rewards": [{ "reward": "Mini Erenia Pet"}]
-                    },
+                    },    
                     {
                         "name": "Fernon Marathon 2",
                         "complete": "Complete 900x Fernon raid",
@@ -215,6 +196,22 @@
                         "name": "Act4 Kills",
                         "complete": "Kill 750x players in Act4",
                         "rewards": [{ "reward": "1x Butcher's Soul-Spirit"}]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Books quest",
+        "quests": [
+            {
+                "name": "Obtain your hidden power",
+                "npc": "book_quest_npc",
+                "todo": [
+                    {
+                        "name": "Obtain your hidden power",
+                        "complete": "Complete 1x following raids: Accesory Raid, Fernon Raid, Kirollas Raid, Pure Beast Raid.",
+                        "rewards": [{ "reward": "Book of Powers (You will obtain all books except a4 books)."}]
                     }
                 ]
             }

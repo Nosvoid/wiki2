@@ -1,19 +1,19 @@
 [
     {
         "name": "Laurena's Set",
-        "location": "You can get this set in Accessory Raid at $warp p3",
+        "location": "You can get this set in Accessory Raid at $warp p1",
         "buff": "laurena_set",
         "class": "pvp"
     },
     {
         "name": "Lich Set",
-        "location": "You can get this set in $warp p8.2 quests, events and raids",
+        "location": "You can get this set in $warp p4 quests, events and raids",
         "buff": "licht_set",
         "class": "pvp"
     },
     {
         "name": "Dragon Set",
-        "location": "You can craft this set in $warp p9 Equipments NPC",
+        "location": "You can craft this set in $warp p5 Equipments NPC",
         "buff": "dragon_set",
         "class": "pvp"
     },
@@ -25,13 +25,13 @@
     },
     {
         "name": "Loa Set",
-        "location": "You can get this set in Accessory Raid at $warp p3",
+        "location": "You can get this set in Accessory Raid at $warp p1",
         "buff": "old_pvp_set",
         "class": "pvp"
     },
     {
         "name": "Tower",
-        "location": "You can craft this set at Tower NPC $warp p7",
+        "location": "You can craft this set at Tower NPC $warp p3",
         "buff": "tower_set",
         "class": "raid"
     },
@@ -43,13 +43,13 @@
     },
     {
         "name": "Raid Necklace",
-        "location": "You can craft it during Mouse Event and from Prestige 8.2 Time Space.",
+        "location": "You can craft it during Mouse Event and from Prestige 4 Time Space.",
         "buff": "raid_necklace",
         "class": "raid"
     },
     {
         "name": "Noble Crystal Bracelet",
-        "location": "You can craft it during Halloween Event and from Prestige 8.2 Time Space.",
+        "location": "You can craft it during Halloween Event and from Prestige 4 Time Space.",
         "buff": "noble_bracelet",
         "class": "raid"
     }

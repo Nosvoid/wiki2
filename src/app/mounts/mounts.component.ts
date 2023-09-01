@@ -54,7 +54,7 @@ export class MountsComponent implements OnInit {
     },
     {
       name: "Magical Camel",
-      location: "Obtainable from $warp p8.2 Desert Rewards NPS",
+      location: "Obtainable from $warp p4 Desert Rewards NPS",
       speed: "34",
       img: "camel"
     },
@@ -120,7 +120,7 @@ export class MountsComponent implements OnInit {
     },
     {
       name: "Magic Jaguar",
-      location: "You can craft it at Mount NPC $warp p3",
+      location: "",
       speed: "25",
       img: "magic_jaguar"
     },
