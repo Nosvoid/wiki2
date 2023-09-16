@@ -9,19 +9,19 @@ export class ShopUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "08/09/2023",
+        date: "16/09/2023",
         items: [
             {
-                name: "Gingerbread Partner Box. You can check their skills from here : https://wiki.nosvoid.com/partners",
-                img: ""
+                name: "Rocketeer Costume Set",
+                img: "../assets/img/costumes/all-sets/buffs/rocketer.png"
             },
             {
-                name: "Weapon Skin Box 'Chocolate Dream'",
-                img: "../assets/img/costumes/weapon-skins/sweet_chocolate.png"
+                name: "Dino Costume Set",
+                img: "../assets/img/costumes/all-sets/buffs/cuddly_dino_buffs.png"
             },
             {
-                name: "Fluffy Bally Pet" ,
-                img: "../assets/img/pets/buffs/fluffy_bally.png"
+                name: "Jinn Specialist Partner Card" ,
+                img: "../assets/img/psps/buffs/jinn.png"
             },
 
         ]
@@ -30,17 +30,17 @@ export class ShopUpdatesComponent implements OnInit {
 
   randomBox = [
     {
-      date: "08/09/2023",
+      date: "16/09/2023",
       boxName : 'Random Boxes ',
       mainItem: "Mini Asgobas",
       mainItemImg: "../../assets/img/shop_updates/box_asgo.png",
       mainItems: [
         {
-          name: "Batman Mask Random Box",
+          name: "Mini Alzanor Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Caligor's Golden Horn Random Box",
+          name: "Mini Valehir Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
@@ -48,7 +48,7 @@ export class ShopUpdatesComponent implements OnInit {
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Rat Hat Random Box",
+          name: "Mini Asgobas Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         }
 
