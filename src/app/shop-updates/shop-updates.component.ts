@@ -9,20 +9,24 @@ export class ShopUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "16/09/2023",
+        date: "24/09/2023",
         items: [
             {
-                name: "Rocketeer Costume Set",
-                img: "../assets/img/costumes/all-sets/buffs/rocketer.png"
+                name: "Special Amulet (Ex Academy Amulet)",
+                img: "../assets/img/shop-updates/SpecialAmulet.png"
             },
             {
-                name: "Dino Costume Set",
-                img: "../assets/img/costumes/all-sets/buffs/cuddly_dino_buffs.png"
+                name: "Bone Warrior Ragnar's Specialist Partner Card",
+                img: "../assets/img/psps/buffs/BoneWarrior.png"
             },
             {
-                name: "Jinn Specialist Partner Card" ,
-                img: "../assets/img/psps/buffs/jinn.png"
+                name: "Frozen King Costume Wings" ,
+                img: "../assets/img/costumes/wings/FrozenKing.png"
             },
+            {
+              name: "Knight Mask" ,
+              img: "../assets/img/helmets-masks/KnightMask.png"
+          },
 
         ]
     }
@@ -30,25 +34,25 @@ export class ShopUpdatesComponent implements OnInit {
 
   randomBox = [
     {
-      date: "16/09/2023",
+      date: "24/09/2023",
       boxName : 'Random Boxes ',
       mainItem: "Mini Asgobas",
       mainItemImg: "../../assets/img/shop_updates/box_asgo.png",
       mainItems: [
         {
-          name: "Mini Alzanor Random Box",
+          name: "Knigh Costume Set Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Mini Valehir Random Box",
+          name: "Rocketeer Costume Set Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Tree Wings Random Box",
+          name: "Rat Hat Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Mini Asgobas Random Box",
+          name: "Caligor's Golden Horn Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         }
 
