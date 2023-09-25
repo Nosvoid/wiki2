@@ -3,9 +3,14 @@
     {
         "regular": [
             {
-                "name": "Prestige 4 Weapon Skinss",
+                "name": "Prestige 4 Weapon Skins",
                 "img": "weapon_skins",
                 "location": "You can craft those weapon skins at Prestige 2 Rewards NPC $warp p2."
+            },
+            {
+                "name": "Special Amulet",
+                "img": "special_amulet",
+                "location": "You can get it from Fortune Wheel"
             }
             
         ]

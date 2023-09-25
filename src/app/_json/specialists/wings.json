@@ -8,6 +8,38 @@
         "class": "pvp"
     },
     {
+        "name": "Ocean Wings (Wings Swapper)",
+        "location": "From Wings Swapper Item",
+        "buff": "",
+        "skin": "ocean_wings",
+        "id": "",
+        "class": ""
+    },
+    {
+        "name": "Dark Wings (Wings Swapper)",
+        "location": "From Wings Swapper Item",
+        "buff": "",
+        "skin": "dark_wings",
+        "id": "",
+        "class": ""
+    },
+    {
+        "name": "White Pink Wings (Wings Swapper)",
+        "location": "From Wings Swapper Item",
+        "buff": "",
+        "skin": "white_pink",
+        "id": "",
+        "class": ""
+    },
+    {
+        "name": "Death Wings (Wings Swapper)",
+        "location": "From Wings Swapper Item",
+        "buff": "",
+        "skin": "death_wings",
+        "id": "",
+        "class": ""
+    },
+    {
         "name": "Eagle Wings",
         "location": "Can be bought for 900 coins in Void Mall",
         "buff": "eagle_buff",

@@ -6,6 +6,10 @@
                 "img": "amulet"
             },
             {
+                "name": "Special Amulet",
+                "img": "special_amulet"
+            },
+            {
                 "name": "Heavenly Weapon Skin",
                 "img": "heavenly"
             },
@@ -59,6 +63,10 @@
             {
                 "name": "XV Alitus' Blessing",
                 "img": "alitus"
+            },
+            {
+                "name": "Special Amulet",
+                "img": "special_amulet"
             },
             {
                 "name": "Act4 Bracelet",
