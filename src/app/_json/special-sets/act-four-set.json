@@ -12,6 +12,11 @@
                 "location": "You can craft this set at after 2.000 kills in Act4 at Achievement Craft NPC"
             },
             {
+                "name": "Frozen King Costume Wings",
+                "img": "frozen_king",
+                "location": "You can get it from Fortune Wheel"
+            },
+            {
                 "name": "Vessel Accessories",
                 "img": "vessel_accesories",
                 "location": "Can be crafted during the Vessel Event"

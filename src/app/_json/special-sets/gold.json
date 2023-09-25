@@ -26,6 +26,11 @@
                 "name": "Obsidian Necklace",
                 "img": "obsidian_necklace",
                 "location": "Can be crafted from Tower Game ($warp p3) and Family Tower Rewards NPC ($warp p4)"
+            },
+            {
+                "name": "Special Amulet",
+                "img": "special_amulet",
+                "location": "You can get it from Fortune Wheel"
             }
         ]
     },
