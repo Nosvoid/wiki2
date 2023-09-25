@@ -21,7 +21,7 @@
         "name": "Bone Warrior Ragnar",
         "id": "",
         "partner": "Can be used on [Meele] partners",
-        "location": "Can be obtained from Fortune Wheel",
+        "location": "Can be obtained from Fortune Wheel and Rainbow Battle Craft NPC",
         "buff": "bone_warrior",
         "skin": "bone_warrior",
         "class": "pvp"
