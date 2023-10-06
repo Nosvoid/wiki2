@@ -71,6 +71,13 @@
                 "class": "pvp"
             },
             {
+                "name": "Knight Mask",
+                "id": "",
+                "location": "You can get it from Fortune Wheel",
+                "buff": "knight_mask",
+                "class": "pvp"
+            },
+            {
                 "name": "Crystal Mask",
                 "id": "",
                 "location": "You can buy at Reputation Shop NPC $warp p4",

@@ -10,6 +10,11 @@
         "class": "pvp"
     },
     {
+        "name": "Frozen King Costume Wings",
+        "buff": "frozen_king",
+        "class": "pvp"
+    },
+    {
         "name": "Dino Wings",
         "buff": "dino_wings",
         "class": "pvp"

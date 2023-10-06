@@ -133,6 +133,13 @@
         "class": "fish"
     },
     {
+        "name": "Rainbow King",
+        "id": "",
+        "location": "You can craft it at Rainbow Battle Craft NPC",
+        "img": "rainbow_king",
+        "class": "pvp"
+    },
+    {
         "name": "Fox Lady",
         "id": "",
         "location": "You can craft it during the Easter Event",
