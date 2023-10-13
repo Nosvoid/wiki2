@@ -34,6 +34,7 @@ import { BattlePassComponent } from './battle-pass/battle-pass.component';
 import { FeaturesComponent } from './features/features.component';
 import { SpecialItemsComponent } from './special-items/special-items.component';
 import { WhitelistDllComponent } from './whitelist-dll/whitelist-dll.component';
+import { BalanceComponent } from './balance/balance.component';
 import { ObtainingSpsComponent } from './obtaining-sps/obtaining-sps.component';
 import { SpPerfectionComponent } from './sp-perfection/sp-perfection.component';
 import { SpUpgradeComponent } from './sp-upgrade/sp-upgrade.component';
@@ -110,6 +111,7 @@ const appRoutes: Routes = [
   { path: 'features', component: FeaturesComponent },
   { path: 'special-items', component: SpecialItemsComponent },
   { path: 'whitelist-dll', component: WhitelistDllComponent },
+  { path: 'balance', component: BalanceComponent },
   { path: 'sp-obtaining', component: ObtainingSpsComponent },
   { path: 'sp-perfection', component: SpPerfectionComponent },
   { path: 'sp-upgrade', component: SpUpgradeComponent },
@@ -187,6 +189,7 @@ const appRoutes: Routes = [
     FeaturesComponent,
     SpecialItemsComponent,
     WhitelistDllComponent,
+    BalanceComponent,
     ObtainingSpsComponent,
     SpPerfectionComponent,
     SpUpgradeComponent,
