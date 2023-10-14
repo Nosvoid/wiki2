@@ -1,20 +1,29 @@
 <!-- balance.component.html -->
 
-<div class="ramka">
+
     <h1 class="select-heading">Select</h1>
-</div>
-<br/>
-<br/>
-<br/>
+    <p class="select-description">Select the SP you are interested in and check our balance!</p>
+
+
+
 <div class="przyciski-container ramka" #przyciskiContainer>
     <!-- Tutaj będą dodawane przyciski dynamicznie -->
 </div>
 
 <div class="obrazek-popup" #obrazekPopup>
     <!-- Tutaj umieść zawartość popupu -->
-
+    <button class="zamknij" (click)="powrotDoPodprzyciskow()">Powrót</button>
+    <img [src]="wybranyObrazek" alt="Obrazek">
     <div>
         <!-- Tutaj będą wyświetlane podprzyciski -->
         <button class="przycisk przyciskPowrotu" #przyciskPowrotu></button>
     </div>
 </div>
+<div class="obrazek-popup" #obrazekPopup2>
+    <img class="obrazek" #popupObrazek />
+  </div>
+<div class="video-container">
+    <video playsinline autoplay muted loop>
+      <source src="../../assets/img/baner_video.webm">
+    </video>
+  </div>

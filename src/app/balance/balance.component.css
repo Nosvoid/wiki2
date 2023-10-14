@@ -1,102 +1,167 @@
-/* balance.component.css */
-
 .ramka {
-    border: 1px solid rgba(0, 0, 0, 0.2);
-    padding: 10px;
-    text-align: center;
-    margin: 0;
-    background-color: rgba(0, 0, 0, 0.1);
-    border-radius: 10px;
-    box-sizing: border-box;
-    width: 100%; /* Rozszerzenie na całą szerokość */
-  }
-  
-  .kategoria-container {
-    margin-bottom: 20px;
-  }
-  
-  .kategoria-nazwa {
-    font-weight: bold;
-    margin-bottom: 10px;
-  }
-  
-  .przyciski-container {
-    display: flex;
-    flex-wrap: nowrap;
-    justify-content: center;
-    overflow-x: auto;
-  }
-  
-  .przycisk {
-    border: none;
-    background: none;
-    cursor: pointer;
-    margin: 0 10px;
-  }
-  
-  .obrazek-popup {
-    display: none;
-    justify-content: center;
-    align-items: center;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: rgba(0, 0, 0, 0.8);
-  }
-  
-  .obrazek-popup img {
-    max-width: 90%;
-    max-height: 90%;
-  }
-  
-  .zamknij {
-    position: absolute;
-    top: 10px;
-    right: 10px;
-    font-size: 20px;
-    background: none;
-    border: none;
-    cursor: pointer;
-    color: white;
-    font-weight: bold;
-  }
-  
-  .przyciskPowrotu {
-    background-color: #007bff;
-    color: #fff;
-    border: none;
-    padding: 8px 16px;
-    font-size: 16px;
-    cursor: pointer;
-    margin-top: 10px;
-  }
-  
-  .przyciskPowrotu:hover {
-    background-color: #0056b3;
-  }
-  
-.nowaLinia {
-    display: block;
-    margin: 10px auto; /* Ustawienia marginesów, aby przyciski były na środku */
-  }
-  .obrazek-popup {
-    /* Style dla popupu z obrazem */
-    display: none; /* Domyślnie ukryj popup */
-    /* Dodaj inne style, takie jak pozycja, tło, itp. */
-  }
-  
-  .powrot-button {
-    /* Style dla przycisku powrotu */
-    display: none; /* Domyślnie ukryj przycisk */
-    /* Dodaj inne style, takie jak tło, kolor, itp. */
-  }
-  .select-heading {
-    background-image: linear-gradient(to right, #6e0b9a, #ff6f61); /* Dodaj gradient fioletowego koloru */
+  border: 2px solid rgba(0, 0, 0, 0.2); /* Zmiana grubości linii na 2px */
+  text-align: center;
+  margin: 0;
+  background-color: rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  box-sizing: border-box;
+  width: 100%;
+  position: relative;
+  padding: 10px;
+}
 
-    font-weight: bold; /* Opcjonalnie - aby wzmocnić tekst */
-  }
-  
-  
-  
+.kategoria-container {
+  margin-bottom: 20px;
+}
+
+.kategoria-nazwa {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.select-heading {
+  background-image: linear-gradient(to right, #08090a, #333436);
+  font-weight: bold;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+  width: fit-content;
+  position: relative; /* Zmieniamy na relative */
+  margin: 20px auto; /* Dodajemy margines od góry */
+}
+
+.przyciski-container {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  overflow-x: auto;
+  background-color: rgba(0, 0, 0, 0.3);
+  padding: 10px;
+  border-radius: 10px;
+  position: relative;
+  z-index: 0;
+}
+
+.przycisk {
+  border: none;
+  background: none;
+  cursor: pointer;
+  margin: 0 10px;
+  transition: transform 0.3s;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: rgba(255, 255, 255, 0.2);
+  border-radius: 5px;
+}
+
+.przycisk:hover {
+  transform: scale(1.1);
+}
+
+.obrazek-popup {
+  display: none;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.8);
+  z-index: 1000;
+}
+
+.obrazek-popup img {
+  max-width: 90%;
+  max-height: 90%;
+  border-radius: 10px;
+}
+
+.zamknij {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 20px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: white;
+  font-weight: bold;
+  transition: transform 0.3s;
+}
+
+.zamknij:hover {
+  transform: scale(1.2);
+}
+
+.przyciskPowrotu {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 8px 16px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-top: 10px;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+.przyciskPowrotu:hover {
+  background-color: #0056b3;
+}
+
+.nowaLinia {
+  display: block;
+  margin: 10px auto;
+}
+.select-description {
+  font-size: 20px;
+  margin-top: 5px;
+  color: #333; /* Domyślny kolor tekstu */
+  font-weight: bold; /* Opcjonalnie - aby wzmocnić tekst */
+  text-align: center; /* Opcjonalnie - dostosuj do preferencji */
+}
+.obrazek-info {
+  text-align: center;
+}
+
+.obrazek-info img {
+  max-width: 100%;
+  max-height: 200px; /* Dostosuj wysokość do preferencji */
+  border: 1px solid #333; /* Opcjonalnie - rama wokół obrazka */
+  border-radius: 5px; /* Opcjonalnie - zaokrąglenie rogów */
+  margin-bottom: 10px;
+}
+
+.obrazek-description {
+  font-size: 14px;
+  color: #333; /* Domyślny kolor tekstu */
+  font-weight: bold; /* Opcjonalnie - aby wzmocnić tekst */
+  margin-bottom: 5px;
+}
+.lewyObrazek {
+  max-width: 100%;
+  max-height: 200px; /* Dostosuj wysokość do preferencji */
+  border: 1px solid #333; /* Opcjonalnie - rama wokół obrazka */
+  border-radius: 5px; /* Opcjonalnie - zaokrąglenie rogów */
+  margin-bottom: 10px;
+}
+
+.video-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Ustaw wysokość na całą wysokość ekranu */
+  width: 100%; /* Ustaw szerokość na całą szerokość ekranu */
+  position: relative;
+}
+
+video {
+  max-width: 50%;
+  max-height: 50%;
+  width: auto;
+  height: auto;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
