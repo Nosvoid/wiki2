@@ -23,6 +23,14 @@ export class ShopUpdatesComponent implements OnInit {
                 name: "Easter Bunny Costume Set" ,
                 img: "../assets/img/costumes/all-sets/buffs/knight_buffs.png"
             },
+            {
+              name: "Docile Mini Snowball" ,
+              img: "../assets/img/pets/buffs/mini_snowball.png"
+          },
+          {
+            name: "Frost Warrior Costume Set" ,
+            img: "../assets/img/costumes/all-sets/buffs/frost_warrior_buffs.png"
+        },
 
         ]
     }
