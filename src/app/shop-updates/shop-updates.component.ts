@@ -9,24 +9,20 @@ export class ShopUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "13/10/2023",
+        date: "20/10/2023",
         items: [
             {
-                name: "(NEW) Knight Helmet",
-                img: "../assets/img/helmets-masks/KnightHelmet.png"
+                name: "Tree Wings",
+                img: "../assets/img/specialists/wings/buffs/Tree_wings.png"
             },
             {
-                name: "Bone Warrior Ragnar's Specialist Partner Card",
-                img: "../assets/img/psps/buffs/bone_warrior.png"
+                name: "Weapon Skin Box 'Chocolate Dream'",
+                img: "../assets/img/costumes/weapon-skins/sweet_chocolate.png"
             },
             {
-                name: "Knight Costume Set" ,
+                name: "Easter Bunny Costume Set" ,
                 img: "../assets/img/costumes/all-sets/buffs/knight_buffs.png"
             },
-            {
-              name: "Knight Mask" ,
-              img: "../assets/img/helmets-masks/KnightMask.png"
-          },
 
         ]
     }
@@ -34,21 +30,21 @@ export class ShopUpdatesComponent implements OnInit {
 
   randomBox = [
     {
-      date: "13/10/2023",
+      date: "20/10/2023",
       boxName : 'Random Boxes ',
       mainItem: "Mini Asgobas",
       mainItemImg: "../../assets/img/shop_updates/box_asgo.png",
       mainItems: [
         {
-          name: "Tree Wings Random Box",
+          name: "Mini Asgobas Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Rat Hat Random Box",
+          name: "Mini Alzanor Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Rocketeer Costume Set Random Box",
+          name: "Mini Valehir Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
