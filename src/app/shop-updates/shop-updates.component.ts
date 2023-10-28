@@ -13,19 +13,19 @@ export class ShopUpdatesComponent implements OnInit {
         items: [
             {
                 name: "(NEW) Monocle",
-                img: "../assets/img/helmets-masks/buffs/Monocle.png"
+                img: "../assets/img/helmets-masks/Monocle.png"
             },
             {
                 name: "(NEW) Oracle's Headband",
-                img: "../assets/img/helmets-masks/buffs/Oracle.png"
+                img: "../assets/img/helmets-masks/Oracle.png"
             },
             {
                 name: "Knight Helmet" ,
-                img: "../assets/img/helmets-masks/buffs/KnightHelmet.png"
+                img: "../assets/img/helmets-masks/KnightHelmet.png"
             },
             {
               name: "(NEW) Creepy Monk Costume Set" ,
-              img: "../assets/img/costumes/all-sets/bufs/CreepyMonk.png"
+              img: "../assets/img/costumes/all-sets/buffs/CreepyMonk.png"
           },
 
         ]
