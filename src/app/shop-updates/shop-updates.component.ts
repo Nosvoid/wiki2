@@ -9,28 +9,24 @@ export class ShopUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "20/10/2023",
+        date: "28/10/2023",
         items: [
             {
-                name: "Tree Wings",
-                img: "../assets/img/specialists/wings/buffs/Tree_wings.png"
+                name: "(NEW) Monocle",
+                img: "../assets/img/helmets-masks/buffs/Monocle.png"
             },
             {
-                name: "Weapon Skin Box 'Chocolate Dream'",
-                img: "../assets/img/costumes/weapon-skins/sweet_chocolate.png"
+                name: "(NEW) Oracle's Headband",
+                img: "../assets/img/helmets-masks/buffs/Oracle.png"
             },
             {
-                name: "Easter Bunny Costume Set" ,
-                img: "../assets/img/costumes/all-sets/buffs/knight_buffs.png"
+                name: "Knight Helmet" ,
+                img: "../assets/img/helmets-masks/buffs/KnightHelmet.png"
             },
             {
-              name: "Docile Mini Snowball" ,
-              img: "../assets/img/pets/buffs/mini_snowball.png"
+              name: "(NEW) Creepy Monk Costume Set" ,
+              img: "../assets/img/costumes/all-sets/bufs/CreepyMonk.png"
           },
-          {
-            name: "Frost Warrior Costume Set" ,
-            img: "../assets/img/costumes/all-sets/buffs/frost_warrior_buffs.png"
-        },
 
         ]
     }
@@ -38,7 +34,7 @@ export class ShopUpdatesComponent implements OnInit {
 
   randomBox = [
     {
-      date: "20/10/2023",
+      date: "28/10/2023",
       boxName : 'Random Boxes ',
       mainItem: "Mini Asgobas",
       mainItemImg: "../../assets/img/shop_updates/box_asgo.png",
