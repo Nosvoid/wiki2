@@ -480,6 +480,14 @@
         "class": "pvp"
     },
     {
+        "name": "Remastered Rainbow Pegasus",
+        "id": "",
+        "location": "Can be crafted in Rainbow Battle Exchange NPC at Nosville ",
+        "buff": "remastered_pegas",
+        "skin": "remastered_pegas",
+        "class": "pvp"
+    },
+    {
         "name": "Super Fortune Bushtail",
         "id": "",
         "location": "",

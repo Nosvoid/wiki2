@@ -12,6 +12,18 @@
         "buff": "magma_res"
     },
     {
+        "name": "Shiny Rainbow Resistances",
+        "id": "",
+        "location": "You can craft them at Beginner Rainbow Battle Exchange NPC in Nosville",
+        "buff": "shiny_rainbow"
+    },
+    {
+        "name": "Dragonlord Resistances",
+        "id": "",
+        "location": "You can craft them at arena Mithril & Medal Craft NPC",
+        "buff": "dragonlord"
+    },
+    {
         "name": "Sealed Heavenly resistances",
         "id": "",
         "location": "You can get them in Resistances Shop in Nosvile",

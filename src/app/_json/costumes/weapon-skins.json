@@ -16,6 +16,22 @@
         "class": "pvp"
     },
     {
+        "name": "Overclocked Steampunk Weapon Skins",
+        "id": "",
+        "location": "You can craft those weapon skins at Rainbow Battle Exchange NPC in Nosville",
+        "upgrade": "You can upgrade them to +3 maximum.",
+        "buff": "overclocked_steampunk",
+        "class": "pvp"
+    },
+    {
+        "name": "Remastered Frost Weapons",
+        "id": "",
+        "location": "You can craft those weapon skins at arena NPC Minthril & Cobalt Medal Craft",
+        "upgrade": "You can't upgrade them.",
+        "buff": "frost_remastered",
+        "class": "pvp"
+    },
+    {
         "name": "Sweet Chocolate Skins",
         "id": "",
         "location": "You can get it from Fortune Wheel",
