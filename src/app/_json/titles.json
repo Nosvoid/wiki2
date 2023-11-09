@@ -112,6 +112,13 @@
         "class": "fish"
     },
     {
+        "name": "Fearless",
+        "id": "",
+        "location": "You can craft it in arena NPC Mithril & Cobalt Medal Craft",
+        "img": "fearless",
+        "class": "pvp"
+    },
+    {
         "name": "Fish Merchant",
         "id": "",
         "location": "You can craft it at P6 45-50Lv Fish NPC $warp fish and or for 300 coins in Void Mall",

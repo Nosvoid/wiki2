@@ -10,6 +10,27 @@
                 "class": "raid"
             },
             {
+                "name": "Knight Helmet",
+                "id": "",
+                "location": "You can get it from Fortune Wheel",
+                "buff": "KnightHelmet",
+                "class": "pvp"
+            },
+            {
+                "name": "Magic Hat of Light",
+                "id": "",
+                "location": "You can craft it at Beginner Rainbow Battle NPC in Nosville",
+                "buff": "magic_hat_of_light",
+                "class": "pvp"
+            },
+            {
+                "name": "Morning Glory Hat",
+                "id": "",
+                "location": "You can craft it in arena NPC Mithril & Cobalt Medal Craft",
+                "buff": "morning_glory",
+                "class": "pvp"
+            },
+            {
                 "name": "Caligor's Golden Horn",
                 "id": "",
                 "location": "You can craft it at Monthly Reward NPC Act4 or in Fortune Wheel",
