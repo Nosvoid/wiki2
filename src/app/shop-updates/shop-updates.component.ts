@@ -9,23 +9,23 @@ export class ShopUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "04/11/2023",
+        date: "10/11/2023",
         items: [
             {
-                name: "Palina Specialist Partner Card",
-                img: "../assets/img/psps/buffs/palina_buff.png"
+                name: "Docile Mini Snowbal",
+                img: "../assets/img/pets/buffs/mini_snowball.png"
             },
             {
-                name: "Tree Wings",
-                img: "../assets/img/specialists/wings/buffs/Tree_wings.png"
+                name: "Special Amulet",
+                img: "../assets/img/shop-updates/SpecialAmulet.png"
             },
             {
-                name: "Bone Warrior Specialist Partner Card" ,
-                img: "../assets/img/psps/buffs/bone_warrior.png"
+                name: "Oracle" ,
+                img: "../assets/img/helmets-masks/Oracle.png"
             },
             {
-              name: "Creepy Monk Costume Set" ,
-              img: "../assets/img/costumes/all-sets/buffs/CreepyMonk.png"
+              name: "Monocle" ,
+              img: "../assets/img/helmets-masks/Monocle.png"
           },
 
         ]
@@ -34,7 +34,7 @@ export class ShopUpdatesComponent implements OnInit {
 
   randomBox = [
     {
-      date: "04/11/2023",
+      date: "10/11/2023",
       boxName : 'Random Boxes ',
       mainItem: "Mini Asgobas",
       mainItemImg: "../../assets/img/shop_updates/box_asgo.png",
@@ -52,7 +52,11 @@ export class ShopUpdatesComponent implements OnInit {
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Knight Costume Set Random Box",
+          name: "Dragon of Void Random Box",
+          img: "../../assets/img/shop_updates/box_asgo.png"
+        },
+        {
+          name: "Rat Hat Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         }
 
