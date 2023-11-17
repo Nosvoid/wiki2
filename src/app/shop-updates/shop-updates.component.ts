@@ -9,23 +9,23 @@ export class ShopUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "10/11/2023",
+        date: "17/11/2023",
         items: [
             {
-                name: "Docile Mini Snowbal",
-                img: "../assets/img/pets/buffs/mini_snowball.png"
+                name: "Betting Costume",
+                img: "../assets/img/costumes/costumes/betting_costume.png"
             },
             {
-                name: "Special Amulet",
-                img: "../assets/img/shop-updates/SpecialAmulet.png"
+                name: "Tree Wings",
+                img: "../assets/img/specialists/wings/buffs/Tree_wings.png"
             },
             {
-                name: "Oracle" ,
-                img: "../assets/img/helmets-masks/Oracle.png"
+                name: "Jinn Specialist Partner Card" ,
+                img: "../assets/img/psps/buffs/jinn.png"
             },
             {
-              name: "Monocle" ,
-              img: "../assets/img/helmets-masks/Monocle.png"
+              name: "Dark Wings Swapper (Visual)" ,
+              img: "../assets/img/specialists/wings/skins/dark_wings.png"
           },
 
         ]
@@ -34,29 +34,21 @@ export class ShopUpdatesComponent implements OnInit {
 
   randomBox = [
     {
-      date: "10/11/2023",
+      date: "17/11/2023",
       boxName : 'Random Boxes ',
       mainItem: "Mini Asgobas",
       mainItemImg: "../../assets/img/shop_updates/box_asgo.png",
       mainItems: [
         {
-          name: "Mini Asgobas Random Box",
+          name: "Knight Costume Set Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Mini Alzanor Random Box",
+          name: "Dragon of Vod Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Mini Valehir Random Box",
-          img: "../../assets/img/shop_updates/box_asgo.png"
-        },
-        {
-          name: "Dragon of Void Random Box",
-          img: "../../assets/img/shop_updates/box_asgo.png"
-        },
-        {
-          name: "Rat Hat Random Box",
+          name: "Retro Wings Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         }
 
