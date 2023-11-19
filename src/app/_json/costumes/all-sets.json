@@ -12,6 +12,18 @@
             "buff": "aqua_bushi_buffs"
         },
         {
+            "name": "Creepy Monk",
+            "location": "You can get it from Fortune Wheel",
+            "skins": "creepy_monk",
+            "buff": "creepy_monk"
+        },
+        {
+            "name": "Bloody Dracula",
+            "location": "You can get it from Halloween Event 2023",
+            "skins": "bloody_dracula",
+            "buff": "bloody_dracula"
+        },
+        {
             "name": "Rocketeer",
             "location": "You can get it from Fortune Wheel",
             "skins": "rocketer",

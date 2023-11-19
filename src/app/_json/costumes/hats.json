@@ -10,6 +10,16 @@
         "class": "pvp"
     },
     {
+        "name": "Bloody Dracula Hat",
+        "buff": "bloody_dracula_hat",
+        "class": "pvp"
+    },
+    {
+        "name": "Creepy Monk Hat",
+        "buff": "creepy_monk_hat",
+        "class": "pvp"
+    },
+    {
         "name": "Dracula Hat",
         "buff": "dracula_hat",
         "class": "pve"
