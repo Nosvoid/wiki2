@@ -11,6 +11,14 @@
                 "img": "../../assets/img/special-sets/raid-damage/heavenly.png"
             },
             {
+                "name": "Monocle",
+                "img": "../../assets/img/special-sets/raid-damage/monocle.png"
+            },
+            {
+                "name": "Oracle's Headband",
+                "img": "../../assets/img/special-sets/raid-damage/headband.png"
+            },
+            {
                 "name": "Ancient Beast Resistances",
                 "img": "../../assets/img/resistances/beast_res.png"
             },
