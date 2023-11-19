@@ -10,6 +10,16 @@
         "class": "pve"
     },
     {
+        "name": "Bloody Dracula Costume",
+        "buff": "bloody_dracula",
+        "class": "pvp"
+    },
+    {
+        "name": "Creepy Monk Costume",
+        "buff": "creepy_monk",
+        "class": "pvp"
+    },
+    {
         "name": "Rocketeer Costume",
         "buff": "rocheteer",
         "class": "raid"

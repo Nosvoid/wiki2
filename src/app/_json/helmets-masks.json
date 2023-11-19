@@ -17,6 +17,13 @@
                 "class": "pvp"
             },
             {
+                "name": "Oracle's Headband",
+                "id": "",
+                "location": "You can get it from Fortune Wheel",
+                "buff": "headband",
+                "class": "pve"
+            },
+            {
                 "name": "Magic Hat of Light",
                 "id": "",
                 "location": "You can craft it at Beginner Rainbow Battle NPC in Nosville",
@@ -97,6 +104,13 @@
                 "location": "You can get it from Fortune Wheel",
                 "buff": "knight_mask",
                 "class": "pvp"
+            },
+            {
+                "name": "Monocle",
+                "id": "",
+                "location": "You can get it from Fortune Wheel",
+                "buff": "Monocle",
+                "class": "pve"
             },
             {
                 "name": "Crystal Mask",
