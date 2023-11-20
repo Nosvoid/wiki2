@@ -1,0 +1,32 @@
+<div class="header">
+    Tattoo & Carve Runes Set
+    <div class="click-to-expand">Click to Expand</div>
+  </div>
+<div class="parent-container">
+  
+      
+<div class="container  carve-container" (click)="toggleContainer('carve')">
+    <h2>Carve Rune Set</h2>
+    <hr class="separator">
+    <div *ngIf="carveContainerOpen" class="content">
+      <div *ngFor="let icon of carveIcons; let i = index" class="icon-container">
+        <button (click)="showPopup(icon.image, 'carve', i)">
+          <img [src]="icon.icon" alt="Carve Icon" class="icon">
+        </button>
+      </div>
+    </div>
+  </div>
+  
+  <div class="container" (click)="toggleContainer('tattoo')">
+    <h2>Tattoo Set</h2>
+    <hr class="separator">
+    <div *ngIf="tattooContainerOpen" class="content">
+      <div *ngFor="let icon of tattooIcons; let i = index" class="icon-container">
+        <button (click)="showPopup(icon.image, 'tattoo', i)">
+          <img [src]="icon.icon" alt="Tattoo Icon" class="icon">
+        </button>
+      </div>
+    </div>
+    </div>
+  </div>
+  
