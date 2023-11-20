@@ -1,26 +1,32 @@
-<div class="d-flex justify-content-center">
-    <section class="double-box">
-        <h1 class="double-box-title-1">Double Box Set</h1>
-
-        <div class="double-box-system" *ngFor="let items of doublebox">
-            <h2 class="double-box-title-2">Regular Raids</h2>
-            <div class="double-box-items">
-                <div class="p-3" *ngFor="let regular of items.regular">
-                    <h3 class="double-box-title-3">{{regular.name}}</h3>
-                    <a href="../../assets/img/special-sets/double-box/{{regular.img}}.png" target="_blank">
-                        <img src="../../assets/img/special-sets/double-box/{{regular.img}}.png" alt="">
-                    </a>
-                </div>
-            </div>
-            <h2 class="double-box-title-2">Act4 Raids</h2>
-            <div class="double-box-items">
-                <div class="p-3" *ngFor="let a4 of items.a4">
-                    <h3 class="double-box-title-3">{{a4.name}}</h3>
-                    <a href="../../assets/img/special-sets/double-box/{{a4.img}}.png" target="_blank">
-                        <img src="../../assets/img/special-sets/double-box/{{a4.img}}.png" alt="">
-                    </a>
-                </div>
-            </div>
-        </div>
-    </section>
-</div>
+<div class="header">
+    Tattoo & Carve Runes Set
+    <div class="click-to-expand">Click to Expand</div>
+  </div>
+<div class="parent-container">
+  
+      
+<div class="container  carve-container" (click)="toggleContainer('carve')">
+    <h2>Carve Rune Set</h2>
+    <hr class="separator">
+    <div *ngIf="carveContainerOpen" class="content">
+      <div *ngFor="let icon of carveIcons; let i = index" class="icon-container">
+        <button (click)="showPopup(icon.image, 'carve', i)">
+          <img [src]="icon.icon" alt="Carve Icon" class="icon">
+        </button>
+      </div>
+    </div>
+  </div>
+  
+  <div class="container" (click)="toggleContainer('tattoo')">
+    <h2>Tattoo Set</h2>
+    <hr class="separator">
+    <div *ngIf="tattooContainerOpen" class="content">
+      <div *ngFor="let icon of tattooIcons; let i = index" class="icon-container">
+        <button (click)="showPopup(icon.image, 'tattoo', i)">
+          <img [src]="icon.icon" alt="Tattoo Icon" class="icon">
+        </button>
+      </div>
+    </div>
+    </div>
+  </div>
+  
