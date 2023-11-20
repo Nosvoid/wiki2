@@ -1,0 +1,26 @@
+<div class="d-flex justify-content-center">
+    <section class="double-box">
+        <h1 class="double-box-title-1">Double Box Set</h1>
+
+        <div class="double-box-system" *ngFor="let items of doublebox">
+            <h2 class="double-box-title-2">Regular Raids</h2>
+            <div class="double-box-items">
+                <div class="p-3" *ngFor="let regular of items.regular">
+                    <h3 class="double-box-title-3">{{regular.name}}</h3>
+                    <a href="../../assets/img/special-sets/double-box/{{regular.img}}.png" target="_blank">
+                        <img src="../../assets/img/special-sets/double-box/{{regular.img}}.png" alt="">
+                    </a>
+                </div>
+            </div>
+            <h2 class="double-box-title-2">Act4 Raids</h2>
+            <div class="double-box-items">
+                <div class="p-3" *ngFor="let a4 of items.a4">
+                    <h3 class="double-box-title-3">{{a4.name}}</h3>
+                    <a href="../../assets/img/special-sets/double-box/{{a4.img}}.png" target="_blank">
+                        <img src="../../assets/img/special-sets/double-box/{{a4.img}}.png" alt="">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
