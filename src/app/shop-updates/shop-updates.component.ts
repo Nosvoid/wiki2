@@ -9,23 +9,23 @@ export class ShopUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "17/11/2023",
+        date: "24/11/2023",
         items: [
             {
-                name: "Betting Costume",
-                img: "../assets/img/costumes/costumes/betting_costume.png"
+                name: "Rocketeer Costume Set",
+                img: "../assets/img/costumes/all-sets/buffs/rocketer.png"
             },
             {
-                name: "Tree Wings",
-                img: "../assets/img/specialists/wings/buffs/Tree_wings.png"
+                name: "Creepy Monk Costume Set",
+                img: "../assets/img/costumes/all-sets/buffs/CreepyMonk.png"
             },
             {
-                name: "Jinn Specialist Partner Card" ,
-                img: "../assets/img/psps/buffs/jinn.png"
+                name: "Death Fire Wings Swapper" ,
+                img: "../assets/img/specialits/wings/skins/deathfireap.png"
             },
             {
-              name: "Dark Wings Swapper (Visual)" ,
-              img: "../assets/img/specialists/wings/skins/dark_wings.png"
+              name: "Spooky Wings Swapper" ,
+              img: "../assets/img/specialits/wings/skins/spooky.png"
           },
 
         ]
@@ -34,21 +34,21 @@ export class ShopUpdatesComponent implements OnInit {
 
   randomBox = [
     {
-      date: "17/11/2023",
+      date: "24/11/2023",
       boxName : 'Random Boxes ',
       mainItem: "Mini Asgobas",
       mainItemImg: "../../assets/img/shop_updates/box_asgo.png",
       mainItems: [
         {
-          name: "Knight Costume Set Random Box",
+          name: "Mini Asgobas Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Dragon of Vod Random Box",
+          name: "Mini Alzanor Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Retro Wings Random Box",
+          name: "Mini Valehir Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         }
 
