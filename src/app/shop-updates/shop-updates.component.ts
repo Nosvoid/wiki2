@@ -21,11 +21,11 @@ export class ShopUpdatesComponent implements OnInit {
             },
             {
                 name: "Death Fire Wings Swapper" ,
-                img: "../assets/img/specialits/wings/skins/deathfireap.png"
+                img: "../assets/img/specialists/wings/skins/deathfireap.png"
             },
             {
               name: "Spooky Wings Swapper" ,
-              img: "../assets/img/specialits/wings/skins/spooky.png"
+              img: "../assets/img/specialists/wings/skins/spooky.png"
           },
 
         ]
