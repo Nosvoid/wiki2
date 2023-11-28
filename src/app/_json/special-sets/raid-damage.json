@@ -4,71 +4,71 @@
         "items": [
             {
                 "name": "Aesthetic Amulet",
-                "img": "../../assets/img/special-sets/raid-damage/amulet.png"
+                "img": "/img/special-sets/raid-damage/amulet.png"
             },
             {
                 "name": "Heavenly Weapon Skins",
-                "img": "../../assets/img/special-sets/raid-damage/heavenly.png"
+                "img": "/img/special-sets/raid-damage/heavenly.png"
             },
             {
                 "name": "Monocle",
-                "img": "../../assets/img/special-sets/raid-damage/monocle.png"
+                "img": "/img/special-sets/raid-damage/monocle.png"
             },
             {
                 "name": "Oracle's Headband",
-                "img": "../../assets/img/special-sets/raid-damage/headband.png"
+                "img": "/img/special-sets/raid-damage/headband.png"
             },
             {
                 "name": "Ancient Beast Resistances",
-                "img": "../../assets/img/resistances/beast_res.png"
+                "img": "/img/resistances/beast_res.png"
             },
             {
                 "name": "PVE Shadow Magma Resistances",
-                "img": "../../assets/img/resistances/shadow_magma_pve.png"
+                "img": "/img/resistances/shadow_magma_pve.png"
             },
             {
                 "name": "Candy Skin",
-                "img": "../../assets/img/costumes/weapon-skins/candy.png"
+                "img": "/img/costumes/weapon-skins/candy.png"
             },
             {
                 "name": "Lava Ghost Helmet",
-                "img": "../../assets/img/helmets-masks/lava_helmet.png"
+                "img": "/img/helmets-masks/lava_helmet.png"
             },
             {
                 "name": "Broken Frost Warrior Helmet",
-                "img": "../../assets/img/helmets-masks/broken_frost.png"
+                "img": "/img/helmets-masks/broken_frost.png"
             },
             {
                 "name": "Mask of the Elite",
-                "img": "../../assets/img/helmets-masks/mask_elite.png"
+                "img": "/img/helmets-masks/mask_elite.png"
             },
             {
                 "name": "Robber Mask",
-                "img": "../../assets/img/helmets-masks/robber_mask.png"
+                "img": "/img/helmets-masks/robber_mask.png"
             },
             {
                 "name": "Shadow King's & Dark Knight's Helmet",
-                "img": "../../assets/img/special-sets/raid-damage/helmets.png"
+                "img": "/img/special-sets/raid-damage/helmets.png"
             },
             {
                 "name": "Shadow King's & Dark Knight's Masks",
-                "img": "../../assets/img/special-sets/raid-damage/masks.png"
+                "img": "/img/special-sets/raid-damage/masks.png"
             },
             {
                 "name": "Obsidian Bracelet",
-                "img": "../../assets/img/special-sets/raid-damage/obsidian_bracelet.png"
+                "img": "/img/special-sets/raid-damage/obsidian_bracelet.png"
             },
             {
                 "name": "Obsidian Ring",
-                "img": "../../assets/img/special-sets/raid-damage/obsidian_ring.png"
+                "img": "/img/special-sets/raid-damage/obsidian_ring.png"
             },
             {
                 "name": "Noble Crystal Bracelet",
-                "img": "../../assets/img/special-sets/raid-damage/noble_bracelet.png"
+                "img": "/img/special-sets/raid-damage/noble_bracelet.png"
             },
             {
                 "name": "Raid Necklace",
-                "img": "../../assets/img/special-sets/raid-damage/raid_necklace.png"
+                "img": "/img/special-sets/raid-damage/raid_necklace.png"
             }
         ]
     },
@@ -77,43 +77,43 @@
         "items": [
             {
                 "name": "Rocketeer Wings",
-                "img": "../../assets/img/costumes/wings/rocheteer.png"
+                "img": "/img/costumes/wings/rocheteer.png"
             },
             {
                 "name": "Rocketeer Costume",
-                "img": "../../assets/img/costumes/costumes/rocheteer.png"
+                "img": "/img/costumes/costumes/rocheteer.png"
             },
             {
                 "name": "Easter Bunny Hat",
-                "img": "../../assets/img/costumes/hats/easter_bunny_hat.png"
+                "img": "/img/costumes/hats/easter_bunny_hat.png"
             },
             {
                 "name": "Wonderland Hat",
-                "img": "../../assets/img/costumes/hats/wonderland_hat.png"
+                "img": "/img/costumes/hats/wonderland_hat.png"
             },
             {
                 "name": "Honeybee Crown",
-                "img": "../../assets/img/costumes/hats/honeybee_hat.png"
+                "img": "/img/costumes/hats/honeybee_hat.png"
             },
             {
                 "name": "Plague Doctor Set",
-                "img": "../../assets/img/costumes/all-sets/buffs/plague_doctor_buffs.png"
+                "img": "/img/costumes/all-sets/buffs/plague_doctor_buffs.png"
             },
             {
                 "name": "Reindeer Costume",
-                "img": "../../assets/img/costumes/costumes/reindeer_costume.png"
+                "img": "/img/costumes/costumes/reindeer_costume.png"
             },
             {
                 "name": "Desert Wings",
-                "img": "../../assets/img/costumes/wings/desert_wings.png"
+                "img": "/img/costumes/wings/desert_wings.png"
             },
             {
                 "name": "Hawaii Wings",
-                "img": "../../assets/img/costumes/wings/hawaii_wings.png"
+                "img": "/img/costumes/wings/hawaii_wings.png"
             },
             {
                 "name": "Ice Witch Wings",
-                "img": "../../assets/img/costumes/wings/ice_witch_wings.png"
+                "img": "/img/costumes/wings/ice_witch_wings.png"
             }
         ]
     },
@@ -122,11 +122,11 @@
         "items": [
             {
                 "name": "Zephyr Wings",
-                "img": "../../assets/img/specialists/wings/buffs/zephyr_buff.png"
+                "img": "/img/specialists/wings/buffs/zephyr_buff.png"
             },
             {
                 "name": "Petal Wings",
-                "img": "../../assets/img/specialists/wings/buffs/petal_buff.png"
+                "img": "/img/specialists/wings/buffs/petal_buff.png"
             }
         ]
     },
@@ -135,27 +135,27 @@
         "items": [
             {
                 "name": "Mini Valehir",
-                "img": "../../assets/img/special-sets/raid-damage/valehir.png"
+                "img": "/img/special-sets/raid-damage/valehir.png"
             },
             {
                 "name": "Darkfrost Snowman",
-                "img": "../../assets/img/pets/buffs/darkfrost_snowman.png"
+                "img": "/img/pets/buffs/darkfrost_snowman.png"
             },
             {
                 "name": "Fibi Frosty",
-                "img": "../../assets/img/pets/buffs/fibi.png"
+                "img": "/img/pets/buffs/fibi.png"
             },
             {
                 "name": "Long Legged Spider",
-                "img": "../../assets/img/pets/buffs/long_legged_spider.png"
+                "img": "/img/pets/buffs/long_legged_spider.png"
             },
             {
                 "name": "Mini Fernon",
-                "img": "../../assets/img/pets/buffs/mini_fernon.png"
+                "img": "/img/pets/buffs/mini_fernon.png"
             },
             {
                 "name": "Vampie",
-                "img": "../../assets/img/pets/buffs/devil_vampie.png"
+                "img": "/img/pets/buffs/devil_vampie.png"
             }
         ]
     },
@@ -164,19 +164,19 @@
         "items": [
             {
                 "name": "Akhenaton",
-                "img": "../../assets/img/psps/buffs/akhenaton.png"
+                "img": "/img/psps/buffs/akhenaton.png"
             },
             {
                 "name": "Eliza",
-                "img": "../../assets/img/psps/buffs/eliza.png"
+                "img": "/img/psps/buffs/eliza.png"
             },
             {
                 "name": "Lucy Lopears'",
-                "img": "../../assets/img/psps/buffs/lucy.png"
+                "img": "/img/psps/buffs/lucy.png"
             },
             {
                 "name": "Venus",
-                "img": "../../assets/img/psps/buffs/venus.png"
+                "img": "/img/psps/buffs/venus.png"
             }
         ]
     },
@@ -185,11 +185,11 @@
         "items": [
             {
                 "name": "King/Queen of Raids",
-                "img": "../../assets/img/titles/king_of_raids.png"
+                "img": "/img/titles/king_of_raids.png"
             },
             {
                 "name": "Master of the Sea",
-                "img": "../../assets/img/titles/master_of_the_sea.png"
+                "img": "/img/titles/master_of_the_sea.png"
             }
         ]
     }

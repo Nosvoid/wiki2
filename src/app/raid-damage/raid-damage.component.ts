@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { Router, ActivatedRoute } from '@angular/router';  // Dodaj import
 
 import raidDamageData from "../_json/special-sets/raid-damage.json";
 
@@ -12,11 +13,6 @@ interface Items {
   img: String;
 }
 
-function hello() {
-  alert("hello");
-}
-
-
 @Component({
   selector: 'app-raid-damage',
   templateUrl: './raid-damage.component.html',
@@ -24,9 +20,8 @@ function hello() {
 })
 export class RaidDamageComponent implements OnInit {
 
-  
-
-  constructor() { }
+  // Dodaj Router i ActivatedRoute do konstruktora
+  constructor(private router: Router, private route: ActivatedRoute) { }
 
   ngOnInit(): void {
        
