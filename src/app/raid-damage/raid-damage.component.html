@@ -6,9 +6,9 @@
             <div class="raid-damage-items">
                 <div class="p-3" *ngFor="let items of type.items">
                     <h3 class="raid-damage-title-3">{{items.name}}</h3>
-                    <a href="../../assets/img/special-sets/raid-damage/{{items.img}}.png" target="_blank">
-                        <img src="{{items.img}}" alt="">
-                    </a>
+                    <a [routerLink]="['/', 'assets', items.img]" target="_blank">
+                        <img [src]="'/assets' + items.img" alt="">
+                      </a>
                 </div>
             </div>
         </div>
