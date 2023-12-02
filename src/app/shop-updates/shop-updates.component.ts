@@ -9,23 +9,23 @@ export class ShopUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "24/11/2023",
+        date: "02/12/2023",
         items: [
             {
-                name: "Rocketeer Costume Set",
-                img: "../assets/img/costumes/all-sets/buffs/rocketer.png"
+                name: "Bone Warrior Specialist Partner Card",
+                img: "../assets/img/psps/buffs/BoneWarrior.png"
             },
             {
-                name: "Creepy Monk Costume Set",
-                img: "../assets/img/costumes/all-sets/buffs/CreepyMonk.png"
+                name: "Knight Mask",
+                img: "../assets/img/helmets-masks/KnightMask.png"
             },
             {
-                name: "Death Fire Wings Swapper" ,
-                img: "../assets/img/specialists/wings/skins/deathfireap.png"
+                name: "Knight Helmet" ,
+                img: "../assets/img/helmets-masks/KnightHelmet.png"
             },
             {
-              name: "Spooky Wings Swapper" ,
-              img: "../assets/img/specialists/wings/skins/spooky.png"
+              name: "Frozen King Costume Wings" ,
+              img: "../assets/img/costumes/wings/FrozenKing.png"
           },
 
         ]
@@ -34,7 +34,7 @@ export class ShopUpdatesComponent implements OnInit {
 
   randomBox = [
     {
-      date: "24/11/2023",
+      date: "02/12/2023",
       boxName : 'Random Boxes ',
       mainItem: "Mini Asgobas",
       mainItemImg: "../../assets/img/shop_updates/box_asgo.png",
