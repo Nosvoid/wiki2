@@ -9,23 +9,23 @@ export class ShopUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "02/12/2023",
+        date: "15/12/2023",
         items: [
             {
-                name: "Bone Warrior Specialist Partner Card",
+                name: "Bloody Dracula Costume Set",
+                img: "../assets/img/costumes/all-sets/buffs/bloody_dracula.png"
+            },
+            {
+                name: "Creepy Monk Costume Set",
+                img: "../assets/img/costumes/all-sets/buffs/CreepyMonk.png"
+            },
+            {
+                name: "Bone Warrior Ragnar's Specialist Partner Card",
                 img: "../assets/img/psps/buffs/BoneWarrior.png"
             },
             {
-                name: "Knight Mask",
-                img: "../assets/img/helmets-masks/KnightMask.png"
-            },
-            {
-                name: "Knight Helmet" ,
-                img: "../assets/img/helmets-masks/KnightHelmet.png"
-            },
-            {
-              name: "Frozen King Costume Wings" ,
-              img: "../assets/img/costumes/wings/FrozenKing.png"
+              name: "Dino Costume Set" ,
+              img: "../assets/img/costumes/all-sets/buffs/cuddly_dino_buffs.png"
           },
 
         ]
@@ -34,21 +34,25 @@ export class ShopUpdatesComponent implements OnInit {
 
   randomBox = [
     {
-      date: "02/12/2023",
+      date: "15/12/2023",
       boxName : 'Random Boxes ',
       mainItem: "Mini Asgobas",
       mainItemImg: "../../assets/img/shop_updates/box_asgo.png",
       mainItems: [
         {
-          name: "Mini Asgobas Random Box",
-          img: "../../assets/img/shop_updates/box_asgo.png"
-        },
-        {
           name: "Mini Alzanor Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
+          name: "Mini Asgobas Random Box",
+          img: "../../assets/img/shop_updates/box_asgo.png"
+        },
+        {
           name: "Mini Valehir Random Box",
+          img: "../../assets/img/shop_updates/box_asgo.png"
+        },
+        {
+          name: "Dragon of Void Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         }
 
