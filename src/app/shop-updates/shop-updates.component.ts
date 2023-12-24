@@ -13,11 +13,11 @@ export class ShopUpdatesComponent implements OnInit {
         items: [
             {
                 name: "Monocle",
-                img: "../assets/img/costumes/helmets-masks/Monocle.png"
+                img: "../assets/img/helmets-masks/Monocle.png"
             },
             {
                 name: "Oracle",
-                img: "../assets/img/costumes/helmets-masks/Oracle.png"
+                img: "../assets/img/helmets-masks/Oracle.png"
             },
             {
                 name: "Santa's Battle Wings Swapper",
