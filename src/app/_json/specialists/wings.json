@@ -89,7 +89,7 @@
     },
     {
         "name": "Death Fire Wings",
-        "location": "From Wings Swapper Item",
+        "location": "From Halloween Event (It's actual wings, not swapper)",
         "buff": "DeathFireWingsBuff",
         "skin": "Death_fire",
         "id": "",
@@ -97,7 +97,7 @@
     },
     {
         "name": "Santa's Battle Wings",
-        "location": "From Wings Swapper Item",
+        "location": "From Xmas Event (It's actual wings, not swapper)",
         "buff": "SantaBattleBuff",
         "skin": "Santas_Battle",
         "id": "",
