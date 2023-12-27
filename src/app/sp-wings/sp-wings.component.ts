@@ -20,6 +20,7 @@ function filter() {
       let goldItems = document.querySelectorAll('.gold');
       let bettingItems = document.querySelectorAll('.betting');
       let perfingItems = document.querySelectorAll('.perfing');
+      let swapperItems = document.querySelectorAll('.swapper');
 
       switch(filterValue) {
           case "All":
@@ -78,6 +79,22 @@ function filter() {
               });
           
               break;
+
+              case "Swapper":
+                swapperItems.forEach(element => {
+                    element.classList.add('display-none');
+                });
+                pvpItems.forEach(element => {
+                    element.classList.add('display-none');
+               
+                });
+                goldItems.forEach(element => {
+                    element.classList.remove('display-none');
+                });
+            
+                break;
+
+              
       }
   });
 }
