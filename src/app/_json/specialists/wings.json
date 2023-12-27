@@ -8,6 +8,30 @@
         "class": "pvp"
     },
     {
+        "name": "Santa's Battle Wings (Wings Swapper)",
+        "location": "From Wings Swapper Item",
+        "buff": "",
+        "skin": "Santas_Battle",
+        "id": "",
+        "class": ""
+    },
+    {
+        "name": "Christmas Tree Wings (Wings Swapper)",
+        "location": "From Wings Swapper Item",
+        "buff": "",
+        "skin": "Christmas_tree",
+        "id": "",
+        "class": ""
+    },
+    {
+        "name": "Death Fire Wings (Wings Swapper)",
+        "location": "From Wings Swapper Item",
+        "buff": "",
+        "skin": "Death_fire",
+        "id": "",
+        "class": ""
+    },
+    {
         "name": "Ocean Wings (Wings Swapper)",
         "location": "From Wings Swapper Item",
         "buff": "",
@@ -20,6 +44,22 @@
         "location": "From Wings Swapper Item",
         "buff": "",
         "skin": "Porcelain",
+        "id": "",
+        "class": ""
+    },
+    {
+        "name": "Rose Wings (Wings Swapper)",
+        "location": "From Wings Swapper Item",
+        "buff": "",
+        "skin": "Rose",
+        "id": "",
+        "class": ""
+    },
+    {
+        "name": "White Angel (Wings Swapper)",
+        "location": "From Wings Swapper Item",
+        "buff": "",
+        "skin": "White_angel",
         "id": "",
         "class": ""
     },
@@ -44,6 +84,22 @@
         "location": "From Wings Swapper Item",
         "buff": "",
         "skin": "death_wings",
+        "id": "",
+        "class": ""
+    },
+    {
+        "name": "Death Fire Wings",
+        "location": "From Wings Swapper Item",
+        "buff": "DeathFireWingsBuff",
+        "skin": "Death_fire",
+        "id": "",
+        "class": ""
+    },
+    {
+        "name": "Santa's Battle Wings",
+        "location": "From Wings Swapper Item",
+        "buff": "SantaBattleBuff",
+        "skin": "Santas_Battle",
         "id": "",
         "class": ""
     },
