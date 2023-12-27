@@ -84,13 +84,6 @@ function filter() {
                 swapperItems.forEach(element => {
                     element.classList.add('display-none');
                 });
-                pvpItems.forEach(element => {
-                    element.classList.add('display-none');
-               
-                });
-                goldItems.forEach(element => {
-                    element.classList.remove('display-none');
-                });
             
                 break;
 
