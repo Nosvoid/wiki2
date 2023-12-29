@@ -13,11 +13,11 @@ export class ShopUpdatesComponent implements OnInit {
         items: [
             {
                 name: "Weapon Skin Box 'Chocolate Dream'",
-                img: "../assets/img/costumes/weapon-skins/candy.png"
+                img: "../assets/img/costumes/weapon-skins/sweet_chocolate.png"
             },
             {
-                name: "Knight Helmet",
-                img: "../assets/img/helmets-masks/KnightMask.png"
+                name: "Special Amulet",
+                img: "../assets/img/shop-updates/SpecialAmulet.png"
             },
             {
                 name: "Frozen King Costume Wings",
