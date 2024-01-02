@@ -213,7 +213,7 @@ export class CookingSpComponent implements OnInit {
         {
           icon: "crispy_noodles",
           name: "Crispy Noodles",
-          buff: "+5% More R7/R8 when betting"
+          buff: "+2% More R7/R8 when betting"
         },
         {
           icon: "spicy_fried_fish",
