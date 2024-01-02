@@ -98,7 +98,7 @@ export class CookingSpComponent implements OnInit {
         {
           icon: "roast_pork",
           name: "Roast Pork",
-          buff: "+5% Gold"
+          buff: "+2% Gold"
         },
         {
           icon: "piranha_fish_skewer",
@@ -118,7 +118,7 @@ export class CookingSpComponent implements OnInit {
         {
           icon: "mixed_piranha_skewer",
           name: "Mixed Piranha Skewer",
-          buff: "+5% Damage on monsters"
+          buff: "+5% Damage in PvE"
         },
         {
           icon: "carp_skewer",
@@ -138,12 +138,12 @@ export class CookingSpComponent implements OnInit {
         {
           icon: "bbq_coelacanth",
           name: "BBQ Coelacanth",
-          buff: "+5% Damage in Family Tower"
+          buff: "+5% Damage in Towers"
         },
         {
           icon: "roast_lamb",
           name: "Roast Lamb",
-          buff: "+10% Chance of catching a bigger fish"
+          buff: "+5% Chance of catching a bigger fish"
         }
       ]
     },
@@ -183,7 +183,7 @@ export class CookingSpComponent implements OnInit {
         {
           icon: "cold_desert_stew",
           name: "Cold Desert Stew",
-          buff: "+5% Chance materials aren't consumed when cooking"
+          buff: "+5% Maximum HP & MP"
         }
       ]
     },
@@ -218,7 +218,7 @@ export class CookingSpComponent implements OnInit {
         {
           icon: "spicy_fried_fish",
           name: "Spicy Fried Fish",
-          buff: "+5% Success when Perfing SP"
+          buff: "+2% Success when Perfing SP"
         },
         {
           icon: "fried_fish_noodle",
