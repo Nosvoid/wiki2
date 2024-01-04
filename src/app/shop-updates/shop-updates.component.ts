@@ -9,23 +9,23 @@ export class ShopUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "29/12/2023",
+        date: "05/01/2024",
         items: [
             {
-                name: "Weapon Skin Box 'Chocolate Dream'",
-                img: "../assets/img/costumes/weapon-skins/sweet_chocolate.png"
+                name: "Mini Pet 'Phoenix'",
+                img: "../assets/img/shop-updates/PhoenixPet.png"
             },
             {
-                name: "Special Amulet",
-                img: "../assets/img/shop-updates/SpecialAmulet.png"
+                name: "Mini Pet 'Blue Phoenix'",
+                img: "../assets/img/shop-updates/BluePhoenix.png"
             },
             {
-                name: "Frozen King Costume Wings",
-                img: "../assets/img/costumes/wings/FrozenKing.png"
+                name: "Steampunk Wings",
+                img: "../assets/img/specialists/wings/buffs/Steampunk.png"
             },
             {
-              name: "Gingerbread Partner Box ( Check buffs at https://wiki.nosvoid.com/partners )" ,
-              img: ""
+              name: "Knight Helmet" ,
+              img: "../assets/img/helmets-masks/KnightHelmet.png"
           },
 
         ]
@@ -34,7 +34,7 @@ export class ShopUpdatesComponent implements OnInit {
 
   randomBox = [
     {
-      date: "29/12/2023",
+      date: "05/01/2024",
       boxName : 'Random Boxes ',
       mainItem: "Mini Asgobas",
       mainItemImg: "../../assets/img/shop_updates/box_asgo.png",
