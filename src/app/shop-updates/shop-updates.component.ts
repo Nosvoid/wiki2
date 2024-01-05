@@ -24,8 +24,8 @@ export class ShopUpdatesComponent implements OnInit {
                 img: "../assets/img/specialists/wings/buffs/Steampunk.png"
             },
             {
-              name: "Knight Helmet" ,
-              img: "../assets/img/helmets-masks/KnightHelmet.png"
+              name: "Baby Dander Pet" ,
+              img: "../assets/img/pets/buffs/BabyDander.png"
           },
 
         ]
