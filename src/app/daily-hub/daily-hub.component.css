@@ -1,0 +1,116 @@
+/* daily-hub.component.css */
+
+.daily-hub {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+     color: #a30273;
+     
+     
+  }
+  
+  .button-container {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .button-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    cursor: pointer;
+  }
+  
+  img {
+    width: 100px; /* Dostosuj szerokość obrazu według potrzeb */
+    height: 100px; /* Dostosuj wysokość obrazu według potrzeb */
+    object-fit: contain; /* Zapewnij, aby obraz był w całości widoczny wewnątrz kontenera */
+    margin-bottom: 5px;
+  }
+  
+  span {
+    color: #8e44ad; /* Kolor fioletowy */
+    font-weight: bold; /* Pogrubienie tekstu */
+  }
+  
+  .description {
+    background: linear-gradient(to right, #8e44ad, #c0392b);
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    width: 300px; /* Dostosuj szerokość opisu według potrzeb */
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .button-name {
+    color: purple; /* Kolor fioletowy */
+    font-weight: bold; /* Pogrubienie tekstu */
+  } 
+  .page-title {
+    color: rgb(255, 255, 255); /* Kolor fioletowy */
+    text-align: center; /* Wyrównanie do środka */
+    margin-bottom: 10px; /* Dodane, aby oddzielić od następnego elementu */
+    text-decoration: underline; /* Podkreślenie tekstu */
+  }
+  
+  .sub-title {
+    color: rgb(255, 255, 255); /* Kolor fioletowy */
+    text-align: center; /* Wyrównanie do środka */
+    margin-bottom: 20px; /* Dodane, aby oddzielić od następnego elementu */
+  }
+  
+  .button-container {
+    display: flex;
+    flex-wrap: wrap; /* Dodane, aby przyciski układały się w kolejne linie, jeśli nie mieściły się na jednym wierszu */
+  }
+  
+  .button-item {
+    margin-right: 10px;
+    position: relative;
+  }
+  
+  .description {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #fff;
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .button-name {
+    color: rgb(0, 0, 0); /* Kolor fioletowy */
+    font-weight: bold; /* Pogrubienie tekstu */
+  }
+.page-title {
+    font-family: 'Edu SA Beginner', cursive;
+    display: flex;
+    justify-content: center;
+    font-size: 3rem;
+    
+
+}
+.daily-hub {
+    text-align: center;
+  }
+  .category-container {
+    margin-top: 20px;
+  }
+  
+  .category-wrapper {
+    background-color: rgba(0, 0, 0, 0.7); /* Przezroczysty ciemny prostokąt jako tło */
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 2px solid #800080; /* Obramowanie dla kategorii */
+  }
+  .button-container {
+    display: flex;
+    flex-wrap: wrap; /* Dodane, aby przyciski układały się w kolejne linie, jeśli nie mieściły się na jednym wierszu */
+    justify-content: center; /* Dodałem, aby przyciski były wyśrodkowane */
+    border: 2px solid #a30273; /* Obramowanie dla przycisków */
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    padding: 10px;
+  }

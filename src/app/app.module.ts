@@ -26,6 +26,7 @@ import { ResistancesComponent } from './resistances/resistances.component';
 import { BooksComponent } from './books/books.component';
 import { RaidsComponent } from './raids/raids.component';
 import { DailyQuestsComponent } from './daily-quests/daily-quests.component';
+import { DailyHubComponent } from './daily-hub/daily-hub.component';
 import { BadgesComponent } from './badges/badges.component';
 import { PartnersComponent } from './partners/partners.component';
 import { PspsComponent } from './psps/psps.component';
@@ -104,6 +105,7 @@ const appRoutes: Routes = [
   { path: 'books', component: BooksComponent },
   { path: 'raids', component: RaidsComponent },
   { path: 'daily-quests', component: DailyQuestsComponent },
+  { path: 'daily-hub', component: DailyHubComponent },
   { path: 'badges', component: BadgesComponent },
   { path: 'partners', component: PartnersComponent },
   { path: 'psps', component: PspsComponent },
@@ -183,6 +185,7 @@ const appRoutes: Routes = [
     BooksComponent,
     RaidsComponent,
     DailyQuestsComponent,
+    DailyHubComponent,
     BadgesComponent,
     PartnersComponent,
     PspsComponent,
