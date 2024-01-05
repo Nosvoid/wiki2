@@ -1,0 +1,23 @@
+<!-- daily-hub.component.html -->
+
+<div class="daily-hub">
+    <BR/>
+    <BR/>
+    <h1 class="page-title">Quests</h1>
+<BR/>
+<BR/>
+<p>click on npc</p>
+<BR/>
+    
+    <div *ngFor="let category of categories" class="category-container">
+      <h3>{{ category.name }}</h3>
+      <div class="button-container">
+        <div *ngFor="let item of category.items" class="button-item" (click)="toggleDescription(item)">
+          <img *ngIf="item.icon" src="assets/img/daily-hub/{{ item.icon }}" alt="{{ item.name }}" />
+          <div *ngIf="selectedItem === item" class="description" [innerHTML]="item.description"></div>
+          <div class="button-name">{{ item.name }}</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
