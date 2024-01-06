@@ -25,7 +25,7 @@ export class MountsComponent implements OnInit {
     {
       name: "Magic Sleigh with Red-nosed Reindeer",
       location: "Obtainable in Winter Event",
-      speed: "34",
+      speed: "31",
       img: "magic_sleigh"
     },
     {
@@ -37,7 +37,7 @@ export class MountsComponent implements OnInit {
     {
       name: "12th Anniversary Speedy Alpaca",
       location: "Obtainable from Nosmall",
-      speed: "34",
+      speed: "28",
       img: "speedy_alpaca"
     },
     {
@@ -49,19 +49,19 @@ export class MountsComponent implements OnInit {
     {
       name: "Marco Pollo",
       location: "Obtainable from Easter Event",
-      speed: "34",
+      speed: "31",
       img: "marco_pollo"
     },
     {
       name: "Magical Camel",
       location: "Obtainable from $warp p4 Desert Rewards NPS",
-      speed: "34",
+      speed: "31",
       img: "camel"
     },
     {
       name: "Magic Donkey Pinata",
       location: "Obtainable from P5 30-50 Fish Craft NPC $warp fish",
-      speed: "34",
+      speed: "20",
       img: "piniata"
     },
     {
@@ -79,7 +79,7 @@ export class MountsComponent implements OnInit {
     {
       name: "Black Unicorn",
       location: "Can be craft at Event NPC in NosVille",
-      speed: "31",
+      speed: "34",
       img: "black_unicorn"
     },
     {
@@ -91,13 +91,13 @@ export class MountsComponent implements OnInit {
     {
       name: "Pink Unicorn",
       location: "Can be craft at Event NPC in NosVille",
-      speed: "31",
+      speed: "34",
       img: "pink_unicorn"
     },
     {
       name: "White Unicorn",
       location: "Can be crafted at Event NPC in Nosville",
-      speed: "31",
+      speed: "34",
       img: "white_unicorn"
     },
     {
