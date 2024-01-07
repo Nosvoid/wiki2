@@ -16,6 +16,14 @@
         "class": "pvp"
     },
     {
+        "name": "Laser Weapon Skins",
+        "id": "",
+        "location": "You can craft those weapon skins at Christmas Event 2023",
+        "upgrade": "You can't upgrade them",
+        "buff": "laser",
+        "class": "pvp"
+    },
+    {
         "name": "Overclocked Steampunk Weapon Skins",
         "id": "",
         "location": "You can craft those weapon skins at Rainbow Battle Exchange NPC in Nosville",
