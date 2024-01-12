@@ -1,59 +1,121 @@
 <div class="d-flex justify-content-center">
     <div class="badges">
-        <h1 class="badges-title voidColor">Arena of Talents</h1>
-        <div class="badge-content">
-            <h2 class="voidSubTitle">What is Arena of Talents?</h2>
-            <p>
-                AoT is a gamemode where you can compete 3v3 with other players as a team.
-            </p>
-
-            <h2>Requirements</h2>
-            <p>
-                To be able to participate in AoT you need to be max level Prestige 9 Level 99 (+70)
-            </p>
-
-            <h2>How to Register</h2>
-            <p>
-                To register you need to locate <b>Arena of Talent NPC</b> that is found in the middle of Individual Arena and click on Register. <br/>
-                To get there head over to Skill Info (K) click on Time Circle and Enter the Unlimited Individual Arena.
-            </p>
-
-            <img src="../../assets/img/prestiges/p9/ArenaOfTalent/1.png" alt=""><br/>
-            <img width="800px" src="../../assets/img/prestiges/p9/ArenaOfTalent/2.png" alt=""><br/>
-            <img src="../../assets/img/prestiges/p9/ArenaOfTalent/3.png" alt=""> <br/>
-        </div> <br/> <br/> <br/> <br/>
-
-        <h1 class="badges-title voidColor">Arena of Talents Mechanics</h1>
-        <div class="badge-content">
-            <p>
-                After registering and finding teams, you will choose the order in which you fight the enemy 1st, 2nd or 3rd.<br/>
-                If the player on the first position loses, the heart next to his name will change colour to grey,<br/>
-                the opposite team will gain a point and the next ally will be called to fight.<br/><br/>
-                <b>NOTE:</b> the player who eliminated their opponent will remain fighting until they die.<br/><br/>
-                The first team to get 3 points, therefore eliminating all opponents,<br/>
-                wins the AoT and all participants will be teleported back to Individual Arena. <br/> <br/>
-
-                The yellow circles are the amount of times you can call your allies for help for a short period of time, each team will get 5.<br/>
-                <img src="../../assets/img/prestiges/p9/ArenaOfTalent/4.png" alt=""><br/> 
-            </p>
-            
-            <p>
-                You can call for help by clicking on the boxes located at the bottom left side of your screen.<br/>
-                The allies that lost a duel already, can still be called to help, as long as yellow circles are still available.<br/>
-                With the camera icon you can view how your allies are currently doing.<br/>
-                <img src="../../assets/img/prestiges/p9/ArenaOfTalent/5.png" alt="">
-            </p>
-        </div> <br/> <br/> <br/> <br/>
-
-        <h1 class="badges-title voidColor">Rewards</h1>
-        <div class="badge-content">
-            <p>
-                For winning AoT: 3x Gold Medal <img src="../../assets/img/prestiges/p9/ArenaOfTalent/coinG.png" alt=""><br/> 
-                For losing AoT: 5x Silver Medal <img src="../../assets/img/prestiges/p9/ArenaOfTalent/coinS.png" alt=""><br/> <br/>
-
-                You can Exchange 12x Silver Medal for 1x Gold Medal at Talent Arena Coin [Exchange] NPC found in the middle of Individual Arena.<br/>
-                <img src="../../assets/img/prestiges/p9/ArenaOfTalent/6.png" alt="">
-            </p>
+        <div class="custom-expansion-title1">
+            <span class="">Arena of Talent</span>
+            <hr>
+          </div>
+      <br/><br/> <br/><br/>
+      <div class="custom-expansion-panel" (click)="toggleGeneralInfo()">
+        <div class="custom-expansion-header">
+          <div class="custom-expansion-title">
+            <span class="header-underline">GENERAL INFORMATION</span>
+            <hr>
+          </div>
         </div>
+        <div [class.show]="generalInfoVisible" class="custom-expansion-content show">
+          <div class="expansion-content-inner">
+            <!-- Tutaj wklej swój tekst dla "General Information" -->
+            <div class="wall-of-text">
+              <span class="custom-subtitle">WHAT IS ARENA OF TALENT?</span><br/>
+              <!-- Tutaj wstaw swój długi tekst -->
+              <p>AoT is a gamemode where you can compete 3v3 with other players as a team.<br/>
+                Arena of Talent will start at 3 PM Server Time. (It'll stay opened for 3 hours after start.)
+              </p>
+            </div>
+            <hr>
+            <div class="wall-of-text">
+              <span class="custom-subtitle">REQUIREMENTS</span><br/>
+              <!-- Tutaj wstaw swój długi tekst -->
+              <p>To be able to participate in AoT you need to be max level Prestige 9 Level 99 (+70)</p>
+            </div>
+            <hr>
+          </div>
+        </div>
+      </div>
+      <br/>
+      <!-- Drugi rozwijany prostokąt -->
+      <div class="custom-expansion-panel" (click)="toggleHowToRegister()">
+        <div class="custom-expansion-header">
+          <div class="custom-expansion-title">
+            <span class="header-underline">HOW TO REGISTER?</span>
+            <hr>
+          </div>
+        </div>
+        <div [ngClass]="{'show': howToRegisterVisible}" class="custom-expansion-content">
+          <div class="expansion-content-inner">
+            <!-- Tutaj wklej swój tekst dla "How to Register" -->
+            <div class="wall-of-text">
+              <!-- Tutaj wstaw swój długi tekst -->
+              <p>To register you need to locate Arena of Talent NPC that is found in the middle of Individual Arena and click on Register.<br/>
+                To get there head over to Skill Info (K) click on Time Circle and Enter the Unlimited Individual Arena.</p>
+            </div>
+            <hr>
+          </div>
+        </div>
+      </div>
+      <br/>
+      
+      <div class="custom-expansion-panel" (click)="toggleMechanics()">
+        <div class="custom-expansion-header">
+          <div class="custom-expansion-title">
+            <span class="header-underline">MECHANICS</span>
+            <hr>
+          </div>
+        </div>
+        <div [ngClass]="{'show': mechanicsVisible}" class="custom-expansion-content show">
+          <div class="expansion-content-inner">
+            <div class="wall-of-text">
+              
+                <!-- Tutaj wstaw swój długi tekst -->
+                <p>After registering and finding teams, you will choose the order in which you fight the enemy 1st, 2nd or 3rd.
+                    If the player on the first position loses, the heart next to his name will change colour to grey,
+                    the opposite team will gain a point and the next ally will be called to fight.
+                    
+                    NOTE: the player who eliminated their opponent will remain fighting until they die.
+                    
+                    The first team to get 3 points, therefore eliminating all opponents,
+                    wins the AoT and all participants will be teleported back to Individual Arena.
+                    
+                    The yellow circles are the amount of times you can call your allies for help for a short period of time, each team will get 5.<br/>
+                    <img src="/assets/img/prestiges/p9/ArenaOfTalent/4.png"><img src="/assets/img/prestiges/p9/ArenaOfTalent/5.png"><br/>
+                    You can call for help by clicking on the boxes located at the bottom left side of your screen.
+The allies that lost a duel already, can still be called to help, as long as yellow circles are still available.
+With the camera icon you can view how your allies are currently doing.<br/> For win you will get 1x Mithril Medal and 1x Cobalt Medal for lose. </p>
+
+              </div>
+          </div>
+  
+      
     </div>
-</div>
+    
+      </div>
+      <br/>
+      <div class="">
+        <div class="carousel-back">
+            <div class="custom-expansion-title">
+                <BR/>
+                <span class="header-underline">MITHRIL MEDAL REWARDS</span>
+                <hr>
+              </div>
+          <br /><br />
+  
+          <div class="img-container" tabindex="0" #carouselContainer>
+            <button class="carousel-button left" (click)="prevImage()" (mousedown)="preventTabExpansion($event)">
+                <span>&lt;</span>
+              </button>
+              <img class="carousel-image" src="{{ carouselImages[currentIndex] }}" alt="Carousel Image">
+              <button class="carousel-button right" (click)="nextImage()" (mousedown)="preventTabExpansion($event)">
+                <span>&gt;</span>
+              </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+      
+      
+      
+      
+      
+  
+  
