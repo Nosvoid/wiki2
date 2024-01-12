@@ -21,7 +21,7 @@ export class ShopUpdatesComponent implements OnInit {
             },
             {
                 name: "Steampunk Wings Swapper",
-                img: "../assets/img/specialists/wings/buffs/Steampunk.png"
+                img: "../assets/img/specialists/wings/skins/SteampunkSwapper.png"
             },
             {
               name: "Creepy Monk Costume Set" ,
