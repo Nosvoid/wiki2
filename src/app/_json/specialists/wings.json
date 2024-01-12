@@ -9,7 +9,7 @@
     },
     {
         "name": "Steampunk Wings",
-        "location": "From Wings Swapper Item",
+        "location": "Can be obtained in Fortune Wheel",
         "buff": "SteampunkWingsBuff",
         "skin": "SteampunkSwapper",
         "id": "",
