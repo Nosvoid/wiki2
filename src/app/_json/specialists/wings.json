@@ -8,6 +8,22 @@
         "class": "pvp"
     },
     {
+        "name": "Steampunk Wings",
+        "location": "From Wings Swapper Item",
+        "buff": "SteampunkWingsBuff",
+        "skin": "SteampunkSwapper",
+        "id": "",
+        "class": ""
+    },
+    {
+        "name": "Steampunk Wings (Wings Swapper)",
+        "location": "From Wings Swapper Item",
+        "buff": "",
+        "skin": "SteampunkSwapper",
+        "id": "",
+        "class": ""
+    },
+    {
         "name": "Santa's Battle Wings (Wings Swapper)",
         "location": "From Wings Swapper Item",
         "buff": "",
