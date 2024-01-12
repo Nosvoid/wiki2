@@ -8,6 +8,20 @@
     background-color: rgba(0, 0, 0, .8);
     border-radius: 20px;
     width: 100%;
+    height: 500%;
+    padding: 3em 0;
+    text-align: center;
+}
+.badges1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-block: 3em;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.8);
+    border-radius: 20px;
+    width: 100%;
     padding: 3em 0;
     text-align: center;
 }
@@ -25,7 +39,7 @@
 .badge-content p, 
 .badge-content li, 
 .badge-content h3 
- {
+{
     font-size: 1.1rem;
 }
 
@@ -57,3 +71,213 @@
         width: 75%;
     }
 }
+
+/* Dodatkowy styl dla custom-expansion-panel */
+.custom-expansion-panel {
+    position: relative;
+    border: 2px solid #ffffff;  /* Grubsze obramowanie ciemniejszym fioletowym */
+    border-radius: 10px;  /* Zaokrąglenie rogów */
+    margin-bottom: 20px;  /* Odległość od innych elementów */
+}
+.carousel-back {
+    border-top-left-radius: 10px;  /* Zaokrąglenie lewego górnego rogu */
+    border-top-right-radius: 10px; /* Zaokrąglenie prawego górnego rogu */
+    border-bottom-left-radius: 10px;  /* Zaokrąglenie lewego górnego rogu */
+    border-bottom-right-radius: 10px; /* Zaokrąglenie prawego górnego rogu */
+    border: 2px solid #ffffff;  /* Grubsze obramowanie ciemniejszym fioletowym */
+    background: linear-gradient(to left, #2c012c8f, #724203a1);  /* Fioletowy gradient dla zakładki */
+}
+
+/* Dodatkowy styl dla custom-expansion-content */
+.custom-expansion-content {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-out;
+}
+
+/* Dodatkowy styl dla custom-expansion-content.show */
+.custom-expansion-content.show {
+    max-height: 500px;  /* Ustaw maksymalną wysokość dostosowaną do treści */
+}
+
+/* Dodatkowy styl dla custom-expansion-header */
+.custom-expansion-header {
+    background: linear-gradient(to left, #2c012c8f, #724203a1);  /* Fioletowy gradient dla zakładki */
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 1.5rem;  /* Większy rozmiar czcionki */
+    font-weight: bold;  /* Pogrubienie tekstu */
+    cursor: pointer;
+    border-top-left-radius: 10px;  /* Zaokrąglenie lewego górnego rogu */
+    border-top-right-radius: 10px; /* Zaokrąglenie prawego górnego rogu */
+}
+
+/* Dodatkowy styl dla custom-expansion-title */
+.custom-expansion-title {
+    font-size: 2rem;  /* Bardziej znaczny rozmiar czcionki */
+    font-weight: bold;  /* Pogrubienie tekstu */
+    font-family: 'Your Preferred Font', sans-serif;  /* Zastąp 'Your Preferred Font' odpowiednią czcionką */
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  .custom-expansion-title1 {
+    color: linear-gradient(to left, #2c012c8f, #724203a1);  /* Fioletowy gradient dla zakładki */
+    font-size: 3rem;  /* Bardziej znaczny rozmiar czcionki */
+    font-weight: bold;  /* Pogrubienie tekstu */
+    font-family: 'Your Preferred Font', sans-serif;  /* Zastąp 'Your Preferred Font' odpowiednią czcionką */
+    cursor: pointer;
+    
+    
+  }
+  
+
+
+/* Dodatkowy styl dla expansion-content-inner */
+.expansion-content-inner {
+    background: linear-gradient(to left, #2c012c8f, #724203a1);  /* Fioletowy gradient dla zakładki */
+    padding: 15px;
+    border-bottom-left-radius: 10px;  /* Zaokrąglenie lewego dolnego rogu */
+    border-bottom-right-radius: 10px; /* Zaokrąglenie prawego dolnego rogu */
+}
+
+/* Dodatkowy styl dla divider-line */
+.divider-line {
+    width: 100%;
+    height: 2px;
+    background-color: #8e44ad;  /* Kolor linii oddzielającej */
+    margin-top: 10px;  /* Odległość od tekstu rozwiniętego */
+    margin-bottom: 10px;  /* Odległość od tekstu rozwiniętego */
+}
+
+/* Dodatkowy styl dla custom-subtitle */
+.custom-subtitle {
+    color: #f7f7f7;
+    padding: 10px;
+    font-size: 1.5rem;  /* Rozmiar czcionki */
+    font-weight: bold;  /* Pogrubienie tekstu */
+    text-decoration: underline;  /* Podkreślenie tekstu */
+    display: inline;  /* Dodaj to, aby span był traktowany jako element inline */
+}
+
+/* Dodatkowy styl dla wall-of-text */
+.wall-of-text {
+    background: linear-gradient(to right, #421c4296, #7c432b9d);  /* Fioletowy gradient dla zakładki */
+    padding: 20px;
+    border-radius: 10px;  /* Zaokrąglenie rogów ściany tekstu */
+    margin-top: 20px;  /* Odległość od innych elementów */
+    font-family: 'Your Preferred Font', sans-serif;  /* Zastąp 'Your Preferred Font' odpowiednią czcionką */
+    font-size: 1.2rem;  /* Rozmiar czcionki */
+    line-height: 1.5;  /* Wysokość linii */
+    color: #ffffff; /* Kolor tekstu */
+    border: 1px solid #ffffff88;  /* Grubsze obramowanie ciemniejszym fioletowym */
+}
+
+/* Dodatkowy styl dla mat-expansion-panel-content */
+.mat-expansion-panel-content {
+    max-height: none !important;
+}
+
+/* Dodatkowy styl dla obrazów */
+.img-container {
+    margin: 20px 0;  /* Odległość od innych elementów */
+    
+}
+
+/* Dodatkowy styl dla obrazów img */
+.img-container img {
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 0px;  /* Dodaj margines między obrazami */
+}
+
+/* Dodatkowy styl dla img-caption */
+.img-caption {
+    font-style: italic;  /* Kursywa dla podpisu obrazu */
+    text-align: center;  /* Wyśrodkowanie tekstu podpisu */
+    margin-top: 10px;  /* Odległość od obrazu */
+    color: #555;  /* Kolor tekstu podpisu */
+}
+
+/* Dodatkowy styl dla mat-expansion-panel */
+.mat-expansion-panel {
+    width: 75%;
+}
+
+/* Dodatkowy styl dla mat-expansion-panel-header */
+.mat-expansion-panel-header {
+    background: linear-gradient(to bottom, #6f42c1, #6610f2);
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+/* Dodatkowy styl dla mat-panel-title */
+.mat-panel-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img-container {
+    width: 80%;
+    max-width: 800px;
+    margin: 0 auto;
+    position: relative;
+    background-color: #000;
+    overflow: hidden;
+    border: 1px solid #000000;  /* Grubsze obramowanie ciemniejszym fioletowym */
+  }
+  
+  .carousel-image {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  .carousel-button {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 40px;
+    height: 40px;
+    background-color: rgba(252, 252, 252, 0.5); /* Kolor przycisku - tutaj ustawiona lekka przezroczystość */
+    border: 1px solid #000000;  /* Grubsze obramowanie ciemniejszym fioletowym */
+    cursor: pointer;
+    border-top-left-radius: 10px;  /* Zaokrąglenie lewego górnego rogu */
+    border-top-right-radius: 10px; /* Zaokrąglenie prawego górnego rogu */
+    border-bottom-left-radius: 10px;  /* Zaokrąglenie lewego górnego rogu */
+    border-bottom-right-radius: 10px; /* Zaokrąglenie prawego górnego rogu */
+  }
+  
+  .carousel-button span {
+    font-size: 20px; /* Ustaw rozmiar ikony */
+    line-height: 40px; /* Dopasuj do wysokości przycisku */
+    color: #000; /* Kolor ikony - możesz dostosować według potrzeb */
+    
+  }
+  
+  .left {
+    left: 0px;
+  }
+  
+  .right {
+    right: 0px;
+  }
+
+  .carousel-caption {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'YourFont', sans-serif; /* Zastąp 'YourFont' odpowiednią nazwą czcionki */
+    font-size: 24px;
+    font-weight: bold;
+    color: #fff; /* Kolor tekstu - dostosuj do własnych preferencji */
+    text-align: center;
+  }
+  
+
