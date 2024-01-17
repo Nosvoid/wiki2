@@ -22,18 +22,6 @@
         "rankclass": "plat",
         "ytclass": "yt-link",
         "twitchclass": "display-none"
-    },
-    {
-        "name": "LauLie NosVoid",
-        "yt": "Link",
-        "twitch": "Link",
-        "ytlink": "https://www.youtube.com/channel/UCReA8noJWBmuPsqlsDuf58w",
-        "twitchlink": "https://www.twitch.tv/Bahato",
-        "rank": "Gold Content Creator",
-        "rankimg": "gold",
-        "rankclass": "gold",
-        "ytclass": "yt-link",
-        "twitchclass": "twitch-link"
     }
 
 ]
