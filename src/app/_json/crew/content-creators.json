@@ -24,18 +24,6 @@
         "twitchclass": "display-none"
     },
     {
-        "name": "#Syanio94™",
-        "yt": "Link",
-        "twitch": "Link",
-        "ytlink": "https://youtube.com/channel/UCk6cXyS-TojVSDwWEw3_CNA",
-        "twitchlink": "",
-        "rank": "Platinum Content Creator",
-        "rankimg": "plat",
-        "rankclass": "plat",
-        "ytclass": "yt-link",
-        "twitchclass": "display-none"
-    },
-    {
         "name": "LauLie NosVoid",
         "yt": "Link",
         "twitch": "Link",
@@ -46,17 +34,6 @@
         "rankclass": "gold",
         "ytclass": "yt-link",
         "twitchclass": "twitch-link"
-    },
-    {
-        "name": "KoltenHR",
-        "yt": "Link",
-        "twitch": "Link",
-        "ytlink": "https://www.youtube.com/channel/UCt_RYeCSLm4M73PGW2mE_hg",
-        "twitchlink": "",
-        "rank": "Silver Content Creator",
-        "rankimg": "silver",
-        "rankclass": "silver",
-        "ytclass": "yt-link",
-        "twitchclass": "display-none"
     }
+
 ]
