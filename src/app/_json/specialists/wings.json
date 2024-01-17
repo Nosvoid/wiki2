@@ -2,7 +2,7 @@
     {
         "name": "Retro Wings",
         "location": "Can be obtained in Fortune Wheel",
-        "buff": "retro_buff",
+        "buff": "NewRetroBuff",
         "skin": "retro_skin",
         "id": "",
         "class": "pvp"
