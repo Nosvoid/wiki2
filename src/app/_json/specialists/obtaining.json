@@ -64,7 +64,7 @@
     },
     {
         "name": "SP9 and SP5MA",
-        "location": "You can get them in Paimon raid boxes ($warp raidarea) or you can craft them at Craft Specialist 5 NPC ($warp p5)",
+        "location": "You can craft them at Craft Specialist NPC ($warp p4)",
         "img": [
             { "icon": "sunchaser" },
             { "icon": "waterfall" },
