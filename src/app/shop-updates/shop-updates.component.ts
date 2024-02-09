@@ -9,23 +9,27 @@ export class ShopUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "02/02/2024",
+        date: "09/02/2024",
         items: [
             {
-                name: "Frozen King Costume Wings",
-                img: "../assets/img/costumes/wings/frozen_king.png"
+                name: "Steampunk Wings",
+                img: "../assets/img/specialists/wings/Steampunk.png"
             },
             {
-                name: "Frost Warrior Costume Set",
-                img: "../assets/img/costumes/all-sets/buffs/frost_warrior_buffs.png"
+                name: "Bone Warrior Ragnar's Specialis Partner Card",
+                img: "../assets/img/psps/buffs/BoneWarrior.png"
             },
             {
-                name: "Dino Costume Set",
-                img: "../assets/img/costumes/all-sets/buffs/cuddly_dino_buffs.png"
+                name: "Baby Dander",
+                img: "../assets/img/pets/buffs/BabyDander.png"
             },
             {
-              name: "Mini Pet 'Gryphon'" ,
-              img: "../assets/img/shop-updates/LightPet.png"
+              name: "Oracle's Headband",
+              img: "../assets/img/helmets-masks/Oracle.png"
+          },
+            {
+              name: "Galaxy Wings Swapper'" ,
+              img: ""
           },
 
         ]
@@ -34,25 +38,25 @@ export class ShopUpdatesComponent implements OnInit {
 
   randomBox = [
     {
-      date: "02/02/2024",
+      date: "09/02/2024",
       boxName : 'Random Boxes ',
       mainItem: "Mini Asgobas",
       mainItemImg: "../../assets/img/shop_updates/box_asgo.png",
       mainItems: [
         {
-          name: "Mini Asgobas Random Box",
+          name: "Tree Wings Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Mini Valehir Random Box",
+          name: "Rat Hat Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Mini Alzanor Random Box",
+          name: "Rocketeer Costume Set Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Knight Costume Set Random Box",
+          name: "Dragon of Void Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         }
 
