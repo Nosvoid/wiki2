@@ -13,7 +13,7 @@ export class ShopUpdatesComponent implements OnInit {
         items: [
             {
                 name: "Steampunk Wings",
-                img: "../assets/img/specialists/wings/Steampunk.png"
+                img: "../assets/img/specialists/wings/buffs/Steampunk.png"
             },
             {
                 name: "Bone Warrior Ragnar's Specialis Partner Card",
