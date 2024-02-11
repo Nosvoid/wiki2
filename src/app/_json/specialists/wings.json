@@ -8,6 +8,30 @@
         "class": "pvp"
     },
     {
+        "name": "Galaxy Wings (Wings Swapper)",
+        "location": "From Wings Swapper Item",
+        "buff": "",
+        "skin": "Galaxy",
+        "id": "",
+        "class": ""
+    },
+    {
+        "name": "Dragon Lunar Wings (Wings Swapper)",
+        "location": "From Wings Swapper Item",
+        "buff": "",
+        "skin": "DragonLunar",
+        "id": "",
+        "class": ""
+    },
+    {
+        "name": "Spooky Wings (Wings Swapper)",
+        "location": "From Wings Swapper Item",
+        "buff": "",
+        "skin": "DragonLunar",
+        "id": "",
+        "class": ""
+    },
+    {
         "name": "Steampunk Wings",
         "location": "Can be obtained in Fortune Wheel",
         "buff": "SteampunkWingsBuff",
