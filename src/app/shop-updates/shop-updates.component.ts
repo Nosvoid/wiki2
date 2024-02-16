@@ -38,7 +38,8 @@ export class ShopUpdatesComponent implements OnInit {
 
   randomBox = [
     {
-      date: "16/02/2024 : 'Random Boxes' ",
+      date: "16/02/2024", 
+      boxName : " 'Random Boxes' ",
       mainItem: "Mini Asgobas",
       mainItemImg: "../../assets/img/shop_updates/box_asgo.png",
       mainItems: [
@@ -77,8 +78,7 @@ export class ShopUpdatesComponent implements OnInit {
           {name: "x1 One-Winged Perti Specialist Partner Card"},
           {name: "x5 Gold Potion"},
           {name: "x500 Giant Lump of Gold"}
-      ],
-      boxName: "Random Box"
+      ]
     }
   ];
 
