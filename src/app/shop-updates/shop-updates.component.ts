@@ -77,9 +77,10 @@ export class ShopUpdatesComponent implements OnInit {
           {name: "x1 One-Winged Perti Specialist Partner Card"},
           {name: "x5 Gold Potion"},
           {name: "x500 Giant Lump of Gold"}
-      ]
+      ],
+      boxName: "Random Box"
     }
-  ]
+  ];
 
   constructor() { }
 
