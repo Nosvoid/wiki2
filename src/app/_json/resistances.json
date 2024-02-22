@@ -72,10 +72,10 @@
         "buff": "rbb_res"
     },
     {
-        "name": "HP Resistances",
+        "name": "Anticrit Resistances",
         "id": "",
         "location": "You can craft them in $warp p5 Prestige 5 Special Items NPC",
-        "buff": "hp_res"
+        "buff": "Anticrit_res"
     },
     {
         "name": "PVP Shadow Magma resistances",
