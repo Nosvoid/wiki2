@@ -60,7 +60,7 @@ export class ShopUpdatesComponent implements OnInit {
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Hawaii Costume Set Random Box",
+          name: "Hawaii Costume Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         }
 
