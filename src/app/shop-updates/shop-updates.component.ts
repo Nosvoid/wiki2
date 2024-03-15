@@ -52,7 +52,19 @@ export class ShopUpdatesComponent implements OnInit {
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
+          name: "Mini Pet 'Blue Phoenix' Random Box",
+          img: "../../assets/img/shop_updates/box_asgo.png"
+        },
+        {
           name: "Mini Pet 'Phoenix' Random Box",
+          img: "../../assets/img/shop_updates/box_asgo.png"
+        },
+        {
+          name: "Dragon of Void Random Box",
+          img: "../../assets/img/shop_updates/box_asgo.png"
+        },
+        {
+          name: "Retro Wings Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         }
  
