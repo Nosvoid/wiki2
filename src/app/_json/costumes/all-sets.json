@@ -6,6 +6,12 @@
             "buff": "skeleton"
         },
         {
+            "name": "Puppet Master",
+            "location": "You can get this costume from Fortune Wheel.",
+            "skins": "puppet_master",
+            "buff": "puppet_master"
+        },
+        {
             "name": "Aqua Bushi",
             "location": "You can buy this set at Costumes NPC in NosVille",
             "skins": "aqua_bushi",
