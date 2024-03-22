@@ -48,11 +48,11 @@ export class ShopUpdatesComponent implements OnInit {
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Knight Costume Random Box",
+          name: "Mini Pet 'Black Dragon' Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Shooting Star Random Box",
+          name: "Mini Pet 'Gryphon' Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
