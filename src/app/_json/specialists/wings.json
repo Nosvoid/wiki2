@@ -8,6 +8,30 @@
         "class": "pvp"
     },
     {
+        "name": "Infinity Wings",
+        "location": "From Infinity Tower Craft",
+        "buff": "Infinity_buff",
+        "skin": "Infinity",
+        "id": "",
+        "class": ""
+    },
+    {
+        "name": "Infinity Wings (Wings Swapper)",
+        "location": "From Wings Swapper Item (Only for first top 3 from ranking)",
+        "buff": "",
+        "skin": "Infinity",
+        "id": "",
+        "class": ""
+    },
+    {
+        "name": "Valentine's Wings (Wings Swapper)",
+        "location": "From Wings Swapper Item",
+        "buff": "",
+        "skin": "valentine",
+        "id": "",
+        "class": ""
+    },
+    {
         "name": "Galaxy Wings (Wings Swapper)",
         "location": "From Wings Swapper Item",
         "buff": "",
