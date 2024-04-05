@@ -52,5 +52,11 @@
         "location": "You can craft it during Halloween Event and from Prestige 4 Time Space.",
         "buff": "noble_bracelet",
         "class": "raid"
+    },
+    {
+        "name": "Noble Cat Eye's Bracelet, Necklace, Ring",
+        "location": "You can craft it during Candy Event and sometimes in Fortune Wheel.",
+        "buff": "NobleCatSet",
+        "class": "raid"
     }
 ]
