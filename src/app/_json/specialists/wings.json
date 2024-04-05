@@ -56,6 +56,22 @@
         "class": ""
     },
     {
+        "name": "Eternity (Wings Swapper)",
+        "location": "From Wings Swapper Item",
+        "buff": "",
+        "skin": "Eternity",
+        "id": "",
+        "class": ""
+    },
+    {
+        "name": "Auction (Wings Swapper)",
+        "location": "From Wings Swapper Item",
+        "buff": "",
+        "skin": "Auction",
+        "id": "",
+        "class": ""
+    },
+    {
         "name": "Steampunk Wings",
         "location": "Can be obtained in Fortune Wheel",
         "buff": "SteampunkWingsBuff",
@@ -124,6 +140,22 @@
         "location": "From Wings Swapper Item",
         "buff": "",
         "skin": "White_angel",
+        "id": "",
+        "class": ""
+    },
+    {
+        "name": "Butterfly (Wings Swapper)",
+        "location": "From Wings Swapper Item",
+        "buff": "",
+        "skin": "Butterfly",
+        "id": "",
+        "class": ""
+    },
+    {
+        "name": "Green White (Wings Swapper)",
+        "location": "From Wings Swapper Item",
+        "buff": "",
+        "skin": "GreenWhite",
         "id": "",
         "class": ""
     },
