@@ -9,6 +9,15 @@
         "class": "pvp"
     },
     {
+        "name": "Laurena",
+        "id": "",
+        "partner": "Can be used on [Magic] partners",
+        "location": "Can be obtained from Candy Event and sometimes from Fortune Wheel",
+        "buff": "Laurena_Buff",
+        "skin": "laurena",
+        "class": "raid"
+    },
+    {
         "name": "Jinn",
         "id": "",
         "partner": "Can be used on [Magic] partners",
