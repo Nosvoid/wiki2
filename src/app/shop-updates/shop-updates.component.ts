@@ -13,7 +13,7 @@ export class ShopUpdatesComponent implements OnInit {
         items: [
             {
                 name: "Dragon Wings Swapper Box",
-                img: "../assets/img/costumes/all-sets/buffs/rocketer.png"
+                img: ""
             },
             {
                 name: "Laser Weapon Skins",
