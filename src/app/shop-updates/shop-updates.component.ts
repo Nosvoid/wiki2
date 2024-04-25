@@ -12,12 +12,12 @@ export class ShopUpdatesComponent implements OnInit {
         date: "26/04/2024",
         items: [
             {
-                name: "Eternal",
+                name: "Eternal Title",
                 img: "../assets/img/shop-updates/Eternal.png"
             },
             {
                 name: "Dragon Wings Swapper Box",
-                img: ""
+                img: "s"
             },
             {
                 name: "Puppet Master Costume Set",
