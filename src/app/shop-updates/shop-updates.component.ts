@@ -21,7 +21,7 @@ export class ShopUpdatesComponent implements OnInit {
             },
             {
                 name: "Puppet Master Costume Set",
-                img: "../assets/img/costumes/all-sets/buffs/puppet_master_buffs.png"
+                img: "../assets/img/costumes/all-sets/buffs/puppet_master.png"
             },
             {
               name: "Candy Cake Mount (Speed 36)",
