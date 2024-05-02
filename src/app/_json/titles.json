@@ -7,6 +7,20 @@
         "class": "pvp"
     },
     {
+        "name": "Eternal",
+        "id": "",
+        "location": "You can get it in Fortune Wheel",
+        "img": "Eternal",
+        "class": "pvp"
+    },
+    {
+        "name": "Celestial Dragon",
+        "id": "",
+        "location": "You can get it via quest from Quest Hub, Raid Manager NPC.",
+        "img": "Celestial_dragonlord",
+        "class": "pve"
+    },
+    {
         "name": "Advanced Angler",
         "id": "",
         "location": "You get it after completing the Fish Encyclopedia",
