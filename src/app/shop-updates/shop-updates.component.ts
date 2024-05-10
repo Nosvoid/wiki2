@@ -9,27 +9,27 @@ export class ShopUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "04/05/2024",
+        date: "10/05/2024",
         items: [
             {
-                name: "Special Amulet",
-                img: "../assets/img/shop-updates/SpecialAmulet.png"
+                name: "Eternal",
+                img: "../assets/img/titles/Eternal.png"
             },
             {
-                name: "Mini Pet 'Lucky Brown Dragon'",
-                img: "../assets/img/shop-updates/NewMiniPet.png"
+                name: "Mini Pet 'Lucky Brown Dragon' (Infinity Premium)",
+                img: "../assets/img/shop-updates/InfinityPremium.png"
             },
             {
-                name: "Rocketeer Costume Set",
-                img: "../assets/img/costumes/all-sets/buffs/rocketer.png"
+                name: "Shadow Dragon Bee Pet Bead",
+                img: "../assets/img/pets/buffs/dragon_bee.png"
             },
             {
-              name: "Steampunk Wings",
-              img: "../assets/img/specialists/wings/buffs/SteampunkWingsBuff.png"
+              name: "Weapon Skin Box 'Chocolate Dream'",
+              img: "../assets/img/costumes/weapon-skins/sweet_chocolate.png"
           },
             {
-              name: "Frozen King Costume Wings" ,
-              img: "../assets/img/costumes/wings/FrozenKing.png"
+              name: "Laurena Specialists Partner Card" ,
+              img: "../assets/img/psps/buffs/Laurena_Buff.png"
           },
 
         ]
@@ -38,33 +38,29 @@ export class ShopUpdatesComponent implements OnInit {
 
   randomBox = [
     {
-      date: "04/05/2024", 
+      date: "10/05/2024", 
       boxName : " 'Random Boxes' ",
       mainItem: "Mini Asgobas",
       mainItemImg: "../../assets/img/shop_updates/box_asgo.png",
       mainItems: [
         {
-          name: "Plague Doctor/Nurse Random Box",
-          img: "../../assets/img/shop_updates/box_asgo.png"
-        },
-        {
           name: "Retro Wings Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Tree Wings Random Box",
+          name: "Mini Pet 'Blue Phoenix' Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Mini Alzanor Random Box",
+          name: "Mini Pet 'Phoenix' Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Mini Valehir Random Box",
+          name: "Mini Pet 'Black Dragon' Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Mini Asgobas Random Box",
+          name: "Mini Pet 'Gryphon' Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         }
  
