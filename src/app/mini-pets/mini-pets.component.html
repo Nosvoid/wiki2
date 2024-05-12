@@ -1,0 +1,22 @@
+<div class="d-flex justify-content-center align-items-center">
+    <section class="psps">
+        <h1 class="psps-title">Mini Pets</h1>
+        <h2 class="psps-title">Click on image</h2>
+        <div class="psps-container">
+            <div class="psp-container" *ngFor="let wing of wings" (click)="openModal(wing)">
+                <div class="psp-content">
+                    <div class="d-flex justify-content-center align-items-center flex-column">
+                        <h2 class="psp-name">{{ wing.name }}</h2>
+                        <h3 class="psp-location">{{ wing.location }}</h3>
+                        <img src="../assets/img/costumes/mini-pets/{{ wing.buff }}.png" alt="{{ wing.name }}">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+
+<div id="myModal" class="modal">
+    <span class="close" (click)="closeModal()">&times;</span>
+    <img class="modal-content" id="img01">
+</div>

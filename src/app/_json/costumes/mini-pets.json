@@ -1,0 +1,38 @@
+[
+    {
+      "name": "Lucky Brown Dragon",
+      "location": "Obtainable from Fortune Wheel",
+      "buff": "LuckyBrown"
+    },
+    {
+      "name": "Gryphon",
+      "location": "Obtainable from Fortune Wheel",
+      "buff": "Gryphon"
+    },
+    {
+      "name": "Black Dragon",
+      "location": "Obtainable from Fortune Wheel",
+      "buff": "BlackDragon"
+    },
+    {
+      "name": "Phoenix",
+      "location": "Obtainable from Fortune Wheel",
+      "buff": "Phoenix"
+    },
+    {
+      "name": "Blue Phoenix",
+      "location": "Obtainable from Fortune Wheel",
+      "buff": "BluePhoenix"
+    },
+    {
+      "name": "Lucky Brown Dragon (Infinity)",
+      "location": "Craftable from Infinity Tower NPC",
+      "buff": "BrownInfinity"
+    },
+    {
+        "name": "Lucky Brown Dragon (Infinity Premium)",
+        "location": "Obtainable from Fortune Wheel",
+        "buff": "InfinityPremium"
+      }
+  ]
+  

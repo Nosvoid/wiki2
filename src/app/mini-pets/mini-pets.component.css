@@ -1,0 +1,166 @@
+.psps {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-block: 3em;
+    color: white;
+    background-color: rgba(0, 0, 0, .8);
+    border-radius: 20px;
+    width: 100%;
+    padding: 3em 0;
+}
+
+.psp-container {
+    padding: 1em;
+}
+
+.psp-container img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.psp-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 100%;
+}
+
+/* Titles */
+
+.psp-name, .psps-title {
+    font-family: 'Edu SA Beginner', cursive;
+    display: flex;
+    justify-content: center;
+    font-size: 2rem;
+}
+
+.psps-title {
+    font-size: 3rem;
+    margin-bottom: 1em;
+}
+
+.psp-partner, .psp-location {
+    font-size: 1rem;
+    text-align: center;
+}
+
+/* Filter */
+
+.psps-select {
+    background-color: var(--void-clr);
+    border: none;
+    padding: .5em;
+    border-radius: 10px;
+    color: white;
+    font-size: 1.2em;
+}
+
+.psps-select option {
+    color: white;
+}
+
+/* Modal */
+
+.show-buffs {
+    border: none;
+    background-color: var(--void-clr);
+    color: black;
+    padding: .5em 1em;
+    margin-top: 1em;
+    border-radius: 10px;
+}
+
+.set-buff {
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, .8);
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.set-buff-content {
+    background-color: var(--void-clr);
+    margin: 20% auto;
+    padding: 2em;
+    box-shadow: 
+    0 5px 8px 0 rgba(0, 0, 0, .2),
+    0 7px 20px 0 rgba(0, 0, 0, .17);
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 1em;
+}
+
+.close-buffs {
+    color: black;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+.close-buffs:hover, .close-buffs:focus {
+    text-decoration: none;
+}
+
+/* Media queries */
+@media all and (min-width: 1140px) {
+    .psps-container {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        padding: 1em;
+    }
+
+    .psps {
+        width: 75%;
+    }
+
+    /* Style the modal */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 50px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 50%; /* Full width */
+    height: 50%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+  }
+  
+  /* Style the Close Button */
+  .close {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+  }
+  
+  .close:hover,
+  .close:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  /* 100% Image Width on Smaller Screens */
+  @media only screen and (max-width: 700px){
+    .modal-content {
+      width: 100%;
+    }
+  }
+  
+}

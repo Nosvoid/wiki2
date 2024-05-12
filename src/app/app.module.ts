@@ -17,6 +17,7 @@ import { CostumeSetsComponent } from './costume-sets/costume-sets.component';
 import { CostumesComponent } from './costumes/costumes.component';
 import { CostumeWingsComponent } from './costume-wings/costume-wings.component';
 import { WeaponSkinsComponent } from './weapon-skins/weapon-skins.component';
+import { MiniPetsComponent } from './mini-pets/mini-pets.component';
 import { RulesComponent } from './rules/rules.component';
 import { ScheduleComponent } from './schedule/schedule.component';
 import { EquipementsComponent } from './equipements/equipements.component';
@@ -97,6 +98,7 @@ const appRoutes: Routes = [
   { path: 'costumes', component: CostumesComponent },
   { path: 'costume-wings', component: CostumeWingsComponent },
   { path: 'weapon-skins', component: WeaponSkinsComponent },
+  { path: 'mini-pets', component: MiniPetsComponent },
   { path: 'schedule', component: ScheduleComponent },
   { path: 'rules', component: RulesComponent },
   { path: 'accessories', component: AccessoriesComponent },
@@ -176,6 +178,7 @@ const appRoutes: Routes = [
     CostumesComponent,
     CostumeWingsComponent,
     WeaponSkinsComponent,
+    MiniPetsComponent,
     RulesComponent,
     ScheduleComponent,
     EquipementsComponent,
