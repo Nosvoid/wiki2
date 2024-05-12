@@ -18,5 +18,10 @@
         "name": "Azuris & Solaris Fairies",
         "location": "You can craft them during Evolution Event",
         "buff": "azuris_solaris_fairies"
+    },
+    {
+        "name": "PvE Fairies",
+        "location": "You can craft at Infinity Tower Rewards NPC",
+        "buff": "PvEFairies"
     }
 ]
