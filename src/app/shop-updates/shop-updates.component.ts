@@ -9,19 +9,19 @@ export class ShopUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "10/05/2024",
+        date: "17/05/2024",
         items: [
             {
-                name: "Eternal",
-                img: "../assets/img/titles/Eternal.png"
+                name: "Dragon Wings Swapper Chest",
+                img: ""
             },
             {
-                name: "Mini Pet 'Lucky Brown Dragon' (Infinity Premium)",
-                img: "../assets/img/shop-updates/InfinityPremium.png"
+                name: "Otter",
+                img: "../assets/img/pets/buffs/otter.png"
             },
             {
-                name: "Shadow Dragon Bee Pet Bead",
-                img: "../assets/img/pets/buffs/dragon_bee.png"
+                name: "Knight Costume Set",
+                img: "../assets/img/costumes/all-sets/buffs/knight_buffs.png"
             },
             {
               name: "Weapon Skin Box 'Chocolate Dream'",
