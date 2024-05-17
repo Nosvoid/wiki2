@@ -24,12 +24,12 @@ export class ShopUpdatesComponent implements OnInit {
                 img: "../assets/img/costumes/all-sets/buffs/knight_buffs.png"
             },
             {
-              name: "Weapon Skin Box 'Chocolate Dream'",
-              img: "../assets/img/costumes/weapon-skins/sweet_chocolate.png"
+              name: "Oracle",
+              img: "../assets/img/helmets-masks/Oracle.png"
           },
             {
-              name: "Laurena Specialists Partner Card" ,
-              img: "../assets/img/psps/buffs/Laurena_Buff.png"
+              name: "Monocle" ,
+              img: "../assets/img/helmets-masks/Monocle.png"
           },
 
         ]
@@ -38,29 +38,25 @@ export class ShopUpdatesComponent implements OnInit {
 
   randomBox = [
     {
-      date: "10/05/2024", 
+      date: "17/05/2024", 
       boxName : " 'Random Boxes' ",
       mainItem: "Mini Asgobas",
       mainItemImg: "../../assets/img/shop_updates/box_asgo.png",
       mainItems: [
         {
-          name: "Retro Wings Random Box",
+          name: "Mini Alzanor Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Mini Pet 'Blue Phoenix' Random Box",
+          name: "Mini Valehir Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Mini Pet 'Phoenix' Random Box",
+          name: "Mini Asgobas Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Mini Pet 'Black Dragon' Random Box",
-          img: "../../assets/img/shop_updates/box_asgo.png"
-        },
-        {
-          name: "Mini Pet 'Gryphon' Random Box",
+          name: "Tree Wings Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         }
  
