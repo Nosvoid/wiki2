@@ -27,4 +27,4 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         npm install
-        npm run ng -- deploy --base-href=/ --cname=wiki.nosvoid.com --name="Deploy" --email="noreply@nosvoid.com" --no-silent
+        npm run ng -- deploy --base-href=/ --cname=wiki.voidgamingnetwork.com --name="Deploy" --email="noreply@nosvoid.com" --no-silent
