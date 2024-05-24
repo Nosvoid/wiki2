@@ -9,27 +9,27 @@ export class ShopUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "17/05/2024",
+        date: "24/05/2024",
         items: [
             {
-                name: "Dragon Wings Swapper Chest",
+                name: "Palina Specialist Partner Card",
+                img: "../assets/img/psps/buffs/palina_buff.png"
+            },
+            {
+                name: "Eternal Title",
+                img: "../assets/img/titles/Eternal.png"
+            },
+            {
+                name: "Gingerbread Partner Box. You can check buffs at https://wiki.voidgamingnetwork.com/partners",
                 img: ""
             },
             {
-                name: "Otter",
-                img: "../assets/img/pets/buffs/otter.png"
-            },
-            {
-                name: "Knight Costume Set",
-                img: "../assets/img/costumes/all-sets/buffs/knight_buffs.png"
-            },
-            {
-              name: "Oracle",
-              img: "../assets/img/helmets-masks/Oracle.png"
+              name: "Mini Pet 'Lucky Brown Dragon' (Infinity Premium)",
+              img: "../assets/img/shop-updates/InfinityPremium.png"
           },
             {
-              name: "Monocle" ,
-              img: "../assets/img/helmets-masks/Monocle.png"
+              name: "Mini Pet 'Lucky Brown Dragon'" ,
+              img: "../assets/img/shop-updates/NewMiniPet.png"
           },
 
         ]
