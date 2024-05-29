@@ -164,7 +164,7 @@ const appRoutes: Routes = [
   { path: 'prestige-8-1', component: PEightOneComponent },
   { path: 'prestige-8-2', component: PEightTwoComponent },
   { path: 'prestige-9', component: PNineComponent },
-  { path: 'prestige-gay', component: PSixComponent },
+  { path: 'prestige-6', component: PSixComponent },
   { path: 'xmas-event', component: XmasEventComponent },
   { path: 'arena-of-talents', component: ArenaComponent },
   { path: '**', pathMatch: "full", component: ErrorPageComponent },
