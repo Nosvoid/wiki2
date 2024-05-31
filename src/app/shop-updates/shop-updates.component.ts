@@ -29,7 +29,7 @@ export class ShopUpdatesComponent implements OnInit {
           },
             {
               name: "Laurena Specialist Partner Card" ,
-              img: "../assets/img/shop-updates/NewMiniPet.png"
+              img: "../assets/img/psps/buffs/laurena.png"
           },
 
         ]
