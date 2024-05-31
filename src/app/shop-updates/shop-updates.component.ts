@@ -9,26 +9,26 @@ export class ShopUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "24/05/2024",
+        date: "31/05/2024",
         items: [
             {
-                name: "Palina Specialist Partner Card",
-                img: "../assets/img/psps/buffs/palina_buff.png"
+                name: "Star Title Box",
+                img: "../assets/img/shop-updates/StarWheel.png"                
             },
             {
-                name: "Eternal Title",
-                img: "../assets/img/titles/Eternal.png"
+                name: "[Premium]Stone Helmet",
+                img: "../assets/img/shop-updates/StoneHelmet.png" 
             },
             {
-                name: "Gingerbread Partner Box. You can check buffs at https://wiki.voidgamingnetwork.com/partners",
-                img: ""
+                name: "[Premium]Stone Mask",
+                img: "../assets/img/shop-updates/StoneMask.png" 
             },
             {
-              name: "Mini Pet 'Lucky Brown Dragon' (Infinity Premium)",
-              img: "../assets/img/shop-updates/InfinityPremium.png"
+              name: "[Premium]Stone Ring",
+              img: "../assets/img/shop-updates/StoneRing.png" 
           },
             {
-              name: "Mini Pet 'Lucky Brown Dragon'" ,
+              name: "Laurena Specialist Partner Card" ,
               img: "../assets/img/shop-updates/NewMiniPet.png"
           },
 
