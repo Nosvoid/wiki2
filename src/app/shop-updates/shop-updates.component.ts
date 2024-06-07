@@ -9,27 +9,27 @@ export class ShopUpdatesComponent implements OnInit {
 
   wheel = [
     {
-        date: "31/05/2024",
+        date: "07/06/2024",
         items: [
             {
-                name: "Star Title Box",
-                img: "../assets/img/shop-updates/StarWheel.png"                
+                name: "Dragon Wings Swapper Box",
+                img: "../assets/img/shop-updates/SPOILER-bannerdragonwings.png"                
             },
             {
-                name: "[Premium]Stone Helmet",
-                img: "../assets/img/shop-updates/StoneHelmet.png" 
+                name: "[Premium]Stone Necklace",
+                img: "../assets/img/shop-updates/StoneNecklace.png" 
             },
             {
-                name: "[Premium]Stone Mask",
-                img: "../assets/img/shop-updates/StoneMask.png" 
+                name: "[Premium]Stone Bracelet",
+                img: "../assets/img/shop-updates/StoneBracelet.png" 
             },
             {
-              name: "[Premium]Stone Ring",
-              img: "../assets/img/shop-updates/StoneRing.png" 
+              name: "Rocketeer Costume Set",
+              img: "../assets/img/costumes/all-sets/buffs/rocketer.png" 
           },
             {
-              name: "Laurena Specialist Partner Card" ,
-              img: "../assets/img/psps/buffs/laurena.png"
+              name: "[Premium]Stone Breaker Gloves" ,
+              img: "../assets/img/shop-updates/StoneGloves.png"
           },
 
         ]
@@ -38,7 +38,7 @@ export class ShopUpdatesComponent implements OnInit {
 
   randomBox = [
     {
-      date: "17/05/2024", 
+      date: "07/06/2024", 
       boxName : " 'Random Boxes' ",
       mainItem: "Mini Asgobas",
       mainItemImg: "../../assets/img/shop_updates/box_asgo.png",
@@ -56,7 +56,11 @@ export class ShopUpdatesComponent implements OnInit {
           img: "../../assets/img/shop_updates/box_asgo.png"
         },
         {
-          name: "Tree Wings Random Box",
+          name: "Steampunk Wings Random Box",
+          img: "../../assets/img/shop_updates/box_asgo.png"
+        },
+        {
+          name: "Retro Wings Random Box",
           img: "../../assets/img/shop_updates/box_asgo.png"
         }
  
