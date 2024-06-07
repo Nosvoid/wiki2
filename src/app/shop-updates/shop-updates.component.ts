@@ -13,7 +13,7 @@ export class ShopUpdatesComponent implements OnInit {
         items: [
             {
                 name: "Dragon Wings Swapper Box",
-                img: "../assets/img/shop-updates/SPOILER-bannerdragonwings.png"                
+                img: "../assets/img/shop-updates/SPOILER-bannerdragonwings.jpg"                
             },
             {
                 name: "[Premium]Stone Necklace",
