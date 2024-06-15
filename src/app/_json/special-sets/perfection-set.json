@@ -2,6 +2,11 @@
     {
         "regular": [
             {
+                "name": "Mini Pet 'Gryphon' (Perfection)",
+                "img": "MiniPerf",
+                "location": "You can get it from Fortune Wheel"
+            },
+            {
                 "name": "Azuris",
                 "img": "azuris",
                 "location": "You can craft this fairy during Evolution Event"

@@ -18,6 +18,18 @@
         "buff": "shiny_rainbow"
     },
     {
+        "name": "Stone Set Resistances",
+        "id": "",
+        "location": "You can craft them at Prestige 6, Stone System Area.",
+        "buff": "StoneSet"
+    },
+    {
+        "name": "Premium Stone Set Resistances",
+        "id": "",
+        "location": "You can get them from Fortune Wheel.",
+        "buff": "PremiumStoneSet"
+    },
+    {
         "name": "Dragonlord Resistances",
         "id": "",
         "location": "You can craft them at arena Mithril & Medal Craft NPC",

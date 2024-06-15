@@ -1,5 +1,13 @@
 [
     {
+        "name": "Biome Weapon Skins",
+        "id": "",
+        "location": "You can craft those weapon skins at Skins NPC (P6)",
+        "upgrade": "You can upgrade them to +5 maximum.",
+        "buff": "BiomeSkins",
+        "class": "raid"
+    },
+    {
         "name": "Heavenly Weapon Skins",
         "id": "",
         "location": "You can craft those weapon skins at Craft NPC (P5)",

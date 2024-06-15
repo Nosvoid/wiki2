@@ -23,5 +23,10 @@
         "name": "PvE Fairies",
         "location": "You can craft at Infinity Tower Rewards NPC",
         "buff": "PvEFairies"
+    },
+    {
+        "name": "Biome Fairies",
+        "location": "You can craft them at Prestige 6, Biome Maps.",
+        "buff": "Biomes"
     }
 ]

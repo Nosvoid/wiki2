@@ -2,6 +2,16 @@
     {
         "regular": [
             {
+                "name": "Mini Pet 'Black Dragon' (Betting)",
+                "img": "MiniBet",
+                "location": "You can get it from Fortune Wheel"
+            },
+            {
+                "name": "Super Mask",
+                "img": "SuperMask",
+                "location": "You can get it from Fortune Wheel and Summer Event"
+            },
+            {
                 "name": "Betting Costume",
                 "img": "betting_costume",
                 "location": "You can get this costume in the Fortune Wheel"

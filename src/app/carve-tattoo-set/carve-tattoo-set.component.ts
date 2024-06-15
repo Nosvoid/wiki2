@@ -13,6 +13,7 @@ export class CarveTattooSetComponent implements OnInit {
     { icon: 'assets/img/special-sets/carve-tattoo/creepy_monk_icon.png', image: 'assets/img/special-sets/carve-tattoo/creepy_monk.png' },
     { icon: 'assets/img/special-sets/carve-tattoo/amulet_icon.png', image: 'assets/img/special-sets/carve-tattoo/amulet.png' },
     { icon: 'assets/img/special-sets/carve-tattoo/carve_potion.png', image: 'assets/img/special-sets/carve-tattoo/carve_potion_buff.png' },
+    { icon: 'assets/img/special-sets/carve-tattoo/carve.png', image: 'assets/img/shop-updates/MiniCarve.png' },
     // dodaj kolejne ikony
   ];
 
@@ -20,6 +21,7 @@ export class CarveTattooSetComponent implements OnInit {
     { icon: 'assets/img/special-sets/carve-tattoo/creepy_monk_icon.png', image: 'assets/img/special-sets/carve-tattoo/creepy_monk.png' },
     { icon: 'assets/img/special-sets/carve-tattoo/tattoo_potion.png', image: 'assets/img/special-sets/carve-tattoo/tattoo_potion_buff.png' },
     { icon: 'assets/img/special-sets/carve-tattoo/DinoCostumeIcon.png', image: 'assets/img/special-sets/carve-tattoo/DinoCostume.png' },
+    { icon: 'assets/img/special-sets/carve-tattoo/tattoo.png', image: 'assets/img/shop-updates/MiniTattoo.png' },
     // dodaj kolejne ikony
   ];
 

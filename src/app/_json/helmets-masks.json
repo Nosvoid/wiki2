@@ -10,6 +10,41 @@
                 "class": "raid"
             },
             {
+                "name": "Stone Mask",
+                "id": "",
+                "location": "You can craft it at P6, Stone System Area.",
+                "buff": "StoneMaskNew",
+                "class": "pve"
+            },
+            {
+                "name": "[Premium] Stone Mask",
+                "id": "",
+                "location": "You can get it from Fortune Wheel",
+                "buff": "PremiumStoneMask",
+                "class": "pve"
+            },
+            {
+                "name": "Stone Helmet",
+                "id": "",
+                "location": "You can craft it at P6, Stone System Area.",
+                "buff": "StoneHelmetNew",
+                "class": "pve"
+            },
+            {
+                "name": "[Premium] Stone Helmet",
+                "id": "",
+                "location": "You can get it from Fortune Wheel",
+                "buff": "PremiumStoneHelmet",
+                "class": "pve"
+            },
+            {
+                "name": "Super Mask",
+                "id": "",
+                "location": "You can get it from Fortune Wheel and Summer Event",
+                "buff": "SuperMask",
+                "class": "pve"
+            },
+            {
                 "name": "Knight Helmet",
                 "id": "",
                 "location": "You can get it from Fortune Wheel",

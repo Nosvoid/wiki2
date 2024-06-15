@@ -33,6 +33,26 @@
         "name": "Lucky Brown Dragon (Infinity Premium)",
         "location": "Obtainable from Fortune Wheel",
         "buff": "InfinityPremium"
+      },
+      {
+        "name": "Mini Pet 'Blue Phoenix' (Tattoo)",
+        "location": "Obtainable from Fortune Wheel",
+        "buff": "MiniTattoo"
+      },
+      {
+        "name": "Mini Pet 'Phoenix' (Carve)",
+        "location": "Obtainable from Fortune Wheel",
+        "buff": "MiniCarve"
+      },
+      {
+        "name": "Mini Pet 'Gryphon' (Perfection)",
+        "location": "Obtainable from Fortune Wheel",
+        "buff": "MiniPerf"
+      },
+      {
+        "name": "Mini Pet 'Black Dragon' (Betting)",
+        "location": "Obtainable from Fortune Wheel",
+        "buff": "MiniBet"
       }
   ]
   
