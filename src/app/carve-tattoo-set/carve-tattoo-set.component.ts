@@ -22,6 +22,7 @@ export class CarveTattooSetComponent implements OnInit {
     { icon: 'assets/img/special-sets/carve-tattoo/tattoo_potion.png', image: 'assets/img/special-sets/carve-tattoo/tattoo_potion_buff.png' },
     { icon: 'assets/img/special-sets/carve-tattoo/DinoCostumeIcon.png', image: 'assets/img/special-sets/carve-tattoo/DinoCostume.png' },
     { icon: 'assets/img/special-sets/carve-tattoo/tattoo.png', image: 'assets/img/shop-updates/MiniTattoo.png' },
+    { icon: 'assets/img/special-sets/carve-tattoo/Dreambox.png', image: 'assets/img/costumes/weapon-skins/sweet_chocolate.png' },
     // dodaj kolejne ikony
   ];
 
