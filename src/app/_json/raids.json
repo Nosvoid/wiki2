@@ -1,5 +1,41 @@
 [
     {
+        "name": "Stone",
+        "id": "",
+        "points": "4",
+        "location": "$warp p6",
+        "box": "accessory_box",
+        "rewards": [
+            { "reward": "- 1x Ancient Medal of Honour" },
+            { "reward": "- 200x Angel's Feathers" },
+            { "reward": "- 200x Full Moon Crystal" },
+            { "reward": "- 10x Giant Lump of Gold" },
+            { "reward": "- 1x Rock Pet Stone" },
+            { "reward": "- 80x Angel's Feather" },
+            { "reward": "- 1x Accessory Upgrade Dust" },
+            { "reward": "- 1x Mask and Hat Upgrade Dust" },
+            { "reward": "- 1x Resistance Upgrade Dust" }
+        ]
+    },
+    {
+        "name": "Star",
+        "id": "",
+        "points": "4",
+        "location": "$warp p6",
+        "box": "accessory_box",
+        "rewards": [
+            { "reward": "- 1x Ancient Medal of Honour" },
+            { "reward": "- 50x Angel's Feathers" },
+            { "reward": "- 50x Full Moon Crystal" },
+            { "reward": "- 10x Giant Lump of Gold" },
+            { "reward": "- 1x Spark" },
+            { "reward": "- 1x Star Leaf" },
+            { "reward": "- 1x Star Moss" },
+            { "reward": "- 1x Stary Water" },
+            { "reward": "- 1x Star Pet Stone" }
+        ]
+    },
+    {
         "name": "Accessory",
         "id": "",
         "points": "0",

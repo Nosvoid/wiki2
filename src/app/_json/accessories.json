@@ -58,5 +58,29 @@
         "location": "You can craft it during Candy Event and sometimes in Fortune Wheel.",
         "buff": "NobleCatSet",
         "class": "raid"
+    },
+    {
+        "name": "Sky Ring, Sky Necklace and Sky Bracelet",
+        "location": "You can craft it in Prestige 6, Sky Biome.",
+        "buff": "SkySet",
+        "class": "raid"
+    },
+    {
+        "name": "Lava Ring, Lava Necklace and Lava Bracelet",
+        "location": "You can craft it in Prestige 6, Lava Biome.",
+        "buff": "LavaSet",
+        "class": "pvp"
+    },
+    {
+        "name": "Dino Ring, Dino Necklace and Dino Bracelet",
+        "location": "You can craft it in Prestige 6, Dino Biome.",
+        "buff": "DinoSet",
+        "class": "pvp"
+    },
+    {
+        "name": "Frozen Ring, Frozen Necklace and Frozen Bracelet",
+        "location": "You can craft it in Prestige 6, Ice Biome.",
+        "buff": "IceSet",
+        "class": "pve"
     }
 ]

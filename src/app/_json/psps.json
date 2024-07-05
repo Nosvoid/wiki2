@@ -1,5 +1,14 @@
 [
     {
+        "name": "Guardian Lucifer",
+        "id": "",
+        "partner": "Can be used on [Long Range]] partners",
+        "location": "Can be obtained in VoidMall for 2000 coins",
+        "buff": "GuardianLuci",
+        "skin": "GuardianLuciSkill",
+        "class": "pvp"
+    },
+    {
         "name": "XV Alitus",
         "id": "",
         "partner": "Can be used on [Melee] partners",

@@ -3,6 +3,41 @@
         "type": "Helmets",
         "items": [
             {
+                "name": "Star Helmet",
+                "id": "",
+                "location": "You can craft it at Prestige 6, Star Area",
+                "buff": "StarHelmet",
+                "class": "pve"
+            },
+            {
+                "name": "Sky Helmet",
+                "id": "",
+                "location": "You can craft it at Prestige 6, Sky Biome",
+                "buff": "SkyHelmet",
+                "class": "pve"
+            },
+            {
+                "name": "Ice Helmet",
+                "id": "",
+                "location": "You can craft it at Prestige 6, Ice Biome",
+                "buff": "IceHelmet",
+                "class": "raid"
+            },
+            {
+                "name": "Dino Helmet",
+                "id": "",
+                "location": "You can craft it at Prestige 6, Dino Biome",
+                "buff": "DinoHelmet",
+                "class": "pvp"
+            },
+            {
+                "name": "Lava Helmet",
+                "id": "",
+                "location": "You can craft it at Prestige 6, Lava Biome",
+                "buff": "LavaHelmet",
+                "class": "pvp"
+            },
+            {
                 "name": "Broken Frost Warrior Helmet",
                 "id": "broken-frost",
                 "location": "You can craft it at Kan's Rewards NPC $warp p4",
@@ -126,6 +161,41 @@
     {
         "type": "Masks", 
         "items": [
+            {
+                "name": "Ice Mask",
+                "id": "",
+                "location": "You craft it at Prestige 6, Ice Biome",
+                "buff": "IceMask",
+                "class": "pve"
+            },
+            {
+                "name": "Lava Mask",
+                "id": "",
+                "location": "You craft it at Prestige 6, Lava Biome",
+                "buff": "LavaMask",
+                "class": "pvp"
+            },
+            {
+                "name": "Dino Mask",
+                "id": "",
+                "location": "You craft it at Prestige 6, Dino Biome",
+                "buff": "DinoMask",
+                "class": "pvp"
+            },
+            {
+                "name": "Golden Mask",
+                "id": "",
+                "location": "You craft it at Prestige 6, Sky Biome",
+                "buff": "GoldenMask",
+                "class": "pve"
+            },
+            {
+                "name": "Star Mask",
+                "id": "",
+                "location": "You craft it at Prestige 6, Star Area",
+                "buff": "StarMask",
+                "class": "pve"
+            },
             {
                 "name": "Batman Mask",
                 "id": "",

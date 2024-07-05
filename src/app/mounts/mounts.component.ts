@@ -10,6 +10,30 @@ export class MountsComponent implements OnInit {
 
   mounts = [
     {
+      name: "Castra",
+      location: "Special Auction Mount: Owned by player Lu",
+      speed: "36",
+      img: "Castra"
+    },
+    {
+      name: "Fernon",
+      location: "Special Mount: Owned by player Limone",
+      speed: "36",
+      img: "Fernon"
+    },
+    {
+      name: "Candy Cake",
+      location: "Can be obtained in the Halloween Craft and Fortune Wheel",
+      speed: "36",
+      img: "Cake"
+    },
+    {
+      name: "Special Horned Sweeper",
+      location: "Can be obtained in the Arena of Talents Craft",
+      speed: "36",
+      img: "HornedSweeper"
+    },
+    {
       name: "Fluffy McFly",
       location: "Can be obtained in the Fortune Wheel",
       speed: "34",
