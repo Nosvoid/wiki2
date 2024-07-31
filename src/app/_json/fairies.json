@@ -27,6 +27,6 @@
     {
         "name": "Biome Fairies",
         "location": "You can craft them at Prestige 6, Biome Maps.",
-        "buff": "Biomes"
+        "buff": "BiomesNew"
     }
 ]
