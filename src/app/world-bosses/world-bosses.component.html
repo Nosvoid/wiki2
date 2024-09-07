@@ -3,28 +3,31 @@
       <h1 class="world-bosses-title-1">World Bosses</h1>
   
       <div class="w-75">
-            <h2 class="world-bosses-title-2">Fire God Grenigas World Boss</h2>
+            <h2 class="world-bosses-title-2">🔥 Fire God Grenigas World Boss</h2>
             <p class="world-bosses-text">
-                At 16:00 and 22:45 the World Boss spawns at World Boss Area $warp wb. You need to kill the
-                World Boss to get Tattoo and Carve Boxes
+                At <span class="highlight-time">16:00</span> and <span class="highlight-time">22:45</span> the World Boss spawns at World Boss Area <span class="warp-command">$warp wb</span>. You need to kill the World Boss to get Tattoo and Carve Boxes.
             </p>
-            <h2 class="world-bosses-title-2">Act 4 World Boss</h2>
+            
+            <h2 class="world-bosses-title-2">⚔️ Act 4 World Boss</h2>
             <p class="world-bosses-text">
-                At 16:15 and 23:00 a portal spawn in Act4 Citadel. <br>
+                At <span class="highlight-time">16:15</span> and <span class="highlight-time">23:00</span> a portal spawns in Act4 Citadel. <br>
                 First, Angels and Demons need to kill the World Boss. <br>
-                Second, Angels and Demons will fight. The first side that reaches 300 kills wins. <br>
-                At the end, everyone get :
+                Second, Angels and Demons will fight. The first side that reaches <span class="highlight-important">300 kills</span> wins. <br>
+                At the end, everyone gets:
             </p>
             <ul class="act4-wb-rewards">
                 <li class="act4-wb-reward">- 2x Tattoo Box 1</li>
                 <li class="act4-wb-reward">- 2x Tattoo Box 2</li>
                 <li class="act4-wb-reward">- 2x Tattoo Box 3</li>
+                <li class="act4-wb-reward">- 2x Tattoo Box 3</li>
                 <li class="act4-wb-reward">- 2x Carve Runes Box 1</li>
                 <li class="act4-wb-reward">- 2x Carve Runes Box 2</li>
+                <li class="act4-wb-reward">- 1x Carve Runes Box 4</li>
+                <li class="act4-wb-reward">- 1x Carve Runes Box 5</li>
             </ul>
-            <h3 class="world-bosses-title-3">Winner and Loser Side Boxes :</h3>
+            <h3 class="world-bosses-title-3">🏆 Winner and Loser Side Boxes :</h3>
             <p class="world-bosses-text">
-                The chance to get items change between Winner and Loser Side Boxes.
+                The chance to get items varies between Winner and Loser Side Boxes.
             </p>
             <ul class="act4-wb-rewards">
                 <li class="act4-wb-reward">- 1x Costume Piece</li>
@@ -33,12 +36,99 @@
                 <li class="act4-wb-reward">- 1x Cold Heart</li>
             </ul>
 
-            <h2 class="world-bosses-title-2">Volcano World Boss</h2>
+            <h2 class="world-bosses-title-2">🌋 Volcano World Boss</h2>
             <p class="world-bosses-text">
-                At 20:00 the World Boss spawns at World Boss Area $warp wb 
-                Double-Instanced World boss, defeat minibosses to obtain items of great value.
-                After defeating minibosses, a World Boss will spawn.
+                At <span class="highlight-time">20:00</span> the World Boss spawns at World Boss Area <span class="warp-command">$warp wb</span>. Double-instanced World Boss, defeat minibosses to obtain items of great value. After defeating minibosses, the World Boss will spawn.
             </p>
         </div>
     </section>
 </div>
+
+<style>
+    body {
+        background: linear-gradient(135deg, #1e1e1e, #3c3c3c);
+        font-family: 'Arial', sans-serif;
+        color: #fff;
+    }
+
+    .world-bosses {
+        background: rgba(0, 0, 0, 0.8);
+        border-radius: 15px;
+        padding: 40px;
+        width: 85%;
+        box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);
+        margin: 30px;
+        color: #fff;
+    }
+
+    .world-bosses-title-1 {
+        font-size: 3.2em;
+        color: #ffcc00;
+        margin-bottom: 30px;
+        text-align: center;
+        text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.7);
+    }
+
+    .world-bosses-title-2 {
+        font-size: 2em;
+        color: #ff9933;
+        margin-top: 30px;
+        text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);
+    }
+
+    .world-bosses-title-3 {
+        font-size: 1.8em;
+        color: #66ccff;
+        margin-top: 20px;
+    }
+
+    .world-bosses-text {
+        font-size: 1.4em;
+        color: #f4f4f4;
+        line-height: 1.8em;
+        margin-top: 10px;
+    }
+
+    .highlight-time {
+        font-weight: bold;
+        color: #ffcc00;
+    }
+
+    .warp-command {
+        background-color: #ff9933;
+        padding: 4px 8px;
+        border-radius: 5px;
+        color: #fff;
+        font-weight: bold;
+    }
+
+    .highlight-important {
+        font-weight: bold;
+        color: #ff5555;
+    }
+
+    .act4-wb-rewards {
+        list-style-type: none;
+        padding-left: 0;
+        margin-top: 10px;
+    }
+
+    .act4-wb-reward::before {
+        content: "\2714"; /* Checkmark symbol */
+        color: #00cc99;
+        margin-right: 10px;
+    }
+
+    .act4-wb-reward {
+        font-size: 1.3em;
+        color: #ffcc99;
+        line-height: 1.8em;
+    }
+
+    .w-75 {
+        background: rgba(30, 30, 30, 0.9);
+        padding: 25px;
+        border-radius: 15px;
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    }
+</style>

@@ -1,30 +1,103 @@
 <div class="d-flex justify-content-center">
     <section class="prestige-system">
-		<h1 class="prestige-system-title-1">Prestige System<img width="50px" src="../../assets/img/prestiges/prestige_icon.png" alt=""><hr></h1>
+        <h1 class="prestige-system-title-1">
+            Prestige System
+            <img width="50px" src="../../assets/img/prestiges/prestige_icon.png" alt="">
+            <hr>
+        </h1>
 
-		<div class="w-75">
-			<h2 class="prestige-system-title-2">-- What are Prestiges? --</h2>
-			<p class="prestige-system-text">
-			Prestiges are the way to level up and unlock content in NosVoid. There are 5 Prestiges. 
-			</p>
-			<hr>
-			<h2 class="prestige-system-title-2">-- How to pass your Prestige? --</h2>
-			<p class="prestige-system-text">
-			Once you reached the maximum level of your current Prestige, you need to go to the bottom right
-			of NosVille and buy a Prestige Item. 
-			After using the Prestige Item (you need to remove all your equipments to use it), your level 
-			will be downgraded.
-			</p>
-			<hr>
-			<h3 class="prestige-system-title-3">-- Prestige Max Levels: --</h3>
-			<ul class="prestige-lvls">
-				<li class="prestige-lvl">Prestige 0 : 99</li>
-				<li class="prestige-lvl">Prestige 1 : 99+30</li>
-				<li class="prestige-lvl">Prestige 2 : 99+55</li>
-				<li class="prestige-lvl">Prestige 3 : 99+60</li>
-				<li class="prestige-lvl">Prestige 4 : 99+60</li>
-				<li class="prestige-lvl">Prestige 5 : 99+70</li>
-			</ul>	
-		</div>
+        <div class="w-75">
+            <h2 class="prestige-system-title-2">✨ What are Prestiges? ✨</h2>
+            <p class="prestige-system-text">
+                Prestiges are the way to level up and unlock content in NosVoid. There are 5 Prestiges.
+            </p>
+            <hr>
+            <h2 class="prestige-system-title-2">🔑 How to pass your Prestige? 🔑</h2>
+            <p class="prestige-system-text">
+                Once you reach the maximum level of your current Prestige, go to the bottom right of NosVille and buy a Prestige Item.
+                <br>After using the Prestige Item (you need to remove all your equipment to use it), your level will be downgraded.
+            </p>
+            <hr>
+            <h3 class="prestige-system-title-3">📊 Prestige Max Levels:</h3>
+            <ul class="prestige-lvls">
+                <li class="prestige-lvl">Prestige 0 : 99</li>
+                <li class="prestige-lvl">Prestige 1 : 99+30</li>
+                <li class="prestige-lvl">Prestige 2 : 99+55</li>
+                <li class="prestige-lvl">Prestige 3 : 99+60</li>
+                <li class="prestige-lvl">Prestige 4 : 99+60</li>
+                <li class="prestige-lvl">Prestige 5 : 99+70</li>
+                <li class="prestige-lvl">Prestige 6 : 99+80</li>
+            </ul>
+        </div>
     </section>
 </div>
+
+<style>
+    body {
+        background: linear-gradient(135deg, #282828, #3b3b3b);
+        font-family: 'Arial', sans-serif;
+        color: #f0f0f0;
+    }
+
+    .prestige-system {
+        background: rgba(0, 0, 0, 0.8);
+        border-radius: 15px;
+        padding: 40px;
+        width: 85%;
+        box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);
+        margin: 30px;
+    }
+
+    .prestige-system-title-1 {
+        font-size: 3em;
+        color: #ffcc33;
+        margin-bottom: 30px;
+        text-align: center;
+        text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.7);
+    }
+
+    .prestige-system-title-2 {
+        font-size: 2.2em;
+        color: #ff9933;
+        margin-top: 30px;
+        text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);
+    }
+
+    .prestige-system-title-3 {
+        font-size: 2em;
+        color: #ff66cc;
+        margin-top: 20px;
+    }
+
+    .prestige-system-text {
+        font-size: 1.4em;
+        color: #f4f4f4;
+        line-height: 1.8em;
+        margin-top: 10px;
+    }
+
+    .prestige-lvls {
+        list-style-type: none;
+        padding-left: 0;
+        margin-top: 10px;
+    }
+
+    .prestige-lvl::before {
+        content: "\2714"; /* Checkmark symbol */
+        color: #00cc99;
+        margin-right: 10px;
+    }
+
+    .prestige-lvl {
+        font-size: 1.3em;
+        color: #ffcc99;
+        line-height: 1.8em;
+    }
+
+    .w-75 {
+        background: rgba(30, 30, 30, 0.9);
+        padding: 25px;
+        border-radius: 15px;
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    }
+</style>
