@@ -1,5 +1,13 @@
 [
     {
+        "name": "Aqua Bustail",
+        "id": "",
+        "location": "Can be obtained from Summer Event",
+        "buff": "Aqua",
+        "skin": "AquaBushtail",
+        "class": "pvp"
+    },
+    {
         "name": "Mini Alzanor",
         "id": "",
         "location": "Can be obtained in the Lottery IC / Fortune Wheel",
