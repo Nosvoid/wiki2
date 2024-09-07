@@ -1,5 +1,10 @@
 [
     {
+        "name": "Monarch Hat",
+        "buff": "MonarchHat",
+        "class": "raid"
+    },
+    {
         "name": "Skeleton Mask",
         "buff": "skeleton",
         "class": "pvp"

@@ -1,4 +1,10 @@
 [
+    {
+        "name": "Monarch",
+        "location": "You can get this costume from Vessel Event.",
+        "skins": "MonarchSet",
+        "buff": "MonarchSetBuff"
+    },
         {
             "name": "Skeleton",
             "location": "You can get this costume from Vessel Event.",

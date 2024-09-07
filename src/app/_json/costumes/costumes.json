@@ -1,5 +1,10 @@
 [
     {
+        "name": "Monarch Costume",
+        "buff": "MonarchCostume",
+        "class": "raid"
+    },
+    {
         "name": "Skeleton Costume",
         "buff": "skeleton",
         "class": "pvp"
