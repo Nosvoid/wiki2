@@ -1,27 +1,32 @@
 [
+  {
+    "name": "Lucky Blue Dragon",
+    "location": "Obtainable from Summer Event",
+    "buff": "BlueMiniPet"
+  },
     {
       "name": "Lucky Brown Dragon",
-      "location": "Obtainable from Fortune Wheel",
+      "location": "Craftable in Wheel Coupons area by using Mini Pet Coupon",
       "buff": "LuckyBrown"
     },
     {
       "name": "Gryphon",
-      "location": "Obtainable from Fortune Wheel",
+      "location": "Craftable in Wheel Coupons area by using Mini Pet Coupon",
       "buff": "Gryphon"
     },
     {
       "name": "Black Dragon",
-      "location": "Obtainable from Fortune Wheel",
+      "location": "Craftable in Wheel Coupons area by using Mini Pet Coupon",
       "buff": "BlackDragon"
     },
     {
       "name": "Phoenix",
-      "location": "Obtainable from Fortune Wheel",
+      "location": "Craftable in Wheel Coupons area by using Mini Pet Coupon",
       "buff": "Phoenix"
     },
     {
       "name": "Blue Phoenix",
-      "location": "Obtainable from Fortune Wheel",
+      "location": "Craftable in Wheel Coupons area by using Mini Pet Coupon",
       "buff": "BluePhoenix"
     },
     {
@@ -31,27 +36,27 @@
     },
     {
         "name": "Lucky Brown Dragon (Infinity Premium)",
-        "location": "Obtainable from Fortune Wheel",
+        "location": "Craftable in Wheel Coupons area by using Mini Pet Coupon",
         "buff": "InfinityPremium"
       },
       {
         "name": "Mini Pet 'Blue Phoenix' (Tattoo)",
-        "location": "Obtainable from Fortune Wheel",
+        "location": "Craftable in Wheel Coupons area by using Mini Pet Coupon",
         "buff": "MiniTattoo"
       },
       {
         "name": "Mini Pet 'Phoenix' (Carve)",
-        "location": "Obtainable from Fortune Wheel",
+        "location": "Craftable in Wheel Coupons area by using Mini Pet Coupon",
         "buff": "MiniCarve"
       },
       {
         "name": "Mini Pet 'Gryphon' (Perfection)",
-        "location": "Obtainable from Fortune Wheel",
+        "location": "Craftable in Wheel Coupons area by using Mini Pet Coupon",
         "buff": "MiniPerf"
       },
       {
         "name": "Mini Pet 'Black Dragon' (Betting)",
-        "location": "Obtainable from Fortune Wheel",
+        "location": "Craftable in Wheel Coupons area by using Mini Pet Coupon",
         "buff": "MiniBet"
       }
   ]
