@@ -1,112 +1,120 @@
-<div class="container">
+<div class="d-flex justify-content-center">
     <section class="sp-upgrade">
-        <h1 class="sp-upgrade-title">SP Upgrade Guide</h1>
-        
-        <div class="sp-upgrade-content">
-            <h2 class="sp-upgrade-title-2">What is SP Upgrade?</h2>
-            <p class="sp-upgrade-text">
-                The SP Upgrade system is one of the key mechanics in VoidGaming that allows players to upgrade their Specialist Cards (SP) to higher levels. This improves their stats and unlocks additional power for both PvE and PvP content.
-            </p>
+        <h1 class="sp-upgrade-title-1">SP Upgrade</h1>
+
+        <div class="upgrade-system">
+            <h2 class="sp-upgrade-title-2">Upgrading +0 to +15</h2>
+            <h3 class="sp-upgrade-title-3">How to get scrolls?</h3>
+            <p class="sp-upgrade-text">You can get them in Maru raid boxes or you can buy them at the Alchemist.</p>
             
-            <h2 class="sp-upgrade-title-2">How to Upgrade Your SP?</h2>
+            <h3 class="sp-upgrade-title-3">How to get materials?</h3>
+            <p class="sp-upgrade-text">You can get them in some raid boxes or farm them in farm maps.</p>
+            <img class="img-responsive" src="../../assets/img/specialists/upgrade/farm_maps.png" alt="Farm Maps">
+            
+            <h3 class="sp-upgrade-title-3">
+                <b>Note that scrolls will be used as long as you have enough materials in your inventory to try.</b>
+            </h3>
+            
+            <h2 class="sp-upgrade-title-2">Upgrading +16 to +20</h2>
+            <h3 class="sp-upgrade-title-3">
+                Upgrading from +16 to +20 works the same way except that it requires a new scroll and a new material.
+            </h3>
             <p class="sp-upgrade-text">
-                SP can be upgraded using items like Angel's Feathers, Full Moon Crystals, and more. You need to collect the necessary materials and visit the Upgrade NPC located in NosVille.
+                You can obtain 20x Dragon Card Protection Scrolls after completing an Act4 raid. <br>
+                The new material is Dragon Gem. You can craft them with Blood-Red Rubies at Dragon Gem NPC in Act4 Citadel (1x Blood-Red Ruby gives 5x Dragon Gems).
             </p>
 
-            <h3 class="sp-upgrade-subtitle">Upgrade Success Rates</h3>
-            <ul class="sp-upgrade-list">
-                <li class="sp-upgrade-item">Level 1-5: 100% success rate</li>
-                <li class="sp-upgrade-item">Level 6-8: 75% success rate</li>
-                <li class="sp-upgrade-item">Level 9-10: 50% success rate</li>
-            </ul>
-
-            <h3 class="sp-upgrade-subtitle">Materials Needed for SP Upgrade</h3>
-            <ul class="sp-upgrade-list">
-                <li class="sp-upgrade-item">Angel's Feather</li>
-                <li class="sp-upgrade-item">Full Moon Crystal</li>
-                <li class="sp-upgrade-item">Gold</li>
-                <li class="sp-upgrade-item">Soul Gems</li>
-            </ul>
-
-            <h3 class="sp-upgrade-subtitle">Tips for Successful Upgrade</h3>
+            <h2 class="sp-upgrade-title-2">SP +20</h2>
             <p class="sp-upgrade-text">
-                It's recommended to stockpile your materials and attempt upgrades during special in-game events where the success rates might be increased or more materials drop.
+                After upgrading a SP +20, while attacking you have a 5% chance to activate the <b>Dragon Blessing</b>, which is basically a "stronger" Onyx effect. <br>
+                To this Dragon Blessing, you can add an additional buff. To add a buff, you need to craft an <b>Elemental Gemstone</b> at the Elemental Gemstones NPC in Act4 Citadel. The buff will be activated when the Dragon Blessing appears.
             </p>
+            <div class="gem-buffs d-flex">
+                <div class="gem-buff">
+                    <h3 class="sp-upgrade-title-3">Fire Dragon Gem</h3>
+                    <img class="img-responsive" src="../../assets/img/specialists/upgrade/fire_buff.png" alt="Fire Dragon Gem">
+                </div>
+                <div class="gem-buff">
+                    <h3 class="sp-upgrade-title-3">Celestial Dragon Gem</h3>
+                    <img class="img-responsive" src="../../assets/img/specialists/upgrade/celestial_buff.png" alt="Celestial Dragon Gem">
+                </div>
+                <div class="gem-buff">
+                    <h3 class="sp-upgrade-title-3">Ice Dragon Gem</h3>
+                    <img class="img-responsive" src="../../assets/img/specialists/upgrade/ice_buff.png" alt="Ice Dragon Gem">
+                </div>
+                <div class="gem-buff">
+                    <h3 class="sp-upgrade-title-3">Moonlight Dragon Gem</h3>
+                    <img class="img-responsive" src="../../assets/img/specialists/upgrade/moonlight_buff.png" alt="Moonlight Dragon Gem">
+                </div>
+            </div>
+
+            <h2 class="sp-upgrade-title-2">SP Points Table</h2>
+            <a href="../../assets/img/specialists/upgrade/points_table.png" class="img-link">
+                <img class="img-responsive" src="../../assets/img/specialists/upgrade/points_table.png" alt="SP Points Table">
+            </a>
         </div>
     </section>
 </div>
 
 <style>
     body {
-        background: linear-gradient(135deg, #202020, #303030);
+        background: #1f1f1f;
+        color: #f1f1f1;
         font-family: 'Verdana', sans-serif;
-        color: #f0f0f0;
-        margin: 0;
-        padding: 0;
     }
 
-    .container {
-        display: flex;
-        justify-content: center;
-        margin: 20px;
-    }
-
-    .sp-upgrade {
-        background: rgba(50, 50, 50, 0.9);
-        border-radius: 10px;
-        padding: 30px;
-        max-width: 900px;
-        box-shadow: 0 5px 20px rgba(0, 0, 0, 0.5);
-        border: 1px solid #555;
-    }
-
-    .sp-upgrade-title {
-        font-size: 3em;
-        color: #ffa500;
+    .sp-upgrade-title-1 {
+        font-size: 2.8em;
+        color: #ffcc00;
         text-align: center;
-        margin-bottom: 30px;
-        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+        text-shadow: 1px 1px 5px #000;
+        margin-bottom: 20px;
     }
 
     .sp-upgrade-title-2 {
-        font-size: 2em;
-        color: #00c3ff;
-        margin-top: 25px;
-        margin-bottom: 15px;
-        text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+        font-size: 2.2em;
+        color: #ff9933;
+        margin-top: 30px;
+        margin-bottom: 20px;
     }
 
-    .sp-upgrade-subtitle {
+    .sp-upgrade-title-3 {
         font-size: 1.8em;
-        color: #ffc300;
+        color: #00ccff;
         margin-top: 20px;
-        margin-bottom: 10px;
     }
 
     .sp-upgrade-text {
         font-size: 1.4em;
-        color: #f4f4f4;
-        line-height: 1.8em;
-        margin-top: 10px;
+        color: #f0f0f0;
+        margin-bottom: 15px;
     }
 
-    .sp-upgrade-list {
-        list-style: none;
-        padding-left: 0;
-        margin-top: 10px;
+    .img-responsive {
+        max-width: 100%;
+        height: auto;
+        border-radius: 8px;
+        margin-bottom: 15px;
     }
 
-    .sp-upgrade-item {
-        font-size: 1.3em;
-        color: #ffa500;
-        line-height: 1.8em;
-        padding: 5px 0;
-        border-bottom: 1px solid #666;
+    .d-flex {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
     }
 
-    .sp-upgrade-item::before {
-        content: "\2714";
-        color: #00cc99;
-        margin-right: 10px;
+    .gem-buffs {
+        margin-top: 20px;
+    }
+
+    .gem-buff {
+        text-align: center;
+        margin: 10px;
+    }
+
+    .img-link {
+        display: block;
+        text-align: center;
+        margin-top: 20px;
     }
 </style>
