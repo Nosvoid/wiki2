@@ -1,8 +1,26 @@
 [
     {
+        "name": "Wood Elf Archer Forga",
+        "id": "",
+        "partner": "Can be used on [Ranged] partners",
+        "location": "Can be obtained from Summer Event.",
+        "buff": "Elf",
+        "skin": "Elf",
+        "class": "raid"
+    },
+    {
+        "name": "Vampire Marie",
+        "id": "",
+        "partner": "Can be used on [Magic] partners",
+        "location": "Can be obtained from Fortune Wheel.",
+        "buff": "Marie",
+        "skin": "Marie",
+        "class": "pve"
+    },
+    {
         "name": "Guardian Lucifer",
         "id": "",
-        "partner": "Can be used on [Long Range]] partners",
+        "partner": "Can be used on [Long Range] partners",
         "location": "Can be obtained in VoidMall for 2000 coins",
         "buff": "GuardianLuci",
         "skin": "GuardianLuciSkill",
