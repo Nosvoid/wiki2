@@ -21,7 +21,7 @@
       "name": "Bear Stamina",
       "scroll": "Bear",
       "scrollImg": "bear_scroll",
-      "img": "bear_stamina"
+      "img": "BearStamina"
     },
     {
       "name": "Bear Strike",
@@ -51,13 +51,13 @@
       "name": "Curse Transformation",
       "scroll": "Snake",
       "scrollImg": "snake_scroll",
-      "img": "curse_transformation"
+      "img": "CursePower"
     },
     {
       "name": "Eagle Claws",
       "scroll": "Eagle",
       "scrollImg": "eagle_scroll",
-      "img": "eagle_claws"
+      "img": "EagleClaws"
     },
     {
       "name": "Eagle Eyes",
@@ -69,13 +69,13 @@
       "name": "Elemental Blessing",
       "scroll": "Lion",
       "scrollImg": "lion_scroll",
-      "img": "elemental_blessing"
+      "img": "ElementalBlessing"
     },
     {
       "name": "Elemental Shield",
       "scroll": "Snake",
       "scrollImg": "snake_scroll",
-      "img": "elemental_shield"
+      "img": "ElementalShield"
     },
     {
       "name": "Eye for an Eye",
@@ -87,7 +87,7 @@
       "name": "First Strike",
       "scroll": "Snake",
       "scrollImg": "snake_scroll",
-      "img": "first_strike"
+      "img": "FirstStrike"
     },
     {
       "name": "Flying High",
