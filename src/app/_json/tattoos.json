@@ -3,7 +3,7 @@
       "name": "Accurate Strike",
       "scroll": "Lion",
       "scrollImg": "lion_scroll",
-      "img": "accurate_strike"
+      "img": "Accurate"
     },
     {
       "name": "Arcane Wisdom",
@@ -27,7 +27,7 @@
       "name": "Bear Strike",
       "scroll": "Bear",
       "scrollImg": "bear_scroll",
-      "img": "bear_strike"
+      "img": "BearStrike"
     },
     {
       "name": "Blessed Pelt",
@@ -99,7 +99,7 @@
       "name": "Growing Experience",
       "scroll": "Eagle",
       "scrollImg": "eagle_scroll",
-      "img": "growing_experience"
+      "img": "Growing"
     },
     {
       "name": "Lightning Defence",
@@ -165,7 +165,7 @@
       "name": "Snakebite",
       "scroll": "Snake",
       "scrollImg": "snake_scroll",
-      "img": "snakebite"
+      "img": "Snakebite"
     },
     {
       "name": "Spiky Leather",
@@ -183,7 +183,7 @@
       "name": "Survival Instinct",
       "scroll": "Eagle",
       "scrollImg": "eagle_scroll",
-      "img": "survival_instinct"
+      "img": "Survival"
     },
     {
       "name": "Swift as the Wind",
