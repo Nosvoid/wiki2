@@ -1,5 +1,61 @@
 [
     {
+        "name": "Peony Wings (Wings Swapper)",
+        "location": "From Wings Swapper Item ",
+        "buff": "",
+        "skin": "Peony",
+        "id": "",
+        "class": ""
+    },
+    {
+        "name": "Dark Neon Wings (Wings Swapper)",
+        "location": "From Wings Swapper Item",
+        "buff": "",
+        "skin": "Darkeon",
+        "id": "",
+        "class": ""
+    },
+    {
+        "name": "Caligor Wings (Wings Swapper)",
+        "location": "From Wings Swapper Item",
+        "buff": "",
+        "skin": "Caligor",
+        "id": "",
+        "class": ""
+    },
+    {
+        "name": "Angel's Soul Wings (Wings Swapper)",
+        "location": "From Wings Swapper Item",
+        "buff": "",
+        "skin": "Angel",
+        "id": "",
+        "class": ""
+    },
+    {
+        "name": "Mercy Wings (Wings Swapper)",
+        "location": "From Wings Swapper Item",
+        "buff": "",
+        "skin": "Mercy",
+        "id": "",
+        "class": ""
+    },
+    {
+        "name": "Phoenix Wings (Wings Swapper)",
+        "location": "From Wings Swapper Item",
+        "buff": "",
+        "skin": "Phoenix",
+        "id": "",
+        "class": ""
+    },
+    {
+        "name": "Blue Phoenix Wings (Wings Swapper)",
+        "location": "From Wings Swapper Item",
+        "buff": "",
+        "skin": "BluePhoenix",
+        "id": "",
+        "class": ""
+    },
+    {
         "name": "Retro Wings",
         "location": "Can be obtained in Fortune Wheel",
         "buff": "NewRetroBuff",

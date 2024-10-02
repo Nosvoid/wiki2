@@ -1,5 +1,12 @@
 [
     {
+        "name": "Covered in Gold",
+        "id": "",
+        "location": "You can get it in Fortune Wheel",
+        "img": "Covered",
+        "class": ""
+    },
+    {
         "name": "Emperor of the Seven Seas",
         "id": "",
         "location": "You can get it in from Summer Event",
