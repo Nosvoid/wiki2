@@ -9,12 +9,12 @@
     border-radius: 20px;
     width: 100%;
     padding: 3em 0;
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.6); /* Added shadow for depth */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.6); /* Shadow for depth */
     transition: transform 0.3s ease-in-out; /* Smooth transitions */
 }
 
 .raids:hover {
-    transform: scale(1.02); /* Subtle zoom effect on hover */
+    transform: scale(1.02); /* Zoom effect on hover */
 }
 
 .raid-container {
