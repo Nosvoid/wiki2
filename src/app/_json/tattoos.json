@@ -3,19 +3,19 @@
       "name": "Accurate Strike",
       "scroll": "Lion",
       "scrollImg": "lion_scroll",
-      "img": "Accurate"
+      "img": "AccurateStrike"
     },
     {
       "name": "Arcane Wisdom",
       "scroll": "Snake",
       "scrollImg": "snake_scroll",
-      "img": "arcane_wisdom"
+      "img": "AttackMagic"
     },
     {
       "name": "Attack Stance",
       "scroll": "Lion",
       "scrollImg": "lion_scroll",
-      "img": "attack_stance"
+      "img": "AttackStance"
     },
     {
       "name": "Bear Stamina",
@@ -33,19 +33,19 @@
       "name": "Blessed Pelt",
       "scroll": "Bear",
       "scrollImg": "bear_scroll",
-      "img": "blessed_pelt"
+      "img": "BlessedPelt"
     },
     {
       "name": "Cower",
       "scroll": "Bear",
       "scrollImg": "bear_scroll",
-      "img": "cower"
+      "img": "Cower"
     },
     {
       "name": "Curse",
       "scroll": "Snake",
       "scrollImg": "snake_scroll",
-      "img": "curse"
+      "img": "Curse"
     },
     {
       "name": "Curse Transformation",
@@ -81,7 +81,7 @@
       "name": "Eye for an Eye",
       "scroll": "Eagle",
       "scrollImg": "eagle_scroll",
-      "img": "eye_for_an_eye"
+      "img": "Eyeforeye"
     },
     {
       "name": "First Strike",
@@ -93,43 +93,43 @@
       "name": "Flying High",
       "scroll": "Eagle",
       "scrollImg": "eagle_scroll",
-      "img": "flying_high"
+      "img": "FlyingHigh"
     },
     {
       "name": "Growing Experience",
       "scroll": "Eagle",
       "scrollImg": "eagle_scroll",
-      "img": "Growing"
+      "img": "GrowingExperience"
     },
     {
       "name": "Lightning Defence",
       "scroll": "Bear",
       "scrollImg": "bear_scroll",
-      "img": "lightning_defence"
+      "img": "LightningDef"
     },
     {
       "name": "Lion Claws",
       "scroll": "Lion",
       "scrollImg": "lion_scroll",
-      "img": "lion_claws"
+      "img": "LionClaws"
     },
     {
       "name": "Lion Strike",
       "scroll": "Lion",
       "scrollImg": "lion_scroll",
-      "img": "lion_strike"
+      "img": "LionStrike"
     },
     {
       "name": "Magic Armour",
       "scroll": "Snake",
       "scrollImg": "snake_scroll",
-      "img": "magic_armour"
+      "img": "MagicArmour"
     },
     {
       "name": "Malleable Pelt",
       "scroll": "Bear",
       "scrollImg": "bear_scroll",
-      "img": "malleable_pelt"
+      "img": "Malleable"
     },
     {
       "name": "Paimon's Shadow Energy",
@@ -141,43 +141,43 @@
       "name": "Piercing Gaze",
       "scroll": "Eagle",
       "scrollImg": "eagle_scroll",
-      "img": "piercing_gaze"
+      "img": "Piercing"
     },
     {
       "name": "Recuperative Healing",
       "scroll": "Lion",
       "scrollImg": "lion_scroll",
-      "img": "recuperative_healing"
+      "img": "Healing"
     },
     {
       "name": "Sharp Claws",
       "scroll": "Lion",
       "scrollImg": "lion_scroll",
-      "img": "sharp_claws"
+      "img": "SharpClaws"
     },
     {
       "name": "Snake Venom",
       "scroll": "Snake",
       "scrollImg": "snake_scroll",
-      "img": "snake_venom"
+      "img": "SnakeVenom"
     },
     {
       "name": "Snakebite",
       "scroll": "Snake",
       "scrollImg": "snake_scroll",
-      "img": "SnakebiteNew"
+      "img": "Snakebite"
     },
     {
       "name": "Spiky Leather",
       "scroll": "Bear",
       "scrollImg": "bear_scroll",
-      "img": "spiky_leather"
+      "img": "SpikyLeather"
     },
     {
       "name": "Strong Attack",
       "scroll": "Lion",
       "scrollImg": "lion_scroll",
-      "img": "strong_attack"
+      "img": "StrongAttack"
     },
     {
       "name": "Survival Instinct",
@@ -189,12 +189,12 @@
       "name": "Swift as the Wind",
       "scroll": "Eagle",
       "scrollImg": "eagle_scroll",
-      "img": "swift"
+      "img": "Swift"
     },
     {
       "name": "Thick-Skinned",
       "scroll": "Bear",
       "scrollImg": "bear_scroll",
-      "img": "thick_skinned"
+      "img": "Thick"
     }
   ]
