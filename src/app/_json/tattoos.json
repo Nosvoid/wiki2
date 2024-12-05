@@ -21,13 +21,13 @@
       "name": "Bear Stamina",
       "scroll": "Bear",
       "scrollImg": "bear_scroll",
-      "img": "BearStamina"
+      "img": "BearStaminaNeww"
     },
     {
       "name": "Bear Strike",
       "scroll": "Bear",
       "scrollImg": "bear_scroll",
-      "img": "BearStrike"
+      "img": "BearStrikeNeww"
     },
     {
       "name": "Blessed Pelt",
@@ -45,37 +45,37 @@
       "name": "Curse",
       "scroll": "Snake",
       "scrollImg": "snake_scroll",
-      "img": "Curse"
+      "img": "CurseNew"
     },
     {
       "name": "Curse Transformation",
       "scroll": "Snake",
       "scrollImg": "snake_scroll",
-      "img": "CursePower"
+      "img": "CursePowerNew"
     },
     {
       "name": "Eagle Claws",
       "scroll": "Eagle",
       "scrollImg": "eagle_scroll",
-      "img": "EagleClaws"
+      "img": "EagleClawsNew"
     },
     {
       "name": "Eagle Eyes",
       "scroll": "Eagle",
       "scrollImg": "eagle_scroll",
-      "img": "EagleEyes"
+      "img": "EagleEyesNew"
     },
     {
       "name": "Elemental Blessing",
       "scroll": "Lion",
       "scrollImg": "lion_scroll",
-      "img": "ElementalBlessing"
+      "img": "ElementalBlessingNew"
     },
     {
       "name": "Elemental Shield",
       "scroll": "Snake",
       "scrollImg": "snake_scroll",
-      "img": "ElementalShield"
+      "img": "ElementalShieldNeww"
     },
     {
       "name": "Eye for an Eye",
@@ -87,7 +87,7 @@
       "name": "First Strike",
       "scroll": "Snake",
       "scrollImg": "snake_scroll",
-      "img": "FirstStrike"
+      "img": "FirstStrikeNeww"
     },
     {
       "name": "Flying High",
@@ -165,19 +165,19 @@
       "name": "Snakebite",
       "scroll": "Snake",
       "scrollImg": "snake_scroll",
-      "img": "Snakebite"
+      "img": "SnakebiteNeww"
     },
     {
       "name": "Spiky Leather",
       "scroll": "Bear",
       "scrollImg": "bear_scroll",
-      "img": "SpikyLeather"
+      "img": "SpikyNeww"
     },
     {
       "name": "Strong Attack",
       "scroll": "Lion",
       "scrollImg": "lion_scroll",
-      "img": "StrongAttack"
+      "img": "StrongAttackNeww"
     },
     {
       "name": "Survival Instinct",
@@ -189,7 +189,7 @@
       "name": "Swift as the Wind",
       "scroll": "Eagle",
       "scrollImg": "eagle_scroll",
-      "img": "Swift"
+      "img": "SwiftNew"
     },
     {
       "name": "Thick-Skinned",

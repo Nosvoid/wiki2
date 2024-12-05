@@ -25,7 +25,7 @@
     },
     {
         "name": "Kickback Power",
-        "img": "Kickback"
+        "img": "KickbackPower"
     },
     {
         "name": "Lightning Power",
@@ -33,7 +33,7 @@
     },
     {
         "name": "Reflection Power",
-        "img": "Reflection"
+        "img": "ReflectionPower"
     },
     {
         "name": "Wolf Power",
