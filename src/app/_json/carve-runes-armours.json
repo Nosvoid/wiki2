@@ -1,42 +1,42 @@
 [
     {
         "name": "Power of Conversion",
-        "img": "power_of_conversion"
+        "img": "PowerOfConveNew"
     },
     {
         "name": "Power of Blood",
-        "img": "power_of_blood"
+        "img": "BloodDrainNew"
     },
     {
         "name": "Power of Instinct",
-        "img": "power_of_instinct"
+        "img": "PowerOfInstinctNew"
     },
     {
         "name": "Power of Unyielding",
-        "img": "power_of_unyielding"
+        "img": "UnyieldNew"
     },
     {
         "name": "Power of the Flame",
-        "img": "power_of_flame"
+        "img": "PowerOfFlameNew"
     },
     {
         "name": "Power of Healing",
-        "img": "power_of_healing"
+        "img": "PowerOfHealingNew"
     },
     {
         "name": "Power of Cleansing Armour",
-        "img": "power_of_armor"
+        "img": "PowerOfCleansingNew"
     },
     {
         "name": "Power of Purity",
-        "img": "power_of_purity"
+        "img": "PowerOfPurityNew"
     },
     {
         "name": "Power of Regeneration",
-        "img": "power_of_regeneration"
+        "img": "PowerOfRegenNew"
     },
     {
         "name": "Power of Resistance",
-        "img": "power_of_resistance"
+        "img": "PowerOfResisNew"
     }
 ]
